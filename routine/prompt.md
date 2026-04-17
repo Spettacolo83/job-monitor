@@ -10,20 +10,10 @@ Read these files from the repository:
 - `config/scoring_rules.json` — scoring weights and filters
 - `data/seen_jobs.json` — previously seen jobs (for deduplication)
 
-**IMPORTANT about seen_jobs.json**: This file may have been updated on a `claude/*` branch from a previous run. Before reading it, check if a more recent version exists:
+**IMPORTANT**: Always read `seen_jobs.json` from the `main` branch to ensure deduplication works across runs. Pull latest first:
 ```bash
-# Check if any claude/* branch has a newer seen_jobs.json
-git fetch origin
-for branch in $(git branch -r | grep 'origin/claude/'); do
-  echo "=== $branch ==="
-  git log -1 --format="%ai %s" "$branch" -- data/seen_jobs.json 2>/dev/null
-done
+git pull origin main --rebase
 ```
-If a `claude/*` branch has a newer version, merge it into your current branch first:
-```bash
-git merge origin/claude/<branch-name> --no-edit
-```
-This ensures deduplication works across runs even if previous pushes went to different branches.
 
 ## Step 2: Fetch Job Listings
 
@@ -240,38 +230,17 @@ Update `seen_jobs.json`:
 
 You MUST persist the updated `seen_jobs.json` back to the repository. Without this, the next run will re-process all jobs and send duplicate notifications.
 
-**IMPORTANT**: Claude Code Routines can only push to branches prefixed with `claude/`. You CANNOT push to `main` directly.
-
-**Method 1 — Git commit and push to current branch (preferred):**
+**Push directly to main** (unrestricted branch push is enabled):
 ```bash
-# Get current branch name (Routines auto-creates a claude/* branch)
-CURRENT_BRANCH=$(git branch --show-current)
+git checkout main
 git add data/seen_jobs.json
 git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]"
-git push origin "${CURRENT_BRANCH}"
+git push origin main
 ```
 
-**Method 2 — If push fails, use GitHub MCP tools** (create_or_update_file, push_files, etc.) to update `data/seen_jobs.json` on the current branch or `main`.
+**If push fails**, use any available GitHub MCP tools (create_or_update_file, push_files, etc.) to update `data/seen_jobs.json` on the `main` branch.
 
-**Method 3 — If MCP tools also fail, use GitHub API:**
-```bash
-# Get the current file SHA from main branch
-FILE_SHA=$(curl -s -H "Authorization: token ${GITHUB_TOKEN}" \
-  "https://api.github.com/repos/Spettacolo83/job-monitor/contents/data/seen_jobs.json?ref=main" \
-  | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))")
-
-# Base64 encode the file
-CONTENT_B64=$(base64 < data/seen_jobs.json)
-
-# Update via API on main branch
-curl -s -X PUT \
-  -H "Authorization: token ${GITHUB_TOKEN}" \
-  -H "Content-Type: application/json" \
-  "https://api.github.com/repos/Spettacolo83/job-monitor/contents/data/seen_jobs.json" \
-  -d "{\"message\":\"chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]\",\"content\":\"${CONTENT_B64}\",\"sha\":\"${FILE_SHA}\",\"branch\":\"main\"}"
-```
-
-**If ALL methods fail:** Log the error clearly and report it. The seen_jobs data will be lost for this run, causing potential duplicate notifications on the next run.
+**If ALL methods fail:** Log the error clearly. The seen_jobs data will be lost for this run, causing potential duplicate notifications on the next run.
 
 ## Important Notes
 

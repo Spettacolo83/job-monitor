@@ -1,6 +1,147 @@
 {
-  "last_updated": null,
-  "jobs": {},
-  "daily_stats": {},
-  "site_errors": {}
+  "last_updated": "2026-04-17T23:19:16.300722Z",
+  "jobs": {
+    "remoteok_1131173": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior React Native Developer",
+      "company": "Headway",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-react-native-developer-headway-1131173",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "pub_date": "2026-04-16T18:16:22+00:00",
+      "score": 59,
+      "notified": true,
+      "eliminated": false
+    },
+    "remotive_1956455": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "iOS Developer",
+      "company": "nooro",
+      "url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "pub_date": "2026-04-09T21:15:48",
+      "score": 68,
+      "notified": true,
+      "eliminated": false
+    },
+    "remotive_2088708": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Senior/Staff Software Engineer PHP, TS, Rust, Kotlin",
+      "company": "easybill GmbH",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "pub_date": "2026-04-10T14:54:45",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: unbefristeter Arbeitsvertrag (permanent employment contract)"
+    },
+    "jobicy_141184": {
+      "site_id": "jobicy",
+      "site_name": "Jobicy",
+      "title": "Senior Full-Stack Mobile Engineer (Flutter/Python) (Remote, Latam)",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/141184-senior-full-stack-mobile-engineer-flutter-python-remote-latam",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "pub_date": "2026-03-25T14:08:58+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: 'No agencies or C2C' (rejects B2B/freelance); LATAM-only location"
+    },
+    "jobicy_141553": {
+      "site_id": "jobicy",
+      "site_name": "Jobicy",
+      "title": "Senior Biostatistician",
+      "company": "Everest Clinical Research",
+      "url": "https://jobicy.com/jobs/141553-senior-biostatistician",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (false positive)"
+    },
+    "remoteok_1131158": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "UI UX Designer UK",
+      "company": "Bjak",
+      "url": "https://remoteok.com/remote-jobs/1131158",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (designer role matched 'mobile' keyword)"
+    },
+    "remoteok_1131156": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Product Designer",
+      "company": "Bjak",
+      "url": "https://remoteok.com/remote-jobs/1131156",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (designer role matched 'mobile' keyword)"
+    },
+    "remoteok_1131103": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Product Designer Product Design UX",
+      "company": "Ubiminds",
+      "url": "https://remoteok.com/remote-jobs/1131103",
+      "first_seen": "2026-04-17T23:19:16.300722Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (designer role matched 'mobile' keyword)"
+    }
+  },
+  "daily_stats": {
+    "2026-04-17": {
+      "total_found": 7,
+      "total_new": 7,
+      "notified": 2,
+      "eliminated": 5,
+      "high_score": 0,
+      "mid_score": 2,
+      "ambiguous_contract": 2,
+      "top_3": [
+        {
+          "score": 68,
+          "title": "iOS Developer",
+          "company": "nooro",
+          "site": "Remotive"
+        },
+        {
+          "score": 59,
+          "title": "Senior React Native Developer",
+          "company": "Headway",
+          "site": "RemoteOK"
+        }
+      ]
+    }
+  },
+  "site_errors": {
+    "remoteok": {
+      "consecutive_failures": 0,
+      "last_success": "2026-04-17T23:19:16.300722Z"
+    },
+    "remotive": {
+      "consecutive_failures": 0,
+      "last_success": "2026-04-17T23:19:16.300722Z"
+    },
+    "jobicy": {
+      "consecutive_failures": 0,
+      "last_success": "2026-04-17T23:19:16.300722Z",
+      "note": "default /feed/newjob URL returns HTML (404); used alt URL /?feed=job_feed&search_keywords=<kw>"
+    },
+    "welcometothejungle": {
+      "consecutive_failures": 1,
+      "last_error": "JS-rendered page — no parseable job data in HTML",
+      "last_success": null
+    },
+    "landingjobs": {
+      "consecutive_failures": 1,
+      "last_error": "JS-rendered page — no parseable job data in HTML",
+      "last_success": null
+    }
+  }
 }

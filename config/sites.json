@@ -8,7 +8,8 @@
       "base_url": "https://co.uk.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "indeed_it",
@@ -17,7 +18,8 @@
       "base_url": "https://it.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "indeed_de",
@@ -26,7 +28,8 @@
       "base_url": "https://de.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "indeed_es",
@@ -35,7 +38,8 @@
       "base_url": "https://es.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "desarrollador móvil"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "indeed_fr",
@@ -44,7 +48,8 @@
       "base_url": "https://fr.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "remoteok",
@@ -91,7 +96,8 @@
       "base_url": "https://www.infojobs.it/lavoro",
       "params": { "keyword": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "infojobs_es",
@@ -100,7 +106,8 @@
       "base_url": "https://www.infojobs.net/ofertas-trabajo",
       "params": { "keyword": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "desarrollador móvil"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "stepstone",
@@ -109,7 +116,8 @@
       "base_url": "https://www.stepstone.de/jobs",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "glassdoor",
@@ -119,7 +127,8 @@
       "params": { "sc.keyword": "{keyword}" },
       "keywords": ["iOS developer", "Android developer", "Mobile developer", "Flutter developer", "React Native developer"],
       "notes": "Aggressive anti-bot — may fail frequently",
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "monster",
@@ -128,7 +137,8 @@
       "base_url": "https://www.monster.com/jobs/search",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS developer", "Android developer", "Mobile developer", "Flutter", "React Native"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "honeypot",
@@ -137,7 +147,8 @@
       "base_url": "https://www.honeypot.io/pages/jobs",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Android", "Mobile", "Swift", "Kotlin", "Flutter", "React Native"],
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "Cloudflare protection blocks curl requests"
     },
     {
       "id": "landingjobs",

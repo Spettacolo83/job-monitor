@@ -117,7 +117,13 @@ For each job that passes elimination filters, calculate a score (0–100):
 
 ## Step 6: Notify via Telegram
 
-Use the Telegram Bot API. The bot token is in the environment variable `TELEGRAM_BOT_TOKEN`. The chat ID is `181648234`.
+Use the Telegram Bot API. The chat ID is `181648234`.
+
+**Bot token**: Check the environment variable `TELEGRAM_BOT_TOKEN`. If it is not set or empty, read it from the GitHub secret using:
+```bash
+echo ${TELEGRAM_BOT_TOKEN}
+```
+If the variable is not available, check if there is a `.env` file or repository secret accessible. The bot token format is: `digits:alphanumeric_string`.
 
 ### For each job with score ≥ 50 (max 10 per run, ordered by score descending):
 
@@ -215,13 +221,38 @@ Update `seen_jobs.json`:
 - Remove jobs older than 30 days
 - Remove daily_stats older than 90 days
 
-## Step 8: Commit and Push
+## Step 8: Save State to Repository
 
+You MUST persist the updated `seen_jobs.json` back to the repository. Without this, the next run will re-process all jobs and send duplicate notifications.
+
+**Method 1 — Git commit and push (try first):**
 ```bash
 git add data/seen_jobs.json
 git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]"
 git push origin main
 ```
+
+**Method 2 — If git push fails with 403/permission error, use GitHub API:**
+```bash
+# Get the current file SHA (needed for update)
+FILE_SHA=$(curl -s -H "Authorization: token ${GITHUB_TOKEN}" \
+  "https://api.github.com/repos/Spettacolo83/job-monitor/contents/data/seen_jobs.json" \
+  | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))")
+
+# Base64 encode the file
+CONTENT_B64=$(base64 < data/seen_jobs.json)
+
+# Update via API
+curl -s -X PUT \
+  -H "Authorization: token ${GITHUB_TOKEN}" \
+  -H "Content-Type: application/json" \
+  "https://api.github.com/repos/Spettacolo83/job-monitor/contents/data/seen_jobs.json" \
+  -d "{\"message\":\"chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]\",\"content\":\"${CONTENT_B64}\",\"sha\":\"${FILE_SHA}\"}"
+```
+
+**Method 3 — If neither works, use any available GitHub MCP tools** (create_or_update_file, push_files, etc.) to update `data/seen_jobs.json` on the `main` branch.
+
+**If ALL methods fail:** Log the error clearly and report it. The seen_jobs data will be lost for this run, causing potential duplicate notifications on the next run.
 
 ## Important Notes
 

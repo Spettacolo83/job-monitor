@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "elimination_filters": [
+    {
+      "id": "remote_only",
+      "description": "Must be 100% remote — any on-site or hybrid requirement eliminates the job",
+      "reject_indicators": {
+        "en": ["on-site", "in-office", "office-based", "hybrid", "days in office", "relocate to", "must be based in"],
+        "it": ["in sede", "in ufficio", "ibrido", "presenza richiesta", "sede di lavoro"],
+        "es": ["presencial", "en oficina", "híbrido", "presencia requerida", "sede de trabajo"],
+        "de": ["vor Ort", "im Büro", "hybrid", "Büropflicht"],
+        "fr": ["sur site", "au bureau", "hybride", "présentiel"]
+      },
+      "accept_indicators": {
+        "en": ["fully remote", "100% remote", "remote-first", "work from anywhere", "remote only", "distributed team"],
+        "it": ["full remote", "completamente remoto", "lavoro da remoto", "100% remoto"],
+        "es": ["100% remoto", "totalmente remoto", "trabajo remoto", "teletrabajo"],
+        "de": ["100% remote", "vollständig remote", "Remote-Arbeit"],
+        "fr": ["100% télétravail", "full remote", "entièrement à distance"]
+      },
+      "when_ambiguous": "do_not_reject"
+    },
+    {
+      "id": "freelance_only",
+      "description": "Must accept freelance/B2B/contractor — reject if only permanent employment",
+      "reject_indicators": {
+        "en": ["permanent position", "full-time employee", "W-2", "employment contract", "permanent contract", "staff position"],
+        "it": ["tempo indeterminato", "assunzione diretta", "contratto dipendente", "RAL", "CCNL", "assunzione"],
+        "es": ["contrato indefinido", "nómina", "convenio", "contrato laboral", "puesto fijo"],
+        "de": ["Festanstellung", "unbefristeter Vertrag", "Arbeitsvertrag"],
+        "fr": ["CDI", "contrat salarié", "poste permanent", "contrat de travail"]
+      },
+      "accept_indicators": {
+        "en": ["freelance", "contractor", "B2B", "contract", "self-employed", "independent", "consulting"],
+        "it": ["partita IVA", "freelance", "collaborazione", "consulenza", "contratto a progetto", "P.IVA"],
+        "es": ["autónomo", "freelance", "B2B", "colaboración", "consultoría", "por proyecto"],
+        "de": ["Freelancer", "Freiberufler", "Selbstständig", "Projektbasis"],
+        "fr": ["freelance", "indépendant", "prestataire", "mission"]
+      },
+      "when_ambiguous": "do_not_reject"
+    }
+  ],
+  "scoring_criteria": [
+    {
+      "id": "tech_match",
+      "weight": 35,
+      "description": "How well the required technologies match the candidate's skills",
+      "scoring": {
+        "core_native_match": 100,
+        "cross_platform_match": 80,
+        "generic_mobile": 60,
+        "partial_match": 40,
+        "no_match": 0
+      },
+      "notes": "Core = Swift/Kotlin/ObjC/Java. Cross-platform = Flutter/RN (learning). Generic = 'mobile developer' without specific tech"
+    },
+    {
+      "id": "seniority",
+      "weight": 25,
+      "description": "Seniority level preference — junior preferred to avoid complex technical interviews",
+      "scoring": {
+        "junior": 100,
+        "not_specified": 85,
+        "mid": 70,
+        "senior": 30,
+        "lead_staff_principal": 10
+      }
+    },
+    {
+      "id": "language",
+      "weight": 20,
+      "description": "Language of the job posting and required communication language",
+      "scoring": {
+        "english_italian_spanish": 100,
+        "other_language_but_english_required": 70,
+        "other_language_only": 30
+      }
+    },
+    {
+      "id": "freshness",
+      "weight": 20,
+      "description": "How recently the job was posted",
+      "scoring": {
+        "less_than_6h": 100,
+        "less_than_24h": 80,
+        "less_than_48h": 60,
+        "less_than_7d": 30,
+        "older": 10
+      }
+    }
+  ],
+  "bonus_malus": [
+    {
+      "id": "specific_tech_bonus",
+      "value": 10,
+      "description": "+10 if mentions specific tools candidate knows well: SPM, Jitpack, Fastlane, CI/CD, MVVM, Clean Architecture"
+    },
+    {
+      "id": "industry_bonus",
+      "value": 5,
+      "description": "+5 if in streaming/media or healthcare/pharma (past experience)"
+    },
+    {
+      "id": "unknown_tech_malus",
+      "value": -10,
+      "description": "-10 if requires years of experience in tech candidate doesn't know (e.g., Xamarin, .NET MAUI, Ionic)"
+    }
+  ],
+  "notification_threshold": 50,
+  "max_notifications_per_run": 10,
+  "daily_summary_hour_cet": 22
+}

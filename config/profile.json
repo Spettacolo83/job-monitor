@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "candidate": {
+    "name": "Stefano Russello",
+    "location": "Petra, Mallorca, Spain",
+    "email": "stefano.russello@gmail.com",
+    "phone": "+34 633666065",
+    "website": "https://www.stefanorussello.it",
+    "linkedin": "https://www.linkedin.com/in/stefano-russello-579a4471/",
+    "github": "https://github.com/Spettacolo83/"
+  },
+  "languages": ["english", "italian", "spanish"],
+  "experience_years": 10,
+  "core_technologies": {
+    "native_ios": ["Objective-C", "Swift", "SwiftUI", "UIKit", "SPM", "Combine", "Alamofire", "Core Data", "XCTest", "CocoaPods", "MapKit", "APNs"],
+    "native_android": ["Java", "Kotlin", "Jetpack Compose", "Retrofit", "Coroutines", "Gradle", "Flow", "Material Design", "Firebase", "JUnit"],
+    "cross_platform": ["Flutter", "React Native"],
+    "backend": ["PHP", "MySQL", "Firebase", "REST APIs", "AWS", "GCP", "Azure", "JWT"],
+    "tools": ["Git", "GitHub", "Fastlane", "CI/CD", "Jira", "Figma"]
+  },
+  "cross_platform_note": "Flutter and React Native are being learned — not production-level experience yet",
+  "methodologies": ["Agile", "MVVM", "Clean Architecture", "SOLID"],
+  "past_industries": ["streaming", "media", "healthcare", "pharma"],
+  "past_employers": [
+    {
+      "company": "Roche",
+      "role": "Android & iOS Developer",
+      "period": "2025",
+      "type": "remote",
+      "country": "Switzerland"
+    },
+    {
+      "company": "StreamAMG",
+      "role": "Android & iOS Developer",
+      "period": "2018-2025",
+      "type": "remote",
+      "country": "Malta"
+    }
+  ],
+  "published_apps": ["The FA Player", "FlyToDiscover", "Cartoonito", "PDF Watch", "Barcode Organizer", "Focus Me"],
+  "preferences": {
+    "contract_type": "freelance_only",
+    "contract_types_accepted": ["freelance", "B2B", "partita IVA", "contractor", "contract", "self-employed", "autónomo"],
+    "contract_types_rejected": ["permanent", "full-time employee", "CDI", "Festanstellung", "contrato indefinido", "tempo indeterminato", "assunzione diretta", "nómina", "W-2", "convenio", "contrat salarié", "unbefristeter Vertrag"],
+    "work_mode": "remote_only",
+    "target_seniority": ["junior", "mid"],
+    "seniority_preference": "junior preferred over mid to avoid complex technical interviews",
+    "locations_accepted": ["any EU country", "worldwide if remote"],
+    "notification_language": "italian"
+  }
+}

@@ -230,17 +230,37 @@ Update `seen_jobs.json`:
 
 You MUST persist the updated `seen_jobs.json` back to the repository. Without this, the next run will re-process all jobs and send duplicate notifications.
 
-**Push directly to main** (unrestricted branch push is enabled):
+Try ALL of these methods in order until one succeeds:
+
+**Method 1 — Push to current branch:**
 ```bash
-git checkout main
 git add data/seen_jobs.json
 git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]"
+git push
+```
+
+**Method 2 — If Method 1 fails, push to main explicitly:**
+```bash
+git checkout main 2>/dev/null || true
+git add data/seen_jobs.json
+git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]" --allow-empty
 git push origin main
 ```
 
-**If push fails**, use any available GitHub MCP tools (create_or_update_file, push_files, etc.) to update `data/seen_jobs.json` on the `main` branch.
+**Method 3 — If git push fails, use GitHub MCP tools:**
+Use any available MCP tools (create_or_update_file, push_files, etc.) to update `data/seen_jobs.json` on the `main` branch. This bypasses git authentication and uses the MCP integration directly.
 
-**If ALL methods fail:** Log the error clearly. The seen_jobs data will be lost for this run, causing potential duplicate notifications on the next run.
+**Method 4 — Create a Pull Request with the changes:**
+If direct push fails, commit to the current `claude/*` branch, push that branch, and create a PR to main:
+```bash
+git add data/seen_jobs.json
+git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]"
+BRANCH=$(git branch --show-current)
+git push origin "${BRANCH}"
+gh pr create --title "chore: update seen_jobs" --body "Auto-update from Job Monitor routine" --base main --head "${BRANCH}"
+```
+
+**If ALL methods fail:** Log every error message clearly so we can debug. The seen_jobs data will be lost for this run.
 
 ## Important Notes
 

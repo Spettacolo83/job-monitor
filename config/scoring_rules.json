@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "elimination_filters": [
     {
       "id": "remote_only",
@@ -22,28 +22,41 @@
     },
     {
       "id": "freelance_only",
-      "description": "Must accept freelance/B2B/contractor — reject if only permanent employment",
+      "description": "Must accept freelance/B2B/contractor — reject if only permanent employment. Use BOTH direct indicators AND indirect clues.",
       "reject_indicators": {
         "en": ["permanent position", "full-time employee", "W-2", "employment contract", "permanent contract", "staff position"],
-        "it": ["tempo indeterminato", "assunzione diretta", "contratto dipendente", "RAL", "CCNL", "assunzione"],
+        "it": ["tempo indeterminato", "assunzione diretta", "contratto dipendente", "CCNL", "assunzione a tempo"],
         "es": ["contrato indefinido", "nómina", "convenio", "contrato laboral", "puesto fijo"],
         "de": ["Festanstellung", "unbefristeter Vertrag", "Arbeitsvertrag"],
         "fr": ["CDI", "contrat salarié", "poste permanent", "contrat de travail"]
       },
-      "accept_indicators": {
-        "en": ["freelance", "contractor", "B2B", "contract", "self-employed", "independent", "consulting"],
-        "it": ["partita IVA", "freelance", "collaborazione", "consulenza", "contratto a progetto", "P.IVA"],
-        "es": ["autónomo", "freelance", "B2B", "colaboración", "consultoría", "por proyecto"],
-        "de": ["Freelancer", "Freiberufler", "Selbstständig", "Projektbasis"],
-        "fr": ["freelance", "indépendant", "prestataire", "mission"]
+      "reject_indirect_indicators": {
+        "description": "These are benefits/perks typically offered ONLY to employees, not freelancers. If 2 or more of these appear together, treat as employment contract and REJECT.",
+        "en": ["paid vacation", "PTO", "paid time off", "vacation days", "health insurance", "dental insurance", "life insurance", "401k", "pension plan", "stock options", "equity", "RSU", "employee stock", "annual bonus", "performance bonus", "company benefits", "benefits package", "parental leave", "maternity leave", "paternity leave", "sick days", "sick leave"],
+        "it": ["giorni di ferie", "ferie retribuite", "buoni pasto", "ticket restaurant", "assicurazione sanitaria", "piano welfare", "premio di produzione", "tredicesima", "quattordicesima", "TFR", "contributi INPS", "contratto nazionale"],
+        "es": ["días de vacaciones", "vacaciones pagadas", "seguro médico", "seguro de salud", "plan de pensiones", "paga extra", "días libres", "baja por enfermedad", "beneficios sociales"],
+        "de": ["Urlaubstage", "Krankenversicherung", "betriebliche Altersvorsorge", "Weihnachtsgeld", "Urlaubsgeld", "Sozialleistungen"],
+        "fr": ["congés payés", "RTT", "mutuelle", "tickets restaurant", "intéressement", "participation", "comité d'entreprise", "avantages sociaux"]
       },
-      "when_ambiguous": "do_not_reject"
+      "reject_salary_indicators": {
+        "description": "Salary expressed as annual gross (RAL/annual salary/Jahresgehalt) strongly suggests employment, not freelance. Match these only as whole phrases or in clear salary context, NOT as isolated short strings.",
+        "patterns": ["RAL €", "RAL:", "RAL di", "RAL compresa", "annual salary", "yearly salary", "annual gross", "Jahresgehalt", "salario anual", "salaire annuel", "€/anno lordi", "K annual"]
+      },
+      "accept_indicators": {
+        "en": ["freelance", "contractor", "B2B", "contract", "self-employed", "independent", "consulting", "daily rate", "hourly rate", "day rate"],
+        "it": ["partita IVA", "freelance", "collaborazione", "consulenza", "contratto a progetto", "P.IVA", "tariffa giornaliera", "tariffa oraria"],
+        "es": ["autónomo", "freelance", "B2B", "colaboración", "consultoría", "por proyecto", "tarifa diaria", "tarifa por hora"],
+        "de": ["Freelancer", "Freiberufler", "Selbstständig", "Projektbasis", "Tagessatz", "Stundensatz"],
+        "fr": ["freelance", "indépendant", "prestataire", "mission", "TJM", "taux journalier"]
+      },
+      "when_ambiguous": "do_not_reject",
+      "filter_priority": "reject_first"
     }
   ],
   "scoring_criteria": [
     {
       "id": "tech_match",
-      "weight": 35,
+      "weight": 30,
       "description": "How well the required technologies match the candidate's skills",
       "scoring": {
         "core_native_match": 100,
@@ -56,7 +69,7 @@
     },
     {
       "id": "seniority",
-      "weight": 25,
+      "weight": 20,
       "description": "Seniority level preference — junior preferred to avoid complex technical interviews",
       "scoring": {
         "junior": 100,
@@ -68,7 +81,7 @@
     },
     {
       "id": "language",
-      "weight": 20,
+      "weight": 15,
       "description": "Language of the job posting and required communication language",
       "scoring": {
         "english_italian_spanish": 100,
@@ -78,15 +91,17 @@
     },
     {
       "id": "freshness",
-      "weight": 20,
-      "description": "How recently the job was posted",
+      "weight": 35,
+      "description": "How recently the job was posted — THIS IS THE MOST IMPORTANT CRITERION because the goal is to be first to respond",
       "scoring": {
         "less_than_6h": 100,
-        "less_than_24h": 80,
-        "less_than_48h": 60,
-        "less_than_7d": 30,
-        "older": 10
-      }
+        "less_than_24h": 70,
+        "less_than_48h": 40,
+        "less_than_7d": 15,
+        "older_than_7d": 5,
+        "date_unknown": 30
+      },
+      "notes": "If no date is available, assume 'date_unknown' (30 points). Never give high freshness score without a confirmed recent date."
     }
   ],
   "bonus_malus": [

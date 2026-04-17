@@ -66,9 +66,14 @@ Apply elimination filters from `scoring_rules.json`:
 - If ambiguous (neither found) → **PASS** (do not eliminate, but flag as ambiguous).
 
 ### Filter: freelance_only
-- Check for `reject_indicators` in the job text. If found → **ELIMINATE**.
-- Check for `accept_indicators`. If found → **PASS**.
-- If ambiguous → **PASS** (do not eliminate, but flag as ambiguous).
+Apply in this order (reject has priority over accept):
+1. Check for `reject_indicators` in the job text. If found → **ELIMINATE**.
+2. Check for `reject_indirect_indicators`: these are employee-only benefits (vacation days, health insurance, pension, stock options, bonuses, etc.). If **2 or more** of these appear together → **ELIMINATE** (it's an employment position).
+3. Check for `reject_salary_indicators`: salary expressed as annual gross (e.g., "RAL €40K", "annual salary", "Jahresgehalt"). Match these as phrases in context, NOT as isolated short strings (e.g., "RAL" alone in a word is NOT a match, but "RAL: €35.000-45.000" IS). If found → **ELIMINATE**.
+4. Check for `accept_indicators` (freelance, contractor, daily rate, etc.). If found → **PASS**.
+5. If ambiguous → **PASS** (do not eliminate, but flag as ambiguous).
+
+**Important**: Reject always takes priority. If both reject AND accept indicators are found, REJECT.
 
 Add eliminated jobs to `seen_jobs.json` with `"eliminated": true` to avoid re-processing.
 
@@ -76,30 +81,32 @@ Add eliminated jobs to `seen_jobs.json` with `"eliminated": true` to avoid re-pr
 
 For each job that passes elimination filters, calculate a score (0–100):
 
-1. **tech_match (35%)**: Compare required technologies in the job with `core_technologies` in profile.json.
+1. **freshness (35%)**: How old is the posting? **This is the most important criterion** — the goal is to respond first.
+   - < 6 hours → 100
+   - < 24 hours → 70
+   - < 48 hours → 40
+   - < 7 days → 15
+   - Older than 7 days → 5
+   - Date unknown / not available → 30
+   - **IMPORTANT**: If no publication date is found, use `date_unknown` (30). Never assume a job is fresh without a confirmed date.
+
+2. **tech_match (30%)**: Compare required technologies in the job with `core_technologies` in profile.json.
    - Mentions Swift/Kotlin/ObjC/Java → 100
    - Mentions Flutter/React Native → 80
    - Generic "mobile developer" → 60
    - Partial match → 40
 
-2. **seniority (25%)**: Determine seniority level from job title and description.
+3. **seniority (20%)**: Determine seniority level from job title and description.
    - Junior → 100
    - Not specified → 85
    - Mid → 70
    - Senior → 30
    - Lead/Staff/Principal → 10
 
-3. **language (20%)**: What language is the posting in? What language is required for work?
+4. **language (15%)**: What language is the posting in? What language is required for work?
    - English, Italian, or Spanish → 100
    - Other language but English required for work → 70
    - Other language only → 30
-
-4. **freshness (20%)**: How old is the posting?
-   - < 6 hours → 100
-   - < 24 hours → 80
-   - < 48 hours → 60
-   - < 7 days → 30
-   - Older → 10
 
 5. **Apply bonus/malus:**
    - +10 if mentions SPM, Jitpack, Fastlane, CI/CD, MVVM, Clean Architecture

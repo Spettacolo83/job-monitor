@@ -5,7 +5,7 @@
       "id": "indeed_uk",
       "name": "Indeed UK",
       "type": "rss",
-      "base_url": "https://co.uk.indeed.com/rss",
+      "base_url": "https://uk.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
       "enabled": false,

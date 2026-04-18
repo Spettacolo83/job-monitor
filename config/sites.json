@@ -1,60 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "scraper_proxy": {
     "base_url": "http://scraper.followtheflowai.com/fetch",
     "api_key_env": "SCRAPER_API_KEY"
   },
   "sites": [
-    {
-      "id": "indeed_uk",
-      "name": "Indeed UK",
-      "type": "rss",
-      "base_url": "https://uk.indeed.com/rss",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
-      "id": "indeed_it",
-      "name": "Indeed Italia",
-      "type": "rss",
-      "base_url": "https://it.indeed.com/rss",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
-      "id": "indeed_de",
-      "name": "Indeed Deutschland",
-      "type": "rss",
-      "base_url": "https://de.indeed.com/rss",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
-      "id": "indeed_es",
-      "name": "Indeed España",
-      "type": "rss",
-      "base_url": "https://es.indeed.com/rss",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "desarrollador móvil"],
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
-      "id": "indeed_fr",
-      "name": "Indeed France",
-      "type": "rss",
-      "base_url": "https://fr.indeed.com/rss",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true,
-      "use_proxy": true
-    },
     {
       "id": "remoteok",
       "name": "RemoteOK",
@@ -78,16 +28,6 @@
       "use_proxy": false
     },
     {
-      "id": "welcometothejungle",
-      "name": "Welcome to the Jungle",
-      "type": "html",
-      "base_url": "https://www.welcometothejungle.com/en/jobs",
-      "params": { "query": "{keyword}", "refinementList[contract_type][]": "freelance" },
-      "keywords": ["iOS", "Android", "Mobile", "Flutter", "React Native", "Swift", "Kotlin"],
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
       "id": "jobicy",
       "name": "Jobicy",
       "type": "rss",
@@ -96,16 +36,6 @@
       "keywords": ["mobile developer", "iOS", "Android", "Swift", "Kotlin", "Flutter", "React Native"],
       "enabled": true,
       "use_proxy": false
-    },
-    {
-      "id": "infojobs_it",
-      "name": "InfoJobs Italia",
-      "type": "html",
-      "base_url": "https://www.infojobs.it/lavoro",
-      "params": { "keyword": "{keyword}" },
-      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
-      "enabled": true,
-      "use_proxy": true
     },
     {
       "id": "infojobs_es",
@@ -118,43 +48,12 @@
       "use_proxy": true
     },
     {
-      "id": "stepstone",
-      "name": "StepStone",
+      "id": "welcometothejungle",
+      "name": "Welcome to the Jungle",
       "type": "html",
-      "base_url": "https://www.stepstone.de/jobs",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
-      "id": "glassdoor",
-      "name": "Glassdoor",
-      "type": "html",
-      "base_url": "https://www.glassdoor.com/Job/jobs.htm",
-      "params": { "sc.keyword": "{keyword}" },
-      "keywords": ["iOS developer", "Android developer", "Mobile developer", "Flutter developer", "React Native developer"],
-      "notes": "Aggressive anti-bot — may fail frequently even with proxy",
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
-      "id": "monster",
-      "name": "Monster",
-      "type": "html",
-      "base_url": "https://www.monster.com/jobs/search",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS developer", "Android developer", "Mobile developer", "Flutter", "React Native"],
-      "enabled": true,
-      "use_proxy": true
-    },
-    {
-      "id": "honeypot",
-      "name": "Honeypot",
-      "type": "html",
-      "base_url": "https://www.honeypot.io/pages/jobs",
-      "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Android", "Mobile", "Swift", "Kotlin", "Flutter", "React Native"],
+      "base_url": "https://www.welcometothejungle.com/en/jobs",
+      "params": { "query": "{keyword}" },
+      "keywords": ["iOS", "Android", "Mobile", "Flutter", "React Native", "Swift", "Kotlin"],
       "enabled": true,
       "use_proxy": true
     },
@@ -167,6 +66,111 @@
       "keywords": ["iOS", "Android", "Mobile", "Swift", "Kotlin", "Flutter", "React Native"],
       "enabled": true,
       "use_proxy": true
+    },
+    {
+      "id": "indeed_uk",
+      "name": "Indeed UK",
+      "type": "rss",
+      "base_url": "https://uk.indeed.com/rss",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
+      "enabled": false,
+      "use_proxy": true,
+      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+    },
+    {
+      "id": "indeed_it",
+      "name": "Indeed Italia",
+      "type": "rss",
+      "base_url": "https://it.indeed.com/rss",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
+      "enabled": false,
+      "use_proxy": true,
+      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+    },
+    {
+      "id": "indeed_de",
+      "name": "Indeed Deutschland",
+      "type": "rss",
+      "base_url": "https://de.indeed.com/rss",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
+      "enabled": false,
+      "use_proxy": true,
+      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+    },
+    {
+      "id": "indeed_es",
+      "name": "Indeed España",
+      "type": "rss",
+      "base_url": "https://es.indeed.com/rss",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "desarrollador móvil"],
+      "enabled": false,
+      "use_proxy": true,
+      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+    },
+    {
+      "id": "indeed_fr",
+      "name": "Indeed France",
+      "type": "rss",
+      "base_url": "https://fr.indeed.com/rss",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
+      "enabled": false,
+      "use_proxy": true,
+      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+    },
+    {
+      "id": "infojobs_it",
+      "name": "InfoJobs Italia",
+      "type": "html",
+      "base_url": "https://www.infojobs.it/lavoro",
+      "params": { "keyword": "{keyword}" },
+      "keywords": ["iOS", "Swift", "Android", "Kotlin"],
+      "enabled": false,
+      "disabled_reason": "Platform officially closed (chiuso definitivamente)"
+    },
+    {
+      "id": "glassdoor",
+      "name": "Glassdoor",
+      "type": "html",
+      "base_url": "https://www.glassdoor.com/Job/jobs.htm",
+      "params": { "sc.keyword": "{keyword}" },
+      "keywords": ["iOS developer", "Android developer", "Mobile developer"],
+      "enabled": false,
+      "disabled_reason": "Humans only anti-bot protection, not bypassable"
+    },
+    {
+      "id": "monster",
+      "name": "Monster",
+      "type": "html",
+      "base_url": "https://www.monster.com/jobs/search",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS developer", "Android developer", "Mobile developer"],
+      "enabled": false,
+      "disabled_reason": "403 blocked even with proxy"
+    },
+    {
+      "id": "stepstone",
+      "name": "StepStone",
+      "type": "html",
+      "base_url": "https://www.stepstone.de/jobs",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS", "Android", "Mobile"],
+      "enabled": false,
+      "disabled_reason": "Heavy JS rendering, proxy returns empty content"
+    },
+    {
+      "id": "honeypot",
+      "name": "Honeypot",
+      "type": "html",
+      "base_url": "https://www.honeypot.io/pages/jobs",
+      "params": { "q": "{keyword}" },
+      "keywords": ["iOS", "Android", "Mobile"],
+      "enabled": false,
+      "disabled_reason": "Returns empty content via proxy"
     }
   ]
 }

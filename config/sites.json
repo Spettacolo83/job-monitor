@@ -154,8 +154,8 @@
       "base_url": "https://www.stepstone.de/jobs",
       "params": { "q": "{keyword}" },
       "keywords": ["junior developer", "junior iOS", "junior Android", "junior Flutter", "junior software", "Berufseinsteiger", "junior frontend", "junior backend"],
-      "enabled": true,
-      "use_proxy": true
+      "enabled": false,
+      "disabled_reason": "Blocked even with residential proxy (NS_ERROR_NET_INTERRUPT)"
     },
     {
       "id": "honeypot",

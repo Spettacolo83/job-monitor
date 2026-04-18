@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T23:19:16.300722Z",
+  "last_updated": "2026-04-18T08:15:19Z",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -92,6 +92,66 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "Not a mobile developer role (designer role matched 'mobile' keyword)"
+    },
+    "remotive_2088711": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Senior Full-stack React Developer",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
+      "first_seen": "2026-04-18T08:15:19Z",
+      "pub_date": "2026-04-15T14:19:37",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (full-stack React/Python position; matched 'react native' only as keyword in description text, role is web)"
+    },
+    "remotive_2088707": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Senior Frontend Developer",
+      "company": "Sanctuary Computer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707",
+      "first_seen": "2026-04-18T08:15:19Z",
+      "pub_date": "2026-04-08T16:15:21",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (frontend web position; LATAM/Asia only)"
+    },
+    "remotive_1749306": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Copywriter",
+      "company": "Coalition Technologies",
+      "url": "https://remotive.com/remote-jobs/writing/copywriter-1749306",
+      "first_seen": "2026-04-18T08:15:19Z",
+      "pub_date": "2026-04-02T20:01:09",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (copywriter, false positive on keyword match)"
+    },
+    "remotive_2088663": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Junior Project Coordinator",
+      "company": "C4Media Inc.",
+      "url": "https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663",
+      "first_seen": "2026-04-18T08:15:19Z",
+      "pub_date": "2026-03-24T09:43:07",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (project coordinator; Brazil/Argentina only)"
+    },
+    "remotive_2088622": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Content Reviewer",
+      "company": "TELUS Digital",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-2088622",
+      "first_seen": "2026-04-18T08:15:19Z",
+      "pub_date": "2026-03-18T17:01:35",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a mobile developer role (content reviewer / search rater; USA only)"
     }
   },
   "daily_stats": {
@@ -117,30 +177,40 @@
           "site": "RemoteOK"
         }
       ]
+    },
+    "2026-04-18": {
+      "total_found": 5,
+      "total_new": 5,
+      "notified": 0,
+      "eliminated": 5,
+      "high_score": 0,
+      "mid_score": 0,
+      "ambiguous_contract": 0,
+      "top_3": []
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-17T23:19:16.300722Z"
+      "last_success": "2026-04-18T08:15:19Z"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-17T23:19:16.300722Z"
+      "last_success": "2026-04-18T08:15:19Z"
     },
     "jobicy": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-17T23:19:16.300722Z",
+      "last_success": "2026-04-18T08:15:19Z",
       "note": "default /feed/newjob URL returns HTML (404); used alt URL /?feed=job_feed&search_keywords=<kw>"
     },
     "welcometothejungle": {
-      "consecutive_failures": 1,
-      "last_error": "JS-rendered page — no parseable job data in HTML",
+      "consecutive_failures": 2,
+      "last_error": "JS-rendered page \u2014 no parseable job data in HTML",
       "last_success": null
     },
     "landingjobs": {
-      "consecutive_failures": 1,
-      "last_error": "JS-rendered page — no parseable job data in HTML",
+      "consecutive_failures": 2,
+      "last_error": "JS-rendered page \u2014 no parseable job data in HTML",
       "last_success": null
     }
   }

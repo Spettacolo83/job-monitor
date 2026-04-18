@@ -1,11 +1,3 @@
 {
-  "queue": [
-    {
-      "job_id": "jobicy_141687",
-      "chat_id": "181648234",
-      "message_text": "🟡 Score: 61/100 | .NET developer (part-time, 40-60 hours/month)\n🏢 N/D — Remote\n💼 ⚠️ Contratto non esplicito (verificare freelance/permanente)\n🔧 C#/.NET\n📅 10 giorni fa — via Jobicy\n\n✅ Match: Tecnologie familiari; Lingua accessibile\n⚠️ Descrizione limitata / contratto da verificare\n🔗 https://jobicy.com/jobs/141687-net-developer-part-time-40-60-hours-month",
-      "requested_at": "2026-04-18T15:57:22.034Z",
-      "status": "pending"
-    }
-  ]
+  "queue": []
 }

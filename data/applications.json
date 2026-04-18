@@ -46,12 +46,25 @@
       "processed_at": "2026-04-18T18:07:46.000Z",
       "completed_fields": [],
       "remaining_fields": ["entire application form"]
+    },
+    {
+      "job_id": "glassdoor_1010046164772",
+      "status": "failed",
+      "reason": "Cloudflare challenge (403 'Just a moment...') — Glassdoor rileva il proxy come bot. Testato sia residential che standard proxy senza successo.",
+      "title": "Junior Application Engineer - Power Electronics",
+      "company": "N/D",
+      "location": "Spagna",
+      "job_url": "https://www.glassdoor.es/job-listing/junior-application-engineer-power-electronics-JV_KO0,27_KE28,45.htm?jl=1010046164772",
+      "requested_at": "2026-04-18T18:11:20.191Z",
+      "processed_at": "2026-04-18T18:13:51.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 0,
     "total_success": 0,
-    "total_failed": 3,
+    "total_failed": 4,
     "total_pending": 0,
     "total_skipped": 1
   }

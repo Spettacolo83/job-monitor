@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T10:10:00Z",
+  "last_updated": "2026-04-18T11:17:05Z",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -192,29 +192,29 @@
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T10:10:00Z"
+      "last_success": "2026-04-18T11:17:05Z"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T10:10:00Z"
+      "last_success": "2026-04-18T11:17:05Z"
     },
     "jobicy": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T10:10:00Z",
+      "last_success": "2026-04-18T11:17:05Z",
       "note": "default /feed/newjob URL returns HTML (404); used alt URL /?feed=job_feed&search_keywords=<kw>"
     },
     "infojobs_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'",
       "last_success": null
     },
     "welcometothejungle": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'",
       "last_success": null
     },
     "landingjobs": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'",
       "last_success": null
     }

@@ -7,12 +7,25 @@
       "message_text": "Test v10 — queue su GitHub repo:",
       "requested_at": "2026-04-18T15:21:21.484Z",
       "processed_at": "2026-04-18T15:22:13.000Z"
+    },
+    {
+      "job_id": "stepstone_13764297",
+      "status": "failed",
+      "reason": "StepStone blocca il proxy (NS_ERROR_NET_INTERRUPT) — pagina non raggiungibile né con residential né con standard proxy",
+      "title": "Junior Conversational AI Developer Voicebots & Cognigy (m/w/d)",
+      "company": "ARAG IT GmbH",
+      "location": "Düsseldorf, Germania",
+      "job_url": "https://www.stepstone.de/stellenangebote--Junior-Conversational-AI-Developer-Voicebots-Cognigy-m-w-d-Duesseldorf-ARAG-IT-GmbH--13764297-inline.html",
+      "requested_at": "2026-04-18T15:51:58.506Z",
+      "processed_at": "2026-04-18T15:54:24.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 0,
     "total_success": 0,
-    "total_failed": 0,
+    "total_failed": 1,
     "total_pending": 0,
     "total_skipped": 1
   }

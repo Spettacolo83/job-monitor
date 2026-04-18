@@ -33,12 +33,25 @@
       "processed_at": "2026-04-18T16:04:00.000Z",
       "completed_fields": [],
       "remaining_fields": ["entire application form"]
+    },
+    {
+      "job_id": "glassdoor_1009390645930",
+      "status": "failed",
+      "reason": "Cloudflare challenge (403 'Just a moment...') — Glassdoor rileva il proxy come bot. Testato sia residential che standard proxy senza successo.",
+      "title": "IA Junior Developer",
+      "company": "The Big Tech Experience",
+      "location": "Spagna",
+      "job_url": "https://www.glassdoor.es/job-listing/ia-junior-developer-the-big-tech-experience-JV_IC2544155_KO0,19_KE20,43.htm?jl=1009390645930",
+      "requested_at": "2026-04-18T18:04:45.947Z",
+      "processed_at": "2026-04-18T18:07:46.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 0,
     "total_success": 0,
-    "total_failed": 2,
+    "total_failed": 3,
     "total_pending": 0,
     "total_skipped": 1
   }

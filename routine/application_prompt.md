@@ -169,13 +169,20 @@ Wait 3 seconds, then check the page for confirmation.
 
 ## Step 9: Report Result
 
+Get the current session URL for the Debug button. It is available from the routine context — use the URL format: `https://claude.ai/code/session_{current_session_id}`
+
 ### Success:
 ```bash
 curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
   -H "Content-Type: application/json" \
   -d '{
     "chat_id": "181648234",
-    "text": "✅ Candidatura inviata!\n\n{title} @ {company}\n🔧 {tech} | Score: {score}/100\n⏱ Completata in {duration}\n📝 Cover letter generata ({lang})\n📎 CV caricato\n\n🔗 {url}"
+    "text": "✅ Candidatura inviata!\n\n{title} @ {company}\n🔧 {tech} | Score: {score}/100\n⏱ Completata in {duration}\n📝 Cover letter generata ({lang})\n📎 CV caricato\n\n🔗 {url}",
+    "reply_markup": {
+      "inline_keyboard": [[
+        {"text": "🔍 Debug", "url": "{claude_session_url}"}
+      ]]
+    }
   }'
 ```
 
@@ -185,16 +192,52 @@ curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" 
   -H "Content-Type: application/json" \
   -d '{
     "chat_id": "181648234",
-    "text": "❌ Candidatura non completata\n\n{title} @ {company}\n⚠️ Motivo: {reason}\n\n✅ Già compilato:\n{completed_fields}\n\n❌ Da completare:\n{remaining_fields}\n\n👉 Completa manualmente: {url}"
+    "text": "❌ Candidatura non completata\n\n{title} @ {company}\n⚠️ Motivo: {reason}\n\n✅ Già compilato:\n{completed_fields}\n\n❌ Da completare:\n{remaining_fields}\n\n👉 Completa manualmente: {url}",
+    "reply_markup": {
+      "inline_keyboard": [[
+        {"text": "🔄 Riprova", "callback_data": "apply_{job_id}"},
+        {"text": "🔍 Debug", "url": "{claude_session_url}"},
+        {"text": "🔗 Apri", "url": "{job_url}"}
+      ]]
+    }
   }'
 ```
 
-## Step 10: Update State
+### Unusual question (waiting for user):
+```bash
+curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "chat_id": "181648234",
+    "text": "🟡 Domanda durante candidatura\n\n{title} @ {company}\nIl form chiede: \"{field_label}\"\n\nRispondi qui con il valore.\nVerrà salvato per le prossime candidature.",
+    "reply_markup": {
+      "inline_keyboard": [[
+        {"text": "🔍 Debug", "url": "{claude_session_url}"}
+      ]],
+      "force_reply": true
+    }
+  }'
+```
+
+## Step 10: Update State and Push to Main
 
 1. Update `data/applications.json` with the result
-2. Remove the job from `data/application_queue.json`
+2. Remove the processed job from `data/application_queue.json` (set queue back to empty or remove the entry)
 3. If new answers were learned, update `config/knowledge_base.json`
-4. Commit and push changes to the repository
+4. Commit, push, and merge to main:
+
+```bash
+git add data/applications.json data/application_queue.json config/knowledge_base.json
+git commit -m "chore: update applications [$(date -u +%Y-%m-%dT%H:%M)]"
+CURRENT_BRANCH=$(git branch --show-current)
+git push origin "${CURRENT_BRANCH}"
+
+# Merge into main so next run sees updated state
+git checkout main
+git pull origin main
+git merge "${CURRENT_BRANCH}" --no-edit
+git push origin main
+```
 
 ## Step 11: Close Session
 

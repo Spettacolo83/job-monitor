@@ -20,12 +20,25 @@
       "processed_at": "2026-04-18T15:54:24.000Z",
       "completed_fields": [],
       "remaining_fields": ["entire application form"]
+    },
+    {
+      "job_id": "jobicy_141687",
+      "status": "failed",
+      "reason": "Cloudflare Turnstile challenge — Jobicy richiede verifica interattiva (checkbox 'Verify you are human') che il proxy non può risolvere. Testato sia con residential che standard proxy senza successo.",
+      "title": ".NET developer (part-time, 40-60 hours/month)",
+      "company": "N/D",
+      "location": "Remote",
+      "job_url": "https://jobicy.com/jobs/141687-net-developer-part-time-40-60-hours-month",
+      "requested_at": "2026-04-18T15:57:22.034Z",
+      "processed_at": "2026-04-18T16:04:00.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 0,
     "total_success": 0,
-    "total_failed": 1,
+    "total_failed": 2,
     "total_pending": 0,
     "total_skipped": 1
   }

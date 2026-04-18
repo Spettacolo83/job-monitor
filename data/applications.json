@@ -1,9 +1,19 @@
 {
-  "applications": [],
+  "applications": [
+    {
+      "job_id": "test_v10",
+      "status": "skipped",
+      "reason": "Test entry — no job URL to process",
+      "message_text": "Test v10 — queue su GitHub repo:",
+      "requested_at": "2026-04-18T15:21:21.484Z",
+      "processed_at": "2026-04-18T15:22:13.000Z"
+    }
+  ],
   "stats": {
     "total_applied": 0,
     "total_success": 0,
     "total_failed": 0,
-    "total_pending": 0
+    "total_pending": 0,
+    "total_skipped": 1
   }
 }

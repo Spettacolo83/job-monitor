@@ -74,9 +74,8 @@
       "base_url": "https://uk.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": false,
-      "use_proxy": true,
-      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_it",
@@ -85,9 +84,8 @@
       "base_url": "https://it.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
-      "enabled": false,
-      "use_proxy": true,
-      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_de",
@@ -96,9 +94,8 @@
       "base_url": "https://de.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": false,
-      "use_proxy": true,
-      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_es",
@@ -107,9 +104,8 @@
       "base_url": "https://es.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "desarrollador móvil"],
-      "enabled": false,
-      "use_proxy": true,
-      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_fr",
@@ -118,9 +114,8 @@
       "base_url": "https://fr.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": false,
-      "use_proxy": true,
-      "disabled_reason": "Cloudflare managed challenge not bypassable from data center IP"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "infojobs_it",
@@ -138,9 +133,9 @@
       "type": "html",
       "base_url": "https://www.glassdoor.com/Job/jobs.htm",
       "params": { "sc.keyword": "{keyword}" },
-      "keywords": ["iOS developer", "Android developer", "Mobile developer"],
-      "enabled": false,
-      "disabled_reason": "Humans only anti-bot protection, not bypassable"
+      "keywords": ["iOS developer", "Android developer", "Mobile developer", "Flutter developer", "React Native developer"],
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "monster",
@@ -158,9 +153,9 @@
       "type": "html",
       "base_url": "https://www.stepstone.de/jobs",
       "params": { "q": "{keyword}" },
-      "keywords": ["iOS", "Android", "Mobile"],
-      "enabled": false,
-      "disabled_reason": "Heavy JS rendering, proxy returns empty content"
+      "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "honeypot",

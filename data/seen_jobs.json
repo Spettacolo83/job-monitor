@@ -1,6 +1,69 @@
 {
-  "last_updated": null,
-  "jobs": {},
-  "daily_stats": {},
-  "site_errors": {}
+  "last_updated": "2026-04-18T07:17:33Z",
+  "jobs": {
+    "remoteok_1131173": {
+      "title": "Senior React Native Developer",
+      "company": "Headway",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-react-native-developer-headway-1131173",
+      "site": "remoteok",
+      "date": "2026-04-16T18:16:22+00:00",
+      "status": "notified",
+      "score": 59,
+      "first_seen": "2026-04-18T07:17:33Z"
+    },
+    "remotive_2088708": {
+      "title": "Senior/Staff Software Engineer PHP, TS, Rust, Kotlin (m/w/d)",
+      "company": "easybill GmbH",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708",
+      "site": "remotive",
+      "date": "2026-04-10T14:54:45",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "freelance_only: unbefristeter Arbeitsvertrag (permanent employment contract)",
+      "first_seen": "2026-04-18T07:17:33Z"
+    },
+    "remotive_1956455": {
+      "title": "iOS Developer",
+      "company": "nooro",
+      "url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
+      "site": "remotive",
+      "date": "2026-04-09T21:15:48",
+      "status": "notified",
+      "score": 68,
+      "first_seen": "2026-04-18T07:17:33Z"
+    },
+    "jobicy_141184": {
+      "title": "Senior Full-Stack Mobile Engineer (Flutter/Python)",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/141184-senior-full-stack-mobile-engineer-flutter-python-remote-latam",
+      "site": "jobicy",
+      "date": "2026-03-25T14:08:58+00:00",
+      "status": "below_threshold",
+      "score": 47,
+      "first_seen": "2026-04-18T07:17:33Z"
+    }
+  },
+  "daily_stats": {
+    "2026-04-18": {
+      "total_found": 4,
+      "notified": 2,
+      "eliminated": 1,
+      "below_threshold": 1,
+      "high_score": 0,
+      "medium_score": 2,
+      "ambiguous": 2
+    }
+  },
+  "site_errors": {
+    "welcometothejungle": {
+      "consecutive_failures": 1,
+      "last_error": "No parseable jobs (JS-rendered page)",
+      "last_success": null
+    },
+    "landingjobs": {
+      "consecutive_failures": 1,
+      "last_error": "No parseable jobs (JS-rendered page)",
+      "last_success": null
+    }
+  }
 }

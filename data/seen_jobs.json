@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T12:14:55Z",
+  "last_updated": "2026-04-18T12:35:52Z",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -152,6 +152,845 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "Not a mobile developer role (content reviewer / search rater; USA only)"
+    },
+    "infojobs_es_of-i9faea8ba25457d934344c1c641f94a": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador iOS/Android - 100% Teletrabajo",
+      "url": "https://www.infojobs.net/madrid/desarrollador-ios-android-100-teletrabajo/of-i9faea8ba25457d934344c1c641f94a",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 80,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "infojobs_es_of-i6a946c182f4f44abfce65055a89235": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Android | Java – 100% Remoto | REF: EGC",
+      "url": "https://www.infojobs.net/madrid/desarrollador-android-java-100-remoto-egc/of-i6a946c182f4f44abfce65055a89235",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 80,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "infojobs_es_of-i067f2036a441b4acc711c1d10e2934": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador/a iOS (Swift) (100% Remoto) (BI03)",
+      "url": "https://www.infojobs.net/madrid/programador-ios-swift-100-remoto-bi03/of-i067f2036a441b4acc711c1d10e2934",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 80,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "infojobs_es_of-i568ed824cd46109658f21b07ad61bf": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a IOS Swift 4 años 100% remoto",
+      "url": "https://www.infojobs.net/madrid/desarrollador-ios-swift-4-anos-100-remoto/of-i568ed824cd46109658f21b07ad61bf",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 80,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010054619732": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "iOS Junior Developer - SDS",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010054619732",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 76,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1007481736978": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Android Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1007481736978",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 76,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010012819466": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Software Engineer Mobile Android",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010012819466",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 76,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009938960848": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "React Native Developer (Wallet team) - 100% remote",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009938960848",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 74,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010070008879": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Freelance React Native Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010070008879",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 74,
+      "notified": true,
+      "eliminated": false
+    },
+    "stepstone_13856617": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Developer Android im Bereich mobile eID (m/w/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13856617-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 73,
+      "notified": true,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13808244": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Android Engineer (m/w/d) mit Schwerpunkt Verschlüsselung und Security",
+      "url": "https://www.stepstone.de/stellenangebote--13808244-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 73,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "infojobs_es_of-ifbbf019c3042ee932b0570903a0880": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador de Movilidad (iOS/Android)",
+      "url": "https://www.infojobs.net/madrid/desarrollador-movilidad-ios-android/of-ifbbf019c3042ee932b0570903a0880",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010098840249": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "iOS Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010098840249",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1008638125805": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "iOS Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1008638125805",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009647426430": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "iOS Developer (m/f/d)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009647426430",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010104579039": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "iOS Engineer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010104579039",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010102236033": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Mobile Developer (Android/iOS)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010102236033",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010000541414": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "iOS Engineer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010000541414",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009570571035": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Software Engineer (iOS)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009570571035",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009942392418": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Programador/a iOS",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009942392418",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009647426420": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Android Developer (m/f/d)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009647426420",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1008638129054": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Android Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1008638129054",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009998005594": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Android Developer - Core Team",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009998005594",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009570569940": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Software Engineer (Android)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009570569940",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010099471709": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Android Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010099471709",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009942392425": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Programador/a Android",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009942392425",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009729659712": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Android Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009729659712",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13645707": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Android/iOS Mobile Engineer (m/f/x)",
+      "url": "https://www.stepstone.de/stellenangebote--13645707-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13510786": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Android/iOS Mobile Engineer (m/f/x)",
+      "url": "https://www.stepstone.de/stellenangebote--13510786-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13922204": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Software Engineer – Mac / Swift (all genders)",
+      "url": "https://www.stepstone.de/stellenangebote--13922204-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 72,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010087315614": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Android Developer (Latvia or Remote within EMEA)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010087315614",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 70,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13458347": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Mobile Software Architect / Engineer (m/w/d) (Platform & iOS)",
+      "url": "https://www.stepstone.de/stellenangebote--13458347-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 68,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13849180": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "iOS Developer/in (m/w/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13849180-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 68,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13813479": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Mobile App Developer - Native iOS (m/w/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13813479-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 68,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13816823": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Mobile App Developer - Native Android (m/w/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13816823-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 68,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13796870": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "iOS Entwickler (m/w/d) Softwareentwicklung und Support für klinische IT-Umgebung",
+      "url": "https://www.stepstone.de/stellenangebote--13796870-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 67,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010068732673": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Flutter Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010068732673",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 66,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010099037566": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Mobile Developer - React Native (m/f/x)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010099037566",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 66,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010104579010": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "React Native Engineer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010104579010",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 66,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009904514533": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Mobile Application Developer (Cross-Platform)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009904514533",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 64,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010010864238": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior iOS Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010010864238",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010030057866": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior iOS Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010030057866",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010100467521": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior iOS Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010100467521",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009950189774": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior iOS Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009950189774",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010051509320": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Development Engineer (iOS) (m/f/x)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010051509320",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010038077849": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Software Engineer, iOS (B2C)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010038077849",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009875216920": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Android Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009875216920",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1007481733767": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Android Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1007481733767",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009320142897": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Android Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009320142897",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010101659369": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Android Engineer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010101659369",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13459178": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Software Entwickler Android / iOS / Flutter (m/w/d) - Java Swift Dart Kotlin",
+      "url": "https://www.stepstone.de/stellenangebote--13459178-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 62,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1006467430250": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Mobile developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1006467430250",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 60,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1006840557583": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "MOBILE APPLICATION DEVELOPER",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1006840557583",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 60,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "infojobs_es_of-ib5ab5d18224da0a7793e96f2193602": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Tech Lead iOS (Swift) with French (Valencia)",
+      "url": "https://www.infojobs.net/valencia/tech-lead-ios-swift-with-french/of-ib5ab5d18224da0a7793e96f2193602",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 58,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "infojobs_es_of-i1e4f59bd2c475eaa42cdba85c19803": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Tech Lead iOS (Swift) with French (Murcia)",
+      "url": "https://www.infojobs.net/murcia/tech-lead-ios-swift-with-french/of-i1e4f59bd2c475eaa42cdba85c19803",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 58,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009999032147": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Android Tech Lead",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009999032147",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 58,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1009517551125": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "React Native Senior Developer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009517551125",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 56,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010035521630": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Mobile Developer - React Native",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010035521630",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 56,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010077139451": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior React Native Engineer",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010077139451",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 56,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13748874": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Senior React Native Software Engineer (m/f/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13748874-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 56,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13888980": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Senior Android Entwickler (m/w/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13888980-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 51,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13850979": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Senior Flutter Developer (m/w/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13850979-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 51,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13904091": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Senior Frontend Developer (m/w/d) Mobile App",
+      "url": "https://www.stepstone.de/stellenangebote--13904091-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 45,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "stepstone_13907200": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Technische Leitung (m/w/d) für die App Factory",
+      "url": "https://www.stepstone.de/stellenangebote--13907200-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 29,
+      "notified": false,
+      "eliminated": false,
+      "ambiguous_contract": true
+    },
+    "glassdoor_1010070436027": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior React Native Developer, presencial",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010070436027",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 0,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: title indica presenziale/hybrid"
+    },
+    "glassdoor_1009800342557": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "iOS Software Engineer – Prime (Hybrid)",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009800342557",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 0,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: title indica presenziale/hybrid"
+    },
+    "glassdoor_1009913067711": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Reverse Engineer (Android Developer + Cybersecurity Engineer) / Barcelona Hybrid",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1009913067711",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 0,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: title indica presenziale/hybrid"
+    },
+    "glassdoor_1010015013684": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Android Developer ( Exp. Compose) Híbrido Barcelona",
+      "url": "https://www.glassdoor.com/job-listing/x.htm?jl=1010015013684",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 0,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: title indica presenziale/hybrid"
+    },
+    "stepstone_13923904": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Praktikant*in Qualitätsmanagement Drive Systems E/E – iOS App Entwicklung (SwiftUI)",
+      "url": "https://www.stepstone.de/stellenangebote--13923904-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 0,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "intern/student (non è dev role)"
+    },
+    "stepstone_13856028": {
+      "site_id": "stepstone",
+      "site_name": "StepStone",
+      "title": "Werkstudent Mobile Testing (m/w/d)",
+      "url": "https://www.stepstone.de/stellenangebote--13856028-inline.html",
+      "first_seen": "2026-04-18T12:35:52Z",
+      "pub_date": null,
+      "score": 0,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "intern/student (non è dev role)"
     }
   },
   "daily_stats": {
@@ -179,79 +1018,93 @@
       ]
     },
     "2026-04-18": {
-      "total_found": 5,
-      "total_new": 5,
-      "notified": 0,
-      "eliminated": 5,
-      "high_score": 0,
-      "mid_score": 0,
-      "ambiguous_contract": 0,
-      "top_3": []
+      "total_found": 75,
+      "total_new": 75,
+      "notified": 10,
+      "eliminated": 11,
+      "high_score": 7,
+      "mid_score": 55,
+      "ambiguous_contract": 63,
+      "top_3": [
+        {
+          "score": 80,
+          "title": "Desarrollador iOS/Android - 100% Teletrabajo",
+          "company": "N/D",
+          "site": "InfoJobs España"
+        },
+        {
+          "score": 80,
+          "title": "Desarrollador/a Android | Java – 100% Remoto | REF: EGC",
+          "company": "N/D",
+          "site": "InfoJobs España"
+        },
+        {
+          "score": 80,
+          "title": "Programador/a iOS (Swift) (100% Remoto) (BI03)",
+          "company": "N/D",
+          "site": "InfoJobs España"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T12:14:55Z"
+      "last_success": "2026-04-18T12:35:52Z"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T12:14:55Z"
+      "last_success": "2026-04-18T12:35:52Z"
     },
     "jobicy": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T12:14:55Z",
+      "last_success": "2026-04-18T12:35:52Z",
       "note": "default /feed/newjob URL returns HTML (404); used alt URL /?feed=job_feed&search_keywords=<kw>"
     },
     "infojobs_es": {
-      "consecutive_failures": 3,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-04-18T12:35:52Z"
     },
     "welcometothejungle": {
-      "consecutive_failures": 6,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-04-18T12:35:52Z"
     },
     "landingjobs": {
-      "consecutive_failures": 6,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-04-18T12:35:52Z"
     },
     "indeed_uk": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": null,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'"
+      "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_it": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": null,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'"
+      "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_de": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": null,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'"
+      "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": null,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'"
+      "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_fr": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": null,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'"
+      "last_error": "404 Not Found (RSS deprecated)"
     },
     "glassdoor": {
-      "consecutive_failures": 1,
-      "last_success": null,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'"
+      "consecutive_failures": 0,
+      "last_success": "2026-04-18T12:35:52Z"
     },
     "stepstone": {
-      "consecutive_failures": 1,
-      "last_success": null,
-      "last_error": "SCRAPER_API_KEY not available in environment; proxy fetch returned 'Missing X-API-Key header'"
+      "consecutive_failures": 0,
+      "last_success": "2026-04-18T12:35:52Z"
     }
   }
 }

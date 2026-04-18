@@ -17,23 +17,54 @@ git pull origin main --rebase
 
 ## Step 2: Fetch Job Listings
 
-For each **enabled** site in `sites.json`, fetch job listings using the appropriate method:
+For each **enabled** site in `sites.json`, fetch job listings. Check the `use_proxy` flag to determine the fetch method.
 
-### RSS sites (type: "rss")
+The scraper proxy configuration is in the `scraper_proxy` section of `sites.json`:
+- `base_url`: `http://scraper.followtheflowai.com/fetch`
+- API key is in environment variable `SCRAPER_API_KEY`
+
+### Sites WITHOUT proxy (use_proxy: false)
+
+#### RSS sites (type: "rss")
 For each keyword in the site's `keywords` array:
 ```bash
 curl -s -L --max-time 30 "{base_url}?{param}={keyword}" -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
 ```
 Parse the XML response. Extract from each `<item>`: `<title>`, `<link>`, `<description>`, `<pubDate>`.
 
-### JSON API sites (type: "json_api")
+#### JSON API sites (type: "json_api")
 ```bash
 curl -s -L --max-time 30 "{base_url}?{params}" -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
 ```
 Parse the JSON response. For RemoteOK: filter entries where `tags` contain any of the keywords. For Remotive: filter by keyword match in `title` or `description`.
 
-### HTML sites (type: "html")
-For each keyword in the site's `keywords` array:
+### Sites WITH proxy (use_proxy: true)
+
+For sites with `"use_proxy": true`, use the scraper proxy instead of direct curl. The proxy renders pages with a headless browser, bypassing Cloudflare and JS-rendered content.
+
+For each keyword in the site's `keywords` array, URL-encode the target URL and call the proxy:
+```bash
+TARGET_URL="{base_url}?{param}={keyword}"
+ENCODED_URL=$(python3 -c "import urllib.parse; print(urllib.parse.quote('${TARGET_URL}', safe=''))")
+curl -s -L --max-time 60 "http://scraper.followtheflowai.com/fetch?url=${ENCODED_URL}" \
+  -H "X-API-Key: ${SCRAPER_API_KEY}"
+```
+
+The proxy returns JSON:
+```json
+{"success": true, "url": "...", "html": "<html>...</html>", "status_code": 200, "elapsed_ms": 5000}
+```
+
+Extract the `html` field from the JSON response, then parse it for job listings using semantic understanding.
+
+**Important proxy notes:**
+- Proxy requests take 5-20 seconds each (headless browser rendering)
+- Use `--max-time 60` for proxy requests (not 30)
+- The proxy handles Cloudflare challenges automatically
+- If `success` is `false`, log the error and continue
+- Rate limit: max 30 requests/minute to the proxy, max 3 concurrent
+
+### HTML sites without proxy (type: "html", use_proxy: false)
 ```bash
 curl -s -L --max-time 30 "{base_url}?{param}={keyword}" -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" -H "Accept: text/html"
 ```

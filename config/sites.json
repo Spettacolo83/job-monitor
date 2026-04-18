@@ -1,5 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
+  "scraper_proxy": {
+    "base_url": "http://scraper.followtheflowai.com/fetch",
+    "api_key_env": "SCRAPER_API_KEY"
+  },
   "sites": [
     {
       "id": "indeed_uk",
@@ -8,8 +12,8 @@
       "base_url": "https://uk.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_it",
@@ -18,8 +22,8 @@
       "base_url": "https://it.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_de",
@@ -28,8 +32,8 @@
       "base_url": "https://de.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_es",
@@ -38,8 +42,8 @@
       "base_url": "https://es.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "desarrollador móvil"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "indeed_fr",
@@ -48,8 +52,8 @@
       "base_url": "https://fr.indeed.com/rss",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "remoteok",
@@ -59,7 +63,8 @@
       "params": {},
       "keywords": ["ios", "android", "mobile", "swift", "kotlin", "flutter", "react-native"],
       "notes": "API returns all jobs, filter client-side by tags",
-      "enabled": true
+      "enabled": true,
+      "use_proxy": false
     },
     {
       "id": "remotive",
@@ -69,7 +74,8 @@
       "params": { "category": "software-dev" },
       "keywords": ["ios", "android", "mobile", "swift", "kotlin", "flutter", "react native"],
       "notes": "Filter by category, then match keywords in title/description",
-      "enabled": true
+      "enabled": true,
+      "use_proxy": false
     },
     {
       "id": "welcometothejungle",
@@ -78,7 +84,8 @@
       "base_url": "https://www.welcometothejungle.com/en/jobs",
       "params": { "query": "{keyword}", "refinementList[contract_type][]": "freelance" },
       "keywords": ["iOS", "Android", "Mobile", "Flutter", "React Native", "Swift", "Kotlin"],
-      "enabled": true
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "jobicy",
@@ -87,7 +94,8 @@
       "base_url": "https://jobicy.com/feed/newjob",
       "params": { "search": "{keyword}" },
       "keywords": ["mobile developer", "iOS", "Android", "Swift", "Kotlin", "Flutter", "React Native"],
-      "enabled": true
+      "enabled": true,
+      "use_proxy": false
     },
     {
       "id": "infojobs_it",
@@ -96,8 +104,8 @@
       "base_url": "https://www.infojobs.it/lavoro",
       "params": { "keyword": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "sviluppatore mobile"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "infojobs_es",
@@ -106,8 +114,8 @@
       "base_url": "https://www.infojobs.net/ofertas-trabajo",
       "params": { "keyword": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile", "desarrollador móvil"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "stepstone",
@@ -116,8 +124,8 @@
       "base_url": "https://www.stepstone.de/jobs",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Swift", "Android", "Kotlin", "Flutter", "React Native", "Mobile"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "glassdoor",
@@ -126,9 +134,9 @@
       "base_url": "https://www.glassdoor.com/Job/jobs.htm",
       "params": { "sc.keyword": "{keyword}" },
       "keywords": ["iOS developer", "Android developer", "Mobile developer", "Flutter developer", "React Native developer"],
-      "notes": "Aggressive anti-bot — may fail frequently",
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "notes": "Aggressive anti-bot — may fail frequently even with proxy",
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "monster",
@@ -137,8 +145,8 @@
       "base_url": "https://www.monster.com/jobs/search",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS developer", "Android developer", "Mobile developer", "Flutter", "React Native"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "honeypot",
@@ -147,8 +155,8 @@
       "base_url": "https://www.honeypot.io/pages/jobs",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Android", "Mobile", "Swift", "Kotlin", "Flutter", "React Native"],
-      "enabled": false,
-      "disabled_reason": "Cloudflare protection blocks curl requests"
+      "enabled": true,
+      "use_proxy": true
     },
     {
       "id": "landingjobs",
@@ -157,7 +165,8 @@
       "base_url": "https://landing.jobs/jobs",
       "params": { "q": "{keyword}" },
       "keywords": ["iOS", "Android", "Mobile", "Swift", "Kotlin", "Flutter", "React Native"],
-      "enabled": true
+      "enabled": true,
+      "use_proxy": true
     }
   ]
 }

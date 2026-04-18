@@ -163,13 +163,25 @@ If the variable is not available, check if there is a `.env` file or repository 
 
 ### For each job with score ≥ 50 (max 10 per run, ordered by score descending):
 
+Each notification includes two inline buttons:
+- **📝 Applica** — pressing this queues the job for the Application Agent (sets status "pending" in `data/application_queue.json` via the Telegram webhook handler)
+- **❌ Ignora** — dismisses the job without applying
+
+The `{job_id}` in `callback_data` must match the job's ID as stored in `seen_jobs.json` (format: `{site_id}_{hash_or_native_id}`).
+
 ```bash
 curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
   -H "Content-Type: application/json" \
   -d '{
     "chat_id": "181648234",
     "parse_mode": "HTML",
-    "text": "<message>"
+    "text": "<message>",
+    "reply_markup": {
+      "inline_keyboard": [[
+        {"text": "📝 Applica", "callback_data": "apply_{job_id}"},
+        {"text": "❌ Ignora", "callback_data": "ignore_{job_id}"}
+      ]]
+    }
   }'
 ```
 

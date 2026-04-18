@@ -1,3 +1,11 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "job_id": "glassdoor_1009390645930",
+      "chat_id": "181648234",
+      "message_text": "🟡 Score: 68/100 | IA Junior Developer\n🏢 N/D — Spagna\n💼 Contratto: ⚠️ da verificare\n🔧 Dev generico\n📅 Data non disponibile — via Glassdoor\n\n✅ Match: ruolo Junior, ruolo dev generico, lingua EN/IT/ES\n⚠️ Attenzione: contratto non specificato (ambiguo); remote non confermato\n\n🔗 https://www.glassdoor.es/job-listing/ia-junior-developer-the-big-tech-experience-JV_IC2544155_KO0,19_KE20,43.htm?jl=1009390645930",
+      "requested_at": "2026-04-18T18:04:45.947Z",
+      "status": "pending"
+    }
+  ]
 }

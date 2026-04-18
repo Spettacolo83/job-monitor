@@ -1,3 +1,11 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "job_id": "glassdoor_1010046164772",
+      "chat_id": "181648234",
+      "message_text": "🟡 Score: 68/100 | Junior Application Engineer\n🏢 N/D — Spagna\n💼 Contratto: ⚠️ da verificare\n🔧 Dev generico\n📅 Data non disponibile — via Glassdoor\n\n✅ Match: ruolo Junior, ruolo dev generico, lingua EN/IT/ES\n⚠️ Attenzione: contratto non specificato (ambiguo); remote non confermato\n\n🔗 https://www.glassdoor.es/job-listing/junior-application-engineer-power-electronics-JV_KO0,27_KE28,45.htm?jl=1010046164772",
+      "requested_at": "2026-04-18T18:11:20.191Z",
+      "status": "pending"
+    }
+  ]
 }

@@ -51,32 +51,53 @@
       },
       "when_ambiguous": "do_not_reject",
       "filter_priority": "reject_first"
+    },
+    {
+      "id": "junior_only",
+      "description": "ONLY Junior positions. Reject anything that is clearly Mid, Senior, Lead, Staff, Principal, or requires 3+ years of experience.",
+      "reject_indicators": {
+        "en": ["senior developer", "senior engineer", "sr. developer", "sr. engineer", "lead developer", "lead engineer", "staff engineer", "principal engineer", "tech lead", "team lead", "engineering manager", "architect", "5+ years", "5 years experience", "7+ years", "10+ years"],
+        "it": ["sviluppatore senior", "senior developer", "lead developer", "responsabile tecnico", "5+ anni", "7+ anni"],
+        "es": ["desarrollador senior", "ingeniero senior", "líder técnico", "5+ años", "7+ años"],
+        "de": ["senior entwickler", "senior developer", "lead developer", "5+ Jahre", "7+ Jahre"],
+        "fr": ["développeur senior", "lead developer", "5+ ans", "7+ ans"]
+      },
+      "accept_indicators": {
+        "en": ["junior", "entry level", "entry-level", "graduate", "trainee", "internship", "0-2 years", "1-2 years", "no experience required", "fresh graduate"],
+        "it": ["junior", "neolaureato", "primo impiego", "apprendista"],
+        "es": ["junior", "recién graduado", "sin experiencia", "becario"],
+        "de": ["junior", "berufseinsteiger", "absolvent"],
+        "fr": ["junior", "débutant", "jeune diplômé"]
+      },
+      "when_ambiguous": "do_not_reject",
+      "notes": "If seniority is not mentioned at all, DO NOT reject — many Junior-friendly jobs don't specify level"
     }
   ],
   "scoring_criteria": [
     {
       "id": "tech_match",
       "weight": 30,
-      "description": "How well the required technologies match the candidate's skills",
+      "description": "How well the required technologies match the candidate's skills. Now includes ALL dev technologies, not just mobile.",
       "scoring": {
-        "core_native_match": 100,
-        "cross_platform_match": 80,
-        "generic_mobile": 60,
+        "core_mobile_match": 100,
+        "known_tech_match": 80,
+        "any_dev_role": 60,
         "partial_match": 40,
         "no_match": 0
       },
-      "notes": "Core = Swift/Kotlin/ObjC/Java. Cross-platform = Flutter/RN (learning). Generic = 'mobile developer' without specific tech"
+      "notes": "Core mobile = Swift/Kotlin/ObjC/Java/Flutter/RN. Known tech = PHP/MySQL/Firebase/REST APIs/AWS/GCP/Azure (from profile). Any dev = any software development role (Python, JS, React, Node, etc). Since Junior + AI, candidate can handle any tech."
     },
     {
       "id": "seniority",
-      "weight": 20,
-      "description": "Seniority level preference — junior preferred to avoid complex technical interviews",
+      "weight": 25,
+      "description": "Junior only — this is now an elimination filter too, but scoring still differentiates",
       "scoring": {
         "junior": 100,
-        "not_specified": 85,
-        "mid": 70,
-        "senior": 30,
-        "lead_staff_principal": 10
+        "entry_level_graduate": 100,
+        "not_specified": 80,
+        "mid": 0,
+        "senior": 0,
+        "lead_staff_principal": 0
       }
     },
     {

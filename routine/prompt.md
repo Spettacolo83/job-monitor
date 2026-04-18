@@ -230,37 +230,35 @@ Update `seen_jobs.json`:
 
 You MUST persist the updated `seen_jobs.json` back to the repository. Without this, the next run will re-process all jobs and send duplicate notifications.
 
-Try ALL of these methods in order until one succeeds:
-
-**Method 1 — Push to current branch:**
+**Step 8a — Commit changes:**
 ```bash
 git add data/seen_jobs.json
 git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]"
-git push
 ```
 
-**Method 2 — If Method 1 fails, push to main explicitly:**
+**Step 8b — Push and merge to main:**
+
+The routine runs on a `claude/*` branch. You MUST merge changes back to `main` so the next run can read the updated `seen_jobs.json`.
+
 ```bash
-git checkout main 2>/dev/null || true
-git add data/seen_jobs.json
-git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]" --allow-empty
+# Push to current claude/* branch
+CURRENT_BRANCH=$(git branch --show-current)
+git push origin "${CURRENT_BRANCH}"
+
+# Merge into main
+git checkout main
+git pull origin main
+git merge "${CURRENT_BRANCH}" --no-edit
 git push origin main
 ```
 
-**Method 3 — If git push fails, use GitHub MCP tools:**
-Use any available MCP tools (create_or_update_file, push_files, etc.) to update `data/seen_jobs.json` on the `main` branch. This bypasses git authentication and uses the MCP integration directly.
-
-**Method 4 — Create a Pull Request with the changes:**
-If direct push fails, commit to the current `claude/*` branch, push that branch, and create a PR to main:
+If the merge to main fails, try using GitHub MCP tools to create and auto-merge a PR:
 ```bash
-git add data/seen_jobs.json
-git commit -m "chore: update seen_jobs [$(date -u +%Y-%m-%dT%H:%M)]"
-BRANCH=$(git branch --show-current)
-git push origin "${BRANCH}"
-gh pr create --title "chore: update seen_jobs" --body "Auto-update from Job Monitor routine" --base main --head "${BRANCH}"
+gh pr create --title "chore: update seen_jobs" --body "Auto-update from Job Monitor routine" --base main --head "${CURRENT_BRANCH}"
+gh pr merge --merge --auto
 ```
 
-**If ALL methods fail:** Log every error message clearly so we can debug. The seen_jobs data will be lost for this run.
+**If ALL methods fail:** Log every error message clearly so we can debug.
 
 ## Important Notes
 

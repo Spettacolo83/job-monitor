@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T15:49:51.335223Z",
+  "last_updated": "2026-04-18T18:01:56.180003Z",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -1882,6 +1882,1175 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "not_dev_role: matched \"\\bteamleiter\\b\""
+    },
+    "remoteok_1131199": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Software Engineer Golang",
+      "company": "Insider One",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-golang-insider-one-1131199",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": "2026-04-17T16:00:57+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "remoteok_1131197": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Systems Administrator",
+      "company": "Entersekt",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-systems-administrator-entersekt-1131197",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": "2026-04-17T16:00:37+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "remoteok_1131194": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "AI Transformation Lead",
+      "company": "Insider One",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-transformation-lead-insider-one-1131194",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": "2026-04-17T16:00:04+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1009585321958": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-developer-neteris-JV_KO0,16_KE17,24.htm?jl=1009585321958",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1007316319642": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-developer-triangle-intérim-JV_IC4844968_KO0,16_KE17,33.htm?jl=1007316319642",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010053257952": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Big Data IA Developer Junior, presencial",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/big-data-ia-developer-junior-presencial-zylk-JV_KO0,39_KE40,44.htm?jl=1010053257952",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Presencial (on-site)"
+    },
+    "glassdoor_1010093306631": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Java Developer – Robotics Team",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-java-developer-robotics-team-knowmad-mood-JV_KO0,35_KE36,48.htm?jl=1010093306631",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010040224424": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Angular Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-angular-developer-kenos-technology-JV_IC2547194_KO0,24_KE25,41.htm?jl=1010040224424",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1009390645930": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "IA Junior Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/ia-junior-developer-the-big-tech-experience-JV_IC2544155_KO0,19_KE20,43.htm?jl=1009390645930",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1010083589943": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "CRO Junior Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/cro-junior-developer-flat-JV_IC2664239_KO0,20_KE21,25.htm?jl=1010083589943",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1007886406078": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR SOFTWARE DEVELOPER",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-software-developer-qoobers-smart-solutions-JV_IC2547194_KO0,25_KE26,49.htm?jl=1007886406078",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1010064241548": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Full Stack Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-full-stack-developer-raona-JV_KO0,27_KE28,33.htm?jl=1010064241548",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010103822701": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Cobol Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-cobol-developer-knowmad-mood-JV_IC2664239_KO0,22_KE23,35.htm?jl=1010103822701",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1010091380852": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Salesforce Junior Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/salesforce-junior-developer-soluciona-mi-deuda-JV_KO0,27_KE28,46.htm?jl=1010091380852",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010043430635": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "HTML & Email Experience Developer (Junior)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/html-email-experience-developer-junior-ddb-JV_IC2664239_KO0,38_KE39,42.htm?jl=1010043430635",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1010072498287": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Application Developer, Madrid",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/application-developer-madrid-wayops-JV_IC2664239_KO0,28_KE29,35.htm?jl=1010072498287",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010011685812": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Business Developer Junior – Programa Internacional",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/business-developer-junior-programa-internacional-venair-international-group-JV_IC4845920_KO0,48_KE49,75.htm?jl=1010011685812",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: business\\s+develop"
+    },
+    "glassdoor_1010103822961": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Cobol Developer | Híbrido",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-cobol-developer-híbrido-knowmad-mood-JV_IC2664239_KO0,30_KE31,43.htm?jl=1010103822961",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Hybrid (on-site required, remote_only filter)"
+    },
+    "glassdoor_1010007535389": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior eLearning Content Developer/ Instructional Designer Sevilla, Aragón o Galicia",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-elearning-content-developer-instructional-designer-sevilla-aragón-o-galicia-deloitte-JV_KO0,82_KE83,91.htm?jl=1010007535389",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010092552287": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Técnico/a Junior de Administración de Formación (LMS Administrator)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/técnico-a-junior-de-administración-de-formación-lms-administrator-seidor-JV_IC2664239_KO0,65_KE66,72.htm?jl=1010092552287",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: administraci[oó]n\\s+de\\s+formaci[oó]n"
+    },
+    "glassdoor_1010096976932": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Frontend Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/frontend-developer-ddb-JV_IC2547194_KO0,18_KE19,22.htm?jl=1010096976932",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1009133807854": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Business Development Junior (IT)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/business-development-junior-it-prime-it-JV_IC2664239_KO0,30_KE31,39.htm?jl=1009133807854",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: business\\s+develop"
+    },
+    "glassdoor_1010025198863": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "PHP Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/php-developer-crowdfarming-JV_IC2664239_KO0,13_KE14,26.htm?jl=1010025198863",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 70,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 80,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1010036639301": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Frontend Developer Senior",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/frontend-developer-senior-preference-JV_IC2639077_KO0,25_KE26,36.htm?jl=1010036639301",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1007316319635": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-developer-triangle-intérim-JV_IC4844968_KO0,16_KE17,33.htm?jl=1007316319635",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010068698013": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Software Developer (Desarrollador/a)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/software-developer-desarrollador-a-inprotech-JV_KO0,34_KE35,44.htm?jl=1010068698013",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1009997534547": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Cloud Native Application Developer - Bilbao",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/cloud-native-application-developer-bilbao-deloitte-JV_KO0,41_KE42,50.htm?jl=1009997534547",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010042708088": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Full Stack Developer (PHP - Symfony)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/full-stack-developer-php-symfony-freshly-cosmetics-JV_IC2582209_KO0,32_KE33,50.htm?jl=1010042708088",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 70,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 80,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1009997534396": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Cloud Native Application Architect - Bilbao",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/cloud-native-application-architect-bilbao-deloitte-JV_KO0,41_KE42,50.htm?jl=1009997534396",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010102531726": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Fullstack Developer Angular",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-fullstack-developer-angular-knowmad-mood-JV_IC2664239_KO0,34_KE35,47.htm?jl=1010102531726",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010091448879": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Python Engineer (AI Agents & Cloud Specialist)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-python-engineer-ai-agents-cloud-specialist-neoris-JV_IC2664239_KO0,49_KE50,56.htm?jl=1010091448879",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1009486303365": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Full Stack Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/full-stack-developer-care-control-JV_KO0,20_KE21,33.htm?jl=1009486303365",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010076132342": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Frontend Developer (m/f/d)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-frontend-developer-mfd-dekra-JV_IC4842304_KO0,29_KE30,35.htm?jl=1010076132342",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010022594240": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Backend Developer at Space Surveillance Centre",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/backend-developer-at-space-surveillance-centre-gmv-JV_IC4846723_KO0,46_KE47,50.htm?jl=1010022594240",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010013817456": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior QA Analyst",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-qa-analyst-rakuten-JV_IC2547194_KO0,17_KE18,25.htm?jl=1010013817456",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 62,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 40,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010056552023": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "AI Product Manager (100% Remote)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/ai-product-manager-100-remote-tether-operations-limited-JV_IC2664239_KO0,29_KE30,55.htm?jl=1010056552023",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: product\\s+manager"
+    },
+    "glassdoor_1010060964605": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Energy Laboratory Test Means Software Development",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/energy-laboratory-test-means-software-development-airbus-JV_IC2664363_KO0,49_KE50,56.htm?jl=1010060964605",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: \\benergy\\s+laboratory\\b"
+    },
+    "glassdoor_1009863885467": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": ".NET Developer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/net-developer-wizeline-JV_IC2547194_KO0,13_KE14,22.htm?jl=1009863885467",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010049807595": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "#CORE - IT Digital Workplace Operations Specialist - Google Workspace",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/core-it-digital-workplace-operations-specialist-google-workspace-airbus-JV_KO0,64_KE65,71.htm?jl=1010049807595",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: digital\\s+workplace\\s+operations"
+    },
+    "glassdoor_1010063813369": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Instrument Software Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/instrument-software-engineer-airbus-JV_IC2664363_KO0,28_KE29,35.htm?jl=1010063813369",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: \\binstrument\\s+software\\s+engineer\\b"
+    },
+    "glassdoor_1010099105214": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Lead Generation Specialist",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/lead-generation-specialist-alien-technology-transfer-JV_IC2528538_KO0,26_KE27,52.htm?jl=1010099105214",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010086813596": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-devops-engineer-tecnalis-JV_IC2485334_KO0,22_KE23,31.htm?jl=1010086813596",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010053027229": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Technical Product Manager (100% Remote)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/technical-product-manager-100-remote-tether-operations-limited-JV_IC2547194_KO0,36_KE37,62.htm?jl=1010053027229",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: product\\s+manager"
+    },
+    "glassdoor_1010051997115": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Alvalle Business Developer (Global Expansion, Food Ventures)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/alvalle-business-developer-global-expansion-food-ventures-pepsico-JV_KO0,57_KE58,65.htm?jl=1010051997115",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: business\\s+develop"
+    },
+    "glassdoor_1010004451887": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Data Engineering Lead",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/data-engineering-lead-chubb-JV_IC2664239_KO0,21_KE22,27.htm?jl=1010004451887",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1009985250888": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Lead Electronic Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/lead-electronic-engineer-celestica-JV_KO0,24_KE25,34.htm?jl=1009985250888",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010008512767": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Verification Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-verification-engineer-celestica-JV_KO0,28_KE29,38.htm?jl=1010008512767",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010096770852": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Manager, Account Development",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/manager-account-development-fever-JV_IC2664239_KO0,27_KE28,33.htm?jl=1010096770852",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: account\\s+development"
+    },
+    "glassdoor_1010057647203": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Software Engineer – SDS",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-software-engineer-sds-santander-JV_IC2664239_KO0,28_KE29,38.htm?jl=1010057647203",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1009964947890": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Software Engineer (Presencial/Pamplona)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-software-engineer-presencial-pamplona-splorotech-sl-JV_IC2529605_KO0,44_KE45,58.htm?jl=1009964947890",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Presencial (on-site)"
+    },
+    "glassdoor_1010069104093": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Software Engineer Banca Privada",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-software-engineer-banca-privada-santander-JV_IC2664239_KO0,38_KE39,48.htm?jl=1010069104093",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010084777134": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior NLP Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-nlp-engineer-gradiant-JV_KO0,19_KE20,28.htm?jl=1010084777134",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1009951661536": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Front Software Engineering - Santander Digital Services",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-front-software-engineering-santander-digital-services-santander-JV_IC2664239_KO0,60_KE61,70.htm?jl=1009951661536",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010012153291": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior DevOps Engineer, hibrido",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-devops-engineer-hibrido-cdmon-JV_IC2547194_KO0,30_KE31,36.htm?jl=1010012153291",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Hybrid (on-site required, remote_only filter)"
+    },
+    "glassdoor_1010060151183": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Aeronautical Quality Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-aeronautical-quality-engineer-capgemini-JV_IC2664239_KO0,36_KE37,46.htm?jl=1010060151183",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: \\baeronaut"
+    },
+    "glassdoor_1010084725550": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Flight Controls Engineer Junior",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/flight-controls-engineer-junior-capgemini-JV_KO0,31_KE32,41.htm?jl=1010084725550",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: flight\\s+controls\\s+engineer"
+    },
+    "glassdoor_1010046164772": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Application Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-application-engineer-power-electronics-JV_KO0,27_KE28,45.htm?jl=1010046164772",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1010010075327": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Structural Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-structural-engineer-011h-JV_IC2547194_KO0,26_KE27,31.htm?jl=1010010075327",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: \\b(structural|mechanical|electrical|hydraulic|environmental|aerospace|flight|bridge)\\s+engineer"
+    },
+    "glassdoor_1009990174659": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Genérica Aeronáutica Junior",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/genérica-aeronáutica-junior-indra-JV_IC2664239_KO0,27_KE28,33.htm?jl=1009990174659",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: ^\\s*genérica\\s+aeron"
+    },
+    "glassdoor_1010083343856": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior SW Eng - Desarrollo y Seguimiento de Tareas (C++)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/junior-sw-eng-desarrollo-y-seguimiento-de-tareas-c-capgemini-JV_IC2664239_KO0,50_KE51,60.htm?jl=1010083343856",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 62,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 40,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010095594301": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "DevOps Engineer (Junior/Mid)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/devops-engineer-junior-mid-neoris-JV_IC2664239_KO0,26_KE27,33.htm?jl=1010095594301",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 68,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 100,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract"
+      ],
+      "notified": true,
+      "eliminated": false
+    },
+    "glassdoor_1009675597922": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Take Up Java - Barcelona",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/take-up-java-barcelona-sopra-steria-JV_IC2547194_KO0,22_KE23,35.htm?jl=1009675597922",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: \\btake\\s+up\\s+java\\b"
+    },
+    "glassdoor_1010035389676": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Especialista Ambiental Junior",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/especialista-ambiental-junior-stantec-JV_KO0,29_KE30,37.htm?jl=1010035389676",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: \\b(estructural|mec[aá]nico|el[eé]ctrico|hidr[aá]ulic|ambiental)\\b"
+    },
+    "glassdoor_1010064213373": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Software Engineer (PHP/Drupal) - International projects",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/senior-software-engineer-php-drupal-international-projects-capgemini-JV_KO0,58_KE59,68.htm?jl=1010064213373",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010070547996": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Systems Integration & Test Engineer (Aerospace)",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/systems-integration-test-engineer-aerospace-capgemini-JV_IC2664239_KO0,43_KE44,53.htm?jl=1010070547996",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: systems\\s+integration\\s+&\\s+test\\s+engineer.*aerospace"
+    },
+    "glassdoor_1009998967067": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Cloud Engineer / DevOps - Google Cloud",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/cloud-engineer-devops-google-cloud-devoteam-JV_IC2664239_KO0,34_KE35,43.htm?jl=1009998967067",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "score": 64,
+      "score_breakdown": {
+        "freshness": 30,
+        "tech_match": 60,
+        "seniority": 80,
+        "language": 100,
+        "bonus_malus": 0
+      },
+      "ambiguous": [
+        "remote",
+        "contract",
+        "seniority"
+      ],
+      "notified": false,
+      "eliminated": false
+    },
+    "glassdoor_1010075721176": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "INGENIERO/A CIVIL DE PROYECTOS HIDRÁULICA URBANA (ABASTECIMIENTO Y SANEAMIENTO",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/ingeniero-a-civil-de-proyectos-hidráulica-urbana-abastecimiento-y-saneamiento-engineers-sourcing-JV_KO0,77_KE78,96.htm?jl=1010075721176",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: \\bingenier[oa]\\b(?!.*(?:software|data|cloud|back|front|full|mobile|ios|android|web|devops|qa|test))"
+    },
+    "glassdoor_1009514960654": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Irlanda - Ingeniero Eléctrico/Mecánico Senior",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/irlanda-ingeniero-eléctrico-mecánico-senior-spanish-engineers-JV_KO0,43_KE44,61.htm?jl=1009514960654",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "glassdoor_1010103021835": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Energy Efficiency Engineer",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/energy-efficiency-engineer-encore-efficiency-se-JV_IC2664239_KO0,26_KE27,47.htm?jl=1010103021835",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: energy\\s+efficiency\\s+engineer"
+    },
+    "glassdoor_1009878852865": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Ingeniero Senior de Puentes y Estructuras.",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/ingeniero-senior-de-puentes-y-estructuras-aecom-JV_IC2664239_KO0,41_KE42,47.htm?jl=1009878852865",
+      "first_seen": "2026-04-18T18:01:56.180003Z",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior/Lead in title (junior_only filter)"
     }
   },
   "daily_stats": {
@@ -1909,31 +3078,31 @@
       ]
     },
     "2026-04-18": {
-      "total_found": 148,
-      "total_new": 148,
-      "notified": 20,
-      "eliminated": 54,
-      "high_score": 7,
-      "mid_score": 78,
-      "ambiguous_contract": 92,
+      "total_found": 70,
+      "total_new": 70,
+      "notified": 10,
+      "eliminated": 41,
+      "high_score": 0,
+      "mid_score": 29,
+      "ambiguous_contract": 29,
       "top_3": [
         {
-          "score": 80,
-          "title": "Desarrollador iOS/Android - 100% Teletrabajo",
+          "score": 70,
+          "title": "PHP Developer",
           "company": "N/D",
-          "site": "InfoJobs España"
+          "site": "Glassdoor"
         },
         {
-          "score": 80,
-          "title": "Desarrollador/a Android | Java – 100% Remoto | REF: EGC",
+          "score": 70,
+          "title": "Full Stack Developer (PHP - Symfony)",
           "company": "N/D",
-          "site": "InfoJobs España"
+          "site": "Glassdoor"
         },
         {
-          "score": 80,
-          "title": "Programador/a iOS (Swift) (100% Remoto) (BI03)",
+          "score": 68,
+          "title": "Junior Angular Developer",
           "company": "N/D",
-          "site": "InfoJobs España"
+          "site": "Glassdoor"
         }
       ]
     }
@@ -1941,58 +3110,60 @@
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T15:49:51.335223Z"
+      "last_success": "2026-04-18T18:01:56.180003Z"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T15:49:51.335223Z"
+      "last_success": "2026-04-18T18:01:56.180003Z"
     },
     "jobicy": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T15:49:51.335223Z",
+      "last_success": "2026-04-18T18:01:56.180003Z",
       "note": "default /feed/newjob URL returns HTML (404); used alt URL /?feed=job_feed&search_keywords=<kw>"
     },
     "infojobs_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-18T12:35:52Z",
       "last_error": "Distil captcha redirect (anti-bot)"
     },
     "welcometothejungle": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-18T15:49:51.335223Z"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-18T15:49:51.335223Z",
+      "last_error": "SPA returns shell, no job data in HTML"
     },
     "landingjobs": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-18T15:49:51.335223Z"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-18T15:49:51.335223Z",
+      "last_error": "No job listings parseable in SSR HTML (client-rendered)"
     },
     "indeed_uk": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_it": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_de": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_es": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_fr": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "glassdoor": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T15:49:51.335223Z"
+      "last_success": "2026-04-18T18:01:56.180003Z"
     },
     "stepstone": {
       "consecutive_failures": 0,

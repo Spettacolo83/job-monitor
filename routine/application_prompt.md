@@ -56,6 +56,52 @@ curl -s -X POST "http://scraper.followtheflowai.com/session/${SESSION_ID}/click"
 
 If the site requires login, check `site_credentials` in the scraper proxy config (GET http://scraper.followtheflowai.com/admin/api/config with admin auth). If credentials exist, login first. If not, register with email `stefano.russello+jobs@gmail.com` and a generated password.
 
+### OAuth login (Google, LinkedIn, etc.)
+If the only login option is OAuth (Google, LinkedIn, Apple, etc.), do NOT attempt it — it will fail. Instead:
+- Look for an alternative "Sign in with email" or "Sign up with email" option
+- If no email option exists, skip login and try to apply as guest
+- If guest application is not possible, report failure: "Login requires OAuth (Google/LinkedIn), not automatable"
+
+### Email verification / 2FA / OTP codes
+After login, the site may ask for a verification code sent via email. This is common on Indeed, InfoJobs, and many other sites. Handle it as follows:
+
+1. **Detect the verification page**: look for text like "Enter the code", "Verification code", "Codice di verifica", "Código de verificación", "We sent a code to your email", "Check your email", "Bestätigungscode"
+2. **Take a screenshot** of the verification page
+3. **Ask the user on Telegram**:
+```bash
+curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "chat_id": "181648234",
+    "text": "🔐 Codice di verifica richiesto\n\n{site_name} ha inviato un codice a stefano.russello+jobs@gmail.com\n\nControlla la email e rispondi qui con il codice.",
+    "reply_markup": {"force_reply": true}
+  }'
+```
+4. **Wait for the user's response**: the webhook will save the response in the scraper-proxy config under `pending_responses`. Poll for it:
+```bash
+# Check every 10 seconds for up to 5 minutes
+for i in $(seq 1 30); do
+  RESPONSE=$(curl -s -b /tmp/admin-cookies "http://scraper.followtheflowai.com/admin/api/config" | python3 -c "
+import sys,json
+cfg = json.load(sys.stdin)
+responses = cfg.get('pending_responses', [])
+if responses:
+    print(responses[-1]['response'])
+else:
+    print('')
+")
+  if [ -n "$RESPONSE" ]; then
+    echo "Got code: $RESPONSE"
+    break
+  fi
+  sleep 10
+done
+```
+5. **Enter the code** in the verification field and continue
+6. **Clear the pending_responses** after using the code
+
+If no response after 5 minutes, report failure: "Verification code not received in time"
+
 ## Step 6: Fill Application Form (Adaptive Loop)
 
 This is the core of the agent. Repeat these steps until the form is submitted:

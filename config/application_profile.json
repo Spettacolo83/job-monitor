@@ -1,0 +1,49 @@
+{
+  "personal": {
+    "full_name": "Stefano Russello",
+    "first_name": "Stefano",
+    "last_name": "Russello",
+    "email": "stefano.russello+jobs@gmail.com",
+    "email_primary": "stefano.russello@gmail.com",
+    "phone": "+34 633666065",
+    "location": "Petra, Mallorca, Spain",
+    "country": "Spain",
+    "nationality": "Italian",
+    "right_to_work_eu": true,
+    "linkedin": "https://www.linkedin.com/in/stefano-russello-579a4471/",
+    "github": "https://github.com/Spettacolo83/",
+    "website": "https://www.stefanorussello.it"
+  },
+  "work_preferences": {
+    "work_mode": "Full remote only",
+    "contract_type": "Freelance / B2B / Contractor",
+    "availability": "Immediately available",
+    "notice_period": "None",
+    "why_leaving": "My last project has concluded and I'm actively looking for new opportunities to grow as a developer and take on new challenges.",
+    "relocation": false
+  },
+  "salary": {
+    "strategy": "high_end_of_range",
+    "default_hourly_eur": "25-30",
+    "default_daily_eur": "200-240",
+    "default_annual_eur": "35000-42000",
+    "notes": "If job posting specifies a range, stay within 80-100% of the high end. Never exceed the max. Adapt currency to the job's country."
+  },
+  "languages_spoken": [
+    { "language": "Italian", "level": "Native" },
+    { "language": "Spanish", "level": "Fluent" },
+    { "language": "English", "level": "Fluent" }
+  ],
+  "response_language": "Match the language of the job posting and form. Use IT/ES/EN only.",
+  "cover_letter_template": {
+    "max_words": 200,
+    "paragraphs": 3,
+    "structure": [
+      "Who I am + why this specific role interests me",
+      "Relevant skills for THIS specific job (pick from profile)",
+      "Why I'm a good fit: remote experience, EU timezone, immediate availability"
+    ],
+    "tone": "Professional but personal, not generic. Never mention AI.",
+    "language": "Same as job posting"
+  }
+}

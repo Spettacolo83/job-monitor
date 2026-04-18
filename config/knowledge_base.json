@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "learned_answers": {
+    "linkedin_url": {
+      "value": "https://www.linkedin.com/in/stefano-russello-579a4471/",
+      "source": "profile",
+      "date": "2026-04-18"
+    },
+    "github_url": {
+      "value": "https://github.com/Spettacolo83/",
+      "source": "profile",
+      "date": "2026-04-18"
+    },
+    "portfolio_url": {
+      "value": "https://www.stefanorussello.it",
+      "source": "profile",
+      "date": "2026-04-18"
+    },
+    "right_to_work_eu": {
+      "value": "Yes — Italian citizen, EU national",
+      "source": "profile",
+      "date": "2026-04-18"
+    },
+    "availability": {
+      "value": "Immediately available",
+      "source": "profile",
+      "date": "2026-04-18"
+    }
+  },
+  "field_mappings": {
+    "linkedin": "linkedin_url",
+    "linkedin url": "linkedin_url",
+    "linkedin profile": "linkedin_url",
+    "perfil linkedin": "linkedin_url",
+    "github": "github_url",
+    "github url": "github_url",
+    "github profile": "github_url",
+    "portfolio": "portfolio_url",
+    "portfolio url": "portfolio_url",
+    "personal website": "portfolio_url",
+    "sito web": "portfolio_url",
+    "sitio web": "portfolio_url",
+    "right to work": "right_to_work_eu",
+    "work authorization": "right_to_work_eu",
+    "permesso di lavoro": "right_to_work_eu",
+    "permiso de trabajo": "right_to_work_eu",
+    "when can you start": "availability",
+    "disponibilità": "availability",
+    "disponibilidad": "availability",
+    "start date": "availability",
+    "fecha de inicio": "availability",
+    "data di inizio": "availability"
+  },
+  "standard_questions": {
+    "motivation": "Respond based on the specific job description and company. Mention relevant experience from profile.",
+    "describe_project": "Choose from: FA Player (streaming app), Roche chat app (healthcare), StreamAMG SDK (media SDK). Pick the most relevant to the job.",
+    "experience_with_X": "If X is in profile, give detailed answer. If not, say: Eager to learn, experienced with similar technology Y.",
+    "why_leaving": "My last project has concluded and I'm actively looking for new opportunities to grow as a developer and take on new challenges.",
+    "strengths": "10+ years mobile experience, strong remote work skills, adaptable to new technologies, clean code advocate.",
+    "weaknesses": "Frame positively: I can be overly detail-oriented, which I manage by setting clear priorities and deadlines."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "application_mode": "manual",
+  "auto_apply_threshold": 80,
+  "max_applications_per_day": 20,
+  "min_delay_between_applications_seconds": 120
+}

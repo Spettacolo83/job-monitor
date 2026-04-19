@@ -159,6 +159,11 @@
       "id": "part_time_bonus",
       "value": 20,
       "description": "+20 if the job offers part-time, semi-part-time, or reduced hours. This is HIGHLY preferred. Look for indicators in any language: part-time, part time, parttime, semi-parttime, half-time, 20h/week, 25h/week, 30h/week, media jornada, mezza giornata, Teilzeit, temps partiel, flexible hours, reduced hours, 4-day week, 4 day week."
+    },
+    {
+      "id": "glassdoor_depriority",
+      "value": -15,
+      "description": "-15 for jobs sourced from Glassdoor. Glassdoor floods results and many are duplicates of listings on other platforms. Prefer original sources."
     }
   ],
   "notification_threshold": 50,

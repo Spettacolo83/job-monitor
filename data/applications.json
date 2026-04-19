@@ -59,12 +59,25 @@
       "processed_at": "2026-04-18T18:13:51.000Z",
       "completed_fields": [],
       "remaining_fields": ["entire application form"]
+    },
+    {
+      "job_id": "jobicy_fcdf58a19c02af81",
+      "status": "failed",
+      "reason": "Cloudflare Turnstile challenge su Jobicy — né residential né standard proxy riescono a superare la verifica 'Performing security verification'. Stesso problema delle candidature Jobicy precedenti.",
+      "title": "Junior QA Engineer",
+      "company": "TechMagic",
+      "location": "N/D",
+      "job_url": "https://jobicy.com/jobs/141365-junior-qa-engineer-2",
+      "requested_at": "2026-04-19T06:12:54.798Z",
+      "processed_at": "2026-04-19T06:17:30.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 0,
     "total_success": 0,
-    "total_failed": 4,
+    "total_failed": 5,
     "total_pending": 0,
     "total_skipped": 1
   }

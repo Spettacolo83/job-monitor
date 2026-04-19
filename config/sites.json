@@ -6,6 +6,54 @@
   },
   "sites": [
     {
+      "id": "weworkremotely",
+      "name": "WeWorkRemotely",
+      "type": "html",
+      "base_url": "https://weworkremotely.com/remote-jobs/search",
+      "params": { "term": "{keyword}" },
+      "keywords": ["junior developer", "junior", "entry level", "iOS", "Android", "Flutter", "React Native", "frontend", "backend", "mobile"],
+      "notes": "Remote-only site — all jobs are remote by definition",
+      "enabled": true,
+      "use_proxy": true,
+      "all_remote": true
+    },
+    {
+      "id": "himalayas",
+      "name": "Himalayas",
+      "type": "json_api",
+      "base_url": "https://himalayas.app/jobs/api",
+      "params": { "q": "{keyword}", "limit": "50" },
+      "keywords": ["junior developer", "junior", "entry level", "iOS", "Android", "Flutter", "React Native", "mobile", "frontend", "backend"],
+      "notes": "Remote-only site with JSON API. Filter results by title/description keywords.",
+      "enabled": true,
+      "use_proxy": false,
+      "all_remote": true
+    },
+    {
+      "id": "arcdev",
+      "name": "Arc.dev",
+      "type": "html",
+      "base_url": "https://arc.dev/remote-jobs",
+      "params": { "search": "{keyword}" },
+      "keywords": ["junior developer", "junior", "entry level", "iOS", "Android", "Flutter", "React Native", "mobile", "frontend", "backend"],
+      "notes": "Remote dev jobs platform",
+      "enabled": true,
+      "use_proxy": false,
+      "all_remote": true
+    },
+    {
+      "id": "justremote",
+      "name": "JustRemote",
+      "type": "html",
+      "base_url": "https://justremote.co/remote-developer-jobs",
+      "params": {},
+      "keywords": ["junior", "developer", "engineer"],
+      "notes": "Remote-only site. Single page listing, filter by keywords in title/description.",
+      "enabled": true,
+      "use_proxy": false,
+      "all_remote": true
+    },
+    {
       "id": "remoteok",
       "name": "RemoteOK",
       "type": "json_api",

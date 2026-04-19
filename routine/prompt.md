@@ -111,6 +111,8 @@ curl -s -L --max-time 60 "http://scraper.followtheflowai.com/fetch?url=${ENCODED
 Apply elimination filters from `scoring_rules.json`:
 
 ### Filter: remote_only (AI-powered analysis)
+
+**SHORTCUT**: If the site has `"all_remote": true` in sites.json (e.g. RemoteOK, Remotive, WeWorkRemotely, Himalayas, Arc.dev, JustRemote), **SKIP the remote filter** — all jobs from these sites are remote by definition.
 - Check for `reject_indicators` in the job text. If found → **ELIMINATE**.
 - Check for `accept_indicators`. If found → **PASS**.
 - If ambiguous (neither found) → **DO NOT pass or reject based on keywords alone. Instead, perform INTELLIGENT ANALYSIS of the full job description:**

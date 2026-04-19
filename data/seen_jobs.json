@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T06:07:57.746878+00:00",
+  "last_updated": "2026-04-19T06:44:03.588658+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -3565,6 +3565,474 @@
         "ambiguous_contract",
         "ambiguous_remote"
       ]
+    },
+    "remotive_1680495": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Office Assistant",
+      "company": "Coalition Technologies ",
+      "url": "https://remotive.com/remote-jobs/marketing/office-assistant-1680495",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-11T20:16:26",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "tech_match",
+      "elimination_reason": "not a dev/technical role (Office Assistant)"
+    },
+    "infojobs_es_a001c3b09847fd83b4d35bb9b2e96b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Mobile Android / iOS / Flutter - 100% teletrabajo, toda España",
+      "company": "Second Window",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-mobile-android-ios-flutter-100-teletrabajo-toda-espana/of-ia001c3b09847fd83b4d35bb9b2e96b?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-15T07:37:16Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_1392356fab43bd89b5595090d4cf64": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Backend & Mobile (Flutter)",
+      "company": "GRUPO SAVEFAMILY S.L.",
+      "url": "https://www.infojobs.net//www.infojobs.net/bilbao/desarrollador-backend-mobile-flutter/of-i1392356fab43bd89b5595090d4cf64?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-14T11:22:07Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Presencial\")"
+    },
+    "infojobs_es_5c96f6b0c54b5a8951dfc1571578f6": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador/a Flutter",
+      "company": "Ayesa Digital",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/programador-flutter/of-i5c96f6b0c54b5a8951dfc1571578f6?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-09T14:02:17Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Presencial\")"
+    },
+    "infojobs_es_eea82fa0614923837b83894087d526": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Flutter (Remoto)",
+      "company": "EDB - EXPORTADORA DATA BASE, S.A.",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-flutter-remoto/of-ieea82fa0614923837b83894087d526?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T09:29:40Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_06393a6a404852958ec101ee07c38b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "DESARROLLADOR/A FULL STACK FLUTTER–DART / PHP / SQL ",
+      "company": "Treyder Informática, SL",
+      "url": "https://www.infojobs.net//www.infojobs.net/las-palmas-de-gran-canaria/desarrollador-full-stack-flutter-dart-php-sql/of-i06393a6a404852958ec101ee07c38b?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T15:00:08Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_f873cde72747009fa4afe72339c77e": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Full Stack developer",
+      "company": "REXUNIVERSAL SL.",
+      "url": "https://www.infojobs.net//www.infojobs.net/marbella/full-stack-developer/of-if873cde72747009fa4afe72339c77e?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-14T19:00:05Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Presencial\")"
+    },
+    "infojobs_es_8cd540bf2d4cbcb257d62f61dd114c": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Analista Programador/a .NET SSR/SR",
+      "company": "MADISAPALMA, S.A.",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/analista-programador-.net-ssr-sr/of-i8cd540bf2d4cbcb257d62f61dd114c?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-12T20:59:55Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "junior_only",
+      "elimination_reason": "seniority (senior/lead) in title: \"Analista Programador/a .NET SSR/SR\""
+    },
+    "infojobs_es_1c80676b1947c9b30ffe610857d628": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a de Aplicaciones Móviles",
+      "company": "CLÍNICAS DORSIA",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-aplicaciones-moviles/of-i1c80676b1947c9b30ffe610857d628?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-08T10:49:22Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_f0a8723bea41b88cde0090404c2aef": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Diseñador/a gráfico/a",
+      "company": "ClickCarNet SL",
+      "url": "https://www.infojobs.net//www.infojobs.net/castellfollit-de-la-roca/disenador-grafico/of-if0a8723bea41b88cde0090404c2aef?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T09:24:27Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_44ca6498df42269d6502d67c3afd68": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Técnico/a informático/a",
+      "company": "ClickCarNet SL",
+      "url": "https://www.infojobs.net//www.infojobs.net/castellfollit-de-la-roca/tecnico-informatico/of-i44ca6498df42269d6502d67c3afd68?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T08:49:00Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_b5ab5d18224da0a7793e96f2193602": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Tech Lead iOS (Swift) with French",
+      "company": "ADCenter Spain Capgemini",
+      "url": "https://www.infojobs.net//www.infojobs.net/valencia/tech-lead-ios-swift-with-french/of-ib5ab5d18224da0a7793e96f2193602?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T13:26:03Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "junior_only",
+      "elimination_reason": "seniority (senior/lead) in title: \"Tech Lead iOS (Swift) with French\""
+    },
+    "infojobs_es_1e4f59bd2c475eaa42cdba85c19803": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Tech Lead iOS (Swift) with French",
+      "company": "ADCenter Spain Capgemini",
+      "url": "https://www.infojobs.net//www.infojobs.net/murcia/tech-lead-ios-swift-with-french/of-i1e4f59bd2c475eaa42cdba85c19803?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T13:25:46Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "junior_only",
+      "elimination_reason": "seniority (senior/lead) in title: \"Tech Lead iOS (Swift) with French\""
+    },
+    "infojobs_es_2c7951087647599f738f8dd606fd7e": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Software engineer .NET C#",
+      "company": "Fihoca S.A.",
+      "url": "https://www.infojobs.net//www.infojobs.net/palau-solita-i-plegamans/software-engineer-.net-c/of-i2c7951087647599f738f8dd606fd7e?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-13T08:05:04Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_30cf31baed4078a021256f06ec579e": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "QA Automation &amp; AI Engineer",
+      "company": "POWER ELECTRONICS",
+      "url": "https://www.infojobs.net//www.infojobs.net/lliria/qa-automation-amp-ai-engineer/of-i30cf31baed4078a021256f06ec579e?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-07T07:30:05Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_ed26e447bd4f0e853a8c5d53e0ec8a": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "ANALISTA/PROGRAMADOR JAVA",
+      "company": "Memorandum Multimedia S.L.",
+      "url": "https://www.infojobs.net//www.infojobs.net/zaragoza/analista-programador-java/of-ied26e447bd4f0e853a8c5d53e0ec8a?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-06T14:46:27Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_3032a2d57d43b396a2d475f45cebca": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Fullstack Developer (React &amp; NestJS)",
+      "company": "PRIMER IMPACTO",
+      "url": "https://www.infojobs.net//www.infojobs.net/badalona/fullstack-developer-react-amp-nestjs/of-i3032a2d57d43b396a2d475f45cebca?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-10T09:54:33Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_23b1b8bb8d4e788901d0281d26f6ba": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Software engineer",
+      "company": "LIGHTFIELD MEDICAL EUROPE, S.L.U.",
+      "url": "https://www.infojobs.net//www.infojobs.net/viladecans/software-engineer/of-i23b1b8bb8d4e788901d0281d26f6ba?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-06T10:16:12Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_db14674b32478bb5050199c9f19fd6": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador FullStack",
+      "company": "Talent Search People",
+      "url": "https://www.infojobs.net//www.infojobs.net/barcelona/desarrollador-fullstack/of-idb14674b32478bb5050199c9f19fd6?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-02-18T15:24:14Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_ebba2238fb4f17a8cca802c93c19d2": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Backend Engineer (Kotlin/Java) - Scale-up Internacional - Teletrabajo Híbrido",
+      "company": "Q-TECH",
+      "url": "https://www.infojobs.net//www.infojobs.net/barcelona/backend-engineer-kotlin-java-scale-up-internacional-teletrabajo-hibrido/of-iebba2238fb4f17a8cca802c93c19d2?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-14T10:30:07Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_759ebd63ec4fa7b44bfddc09307535": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Java/Kotlin Backend Developer (NLP ) – Remoto",
+      "company": "MELT GROUP",
+      "url": "https://www.infojobs.net//www.infojobs.net/valencia/java-kotlin-backend-developer-nlp-remoto/of-i759ebd63ec4fa7b44bfddc09307535?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T12:18:43Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_e29741f4384473b23e97e3b2778cc8": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Android Developer (Kotlin) – Madrid | Teletrabajo",
+      "company": "ALVEA SOLUCIONES TECNOLOGICAS, S.L.",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/android-developer-kotlin-madrid-teletrabajo/of-ie29741f4384473b23e97e3b2778cc8?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-13T11:18:33Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_3ee4f2c9d24af39f5461f70772482f": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Junior Software Engineer Backend (Java/Kotlin)",
+      "company": "Aubay",
+      "url": "https://www.infojobs.net//www.infojobs.net/esparreguera/junior-software-engineer-backend-java-kotlin/of-i3ee4f2c9d24af39f5461f70772482f?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-30T09:49:11Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_d8a47ee51f4164ba336d8974b62370": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Android Remoto 100%  / Madrid",
+      "company": "TECDATA ENGINEERING",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-android-remoto-100-madrid/of-id8a47ee51f4164ba336d8974b62370?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T08:04:12Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_fbbf019c3042ee932b0570903a0880": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador de Movilidad (iOS / Android)",
+      "company": "Azertium IT Global Services SL",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-movilidad-ios-android/of-ifbbf019c3042ee932b0570903a0880?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T11:58:03Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_5b3d7aa0434edba5673964e2f77145": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Android",
+      "company": "TECDATA ENGINEERING",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-android/of-i5b3d7aa0434edba5673964e2f77145?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-13T08:56:34Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_e48e1c660540edb0a09e6862f3bf83": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Senior Android Developer",
+      "company": "MELT GROUP",
+      "url": "https://www.infojobs.net//www.infojobs.net/fuenlabrada/senior-android-developer/of-ie48e1c660540edb0a09e6862f3bf83?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-08T08:08:19Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "junior_only",
+      "elimination_reason": "seniority (senior/lead) in title: \"Senior Android Developer\""
+    },
+    "infojobs_es_b3acaf3da04b75855368c9a8b6b4be": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Ruby on Rails | Híbrido (Madrid, Jaén, Granada, Córdoba, Sevilla)",
+      "company": "Grupo Hasten",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-ruby-on-rails-hibrido-madrid-jaen-granada-cordoba-sevilla/of-ib3acaf3da04b75855368c9a8b6b4be?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-06T10:46:26Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_5031bf2c79486bad97866a08b0f98b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Application Engineer (producto electrónico)",
+      "company": "Talentae Recursos Humanos",
+      "url": "https://www.infojobs.net//www.infojobs.net/castellbisbal/application-engineer-producto-electronico/of-i5031bf2c79486bad97866a08b0f98b?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-31T15:07:56Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_5423bee75f4c2380f88ed4a17dc53c": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Senior Android Developer - 100% remoto",
+      "company": "ENTELGY - Zona Madrid",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/senior-android-developer-100-remoto/of-i5423bee75f4c2380f88ed4a17dc53c?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-25T16:28:38Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "junior_only",
+      "elimination_reason": "seniority (senior/lead) in title: \"Senior Android Developer - 100% remoto\""
+    },
+    "infojobs_es_8e38d6688a47f2a2fe00814937089e": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "DESARROLLADOR/A ANDROID",
+      "company": "GAME",
+      "url": "https://www.infojobs.net//www.infojobs.net/pozuelo-de-alarcon/desarrollador-android/of-i8e38d6688a47f2a2fe00814937089e?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-25T09:15:20Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Presencial\")"
+    },
+    "infojobs_es_9faea8ba25457d934344c1c641f94a": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador iOS/Android - 100% Teletrabajo",
+      "company": "Ioon Technologies SLU",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-ios-android-100-teletrabajo/of-i9faea8ba25457d934344c1c641f94a?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T11:48:45Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_573e8ae8a047b3ba5aa8ea3084866e": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Software engineer",
+      "company": "HANDPOINT SL.",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/software-engineer/of-i573e8ae8a047b3ba5aa8ea3084866e?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-03-04T18:07:52Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_39af697927414bb4f0a6c0290089fa": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a REACT NATIVE / Remoto",
+      "company": "METRICA CONSULTING",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/desarrollador-react-native-remoto/of-i39af697927414bb4f0a6c0290089fa?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-02-27T12:06:13Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "freelance_only",
+      "elimination_reason": "employment contract: \"Contrato indefinido\" (reject indicator \"contrato indefinido\")"
+    },
+    "infojobs_es_cc7b29f4aa4fd392271e78d68f9a36": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Fullstack React - PHP",
+      "company": "BESIDE",
+      "url": "https://www.infojobs.net//www.infojobs.net/barcelona/desarrollador-fullstack-react-php/of-icc7b29f4aa4fd392271e78d68f9a36?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-17T12:46:48Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
+    },
+    "infojobs_es_bae0b78fe24408aa6fb290f08235d6": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Technical Support Specialist",
+      "company": "HANDPOINT SL.",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/technical-support-specialist/of-ibae0b78fe24408aa6fb290f08235d6?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-04-19T06:43:45.565539+00:00",
+      "pub_date": "2026-04-16T15:30:06Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_filter": "remote_only",
+      "elimination_reason": "not fully remote (teleworking = \"Híbrido\")"
     }
   },
   "daily_stats": {
@@ -3621,10 +4089,10 @@
       ]
     },
     "2026-04-19": {
-      "total_found": 37,
-      "total_new": 37,
+      "total_found": 96,
+      "total_new": 73,
       "notified": 10,
-      "eliminated": 12,
+      "eliminated": 48,
       "high_score": 0,
       "mid_score": 13,
       "ambiguous_contract": 23,
@@ -3653,60 +4121,59 @@
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-19T06:07:57.746878+00:00"
+      "last_success": "2026-04-19T06:44:03.588658+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-19T06:07:57.746878+00:00"
+      "last_success": "2026-04-19T06:44:03.588658+00:00"
     },
     "jobicy": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-19T06:07:57.746878+00:00",
+      "last_success": "2026-04-19T06:44:03.588658+00:00",
       "note": "default /feed/newjob URL returns HTML (404); used alt URL /?feed=job_feed&search_keywords=<kw>"
     },
     "infojobs_es": {
-      "consecutive_failures": 3,
-      "last_success": "2026-04-18T12:35:52Z",
-      "last_error": "Distil captcha (proxy returned captcha page)"
+      "consecutive_failures": 0,
+      "last_success": "2026-04-19T06:44:03.588658+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-18T15:49:51.335223Z",
       "last_error": "SPA shell, no job search results in SSR HTML"
     },
     "landingjobs": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-18T15:49:51.335223Z",
       "last_error": "Client-rendered job listings not in SSR HTML"
     },
     "indeed_uk": {
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_it": {
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_de": {
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_es": {
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_fr": {
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "glassdoor": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-19T06:07:57.746878+00:00"
+      "last_success": "2026-04-19T06:44:03.588658+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,

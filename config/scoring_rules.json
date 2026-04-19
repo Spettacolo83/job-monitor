@@ -18,8 +18,8 @@
         "de": ["100% remote", "vollständig remote", "Remote-Arbeit", "Remote-Position"],
         "fr": ["100% télétravail", "full remote", "entièrement à distance", "poste en télétravail"]
       },
-      "when_ambiguous": "reject",
-      "notes": "IMPORTANT: If the job does NOT explicitly mention remote/full remote, REJECT it. A city name in the location (e.g. 'Barcelona', 'Berlin', 'Milano') without 'remote' is a strong signal of on-site work — REJECT. Only PASS if remote is explicitly confirmed."
+      "when_ambiguous": "use_ai_analysis",
+      "notes": "When keywords alone are ambiguous, Claude must READ the full job description and determine: is this job full remote, hybrid, or on-site? Use context clues: Does it mention an office address? Does it say 'work from our office in X'? Does it mention flexible/remote as a perk? Does it list location as just a city with no remote mention? For Junior positions, assume on-site unless explicitly stated otherwise. See routine/prompt.md for detailed AI analysis instructions."
     },
     {
       "id": "freelance_only",

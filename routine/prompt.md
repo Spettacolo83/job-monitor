@@ -96,10 +96,23 @@ curl -s -L --max-time 30 "{job_url}" -H "User-Agent: Mozilla/5.0 (Macintosh; Int
 
 Apply elimination filters from `scoring_rules.json`:
 
-### Filter: remote_only
+### Filter: remote_only (AI-powered analysis)
 - Check for `reject_indicators` in the job text. If found → **ELIMINATE**.
 - Check for `accept_indicators`. If found → **PASS**.
-- If ambiguous (neither found) → **PASS** (do not eliminate, but flag as ambiguous).
+- If ambiguous (neither found) → **DO NOT pass or reject based on keywords alone. Instead, perform INTELLIGENT ANALYSIS of the full job description:**
+
+**AI Remote Analysis — you MUST do this for every ambiguous job:**
+Read the entire job description and answer these questions:
+1. Does it mention an office address or "work from our office in X"? → likely ON-SITE → **ELIMINATE**
+2. Does it say "flexible", "remote as a perk", "remote days"? → likely HYBRID → **ELIMINATE**
+3. Does the location field say just a city (e.g. "Barcelona", "Berlin") with no "remote" tag? → likely ON-SITE → **ELIMINATE**
+4. Is it a Junior position with no mention of remote at all? → almost certainly ON-SITE → **ELIMINATE**
+5. Does it mention "distributed team", "work from anywhere", "no office"? → likely REMOTE → **PASS**
+6. Does the company description say they are "remote-first" or "fully distributed"? → **PASS**
+
+**Default for Junior positions**: if remote is not explicitly mentioned, assume ON-SITE and **ELIMINATE**. Junior roles rarely offer full remote — don't give benefit of the doubt.
+
+**Default for non-Junior positions**: if remote is ambiguous, **ELIMINATE** anyway — the candidate requires 100% remote with no exceptions.
 
 ### Filter: freelance_only
 Apply in this order (reject has priority over accept):

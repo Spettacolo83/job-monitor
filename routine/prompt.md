@@ -87,12 +87,26 @@ For each job found, generate an ID: `{site_id}_{md5_hash_of_url}` or `{site_id}_
 
 Check against `seen_jobs.json`. If the ID already exists, skip it entirely.
 
-## Step 4: Apply Elimination Filters
+## Step 4: Fetch Full Job Description + Apply Elimination Filters
 
-For each new (unseen) job, read the full job description. If needed, fetch the detail page:
+**CRITICAL: You MUST fetch and read the FULL job description page for EVERY new job before deciding to pass or reject it.** Never judge a job based only on the title or summary from the search results page. The title alone does not tell you if it's remote, freelance, or Junior.
+
+For each new (unseen) job, fetch the detail page:
+
+**For sites WITHOUT proxy** (use_proxy: false):
 ```bash
 curl -s -L --max-time 30 "{job_url}" -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
 ```
+
+**For sites WITH proxy** (use_proxy: true — Indeed, Glassdoor, etc.):
+```bash
+TARGET_URL="{job_url}"
+ENCODED_URL=$(python3 -c "import urllib.parse; print(urllib.parse.quote('${TARGET_URL}', safe=''))")
+curl -s -L --max-time 60 "http://scraper.followtheflowai.com/fetch?url=${ENCODED_URL}&format=text" \
+  -H "X-API-Key: ${SCRAPER_API_KEY}"
+```
+
+**Read the full text of the job description.** Then apply ALL elimination filters based on the FULL text, not just the title.
 
 Apply elimination filters from `scoring_rules.json`:
 
@@ -113,6 +127,12 @@ Read the entire job description and answer these questions:
 **Default for Junior positions**: if remote is not explicitly mentioned, assume ON-SITE and **ELIMINATE**. Junior roles rarely offer full remote — don't give benefit of the doubt.
 
 **Default for non-Junior positions**: if remote is ambiguous, **ELIMINATE** anyway — the candidate requires 100% remote with no exceptions.
+
+**IMPORTANT**: Apply this same AI analysis approach to ALL elimination filters. For every job, you have the full description — use your intelligence to understand context, not just keyword matching. Examples:
+- "Competitive salary + benefits package + 25 vacation days" → clearly employment, not freelance → ELIMINATE
+- "Join our team in Barcelona" → likely on-site → ELIMINATE
+- "We're looking for a mid-level engineer with 4+ years" → not Junior → ELIMINATE
+- "Remote-first company, work from anywhere in Europe" → remote confirmed → PASS
 
 ### Filter: freelance_only
 Apply in this order (reject has priority over accept):

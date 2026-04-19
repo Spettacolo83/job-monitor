@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T18:01:56.180003Z",
+  "last_updated": "2026-04-19T06:07:57.746878+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -3051,6 +3051,520 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "Senior/Lead in title (junior_only filter)"
+    },
+    "remoteok_1131210": {
+      "site_id": "remoteok",
+      "title": "Senior Sales Operations Analyst",
+      "company": "Honeycomb.io",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority_title:Senior"
+    },
+    "jobicy_e34b1f16534bb3d2": {
+      "site_id": "jobicy",
+      "title": "Web Software Developer",
+      "company": "ECS",
+      "url": "https://jobicy.com/jobs/142051-web-software-developer",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 67,
+      "notified": true,
+      "freshness": "less_than_48h",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_053f66dc22ff9eb6": {
+      "site_id": "jobicy",
+      "title": "Full Stack Web Developer",
+      "company": "California Institute of Applied Technology",
+      "url": "https://jobicy.com/jobs/141976-full-stack-web-developer-2",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 58,
+      "notified": true,
+      "freshness": "less_than_7d",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_23b2ff8f9bad1d15": {
+      "site_id": "jobicy",
+      "title": "Senior Software Developer",
+      "company": "ManTech",
+      "url": "https://jobicy.com/jobs/141798-senior-software-developer-2",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['senior software', 'senior software', 'senior software']"
+    },
+    "jobicy_21d14498fdb5714f": {
+      "site_id": "jobicy",
+      "title": "OneStream Developer",
+      "company": "ManTech",
+      "url": "https://jobicy.com/jobs/141797-onestream-developer",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 58,
+      "notified": true,
+      "freshness": "less_than_7d",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_1f59a6d4e4bc88a7": {
+      "site_id": "jobicy",
+      "title": "Associate OneStream Developer",
+      "company": "ManTech",
+      "url": "https://jobicy.com/jobs/141796-associate-onestream-developer",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 58,
+      "notified": true,
+      "freshness": "less_than_7d",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_0bea2bee2c19ed72": {
+      "site_id": "jobicy",
+      "title": ".NET developer (part-time, 40-60 hours/month)",
+      "company": "TechMagic",
+      "url": "https://jobicy.com/jobs/141687-net-developer-part-time-40-60-hours-month",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['3+ years']"
+    },
+    "jobicy_82e566768b3506db": {
+      "site_id": "jobicy",
+      "title": "Senior Developer, Endpoint Agent",
+      "company": "1Password",
+      "url": "https://jobicy.com/jobs/141662-senior-developer-endpoint-agent",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['senior developer', 'senior developer', 'senior developer']"
+    },
+    "jobicy_5398a150b76fd6e3": {
+      "site_id": "jobicy",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "url": "https://jobicy.com/jobs/141472-machine-learning-developer-freelance",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 55,
+      "notified": true,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "not_specified"
+    },
+    "jobicy_c708a25512ca340a": {
+      "site_id": "jobicy",
+      "title": "Java Developer",
+      "company": "Ingemark",
+      "url": "https://jobicy.com/jobs/141363-java-developer",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 67,
+      "notified": true,
+      "freshness": "older_than_7d",
+      "tech": 100,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_fa236931571c3aae": {
+      "site_id": "jobicy",
+      "title": "Senior Software Engineer II, Developer Experience / Operational Excellence",
+      "company": "Samsara",
+      "url": "https://jobicy.com/jobs/141361-senior-software-engineer-ii-developer-experience-operational-excellence",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['senior software', 'senior software', 'senior software']"
+    },
+    "jobicy_de223b43fa5111c0": {
+      "site_id": "jobicy",
+      "title": "Salesforce Developer",
+      "company": "UCAS",
+      "url": "https://jobicy.com/jobs/141127-salesforce-developer",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 55,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_d865fc0186fc46ed": {
+      "site_id": "jobicy",
+      "title": "Senior Python Developer – Code Migration Specialist",
+      "company": "Mindrift",
+      "url": "https://jobicy.com/jobs/140920-senior-python-developer-code-migration-specialist",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority_title:Senior"
+    },
+    "jobicy_fcdf58a19c02af81": {
+      "site_id": "jobicy",
+      "title": "Junior QA Engineer",
+      "company": "TechMagic",
+      "url": "https://jobicy.com/jobs/141365-junior-qa-engineer-2",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 65,
+      "notified": true,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_e3b469c6521f7015": {
+      "site_id": "jobicy",
+      "title": "Junior Account Manager",
+      "company": "Automat-it",
+      "url": "https://jobicy.com/jobs/141149-junior-account-manager",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 60,
+      "notified": true,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract"
+      ]
+    },
+    "jobicy_e69863829b19713d": {
+      "site_id": "jobicy",
+      "title": "Freelance Junior Journalist – AI Trainer",
+      "company": "Mindrift",
+      "url": "https://jobicy.com/jobs/140919-freelance-junior-journalist-ai-trainer-2",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 54,
+      "freshness": "older_than_7d",
+      "tech": 40,
+      "seniority": "junior"
+    },
+    "jobicy_0fa3b90b73a7f804": {
+      "site_id": "jobicy",
+      "title": "Senior Full-Stack Mobile Engineer (Flutter/Python) (Remote, Latam)",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/141184-senior-full-stack-mobile-engineer-flutter-python-remote-latam",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['senior full']"
+    },
+    "jobicy_55da78764d9535f0": {
+      "site_id": "jobicy",
+      "title": "Senior Backend Engineer(Golang) – PerfectScale by DoiT",
+      "company": "DoiT International",
+      "url": "https://jobicy.com/jobs/141148-senior-backend-engineergolang-perfectscale-by-doit",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['senior backend']"
+    },
+    "jobicy_bbb3129f643d2e2d": {
+      "site_id": "jobicy",
+      "title": "Senior Biostatistician",
+      "company": "Everest Clinical Research",
+      "url": "https://jobicy.com/jobs/141553-senior-biostatistician",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority_title:Senior"
+    },
+    "glassdoor_1010024507708": {
+      "site_id": "glassdoor",
+      "title": "Front-End Tech Lead (m/f/x)",
+      "company": "PPG",
+      "url": "https://www.glassdoor.es/job-listing/front-end-tech-lead-mfx-ppg-JV_IC2547194_KO0,23_KE24,27.htm?jl=1010024507708",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['tech lead']"
+    },
+    "glassdoor_1010070441065": {
+      "site_id": "glassdoor",
+      "title": "Software Engineer IV (Tech Lead) - Python/Cloud",
+      "company": "TomTom",
+      "url": "https://www.glassdoor.es/job-listing/software-engineer-iv-tech-lead-python-cloud-tomtom-JV_IC2664239_KO0,43_KE44,50.htm?jl=1010070441065",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['tech lead']"
+    },
+    "glassdoor_1010002682200": {
+      "site_id": "glassdoor",
+      "title": "Software Engineering Manager I – Navigation",
+      "company": "TomTom",
+      "url": "https://www.glassdoor.es/job-listing/software-engineering-manager-i-navigation-tomtom-JV_IC2664239_KO0,41_KE42,48.htm?jl=1010002682200",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "eliminated": true,
+      "eliminated_reason": "seniority:['engineering manager']"
+    },
+    "glassdoor_1010087009669": {
+      "site_id": "glassdoor",
+      "title": "Junior Software Developer - SRE OR Backend",
+      "company": "adidas",
+      "url": "https://www.glassdoor.es/job-listing/junior-software-developer-sre-or-backend-adidas-JV_IC2544155_KO0,40_KE41,47.htm?jl=1010087009669",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1010080036893": {
+      "site_id": "glassdoor",
+      "title": "Junior Product Developer Baby Diapers",
+      "company": "Ontex",
+      "url": "https://www.glassdoor.es/job-listing/junior-product-developer-baby-diapers-ontex-JV_KO0,37_KE38,43.htm?jl=1010080036893",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1010104785555": {
+      "site_id": "glassdoor",
+      "title": "Junior Java Developer",
+      "company": "Dentsu",
+      "url": "https://www.glassdoor.es/job-listing/junior-java-developer-dentsu-international-JV_IC2547194_KO0,21_KE22,42.htm?jl=1010104785555",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 69,
+      "notified": true,
+      "freshness": "less_than_48h",
+      "tech": 100,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1010104373165": {
+      "site_id": "glassdoor",
+      "title": "Junior Backend Developer",
+      "company": "Giesecke+Devrient",
+      "url": "https://www.glassdoor.es/job-listing/junior-backend-developer-giesecke-devrient-JV_KO0,24_KE25,42.htm?jl=1010104373165",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 57,
+      "notified": true,
+      "freshness": "less_than_48h",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1009584986879": {
+      "site_id": "glassdoor",
+      "title": "Junior SW Developer",
+      "company": "Ericsson",
+      "url": "https://www.glassdoor.es/job-listing/junior-sw-developer-ericsson-worldwide-JV_IC2664239_KO0,19_KE20,38.htm?jl=1009584986879",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1009904514545": {
+      "site_id": "glassdoor",
+      "title": "Junior Full Stack Developer (Node.js + Redis Focus)",
+      "company": "ToSoft IT Solutions",
+      "url": "https://www.glassdoor.es/job-listing/junior-full-stack-developer-node-js-redis-focus-tosoft-it-solutions-JV_KO0,47_KE48,67.htm?jl=1009904514545",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1009950077262": {
+      "site_id": "glassdoor",
+      "title": "Frontend Developer (m/f/d)",
+      "company": "DEKRA",
+      "url": "https://www.glassdoor.es/job-listing/frontend-developer-mfd-dekra-JV_KO0,22_KE23,28.htm?jl=1009950077262",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 40,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1009939986650": {
+      "site_id": "glassdoor",
+      "title": "ServiceNow Junior Developer 100% (f/m/d)",
+      "company": "Julius Baer",
+      "url": "https://www.glassdoor.es/job-listing/servicenow-junior-developer-100-fmd-julius-baer-JV_IC2664239_KO0,35_KE36,47.htm?jl=1009939986650",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1007481736323": {
+      "site_id": "glassdoor",
+      "title": "Junior Backend Developer",
+      "company": "CHH TECHNOLOGIES",
+      "url": "https://www.glassdoor.es/job-listing/junior-backend-developer-chh-technologies-JV_IC2547194_KO0,24_KE25,41.htm?jl=1007481736323",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1010091893447": {
+      "site_id": "glassdoor",
+      "title": "Junior Business Developer",
+      "company": "FinSolutia",
+      "url": "https://www.glassdoor.es/job-listing/junior-business-developer-finsolutia-JV_IC2664239_KO0,25_KE26,36.htm?jl=1010091893447",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1006239046312": {
+      "site_id": "glassdoor",
+      "title": "Junior Data Management Developer",
+      "company": "Havas Media",
+      "url": "https://www.glassdoor.es/job-listing/junior-data-management-developer-havas-media-JV_IC2664239_KO0,32_KE33,44.htm?jl=1006239046312",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1010079022853": {
+      "site_id": "glassdoor",
+      "title": "Junior Project Manager (all genders)",
+      "company": "BayWa r.e.",
+      "url": "https://www.glassdoor.es/job-listing/junior-project-manager-all-genders-baywa-re-JV_KO0,34_KE35,43.htm?jl=1010079022853",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 39,
+      "freshness": "older_than_7d",
+      "tech": 40,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1009952230419": {
+      "site_id": "glassdoor",
+      "title": "Backend Developer (m/f/d)",
+      "company": "DEKRA",
+      "url": "https://www.glassdoor.es/job-listing/backend-developer-mfd-dekra-JV_KO0,21_KE22,27.htm?jl=1009952230419",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 40,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1009899505637": {
+      "site_id": "glassdoor",
+      "title": "Junior CRM Developer (Microsoft Dynamics 365)",
+      "company": "Ironhack",
+      "url": "https://www.glassdoor.es/job-listing/junior-crm-developer-microsoft-dynamics-365-ironhack-JV_IC4845201_KO0,43_KE44,52.htm?jl=1009899505637",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 45,
+      "freshness": "older_than_7d",
+      "tech": 60,
+      "seniority": "junior",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
+    },
+    "glassdoor_1010105515218": {
+      "site_id": "glassdoor",
+      "title": "Cloud Engineer / DevOps - Google Cloud",
+      "company": "Devoteam",
+      "url": "https://www.glassdoor.es/job-listing/cloud-engineer-devops-google-cloud-devoteam-JV_IC2664239_KO0,34_KE35,43.htm?jl=1010105515218",
+      "first_seen": "2026-04-19T06:07:57.746878+00:00",
+      "last_seen": "2026-04-19T06:07:57.746878+00:00",
+      "score": 52,
+      "freshness": "less_than_48h",
+      "tech": 60,
+      "seniority": "not_specified",
+      "ambiguous": [
+        "ambiguous_contract",
+        "ambiguous_remote"
+      ]
     }
   },
   "daily_stats": {
@@ -3105,65 +3619,94 @@
           "site": "Glassdoor"
         }
       ]
+    },
+    "2026-04-19": {
+      "total_found": 37,
+      "total_new": 37,
+      "notified": 10,
+      "eliminated": 12,
+      "high_score": 0,
+      "mid_score": 13,
+      "ambiguous_contract": 23,
+      "top_3": [
+        {
+          "score": 69,
+          "title": "Junior Java Developer",
+          "company": "Dentsu",
+          "site": "Glassdoor"
+        },
+        {
+          "score": 67,
+          "title": "Web Software Developer",
+          "company": "ECS",
+          "site": "Jobicy"
+        },
+        {
+          "score": 67,
+          "title": "Java Developer",
+          "company": "Ingemark",
+          "site": "Jobicy"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T18:01:56.180003Z"
+      "last_success": "2026-04-19T06:07:57.746878+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T18:01:56.180003Z"
+      "last_success": "2026-04-19T06:07:57.746878+00:00"
     },
     "jobicy": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T18:01:56.180003Z",
+      "last_success": "2026-04-19T06:07:57.746878+00:00",
       "note": "default /feed/newjob URL returns HTML (404); used alt URL /?feed=job_feed&search_keywords=<kw>"
     },
     "infojobs_es": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-18T12:35:52Z",
-      "last_error": "Distil captcha redirect (anti-bot)"
+      "last_error": "Distil captcha (proxy returned captcha page)"
     },
     "welcometothejungle": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-18T15:49:51.335223Z",
-      "last_error": "SPA returns shell, no job data in HTML"
+      "last_error": "SPA shell, no job search results in SSR HTML"
     },
     "landingjobs": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-18T15:49:51.335223Z",
-      "last_error": "No job listings parseable in SSR HTML (client-rendered)"
+      "last_error": "Client-rendered job listings not in SSR HTML"
     },
     "indeed_uk": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_it": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_de": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_es": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "indeed_fr": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": null,
       "last_error": "404 Not Found (RSS deprecated)"
     },
     "glassdoor": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-18T18:01:56.180003Z"
+      "last_success": "2026-04-19T06:07:57.746878+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,

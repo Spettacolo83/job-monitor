@@ -1,3 +1,11 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "job_id": "jobicy_fcdf58a19c02af81",
+      "chat_id": "181648234",
+      "message_text": "🟡 Score: 65/100 | Junior QA Engineer\n🏢 TechMagic — N/D\n💼 ⚠️ contratto non chiaro\n🔧 developer\n📅 20 giorni fa — via Jobicy\n\n✅ Match: seniority=junior, tech=60, freshness=older_than_7d\n\n🔗 https://jobicy.com/jobs/141365-junior-qa-engineer-2",
+      "requested_at": "2026-04-19T06:12:54.798Z",
+      "status": "pending"
+    }
+  ]
 }

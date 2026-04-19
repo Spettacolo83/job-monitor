@@ -3,22 +3,23 @@
   "elimination_filters": [
     {
       "id": "remote_only",
-      "description": "Must be 100% remote — any on-site or hybrid requirement eliminates the job",
+      "description": "Must be EXPLICITLY 100% remote. If remote is not clearly confirmed, REJECT. Junior positions are almost always on-site or hybrid unless they explicitly say remote — do NOT give benefit of the doubt.",
       "reject_indicators": {
-        "en": ["on-site", "in-office", "office-based", "hybrid", "days in office", "relocate to", "must be based in"],
-        "it": ["in sede", "in ufficio", "ibrido", "presenza richiesta", "sede di lavoro"],
-        "es": ["presencial", "en oficina", "híbrido", "presencia requerida", "sede de trabajo"],
-        "de": ["vor Ort", "im Büro", "hybrid", "Büropflicht"],
-        "fr": ["sur site", "au bureau", "hybride", "présentiel"]
+        "en": ["on-site", "in-office", "office-based", "hybrid", "days in office", "relocate to", "must be based in", "office location", "work from office", "onsite", "in office", "office days", "2 days in office", "3 days in office"],
+        "it": ["in sede", "in ufficio", "ibrido", "presenza richiesta", "sede di lavoro", "sede operativa", "presenza in ufficio"],
+        "es": ["presencial", "en oficina", "híbrido", "presencia requerida", "sede de trabajo", "ubicación oficina", "jornada presencial"],
+        "de": ["vor Ort", "im Büro", "hybrid", "Büropflicht", "Standort", "Präsenz"],
+        "fr": ["sur site", "au bureau", "hybride", "présentiel", "en présentiel"]
       },
       "accept_indicators": {
-        "en": ["fully remote", "100% remote", "remote-first", "work from anywhere", "remote only", "distributed team"],
-        "it": ["full remote", "completamente remoto", "lavoro da remoto", "100% remoto"],
-        "es": ["100% remoto", "totalmente remoto", "trabajo remoto", "teletrabajo"],
-        "de": ["100% remote", "vollständig remote", "Remote-Arbeit"],
-        "fr": ["100% télétravail", "full remote", "entièrement à distance"]
+        "en": ["fully remote", "100% remote", "remote-first", "work from anywhere", "remote only", "distributed team", "remote position", "work remotely", "remote role", "location: remote", "remote - worldwide", "remote - europe"],
+        "it": ["full remote", "completamente remoto", "lavoro da remoto", "100% remoto", "posizione remota"],
+        "es": ["100% remoto", "totalmente remoto", "trabajo remoto", "teletrabajo", "posición remota", "ubicación remota"],
+        "de": ["100% remote", "vollständig remote", "Remote-Arbeit", "Remote-Position"],
+        "fr": ["100% télétravail", "full remote", "entièrement à distance", "poste en télétravail"]
       },
-      "when_ambiguous": "do_not_reject"
+      "when_ambiguous": "reject",
+      "notes": "IMPORTANT: If the job does NOT explicitly mention remote/full remote, REJECT it. A city name in the location (e.g. 'Barcelona', 'Berlin', 'Milano') without 'remote' is a strong signal of on-site work — REJECT. Only PASS if remote is explicitly confirmed."
     },
     {
       "id": "freelance_only",

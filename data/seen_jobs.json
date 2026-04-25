@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T06:34:40.246725+00:00",
+  "last_updated": "2026-04-25T14:45:24.243636+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -8082,6 +8082,462 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "Not a target role (non-developer or off-profile)"
+    },
+    "weworkremotely_b5d17aa80d32": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "priceloop junior customer support specialist german speaking",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/priceloop-junior-customer-support-specialist-german-speaking",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Customer support role, not software dev"
+    },
+    "weworkremotely_01940be7e44c": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "castille resources junior product owner",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/castille-resources-junior-product-owner",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Product owner role, not software dev"
+    },
+    "weworkremotely_866e84480ca6": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "fabulous retool and nocode low code engineer junior product manager",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/fabulous-retool-and-nocode-low-code-engineer-junior-product-manager",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Product manager role, not software dev"
+    },
+    "weworkremotely_61111a1cd53d": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "1nce product owner frontend all",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/1nce-product-owner-frontend-all",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Product owner role, not software dev"
+    },
+    "arcdev_229224f5e148": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "senior ai engineer ww ft ojtkgd5wo3",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/senior-ai-engineer-ww-ft-ojtkgd5wo3",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: senior role"
+    },
+    "arcdev_345181a4fcae": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "princeton plasma physics laboratory pppl quality assurance engineer okaxd0h0cq",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/princeton-plasma-physics-laboratory-pppl-quality-assurance-engineer-okaxd0h0cq",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not dev role (QA)"
+    },
+    "arcdev_ff36b2c0a232": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "fanatics java software engineer iii okawc80eyt",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/fanatics-java-software-engineer-iii-okawc80eyt",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: level III (mid-level)"
+    },
+    "arcdev_56d494ec639b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "ileaf digital shopify designer okaz1qg94c",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/ileaf-digital-shopify-designer-okaz1qg94c",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not dev role (designer)"
+    },
+    "weworkremotely_56ea05561f37": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "Full-stack/Backend developers LLM focused (Outlier)",
+      "company": "CloudDevs / Outlier",
+      "url": "https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-07T00:00:00Z",
+      "notified": true,
+      "eliminated": false,
+      "score": 52
+    },
+    "weworkremotely_444f5515e97e": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "gluckliche gaste backend engineer typescript node js devops mindset m w d",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/gluckliche-gaste-backend-engineer-typescript-node-js-devops-mindset-m-w-d",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "language_requirement: Sehr gute Deutschkenntnisse required; freelance_only: 30 Tage Urlaub + Pension + multi-year exp = employment"
+    },
+    "weworkremotely_40392e9d0306": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "31 green ltd full stack developer backend focus",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: 5+ years experience required (not junior)"
+    },
+    "weworkremotely_5e72146e7d66": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "mobena frontend engineer",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: $75k-$99k USD annual salary indicates employment, not freelance"
+    },
+    "weworkremotely_d42080395c63": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "functn frontend full stack developer m w d",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/functn-frontend-full-stack-developer-m-w-d",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: Bruttojahresgehalt RAL €51.500 + multiple employee benefits (Öffi-Ticket, lunch, etc.) = employment"
+    },
+    "weworkremotely_6b7f68f92c92": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "the corvus group inc react frontend developer",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/the-corvus-group-inc-react-frontend-developer",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: explicitly mid-level (2-4 years); freelance_only: medical/dental/401k/PTO = employment"
+    },
+    "weworkremotely_807a40d27c12": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "marbis frontend devops engineer full or part time m f x",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/marbis-frontend-devops-engineer-full-or-part-time-m-f-x",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: Mental Health Day + Company Pension Plan + JobRad + ergonomic furniture subsidy = employee position"
+    },
+    "weworkremotely_6ea17f81aec5": {
+      "site_id": "weworkremotely",
+      "site_name": "WeWorkRemotely",
+      "title": "speechify inc software engineer ios core product",
+      "company": "",
+      "url": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: posting requires Senior iOS Engineer despite ambiguous title"
+    },
+    "himalayas_2178bfe8f9e0": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Copy of Technical Solution Analyst – Network & Infrastructure",
+      "company": "Miratech",
+      "url": "https://himalayas.app/companies/miratech/jobs/copy-of-technical-solution-analyst-network-infrastructure",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-25T09:53:52+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Mid-level + Mexico-only location, not dev role"
+    },
+    "himalayas_0947b2c60b66": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer I",
+      "company": "LexisNexis",
+      "url": "https://himalayas.app/companies/lexisnexis/jobs/software-engineer-i",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-25T09:47:26+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "India-only location restriction"
+    },
+    "himalayas_d407bfb701a3": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer",
+      "company": "Reddit",
+      "url": "https://himalayas.app/companies/reddit/jobs/software-engineer",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-25T09:47:16+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Mid-level + Canada-only location"
+    },
+    "himalayas_33e58e409690": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Node.js Fullstack Engineer",
+      "company": "Robots & Pencils",
+      "url": "https://himalayas.app/companies/robots-pencils/jobs/node-js-fullstack-engineer",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-25T09:44:28+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Mid-level + Canada-only location"
+    },
+    "himalayas_545940d800df": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Lead Solution Architect (Healthcare)",
+      "company": "Raintree Systems",
+      "url": "https://himalayas.app/companies/raintree-systems/jobs/lead-solution-architect-healthcare",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-25T09:44:28+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Lead/Senior + US-only location"
+    },
+    "himalayas_61f67bf25da4": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sr. Business Development Manager",
+      "company": "Southern States, LLC",
+      "url": "https://himalayas.app/companies/southern-states-llc/jobs/sr-business-development-manager",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-25T09:42:53+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Senior + US-only location, business development not dev"
+    },
+    "arcdev_0ae301d5c6bf": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "experienced ninjatrader developer part time worldwide overlap with pst okaqkord4s",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/experienced-ninjatrader-developer-part-time-worldwide-overlap-with-pst-okaqkord4s",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: requires 3-5 years experience (not junior)"
+    },
+    "arcdev_231704f0acb6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "qa dev tester ok15vwec4o",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/qa-dev-tester-ok15vwec4o",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "QA tester role, not dev"
+    },
+    "arcdev_d644834157fe": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Fluent English Web Developer – Client Calls",
+      "company": "(Small dev team)",
+      "url": "https://arc.dev/remote-jobs/details/fluent-english-web-developer-client-calls-ok0rzyz507",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": "2026-04-23T00:00:00Z",
+      "notified": true,
+      "eliminated": false,
+      "score": 81
+    },
+    "arcdev_7502c08fd9ee": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "part time backend developer with product development knowledge ojr7wmplvn",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/part-time-backend-developer-with-product-development-knowledge-ojr7wmplvn",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: requires 3-5 years experience (not junior)"
+    },
+    "arcdev_65e0d9720e4c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "full stack developer php laravel sql server ojp78e9hwq",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/full-stack-developer-php-laravel-sql-server-ojp78e9hwq",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: requires 3+ years PHP/Laravel; freelance_only: full-time role with annual salary US$25K-45K"
+    },
+    "arcdev_449bc2bd0bf6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "sporticulture microsoft business central developer okaxcz3uh5",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/sporticulture-microsoft-business-central-developer-okaxcz3uh5",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Microsoft Business Central — niche tech, not dev candidate fit"
+    },
+    "infojobs_es_of-i00041b093a4963b7eefbf8424df226": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-i00041b093a4963b7eefbf8424df226",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Madrid/Bilbao office with only 2 días teletrabajo (hybrid); freelance_only: Contrato indefinido"
+    },
+    "infojobs_es_of-i0b02d84c974e5b8399b6264274aedb": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Pega Developer – 100% teletrabajo",
+      "company": "",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/pega-developer-100-teletrabajo/of-i0b02d84c974e5b8399b6264274aedb?applicationOrigin=search-new&amp;page=1&amp;sortBy=RELEVANCE",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech mismatch: Pega RPA platform (niche tech, not in candidate profile); detail page blocked by captcha — no further verification possible"
+    },
+    "infojobs_es_of-i83ba1679bd402aaba0ad9eb871baa7": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-i83ba1679bd402aaba0ad9eb871baa7",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: explicitly senior-developer in URL/title; freelance_only: Contrato indefinido"
+    },
+    "infojobs_es_of-i761debf91b40a1b5762818433c6b47": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-i761debf91b40a1b5762818433c6b47",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: \"principalmente remoto\" not 100%; freelance_only: Contrato indefinido + seguro médico + ticket restaurante; senior profile (AI Observability Specialist)"
+    },
+    "infojobs_es_of-i35d450759d4d5e9878cd0f6429ef06": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Business Developer Junior - Consultoría I+D",
+      "company": "",
+      "url": "https://www.infojobs.net//www.infojobs.net/barcelona/business-developer-junior-consultoria-d/of-i35d450759d4d5e9878cd0f6429ef06?applicationOrigin=search-new&amp;page=1&amp;sortBy=RELEVANCE",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Business development role, not software development"
+    },
+    "infojobs_es_of-i2f8b9566f743f29aac51216dcefc32": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-i2f8b9566f743f29aac51216dcefc32",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Monção location (IT support role); freelance_only: Contrato indefinido"
+    },
+    "infojobs_es_of-icf425cffd14cc794fbc71be6de7be1": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-icf425cffd14cc794fbc71be6de7be1",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: Technical Lead (senior); freelance_only: salary 40-46K€/year RAL + Contrato indefinido"
+    },
+    "infojobs_es_of-ia992ad45fe419595284521cac69e37": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-ia992ad45fe419595284521cac69e37",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: 5+ years required; freelance_only: salary €65K-€85K/year RAL + Contrato indefinido"
+    },
+    "infojobs_es_of-i01a6cf604a4653a464b374ba220621": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-i01a6cf604a4653a464b374ba220621",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech mismatch: Junior Planner (construction PM, not software developer); remote_only: hybrid 2d teletrabajo"
+    },
+    "infojobs_es_of-i93ef5a19774a4bb41e8e475f73571b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "(unknown)",
+      "company": "",
+      "url": "https://www.infojobs.net/of-i93ef5a19774a4bb41e8e475f73571b",
+      "first_seen": "2026-04-25T14:45:24.243636+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: alojamiento proporcionado in Varallo = on-site; freelance_only: Contrato laboral + 14 pagas (employee position)"
     }
   },
   "daily_stats": {
@@ -8170,7 +8626,7 @@
       "total_found": 53,
       "total_new": 53,
       "notified": 2,
-      "eliminated": 49,
+      "eliminated": 85,
       "high_score": 1,
       "mid_score": 1,
       "ambiguous_contract": 0,
@@ -8187,26 +8643,29 @@
           "company": "",
           "site": "Arc.dev"
         }
-      ]
+      ],
+      "total": 2,
+      "high": 1,
+      "medium": 1
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "last_success": "2026-04-25T14:45:24.243636+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "last_success": "2026-04-25T14:45:24.243636+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS feed returned HTML (not parseable as XML)"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "last_success": "2026-04-25T14:45:24.243636+00:00"
     },
     "welcometothejungle": {
       "consecutive_failures": 4,
@@ -8219,33 +8678,34 @@
       "last_error": "No parseable listings (SPA, JS-rendered)"
     },
     "indeed_uk": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_success": null,
-      "last_error": "RSS deprecated (404/Cloudflare 403 challenge)"
+      "last_error": "Cloudflare 403 challenge"
     },
     "indeed_it": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_success": null,
-      "last_error": "RSS deprecated (404/Cloudflare 403 challenge)"
+      "last_error": "Cloudflare 403 challenge"
     },
     "indeed_de": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_success": null,
-      "last_error": "RSS deprecated (404/Cloudflare 403 challenge)"
+      "last_error": "Cloudflare 403 challenge"
     },
     "indeed_es": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_success": null,
-      "last_error": "RSS deprecated (404/Cloudflare 403 challenge)"
+      "last_error": "Cloudflare 403 challenge"
     },
     "indeed_fr": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_success": null,
-      "last_error": "RSS deprecated (404/Cloudflare 403 challenge)"
+      "last_error": "Cloudflare 403 challenge"
     },
     "glassdoor": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-25T06:34:40.246725+00:00",
+      "last_error": "Cloudflare 403 challenge"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -8253,19 +8713,20 @@
     },
     "weworkremotely": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "last_success": "2026-04-25T14:45:24.243636+00:00"
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "last_success": "2026-04-25T14:45:24.243636+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "last_success": "2026-04-25T14:45:24.243636+00:00"
     },
     "justremote": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-25T06:34:40.246725+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-25T06:34:40.246725+00:00",
+      "last_error": "Empty response (network/DNS issue)"
     }
   }
 }

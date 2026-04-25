@@ -12,10 +12,8 @@
       "base_url": "https://weworkremotely.com/remote-jobs/search",
       "params": { "term": "{keyword}" },
       "keywords": ["junior developer", "junior", "entry level", "iOS", "Android", "Flutter", "React Native", "frontend", "backend", "mobile"],
-      "notes": "Remote-only site — all jobs are remote by definition",
-      "enabled": true,
-      "use_proxy": true,
-      "all_remote": true
+      "enabled": false,
+      "disabled_reason": "Requires payment to access/apply to job listings"
     },
     {
       "id": "himalayas",

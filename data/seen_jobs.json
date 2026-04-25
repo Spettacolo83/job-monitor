@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T14:45:24.243636+00:00",
+  "last_updated": "2026-04-25T18:29:26.558276+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -8538,6 +8538,30 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "remote_only: alojamiento proporcionado in Varallo = on-site; freelance_only: Contrato laboral + 14 pagas (employee position)"
+    },
+    "remoteok_1131315": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Tech Lead Mobile Developer Risora",
+      "company": "SKELAR",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315",
+      "first_seen": "2026-04-25T18:29:26.558276+00:00",
+      "pub_date": "2026-04-24T16:00:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title says 'Senior Tech Lead' and description targets Tech Lead with 'ambition to grow into CTO and co-founder'"
+    },
+    "remoteok_1131314": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Full Stack Product Engineer",
+      "company": "Pivotal Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314",
+      "first_seen": "2026-04-25T18:29:26.558276+00:00",
+      "pub_date": "2026-04-24T16:00:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: 'About the Role: We're hiring a Staff Software Engineer' (Staff level, not junior)"
     }
   },
   "daily_stats": {
@@ -8623,87 +8647,68 @@
       ]
     },
     "2026-04-25": {
-      "total_found": 53,
-      "total_new": 53,
-      "notified": 2,
-      "eliminated": 85,
-      "high_score": 1,
-      "mid_score": 1,
-      "ambiguous_contract": 0,
-      "top_3": [
-        {
-          "score": 84,
-          "title": "Fluent English Web Developer – Client Calls",
-          "company": "",
-          "site": "Arc.dev"
-        },
-        {
-          "score": 68,
-          "title": "Experienced Ninjatrader Developer - Part-time - Worldwide (Overlap with PST)",
-          "company": "",
-          "site": "Arc.dev"
-        }
-      ],
-      "total": 2,
-      "high": 1,
-      "medium": 1
+      "top_3": [],
+      "total": 0,
+      "high": 0,
+      "medium": 0
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T14:45:24.243636+00:00"
+      "last_success": "2026-04-25T18:29:26.558276+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T14:45:24.243636+00:00"
+      "last_success": "2026-04-25T18:29:26.558276+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "RSS feed returned HTML (not parseable as XML)"
+      "last_error": "Cloudflare 403 challenge"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-25T14:45:24.243636+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-25T14:45:24.243636+00:00",
+      "last_error": "Bot detection page (no listings)"
     },
     "welcometothejungle": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-19T11:20:36.538791+00:00",
-      "last_error": "No parseable listings (Algolia SPA, JS-rendered)"
+      "last_error": "No listings (SPA, JS-rendered)"
     },
     "landingjobs": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-19T11:20:36.538791+00:00",
-      "last_error": "No parseable listings (SPA, JS-rendered)"
+      "last_error": "SPA loading, no listings parseable"
     },
     "indeed_uk": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_success": null,
       "last_error": "Cloudflare 403 challenge"
     },
     "indeed_it": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_success": null,
       "last_error": "Cloudflare 403 challenge"
     },
     "indeed_de": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_success": null,
       "last_error": "Cloudflare 403 challenge"
     },
     "indeed_es": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_success": null,
       "last_error": "Cloudflare 403 challenge"
     },
     "indeed_fr": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_success": null,
       "last_error": "Cloudflare 403 challenge"
     },
     "glassdoor": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-25T06:34:40.246725+00:00",
       "last_error": "Cloudflare 403 challenge"
     },
@@ -8717,16 +8722,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T14:45:24.243636+00:00"
+      "last_success": "2026-04-25T18:29:26.558276+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T14:45:24.243636+00:00"
+      "last_success": "2026-04-25T18:29:26.558276+00:00"
     },
     "justremote": {
-      "consecutive_failures": 1,
-      "last_success": "2026-04-25T06:34:40.246725+00:00",
-      "last_error": "Empty response (network/DNS issue)"
+      "consecutive_failures": 0,
+      "last_success": "2026-04-25T18:29:26.558276+00:00"
     }
   }
 }

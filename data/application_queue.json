@@ -1,11 +1,3 @@
 {
-  "queue": [
-    {
-      "job_id": "arcdev_de61b1def611",
-      "chat_id": "181648234",
-      "message_text": "🟡 Score: 71/100 | Experienced Ninjatrader Developer - Part-time - Worldwide (Overlap with PST)\n🏢 Cliente Arc.dev (riservato) — Worldwide (remote)\n💼 Freelance / Hourly rate · Mid-level\n🔧 C#, Ninjatrader\n📅 1 giorno fa — via Arc.dev\n\n✅ Match: Pubblicato 1 giorno fa · Ruolo dev generico (gestibile) · 100% Remote (Arc.dev) · Contratto freelance/hourly\n⚠️ Seniority: Mid (preferenza Junior)\n\n🔗 https://arc.dev/remote-jobs/experienced-ninjatrader-developer-part-time-worldwide-overlap-with-pst",
-      "requested_at": "2026-04-26T18:29:11.630Z",
-      "status": "pending"
-    }
-  ]
+  "queue": []
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T20:45:44.750001+00:00",
+  "last_updated": "2026-04-26T06:29:05.764224+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -8960,6 +8960,90 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "junior_only: senior/years requirement (min experience 3 years)"
+    },
+    "himalayas_https://himalayas.app/companies/helixsleep/jobs/marketing-specialist": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Marketing Specialist",
+      "company": "Helix",
+      "url": "https://himalayas.app/companies/helixsleep/jobs/marketing-specialist",
+      "first_seen": "2026-04-26T06:29:05.764224+00:00",
+      "pub_date": "2026-04-25T22:00:58+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "wrong_field: Marketing role, not dev. Multiple employee benefits (Health Insurance, 401k, Parental Leave, Flexible PTO) \u2192 freelance_only."
+    },
+    "himalayas_https://himalayas.app/companies/veli-technologies-ltd/jobs/client-side-game-developer-pixi-js": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Client-side Game Developer (Pixi JS)",
+      "company": "Veli Technologies Ltd.",
+      "url": "https://himalayas.app/companies/veli-technologies-ltd/jobs/client-side-game-developer-pixi-js",
+      "first_seen": "2026-04-26T06:29:05.764224+00:00",
+      "pub_date": "2026-04-25T21:54:07+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: seniority Senior, requires Pixi.js senior expertise."
+    },
+    "himalayas_https://himalayas.app/companies/synack/jobs/senior-software-engineer-ai-5812835276": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Software Engineer, AI",
+      "company": "Synack",
+      "url": "https://himalayas.app/companies/synack/jobs/senior-software-engineer-ai-5812835276",
+      "first_seen": "2026-04-26T06:29:05.764224+00:00",
+      "pub_date": "2026-04-25T21:52:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title says Senior. Also U.S. citizens only."
+    },
+    "himalayas_https://himalayas.app/companies/newfold-digital/jobs/manager-software-eng": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Manager, Software Eng",
+      "company": "Newfold Digital",
+      "url": "https://himalayas.app/companies/newfold-digital/jobs/manager-software-eng",
+      "first_seen": "2026-04-26T06:29:05.764224+00:00",
+      "pub_date": "2026-04-25T21:47:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: management role (Software Engineering Manager)."
+    },
+    "himalayas_https://himalayas.app/companies/kraken/jobs/senior-site-reliability-engineer-payward-services-5068486876": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Site Reliability Engineer - Payward Services",
+      "company": "Kraken",
+      "url": "https://himalayas.app/companies/kraken/jobs/senior-site-reliability-engineer-payward-services-5068486876",
+      "first_seen": "2026-04-26T06:29:05.764224+00:00",
+      "pub_date": "2026-04-25T21:44:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title Senior, 5+ years required. freelance_only: Equity, 401k matching, paid time off."
+    },
+    "himalayas_https://himalayas.app/companies/air-apps/jobs/project-coordinator-6118352802": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Project Coordinator",
+      "company": "Air Apps",
+      "url": "https://himalayas.app/companies/air-apps/jobs/project-coordinator-6118352802",
+      "first_seen": "2026-04-26T06:29:05.764224+00:00",
+      "pub_date": "2026-04-25T21:44:26+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "wrong_field: Project Coordinator, not dev. freelance_only: Health & Life Insurance, Pension Fund, Annual Bonus, Coverflex."
+    },
+    "arcdev_oklh4c1p3p": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Front End Dashboard Developer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/front-end-dashboard-developer-oklh4c1p3p",
+      "first_seen": "2026-04-26T06:29:05.764224+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: requires 3-5 years experience (matches reject_indicator \"3+ years\")."
     }
   },
   "daily_stats": {
@@ -9055,37 +9139,47 @@
       "total": 1,
       "high": 1,
       "medium": 0
+    },
+    "2026-04-26": {
+      "total_found": 7,
+      "total_new": 7,
+      "notified": 0,
+      "eliminated": 7,
+      "high_score": 0,
+      "mid_score": 0,
+      "ambiguous_contract": 0,
+      "top_3": []
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T20:45:44.750001+00:00"
+      "last_success": "2026-04-26T06:29:05.764224+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T20:45:44.750001+00:00"
+      "last_success": "2026-04-26T06:29:05.764224+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "Direct fetch returned non-XML (DNS overflow / Cloudflare)"
+      "last_error": "404 Not Found on RSS feed (newjob endpoint deprecated)"
     },
     "infojobs_es": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-25T14:45:24.243636+00:00",
       "last_error": "Captcha page returned via proxy"
     },
     "welcometothejungle": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T20:45:44.750001+00:00"
+      "last_success": "2026-04-26T06:29:05.764224+00:00"
     },
     "landingjobs": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T20:45:44.750001+00:00"
+      "last_success": "2026-04-26T06:29:05.764224+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 13,
+      "consecutive_failures": 14,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
@@ -9110,7 +9204,7 @@
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": "2026-04-25T06:34:40.246725+00:00",
       "last_error": "Cloudflare 403 via proxy"
     },
@@ -9124,15 +9218,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T20:45:44.750001+00:00"
+      "last_success": "2026-04-26T06:29:05.764224+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T20:45:44.750001+00:00"
+      "last_success": "2026-04-26T06:29:05.764224+00:00"
     },
     "justremote": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-25T20:45:44.750001+00:00"
+      "last_success": "2026-04-26T06:29:05.764224+00:00"
     }
   }
 }

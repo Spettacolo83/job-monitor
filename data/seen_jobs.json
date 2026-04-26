@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T18:29:30.968371+00:00",
+  "last_updated": "2026-04-26T20:20:56.327696+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -10235,6 +10235,366 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "Arc.dev exp=senior"
+    },
+    "arcdev_3b3d5dd0e3b0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Junior Full Stack Developer",
+      "company": "",
+      "url": "https://arc.dev/jobs/junior-full-stack-developer",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-15T21:20:48+00:00",
+      "score": 60,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_b120064df69f": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Front End Dashboard Developer",
+      "company": "",
+      "url": "https://arc.dev/jobs/front-end-dashboard-developer",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-26T01:08:20+00:00",
+      "score": 58,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_df026d649c60": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Experienced Ninjatrader Developer - Part-time - Worldwide (Overlap with PST)",
+      "company": "",
+      "url": "https://arc.dev/jobs/experienced-ninjatrader-developer-part-time-worldwide-overlap-with-pst",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-24T20:36:27+00:00",
+      "score": 57,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_297a029af58f": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Fluent English Web Developer – Client Calls",
+      "company": "",
+      "url": "https://arc.dev/jobs/fluent-english-web-developer-client-calls",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-23T18:08:26+00:00",
+      "score": 57,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_360d33d7bd38": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Cloud Infrastructure Specialist",
+      "company": "",
+      "url": "https://arc.dev/jobs/cloud-infrastructure-specialist",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-22T10:12:51+00:00",
+      "score": 49,
+      "notified": false,
+      "eliminated": false
+    },
+    "arcdev_af16f87ab5db": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Fullstack React + Node.js Developer – Team Planning Web App",
+      "company": "",
+      "url": "https://arc.dev/jobs/fullstack-react-node-js-developer-team-planning-web-app",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-14T10:12:39+00:00",
+      "score": 41,
+      "notified": false,
+      "eliminated": false
+    },
+    "arcdev_d8d2cd0fe7d4": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web Developer - Remote",
+      "company": "",
+      "url": "https://arc.dev/jobs/web-developer-remote",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-20T20:38:52+00:00",
+      "score": 38,
+      "notified": false,
+      "eliminated": false
+    },
+    "arcdev_96c5b1e8e088": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Python Backend Engineer (Python, Deepstream) - Fulltime - WW",
+      "company": "",
+      "url": "https://arc.dev/jobs/python-backend-engineer-python-deepstream-fulltime-ww",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-18T06:07:45+00:00",
+      "score": 25,
+      "notified": false,
+      "eliminated": false
+    },
+    "arcdev_1e01c4b393e8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Qa Dev Tester",
+      "company": "",
+      "url": "https://arc.dev/jobs/qa-dev-tester",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-23T19:09:56+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a mobile/dev role"
+    },
+    "arcdev_9ed5ba0c8ee0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior AI Engineer WW-FT ",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-ai-engineer-ww-ft",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-22T22:59:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_9ba5f5352813": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Part-Time Backend Developer with Product Development Knowledge",
+      "company": "",
+      "url": "https://arc.dev/jobs/part-time-backend-developer-with-product-development-knowledge",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-22T16:44:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "location restricted to non-EU only: CA"
+    },
+    "arcdev_50eeb74a6543": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Enterprise Architect / Full-Stack Engineer LATAM/NA/EU-PT",
+      "company": "",
+      "url": "https://arc.dev/jobs/enterprise-architect-full-stack-engineer-latam-na-eu-pt",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-22T00:21:38+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_2990022420ea": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior C# /.NET 8 Full-Stack Engineer (Backend-Heavy) LATAM-FT ",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-c-net-8-full-stack-engineer-backend-heavy-latam-ft",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-21T01:12:55+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_58e0a97ad2bc": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Lead Developer",
+      "company": "",
+      "url": "https://arc.dev/jobs/lead-developer",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-20T12:52:21+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_e827d567712e": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Fullstack Kotlin Engineer (Kotlin multiplatform) - Fulltime - EU",
+      "company": "",
+      "url": "https://arc.dev/jobs/fullstack-kotlin-engineer-kotlin-multiplatform-fulltime-eu",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-20T03:18:26+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_a694a32cadbf": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Mid-level Full-Stack Developer",
+      "company": "",
+      "url": "https://arc.dev/jobs/mid-level-full-stack-developer",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-19T15:47:15+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title contains 'mid-level'"
+    },
+    "arcdev_088f35f8c299": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Data Scientist",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-data-scientist",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-18T16:02:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_6846203b9297": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full Stack Developer – ERP Security Audit & Remediation (Spanish Speaking) LATAM-FT ",
+      "company": "",
+      "url": "https://arc.dev/jobs/full-stack-developer-erp-security-audit-remediation-spanish-speaking-latam-ft",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-17T05:22:46+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_f8b77dc88938": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web Developer for Sports Card and TCG Sales Site",
+      "company": "",
+      "url": "https://arc.dev/jobs/web-developer-for-sports-card-and-tcg-sales-site",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-16T18:58:45+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_23e39765b54b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Entry Specialist",
+      "company": "",
+      "url": "https://arc.dev/jobs/data-entry-specialist",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-16T17:56:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a mobile/dev role"
+    },
+    "arcdev_a7ad4b2d2225": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "**🔥 WADDY STORE LIMITED 重磅招聘！Business Development Manager 🔥**",
+      "company": "",
+      "url": "https://arc.dev/jobs/waddy-store-limited-business-development-manager",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-16T17:31:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_1741c5f4e41c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-Stack Engineer - Part-time - US Only",
+      "company": "",
+      "url": "https://arc.dev/jobs/full-stack-engineer-part-time-us-only",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-15T19:56:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_bbc619afd260": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full Stack Developer – Monday.com Automation Expert WW-PT ",
+      "company": "",
+      "url": "https://arc.dev/jobs/full-stack-developer-monday-com-automation-expert-ww-pt",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-15T19:35:25+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_bb9206cf7dc7": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior DevOps Engineer",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-devops-engineer",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-15T19:23:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_ca0c0e06a5e7": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Machine Learning Engineer (Audio & Fraud Detection) - Fulltime - US/Canada",
+      "company": "",
+      "url": "https://arc.dev/jobs/machine-learning-engineer-audio-fraud-detection-fulltime-us-canada",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-15T13:11:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_ae0d3d92a492": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Full-Stack Developer – Healthcare.AI - HIPAA-Compliant US-PT",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-full-stack-developer-healthcare-ai-hipaa-compliant-us-pt",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-15T01:03:24+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_a41b3221e706": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Fullstack Developer - PT - Philipines",
+      "company": "",
+      "url": "https://arc.dev/jobs/fullstack-developer-pt-philipines",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-14T22:16:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_48308f8e0c60": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Swift/SwiftUI Developer",
+      "company": "",
+      "url": "https://arc.dev/jobs/swift-swiftui-developer",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-14T13:58:20+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "location restricted to non-EU only: US"
+    },
+    "arcdev_96222080a89a": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior back-end developer .NET",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-back-end-developer-net",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-14T08:15:57+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: experienceLevel=senior"
+    },
+    "arcdev_aab5ea8e720b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-Stack Developer (PHP/Laravel + SQL Server)",
+      "company": "",
+      "url": "https://arc.dev/jobs/full-stack-developer-php-laravel-sql-server",
+      "first_seen": "2026-04-26T20:20:56.327696+00:00",
+      "pub_date": "2026-04-22T11:22:43+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: annual salary (25000-45000 EUR/USD) without hourly rate suggests employment, not freelance"
     }
   },
   "daily_stats": {
@@ -10332,12 +10692,12 @@
       "medium": 0
     },
     "2026-04-26": {
-      "total_found": 195,
-      "total_new": 108,
-      "notified": 8,
-      "eliminated": 95,
+      "total_found": 277,
+      "total_new": 138,
+      "notified": 12,
+      "eliminated": 117,
       "high_score": 0,
-      "mid_score": 8,
+      "mid_score": 12,
       "ambiguous_contract": 0,
       "top_3": [
         {
@@ -10364,59 +10724,61 @@
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T18:29:30.968371+00:00"
+      "last_success": "2026-04-26T20:20:56.327696+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T18:29:30.968371+00:00"
+      "last_success": "2026-04-26T20:20:56.327696+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "404 Not Found (RSS deprecated)"
+      "last_error": "404 Not Found (RSS deprecated/HTML page returned)"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-26T18:29:30.968371+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-26T18:29:30.968371+00:00",
+      "last_error": "Anti-bot challenge (cookies/JS required)"
     },
     "welcometothejungle": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "JS-rendered (Algolia) — no jobs in static HTML"
     },
     "landingjobs": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Only category links — full job listings not in HTML"
     },
     "indeed_uk": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_it": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_de": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_es": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_fr": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "glassdoor": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-26T18:29:30.968371+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-26T18:29:30.968371+00:00",
+      "last_error": "502 Security wall (anti-bot)"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -10428,15 +10790,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T18:29:30.968371+00:00"
+      "last_success": "2026-04-26T20:20:56.327696+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T18:29:30.968371+00:00"
+      "last_success": "2026-04-26T20:20:56.327696+00:00"
     },
     "justremote": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-26T18:29:30.968371+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-26T18:29:30.968371+00:00",
+      "last_error": "JS-rendered, no jobs in static HTML"
     }
   }
 }

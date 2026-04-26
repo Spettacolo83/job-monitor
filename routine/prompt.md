@@ -83,9 +83,19 @@ Use your understanding of the HTML to extract job listings. Look for repeated pa
 
 ## Step 3: Deduplicate
 
-For each job found, generate an ID: `{site_id}_{md5_hash_of_url}` or `{site_id}_{native_id}` if the site provides one.
+For each job found, generate an ID using these rules:
 
-Check against `seen_jobs.json`. If the ID already exists, skip it entirely.
+**URL normalization** (do this BEFORE hashing):
+1. Remove query parameters and fragments: `https://arc.dev/jobs/xyz?ref=search#apply` → `https://arc.dev/jobs/xyz`
+2. Remove trailing slashes: `https://example.com/job/123/` → `https://example.com/job/123`
+3. Remove tracking suffixes: `...ok0rzyz507--overlap-with-pst` → `...ok0rzyz507`
+4. Lowercase the URL
+
+**Generate ID**: `{site_id}_{md5_hash_of_normalized_url}` or `{site_id}_{native_id}` if the site provides one.
+
+**Title-based dedup** (additional check): even if URLs differ slightly, if a job has the SAME title AND the SAME company as an already-seen job, treat it as a duplicate and skip it.
+
+Check against `seen_jobs.json`. If the ID already exists OR title+company match an existing entry, skip it entirely.
 
 ## Step 4: Fetch Full Job Description + Apply Elimination Filters
 

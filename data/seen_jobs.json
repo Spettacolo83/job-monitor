@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T10:14:59.943467+00:00",
+  "last_updated": "2026-04-26T14:14:17.571193+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -9211,6 +9211,18 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "Not a developer role (UI/UX Designer); on-site Mumbai full-time"
+    },
+    "remotive_2089994": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Mid/Senior AI Video Artist",
+      "company": "EverAI",
+      "url": "https://remotive.com/remote-jobs/marketing/mid-senior-ai-video-artist-2089994",
+      "first_seen": "2026-04-26T14:14:17.571193+00:00",
+      "pub_date": "2026-04-24T08:15:19",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (Marketing/AI Artist; false-positive on 'ios' keyword); also Mid/Senior"
     }
   },
   "daily_stats": {
@@ -9308,10 +9320,10 @@
       "medium": 0
     },
     "2026-04-26": {
-      "total_found": 22,
-      "total_new": 22,
+      "total_found": 23,
+      "total_new": 23,
       "notified": 1,
-      "eliminated": 21,
+      "eliminated": 22,
       "high_score": 0,
       "mid_score": 1,
       "ambiguous_contract": 0,
@@ -9327,59 +9339,61 @@
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T10:14:59.943467+00:00"
+      "last_success": "2026-04-26T14:14:17.571193+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T10:14:59.943467+00:00"
+      "last_success": "2026-04-26T14:14:17.571193+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "feed returned HTML (newjob endpoint deprecated)"
+      "last_error": "Cloudflare 403 via proxy + RSS deprecated"
     },
     "infojobs_es": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-25T14:45:24.243636+00:00",
-      "last_error": "Captcha page (distil/captcha.xhtml) returned via proxy"
+      "last_error": "Proxy returned success=false (no html)"
     },
     "welcometothejungle": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-26T10:14:59.943467+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-26T10:14:59.943467+00:00",
+      "last_error": "JS-rendered (Algolia) — no jobs in static HTML via proxy"
     },
     "landingjobs": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-26T10:14:59.943467+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-26T10:14:59.943467+00:00",
+      "last_error": "Only category links — full job listings not in HTML"
     },
     "indeed_uk": {
-      "consecutive_failures": 15,
+      "consecutive_failures": 16,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 14,
+      "consecutive_failures": 15,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 14,
+      "consecutive_failures": 15,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 14,
+      "consecutive_failures": 15,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 14,
+      "consecutive_failures": 15,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "last_success": "2026-04-25T06:34:40.246725+00:00",
-      "last_error": "Cloudflare challenge page via proxy"
+      "last_error": "Cloudflare 403 via proxy"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -9391,15 +9405,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T10:14:59.943467+00:00"
+      "last_success": "2026-04-26T14:14:17.571193+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T10:14:59.943467+00:00"
+      "last_success": "2026-04-26T14:14:17.571193+00:00"
     },
     "justremote": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-26T06:29:05.764224+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-26T06:29:05.764224+00:00",
+      "last_error": "Only category links — full job listings not in HTML"
     }
   }
 }

@@ -1,11 +1,3 @@
 {
-  "queue": [
-    {
-      "job_id": "arcdev_okvfemcbc1",
-      "chat_id": "181648234",
-      "message_text": "🟢 Score: 93/100 | Full-Stack Developer — Healthcare SaaS\n🏢 N/A — Worldwide\n💼 contract ($30-45/hr)\n🔧 RESTful API, Node.js, React\n📅 <6h (2.8h) — via Arc.dev\n\n✅ Perché matcha:\n• Pubblicato <6h (2.8h) — molto fresco (priorità massima)\n• Contratto: contract ($30-45/hr) (freelance/B2B accettabile)\n• Settore healthcare/SaaS — match con esperienza pregressa\n• Sito 100% remoto (Arc.dev), nessun seniority specificato\n\n🔗 https://arc.dev/remote-jobs/full-stack-developer-healthcare-saas-okvfemcbc1",
-      "requested_at": "2026-04-27T06:23:13.672Z",
-      "status": "pending"
-    }
-  ]
+  "queue": []
 }

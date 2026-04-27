@@ -85,11 +85,36 @@
       "processed_at": "2026-04-26T18:32:00.000Z",
       "completed_fields": [],
       "remaining_fields": ["entire application form"]
+    },
+    {
+      "job_id": "arcdev_okvfemcbc1",
+      "status": "success",
+      "title": "Full-Stack Developer — Healthcare SaaS",
+      "company": "Aortii (via Arc.dev)",
+      "location": "Remote anywhere",
+      "job_url": "https://arc.dev/remote-jobs/details/full-stack-developer-healthcare-saas-okvfemcbc1",
+      "requested_at": "2026-04-27T06:23:13.672Z",
+      "processed_at": "2026-04-27T06:45:00.000Z",
+      "completed_fields": [
+        "Arc.dev account signup (email registration)",
+        "LinkedIn profile URL",
+        "Availability: 30 hours/week (required)",
+        "Timezone: (+02:00) Madrid",
+        "Country: Spain",
+        "Expected rate: US$40/hour",
+        "Specialty: Full-stack",
+        "Seniority: Mid-level (3-5 yrs)",
+        "Technical skills: RESTful API (10+ yrs), Node.js (5 yrs), React (5 yrs), Figma (5 yrs), SaaS (10+ yrs)",
+        "Portfolio URL: https://www.stefanorussello.it",
+        "Additional notes (EN motivational paragraph)"
+      ],
+      "remaining_fields": [],
+      "notes": "Account Arc.dev creato con email stefano.russello+jobs@gmail.com. Resume non caricato (l'API /upload restituiva errore 'buffer'); il form richiedeva LinkedIn O resume — fornito LinkedIn URL. Il file '/home/user/job-monitor/assets/CV_Stefano_Russello_EN.pdf' resta disponibile per upload futuri."
     }
   ],
   "stats": {
-    "total_applied": 0,
-    "total_success": 0,
+    "total_applied": 1,
+    "total_success": 1,
     "total_failed": 6,
     "total_pending": 0,
     "total_skipped": 1

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T20:20:56.327696+00:00",
+  "last_updated": "2026-04-27T06:21:28.675971+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -10595,6 +10595,270 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "freelance_only: annual salary (25000-45000 EUR/USD) without hourly rate suggests employment, not freelance"
+    },
+    "remoteok_1131328": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Software Engineer",
+      "company": "Finalis",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-26T00:00:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: description seniority reject: ['architect', 'senior software', '5+ years']"
+    },
+    "remoteok_1131327": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Managing Director New England",
+      "company": "IntraFi",
+      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-new-england-intrafi-1131327",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-25T16:00:04+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title contains seniority reject: ['director']"
+    },
+    "remoteok_1131324": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Regional Sales Executive",
+      "company": "Pivotal Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-executive-pivotal-health-1131324",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-25T08:00:08+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['sales']"
+    },
+    "remoteok_1131323": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Territory Account Manager",
+      "company": "TENEX.AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-territory-account-manager-tenex-ai-1131323",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-25T00:00:55+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['account manager', 'territory account']"
+    },
+    "remoteok_1131322": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "HQ AI Enablement Lead",
+      "company": "Everfield",
+      "url": "https://remoteOK.com/remote-jobs/remote-hq-ai-enablement-lead-everfield-1131322",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-25T00:00:49+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['enablement lead']"
+    },
+    "remoteok_1131305": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Data Engineer",
+      "company": "Pivotal Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-24T08:00:16+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: freelance_indirect (employee benefits): ['equity', 'health insurance']"
+    },
+    "remoteok_1131295": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "UX UI Designer â AI Application",
+      "company": "0g Labs",
+      "url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-ai-application-0g-labs-1131295",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-23T16:00:11+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['designer']"
+    },
+    "remoteok_1131288": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Mid Senior AI Video Artist",
+      "company": "EverAI",
+      "url": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-video-artist-everai-1131288",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-23T08:11:46+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['video artist']"
+    },
+    "remoteok_1131287": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Account Executive III",
+      "company": "Sumo Logic",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-iii-sumo-logic-1131287",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-23T08:00:17+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['account executive']"
+    },
+    "remoteok_1131244": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Product Growth Marketer",
+      "company": "Happily",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-growth-marketer-happily-1131244",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-21T13:00:33+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: description seniority reject: ['mid-level']"
+    },
+    "remoteok_1131240": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Software Engineer Identity & Access",
+      "company": "Patreon",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-21T08:00:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: description seniority reject: ['senior software', '3+ years']"
+    },
+    "himalayas_https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-full-stack-developer-net-x2f-angular-full-remote-salary-in-usd": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Full Stack Developer - .NET&#x2f;Angular - Full remote- Salary in USD",
+      "company": "goPro Consultancy Group ltd.",
+      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-full-stack-developer-net-x2f-angular-full-remote-salary-in-usd",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": 1777240878,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title contains seniority reject: ['senior']"
+    },
+    "himalayas_https://himalayas.app/companies/gohealth-urgent-care/jobs/site-reliability-engineer-4540313914": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Site Reliability Engineer",
+      "company": "GoHealth Urgent Care",
+      "url": "https://himalayas.app/companies/gohealth-urgent-care/jobs/site-reliability-engineer-4540313914",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": 1777240874,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: description seniority reject: ['architect', '4+ years']"
+    },
+    "himalayas_https://himalayas.app/companies/stripe/jobs/machine-learning-engineer-stripe-assistant-4545060720": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Machine Learning Engineer, Stripe Assistant",
+      "company": "Stripe",
+      "url": "https://himalayas.app/companies/stripe/jobs/machine-learning-engineer-stripe-assistant-4545060720",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": 1777240871,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: description seniority reject: ['tech lead', 'architect', '5+ years']"
+    },
+    "himalayas_https://himalayas.app/companies/centurylink/jobs/operations-technical-support-i-home-pl-6028686870": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Operations Technical Support I (HOME, PL)",
+      "company": "CenturyLink",
+      "url": "https://himalayas.app/companies/centurylink/jobs/operations-technical-support-i-home-pl-6028686870",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": 1777240535,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['support', 'operations technical support']"
+    },
+    "arcdev_okvfemcbc1": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-Stack Developer — Healthcare SaaS",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/full-stack-developer-healthcare-saas-okvfemcbc1",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-27T03:35:04+00:00",
+      "score": 93,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_mu91jc3njq": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Software Engineer, Frontend | Product Engineering",
+      "company": "TRM Labs",
+      "url": "https://arc.dev/remote-jobs/trm-labs-senior-software-engineer-frontend-product-engineering-mu91jc3njq",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-26T20:30:21+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title contains seniority reject: ['senior']"
+    },
+    "arcdev_okt5wbjcrq": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Lead Product Designer",
+      "company": "BettingJobs",
+      "url": "https://arc.dev/remote-jobs/bettingjobs-lead-product-designer-okt5wbjcrq",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-26T20:30:20+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['designer']"
+    },
+    "arcdev_okszimv09u": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Manager,  Platform Experience & Developer Product",
+      "company": "Cohere",
+      "url": "https://arc.dev/remote-jobs/cohere-product-manager-platform-experience-developer-product-okszimv09u",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-25T20:43:48+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title contains seniority reject: ['manager']"
+    },
+    "arcdev_okszzpaybi": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Technical Product Manager, Developer Platform",
+      "company": "Jobgether",
+      "url": "https://arc.dev/remote-jobs/jobgether-technical-product-manager-developer-platform-okszzpaybi",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-25T20:43:48+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "junior_only: title contains seniority reject: ['manager']"
+    },
+    "arcdev_okta2jx8f6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Performance Marketing Manager",
+      "company": "Scopely",
+      "url": "https://arc.dev/remote-jobs/scopely-senior-performance-marketing-manager-okta2jx8f6",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": "2026-04-25T20:43:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['marketing']"
+    },
+    "glassdoor_1010113614469": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Portugal Residents - Survey Participants - Gondomar, Portugal",
+      "company": null,
+      "url": "https://www.glassdoor.es/job-listing/portugal-residents-survey-participants-gondomar-portugal-prolific-JV_KO0,56_KE57,65.htm?jl=1010113614469",
+      "first_seen": "2026-04-27T06:21:28.675971+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non_dev_role: non-dev title: matches ['survey']"
     }
   },
   "daily_stats": {
@@ -10719,66 +10983,73 @@
           "site": "Arc.dev"
         }
       ]
+    },
+    "2026-04-27": {
+      "total_seen": 22,
+      "total_notified": 1,
+      "total_eliminated": 21,
+      "high_score": 1,
+      "medium_score": 0,
+      "ambiguous": 0
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T20:20:56.327696+00:00"
+      "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T20:20:56.327696+00:00"
+      "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 9,
+      "consecutive_failures": 10,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "404 Not Found (RSS deprecated/HTML page returned)"
+      "last_error": "503 'DNS cache overflow'"
     },
     "infojobs_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-26T18:29:30.968371+00:00",
-      "last_error": "Anti-bot challenge (cookies/JS required)"
+      "last_error": "Distil captcha challenge"
     },
     "welcometothejungle": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "JS-rendered (Algolia) — no jobs in static HTML"
     },
     "landingjobs": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Only category links — full job listings not in HTML"
+      "last_error": "Only category links — no job listings in HTML"
     },
     "indeed_uk": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_it": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_de": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_es": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_fr": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "glassdoor": {
-      "consecutive_failures": 1,
-      "last_success": "2026-04-26T18:29:30.968371+00:00",
-      "last_error": "502 Security wall (anti-bot)"
+      "consecutive_failures": 0,
+      "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -10790,14 +11061,14 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T20:20:56.327696+00:00"
+      "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-26T20:20:56.327696+00:00"
+      "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-26T18:29:30.968371+00:00",
       "last_error": "JS-rendered, no jobs in static HTML"
     }

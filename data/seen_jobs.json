@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T06:21:28.675971+00:00",
+  "last_updated": "2026-04-27T14:36:35.946232+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -10859,6 +10859,234 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "non_dev_role: non-dev title: matches ['survey']"
+    },
+    "arcdev_5857eb142e31cfec1bce2ae9bd228319": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Remote - Full-Stack Engineer (Automation Architecture)",
+      "company": "",
+      "url": "https://arc.dev/jobs/remote-full-stack-engineer-automation-architecture",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-27T11:32:38+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: permanent jobType + annual salary $25-50K (employment, not freelance)"
+    },
+    "arcdev_229d5b12f6f86a4014260b170799437c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "QA Tester (SaaS Platform) - Part-time - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/jobs/qa-tester-saas-platform-part-time-worldwide",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-27T11:11:43+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_developer_role: manual QA testing role (categories: Testing/QA/Manual testing); candidate is mobile developer"
+    },
+    "arcdev_65d2ce04d09ba75ac14400488deae6fa": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer III - Front End",
+      "company": "RLDatix",
+      "url": "https://arc.dev/jobs/rldatix-software-engineer-iii-front-end",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-26T20:30:19+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: permanent jobType; remote_only: US-only requiredCountries excludes EU candidate"
+    },
+    "remoteok_1131329": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "ML Engineer",
+      "company": "Trunk Tools, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-26T00:00:12+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: annual salary $183K-$246K indicates employment, not freelance"
+    },
+    "remoteok_1131313": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "WorkWave Senior Data Analytics Engineer",
+      "company": "WorkWave",
+      "url": "https://remoteOK.com/remote-jobs/remote-workwave-senior-data-analytics-engineer-workwave-1131313",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-24T16:00:29+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/VP position"
+    },
+    "remoteok_1131296": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Applied AI Engineer Europe",
+      "company": "Amigo",
+      "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-23T16:00:17+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: multiple employee benefits (Unlimited PTO, Vision/Dental/Medical insurance, 401k matching, equity compensation)"
+    },
+    "remoteok_1131282": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Technical Program Manager â Platform Migration",
+      "company": "Cayuse",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-program-manager-platform-migration-cayuse-1131282",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-23T00:01:11+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_developer_role: program manager"
+    },
+    "remoteok_1131270": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Solution Engineer I",
+      "company": "Onit, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-solution-engineer-i-onit-inc-1131270",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-22T16:00:43+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: multiple employee benefits (Health Coverage incl. family, paid time off, 10 paid holidays, paid family leave)"
+    },
+    "remoteok_1131269": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Data Engineer",
+      "company": "Capnexus",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-capnexus-1131269",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-22T16:00:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/VP position"
+    },
+    "remoteok_1131263": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Pave Bank",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-pave-bank-1131263",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-22T08:00:17+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/VP position"
+    },
+    "remoteok_1131256": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Associate Product Manager",
+      "company": "Automox",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-product-manager-automox-1131256",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-22T00:01:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_developer_role: product manager"
+    },
+    "remoteok_1131251": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Cloud Engineer",
+      "company": "DV Trading",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-dv-trading-1131251",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-22T00:00:08+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/VP position"
+    },
+    "remoteok_1131239": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Technical Implementations Lead US",
+      "company": "Smile Digital Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-implementations-lead-us-smile-digital-health-1131239",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-21T08:00:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/VP position"
+    },
+    "remoteok_1131224": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior EDI e invoicing Integration Engineer with English and German French Italian Chinese",
+      "company": "ecosio",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-edi-e-invoicing-integration-engineer-with-english-and-german-french-italian-chinese-ecosio-1131224",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-20T16:00:18+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/VP position"
+    },
+    "remoteok_1131215": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "VP of Engineering",
+      "company": "Sureify",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-of-engineering-sureify-1131215",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": "2026-04-19T08:00:18+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/VP position"
+    },
+    "himalayas_b547d98dd9591f09": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "AI Engineer (m/w/d)",
+      "company": "ICB GmbH",
+      "url": "https://himalayas.app/companies/icb-gmbh",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "language_requirement: posting in German + Germany-only location restriction"
+    },
+    "himalayas_39e218563f87b8cb": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Data Engineering Tech Lead-Azure",
+      "company": "Lingaro",
+      "url": "https://himalayas.app/companies/lingaro",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead position"
+    },
+    "himalayas_d022383299a673d3": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Backend Engineer",
+      "company": "Navteca",
+      "url": "https://himalayas.app/companies/navteca",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: US-only location restriction excludes EU candidate"
+    },
+    "himalayas_3c181b8d5f64451c": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Application Support Engineer with German",
+      "company": "Accesa & RaRo",
+      "url": "https://himalayas.app/companies/accesa-raro",
+      "first_seen": "2026-04-27T14:36:35.946232+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead position"
     }
   },
   "daily_stats": {
@@ -10985,71 +11213,73 @@
       ]
     },
     "2026-04-27": {
-      "total_seen": 22,
+      "total_seen": 41,
       "total_notified": 1,
-      "total_eliminated": 21,
+      "total_eliminated": 40,
       "high_score": 1,
       "medium_score": 0,
-      "ambiguous": 0
+      "ambiguous": 0,
+      "top_3": []
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T06:21:28.675971+00:00"
+      "last_success": "2026-04-27T14:36:35.946232+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T06:21:28.675971+00:00"
+      "last_success": "2026-04-27T14:36:35.946232+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "503 'DNS cache overflow'"
+      "last_error": "503 'DNS cache overflow' (direct & proxy)"
     },
     "infojobs_es": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-26T18:29:30.968371+00:00",
-      "last_error": "Distil captcha challenge"
+      "last_error": "Distil captcha challenge in HTML"
     },
     "welcometothejungle": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "JS-rendered (Algolia) — no jobs in static HTML"
+      "last_error": "JS-rendered (no jobs in static HTML via proxy)"
     },
     "landingjobs": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Only category links — no job listings in HTML"
+      "last_error": "Only category links — no job listings in HTML via proxy"
     },
     "indeed_uk": {
-      "consecutive_failures": 19,
+      "consecutive_failures": 20,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_it": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_de": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_es": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "indeed_fr": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy (skipped — known persistent failure)"
     },
     "glassdoor": {
-      "consecutive_failures": 0,
-      "last_success": "2026-04-27T06:21:28.675971+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-04-27T06:21:28.675971+00:00",
+      "last_error": "403 Forbidden via proxy"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -11061,11 +11291,11 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T06:21:28.675971+00:00"
+      "last_success": "2026-04-27T14:36:35.946232+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T06:21:28.675971+00:00"
+      "last_success": "2026-04-27T14:36:35.946232+00:00"
     },
     "justremote": {
       "consecutive_failures": 2,

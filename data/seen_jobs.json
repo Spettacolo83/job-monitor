@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T20:19:10.002203+00:00",
+  "last_updated": "2026-04-28T06:25:40.064035+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -11320,6 +11320,42 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "freelance_only filter: jobType='permanent' (full-time employment, not freelance/contract)"
+    },
+    "himalayas_4057": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "(4057) FrontEnd / Digital Workplace Trainee",
+      "company": "ALTEN",
+      "url": "https://himalayas.app/companies/alten/jobs/4057-frontend-digital-workplace-trainee",
+      "first_seen": "2026-04-28T06:25:40.064035+00:00",
+      "pub_date": "2026-04-27",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not relevant: Mexico-only trainee position requiring active student status (max 6 months to graduate); paid internship/practicum, not freelance/B2B"
+    },
+    "arcdev_full-stack-developer-data-driven-web-platform-ww-pt": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-Stack Developer \u2013 Data-Driven Web Platform WW-PT",
+      "company": "N/A",
+      "url": "https://arc.dev/job/full-stack-developer-data-driven-web-platform-ww-pt",
+      "first_seen": "2026-04-28T06:25:40.064035+00:00",
+      "pub_date": "2026-04-28T05:38:04+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior level (experienceLevel=senior in Arc.dev metadata)"
+    },
+    "arcdev_developer-with-experience-in-protopie": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Developer With Experience in Protopie",
+      "company": "N/A",
+      "url": "https://arc.dev/job/developer-with-experience-in-protopie",
+      "first_seen": "2026-04-28T06:25:40.064035+00:00",
+      "pub_date": "2026-04-28T01:35:32+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a software development role: Protopie is a UI prototyping tool used by UX designers, not transferable from mobile dev profile"
     }
   },
   "daily_stats": {
@@ -11459,64 +11495,70 @@
           "site": "Himalayas"
         }
       ]
+    },
+    "2026-04-28": {
+      "notified": 0,
+      "eliminated": 3,
+      "high_score": 0,
+      "medium_score": 0
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T20:19:10.002203+00:00"
+      "last_success": "2026-04-28T06:25:40.064035+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T20:19:10.002203+00:00"
+      "last_success": "2026-04-28T06:25:40.064035+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 12,
+      "consecutive_failures": 13,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "503 'DNS cache overflow' (direct & proxy)"
+      "last_error": "Feed URL returns HTML 404 (not valid feed template) \u2014 feed likely changed/disabled"
     },
     "infojobs_es": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-26T18:29:30.968371+00:00",
       "last_error": "Distil captcha challenge in HTML"
     },
     "welcometothejungle": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "JS-rendered (no jobs in static HTML via proxy)"
+      "last_error": "JS-rendered (Next.js streaming) \u2014 no parseable jobs in static HTML via proxy"
     },
     "landingjobs": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Cloudflare/captcha \u2014 only category links in HTML"
     },
     "indeed_uk": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy (skipped \u2014 known persistent failure)"
+      "last_error": "Cloudflare 'Just a moment' challenge via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy (skipped \u2014 known persistent failure)"
+      "last_error": "Cloudflare 'Just a moment' challenge via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy (skipped \u2014 known persistent failure)"
+      "last_error": "Cloudflare 'Just a moment' challenge via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy (skipped \u2014 known persistent failure)"
+      "last_error": "Cloudflare 'Just a moment' challenge via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy (skipped \u2014 known persistent failure)"
+      "last_error": "Cloudflare 'Just a moment' challenge via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "403 Forbidden via proxy"
     },
@@ -11530,16 +11572,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T20:19:10.002203+00:00"
+      "last_success": "2026-04-28T06:25:40.064035+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-27T20:19:10.002203+00:00"
+      "last_success": "2026-04-28T06:25:40.064035+00:00"
     },
     "justremote": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": "2026-04-26T18:29:30.968371+00:00",
-      "last_error": "JS-rendered, no parseable jobs in HTML via proxy"
+      "last_error": "JS-rendered, no parseable jobs in HTML"
     }
   }
 }

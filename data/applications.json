@@ -111,11 +111,29 @@
       "remaining_fields": [],
       "notes": "Account Arc.dev creato con email stefano.russello+jobs@gmail.com. Resume non caricato (l'API /upload restituiva errore 'buffer'); il form richiedeva LinkedIn O resume — fornito LinkedIn URL. Il file '/home/user/job-monitor/assets/CV_Stefano_Russello_EN.pdf' resta disponibile per upload futuri."
     }
+    ,
+    {
+      "job_id": "himalayas_cf1ff58a989192667dbcb903edd0b6ed",
+      "status": "failed",
+      "reason": "Job riservato a candidati basati in Lituania (\"Lithuania only\" + Location requirements: Lithuania + Hiring timezones: Lithuania +/- 0 hours). Il profilo candidato è basato in Spagna (Petra, Mallorca). Procedere avrebbe richiesto di misrappresentare la location, in violazione della regola \"Never lie\". Inoltre il flusso Apply richiede registrazione account Himalayas Talent (signup → email verification) prima di accedere al modal candidatura — non vale la pena aprire l'account per una candidatura destinata a essere filtrata dalla restrizione geografica.",
+      "title": "QA Automation Engineer (Mobile/Android)",
+      "company": "Point Wild",
+      "location": "Lithuania only",
+      "job_url": "https://himalayas.app/companies/point-wild/jobs/qa-automation-engineer-mobile-android",
+      "requested_at": "2026-04-28T14:43:42.716Z",
+      "processed_at": "2026-04-28T14:48:00.000Z",
+      "completed_fields": [],
+      "remaining_fields": [
+        "Himalayas Talent account signup",
+        "entire application form"
+      ],
+      "notes": "Stack tecnico molto buono (Android/Kotlin/Compose/Espresso/Mockito match con profilo), ma blocco geografico hard. Point Wild ha la stessa role aperta anche per Poland/Ukraine (visibili in 'Other jobs at Point Wild') — nessuna apertura per Spagna o EU-wide al momento."
+    }
   ],
   "stats": {
     "total_applied": 1,
     "total_success": 1,
-    "total_failed": 6,
+    "total_failed": 7,
     "total_pending": 0,
     "total_skipped": 1
   }

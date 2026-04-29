@@ -1,11 +1,3 @@
 {
-  "queue": [
-    {
-      "job_id": "infojobs_es_92f75bdb9a420c9eee0741df5ff500",
-      "chat_id": "181648234",
-      "message_text": "🟢 Score: 79/100 | AI Junior Developer (Python / React) - REMOTO\n🏢 (non visibile dal listing) — España (REMOTO)\n💼 Contratto non specificato (verificare freelance vs nómina)\n🔧 Python, React, AI\n📅 data non disponibile — via InfoJobs España\n\n✅ Perché matcha:\n• Esplicitamente Junior in titolo + 100% REMOTO\n• Stack Python/React: any_dev_role match\n• Coinvolgimento AI: bonus AI applicato\n\n⚠️ Tipo di contratto non chiaro dal titolo (InfoJobs blocca i bot in dettaglio). Da chiarire se accettano P.IVA / freelance.\n\n🔗 https://www.infojobs.net/madrid/ai-junior-developer-python-react-remoto/of-i92f75bdb9a420c9eee0741df5ff500",
-      "requested_at": "2026-04-29T20:28:55.887Z",
-      "status": "pending"
-    }
-  ]
+  "queue": []
 }

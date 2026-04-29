@@ -128,12 +128,25 @@
         "entire application form"
       ],
       "notes": "Stack tecnico molto buono (Android/Kotlin/Compose/Espresso/Mockito match con profilo), ma blocco geografico hard. Point Wild ha la stessa role aperta anche per Poland/Ukraine (visibili in 'Other jobs at Point Wild') — nessuna apertura per Spagna o EU-wide al momento."
+    },
+    {
+      "job_id": "infojobs_es_92f75bdb9a420c9eee0741df5ff500",
+      "status": "failed",
+      "reason": "CAPTCHA InfoJobs (¿Eres humano o un robot? — sistema anti-bot Adevinta) sulla pagina dettaglio offerta. Il proxy non può risolvere il challenge interattivo. Testato sia residential che standard proxy senza successo: la pagina mostra il blocco prima ancora di poter raggiungere il pulsante Candidarme. Conferma le note storiche: 'InfoJobs blocca i bot in dettaglio'.",
+      "title": "AI Junior Developer (Python / React) - REMOTO",
+      "company": "N/D (non visibile dal listing)",
+      "location": "España (REMOTO)",
+      "job_url": "https://www.infojobs.net/madrid/ai-junior-developer-python-react-remoto/of-i92f75bdb9a420c9eee0741df5ff500",
+      "requested_at": "2026-04-29T20:28:55.887Z",
+      "processed_at": "2026-04-29T20:32:00.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 1,
     "total_success": 1,
-    "total_failed": 7,
+    "total_failed": 8,
     "total_pending": 0,
     "total_skipped": 1
   }

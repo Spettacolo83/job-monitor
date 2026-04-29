@@ -141,12 +141,25 @@
       "processed_at": "2026-04-29T20:32:00.000Z",
       "completed_fields": [],
       "remaining_fields": ["entire application form"]
+    },
+    {
+      "job_id": "infojobs_es_49fd088972446a871e2d61b69407af",
+      "status": "failed",
+      "reason": "CAPTCHA InfoJobs (¿Eres humano o un robot? — sistema anti-bot Adevinta) sulla pagina dettaglio offerta. Stesso blocco della candidatura precedente nella stessa sessione. Il proxy non può risolvere il challenge interattivo neanche con sessione fresca residential.",
+      "title": "Python Developer Junior + Ansible / Proyecto estable - 100% Remoto (H/M/X)",
+      "company": "N/D (non visibile dal listing)",
+      "location": "España (Barcelona, 100% Remoto)",
+      "job_url": "https://www.infojobs.net/barcelona/python-developer-junior-ansible-proyecto-estable-100-remoto-h-m-x/of-i49fd088972446a871e2d61b69407af",
+      "requested_at": "2026-04-29T20:32:19.173Z",
+      "processed_at": "2026-04-29T20:35:00.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 1,
     "total_success": 1,
-    "total_failed": 8,
+    "total_failed": 9,
     "total_pending": 0,
     "total_skipped": 1
   }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T14:41:09.812508+00:00",
+  "last_updated": "2026-04-29T20:26:15.775060+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -12701,6 +12701,582 @@
       "score": 59,
       "notified": true,
       "eliminated": false
+    },
+    "arcdev_oleznqkcmz": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior AI Product Engineer - Fulltime - EMEA/APAC",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/senior-ai-product-engineer-fulltime-emea-apac-oleznqkcmz",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T07:33:59+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior AI Product Engineer - Fulltime - EMEA/APAC\""
+    },
+    "arcdev_ol742aw18v": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "iOS Designer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/ios-designer-ol742aw18v",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-28T10:38:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"iOS Designer\""
+    },
+    "arcdev_ol3q54t0uf": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-Stack Developer \u2013 Data-Driven Web Platform WW-PT",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/full-stack-developer-data-driven-web-platform-ww-pt-ol3q54t0uf",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-28T01:38:04+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (arcdev experienceLevel=senior)"
+    },
+    "arcdev_okyaipp3u2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "QA Tester (SaaS Platform) - Part-time - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/qa-tester-saas-platform-part-time-worldwide-okyaipp3u2",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-27T11:11:43+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"QA Tester (SaaS Platform) - Part-time - Worldwide\""
+    },
+    "arcdev_olih505fsj": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Wordpress Developer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/senior-wordpress-developer-olih505fsj",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:49:41+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior Wordpress Developer\""
+    },
+    "arcdev_olackti6zq": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "React Native Developer (Beauty Discovery App MVP) - PT - Worldwide/EST time",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/react-native-developer-beauty-discovery-app-mvp-pt-worldwide-est-time-olackti6zq",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-28T19:14:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (arcdev experienceLevel=senior)"
+    },
+    "arcdev_oliuic9wgu": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Project Lead - Structural Engineering",
+      "company": "Mogi I/O : OTT/Podcast/Short Video Apps for you",
+      "url": "https://arc.dev/remote-jobs/details/mogi-i-o-ott-podcast-short-video-apps-for-you-project-lead-structural-engineering-oliuic9wgu",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:09+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Project Lead - Structural Engineering\""
+    },
+    "arcdev_oliukjfyqq": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Project Engineer - Structural Design",
+      "company": "Mogi I/O : OTT/Podcast/Short Video Apps for you",
+      "url": "https://arc.dev/remote-jobs/details/mogi-i-o-ott-podcast-short-video-apps-for-you-project-engineer-structural-design-oliukjfyqq",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:09+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a software role: \"Project Engineer - Structural Design\""
+    },
+    "arcdev_oliyamk17h": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Design Program Manager, Games Platform",
+      "company": "Ladders",
+      "url": "https://arc.dev/remote-jobs/details/ladders-senior-design-program-manager-games-platform-oliyamk17h",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:08+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior Design Program Manager, Games Platform\""
+    },
+    "arcdev_oliukjfyqr": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Engineering Manager - Lifecycle Customer",
+      "company": "Utility Warehouse",
+      "url": "https://arc.dev/remote-jobs/details/utility-warehouse-engineering-manager-lifecycle-customer-oliukjfyqr",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Engineering Manager - Lifecycle Customer\""
+    },
+    "arcdev_olium42hes": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Engineering Team Lead (Angular & Java)",
+      "company": "WorkFlex",
+      "url": "https://arc.dev/remote-jobs/details/workflex-engineering-team-lead-angular-java-olium42hes",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Engineering Team Lead (Angular & Java)\""
+    },
+    "arcdev_olium442at": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Manager, Engineering - Reach Media Network",
+      "company": "Shield AI",
+      "url": "https://arc.dev/remote-jobs/details/poppulo-manager-engineering-reach-media-network-olium442at",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only (arcdev jobType=permanent)"
+    },
+    "arcdev_oliumo4tye": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Engineering Team Lead AI First (Angular & Java)",
+      "company": "WorkFlex",
+      "url": "https://arc.dev/remote-jobs/details/workflex-engineering-team-lead-ai-first-angular-java-oliumo4tye",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Engineering Team Lead AI First (Angular & Java)\""
+    },
+    "arcdev_oliung6yll": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Consultant(e) Senior \u2013 Data IA (Product Owner \u00e0 Data Scientist) (H/F)",
+      "company": "Square Management",
+      "url": "https://arc.dev/remote-jobs/details/square-management-consultant-e-senior-data-ia-product-owner-a-data-scientist-h-f-oliung6yll",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Consultant(e) Senior \u2013 Data IA (Product Owner \u00e0 Data Scientist) (H/F)\""
+    },
+    "arcdev_oliung7b8q": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Head of Product & Engineering (f/m/x)",
+      "company": "Tomorrow University of Applied Sciences",
+      "url": "https://arc.dev/remote-jobs/details/tomorrow-university-of-applied-sciences-head-of-product-engineering-f-m-x-oliung7b8q",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Head of Product & Engineering (f/m/x)\""
+    },
+    "arcdev_oliuow3ovg": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Salesforce Marketing Cloud (SFMC) Lead Developer",
+      "company": "Indegene",
+      "url": "https://arc.dev/remote-jobs/details/indegene-salesforce-marketing-cloud-sfmc-lead-developer-oliuow3ovg",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:03+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Salesforce Marketing Cloud (SFMC) Lead Developer\""
+    },
+    "arcdev_oliybhfaqm": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Graphic Designer (WFH Opportunity)",
+      "company": "NeenOpal Inc.",
+      "url": "https://arc.dev/remote-jobs/details/neenopal-inc-senior-graphic-designer-wfh-opportunity-oliybhfaqm",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior Graphic Designer (WFH Opportunity)\""
+    },
+    "arcdev_oliupldqjy": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Manager, Data Science",
+      "company": "Whatnot",
+      "url": "https://arc.dev/remote-jobs/details/whatnot-manager-data-science-oliupldqjy",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "data analyst/PM/PO role, not developer: \"Manager, Data Science\""
+    },
+    "arcdev_oliuow5g31": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "GTM Engineer",
+      "company": "Jobgether",
+      "url": "https://arc.dev/remote-jobs/details/jobgether-gtm-engineer-oliuow5g31",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only (arcdev jobType=permanent)"
+    },
+    "arcdev_oliuqd2p4f": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Principal Developer Marketing Manager",
+      "company": "Piper Companies",
+      "url": "https://arc.dev/remote-jobs/details/piper-companies-principal-developer-marketing-manager-oliuqd2p4f",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Principal Developer Marketing Manager\""
+    },
+    "arcdev_olizj4lfhh": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Specialista vendite e marketing",
+      "company": "IMORI STUDIO",
+      "url": "https://arc.dev/remote-jobs/details/imori-studio-specialista-vendite-e-marketing-olizj4lfhh",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Specialista vendite e marketing\""
+    },
+    "arcdev_mur2mpzjzs": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Graphic Designer",
+      "company": "Jobgether",
+      "url": "https://arc.dev/remote-jobs/details/jobgether-senior-graphic-designer-mur2mpzjzs",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:59+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior Graphic Designer\""
+    },
+    "arcdev_ofkdbykklo": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Associate, Partner Marketing",
+      "company": "circle",
+      "url": "https://arc.dev/remote-jobs/details/circle-senior-associate-partner-marketing-ofkdbykklo",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:57+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior Associate, Partner Marketing\""
+    },
+    "arcdev_olizkhicow": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Email Marketing Specialist/Klaviyo Manager",
+      "company": "AgencyHires",
+      "url": "https://arc.dev/remote-jobs/details/agencyhires-email-marketing-specialist-klaviyo-manager-olizkhicow",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:57+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Email Marketing Specialist/Klaviyo Manager\""
+    },
+    "arcdev_oliuqdm0fk": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Analyst",
+      "company": "Air Apps",
+      "url": "https://arc.dev/remote-jobs/details/air-apps-data-analyst-oliuqdm0fk",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:57+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "data analyst/PM/PO role, not developer: \"Data Analyst\""
+    },
+    "arcdev_oliurvv0s2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Lead Campaign Data Analyst",
+      "company": "Indegene",
+      "url": "https://arc.dev/remote-jobs/details/indegene-lead-campaign-data-analyst-oliurvv0s2",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:57+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Lead Campaign Data Analyst\""
+    },
+    "arcdev_oliybwhulc": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Charg\u00e9(e) d'animation E-Commerce & E-Merchandising H/F",
+      "company": "Castel Fr\u00e8res",
+      "url": "https://arc.dev/remote-jobs/details/castel-freres-charge-e-d-animation-e-commerce-e-merchandising-h-f-oliybwhulc",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:56+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Charg\u00e9(e) d'animation E-Commerce & E-Merchandising H/F\""
+    },
+    "arcdev_oj3sz1b5za": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Salesforce Marketing Cloud Engagement Administrator",
+      "company": "Raymond James",
+      "url": "https://arc.dev/remote-jobs/details/raymond-james-salesforce-marketing-cloud-engagement-administrator-oj3sz1b5za",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:55+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Salesforce Marketing Cloud Engagement Administrator\""
+    },
+    "arcdev_oliuslm9x0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Design Engineer - Canada Only",
+      "company": "Outside The Box",
+      "url": "https://arc.dev/remote-jobs/details/outside-the-box-design-engineer-canada-only-oliuslm9x0",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:55+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only (arcdev jobType=permanent)"
+    },
+    "arcdev_olizllkrm7": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Proposal & Marketing Specialist",
+      "company": "Tetra Tech",
+      "url": "https://arc.dev/remote-jobs/details/tetra-tech-proposal-marketing-specialist-olizllkrm7",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:55+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Proposal & Marketing Specialist\""
+    },
+    "arcdev_oliydoxaub": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Creative Designer (E-commerce & UI/UX)",
+      "company": "Fiti",
+      "url": "https://arc.dev/remote-jobs/details/fiti-senior-creative-designer-e-commerce-ui-ux-oliydoxaub",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior Creative Designer (E-commerce & UI/UX)\""
+    },
+    "arcdev_olizm968kb": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Strat\u00e8ge SEO / Directrice ou directeur de compte Marketing",
+      "company": "Sitegrow | Experts #1 au Qu\u00e9bec en GEO et SEO",
+      "url": "https://arc.dev/remote-jobs/details/sitegrow-experts-1-au-quebec-en-geo-et-seo-stratege-seo-directrice-ou-directeur-de-compte-marketing-olizm968kb",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Strat\u00e8ge SEO / Directrice ou directeur de compte Marketing\""
+    },
+    "arcdev_olizmughcv": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Global Marketing Communications Manager | Remote",
+      "company": "Empower Your Dream Life",
+      "url": "https://arc.dev/remote-jobs/details/empower-your-dream-life-global-marketing-communications-manager-remote-olizmughcv",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:22:53+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Global Marketing Communications Manager | Remote\""
+    },
+    "infojobs_es_7dcbcc7051495ca600e36307d90a6b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Business Developer Junior - Consultor\u00eda I+D",
+      "company": "",
+      "url": "https://www.infojobs.net/barcelona/business-developer-junior-consultoria-d/of-i7dcbcc7051495ca600e36307d90a6b",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a developer role: \"Business Developer Junior - Consultor\u00eda I+D\""
+    },
+    "infojobs_es_ccda3fe8904775b0b195fff1655fe4": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Staff iOS Developer (IC-13) \u2013 InfoJobs",
+      "company": "",
+      "url": "https://www.infojobs.net/barcelona/staff-ios-developer-ic-13-infojobs/of-iccda3fe8904775b0b195fff1655fe4",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Staff iOS Developer (IC-13) \u2013 InfoJobs\""
+    },
+    "infojobs_es_b78e204abe446d9f0edf1a5b1f2919": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "React Native Developer (2 d\u00edas de teletrabajo - proyecto temporal)",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/react-native-developer-2-dias-teletrabajo-proyecto-temporal/of-ib78e204abe446d9f0edf1a5b1f2919",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only (title indicates hybrid/days in office): \"React Native Developer (2 d\u00edas de teletrabajo - proyecto temporal)\""
+    },
+    "infojobs_es_010a3edf0246bb8413d41153014e79": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Senior DevOps Engineer (Mobile &amp;  Cloud Automation) TEMPORAL",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/senior-devops-engineer-mobile-cloud-automation-temporal/of-i010a3edf0246bb8413d41153014e79",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title indicates senior/lead/manager): \"Senior DevOps Engineer (Mobile &amp;  Cloud Automation) TEMPORAL\""
+    },
+    "infojobs_es_3f14423b424292a06b05962ae9fe4c": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "iOS Developer (Swift) \u2013 H\u00edbrido Madrid Nuevos Ministerios. (3 meses prorrogables)",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/ios-developer-swift-hibrido-madrid-nuevos-ministerios.-3-meses-prorrogables/of-i3f14423b424292a06b05962ae9fe4c",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only (title indicates hybrid/days in office): \"iOS Developer (Swift) \u2013 H\u00edbrido Madrid Nuevos Ministerios. (3 meses prorrogables)\""
+    },
+    "remoteok_1131365": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Data Governance Engineer",
+      "company": "Chime Financial, Inc",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-28T16:00:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only + seniority: US fintech permanent W-2 with 401k benefits ('strong advocate and leader for AI tooling adoption' implies senior trusted advisor)"
+    },
+    "arcdev_ol27dlt6u5": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Developer With Experience in Protopie",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/developer-with-experience-in-protopie-ol27dlt6u5",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-27T21:35:32+00:00",
+      "score": 51,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_ojvjpk8eea": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Frontend Engineer (Open Source Experience) - PT - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/frontend-engineer-open-source-experience-pt-worldwide-ojvjpk8eea",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-23T04:14:34+00:00",
+      "score": 83,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_oliujt8wpt": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "AWS DevOps Engineer (Freelancer \u2013 Hourly Basis)",
+      "company": "ADDVantage Digital Solutions",
+      "url": "https://arc.dev/remote-jobs/details/addvantage-digital-solutions-aws-devops-engineer-freelancer-hourly-basis-oliujt8wpt",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:09+00:00",
+      "score": 93,
+      "notified": true,
+      "eliminated": false
+    },
+    "arcdev_oliun3x6zs": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Machine Learning Ops Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "company": "10x.Team",
+      "url": "https://arc.dev/remote-jobs/details/10x-team-machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-oliun3x6zs",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": "2026-04-29T16:23:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: description requires 'senior-level MLOps engineer with significant professional experience'"
+    },
+    "infojobs_es_3595a62ad740eb910897121fef3fc6": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Desarrollador/a Power Platform",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/desarrollador-power-platform/of-i3595a62ad740eb910897121fef3fc6",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Madrid location, no remote keyword in title (default for non-Junior: eliminate when ambiguous)"
+    },
+    "infojobs_es_49fd088972446a871e2d61b69407af": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Python Developer Junior + Ansible/Proyecto estable-100% Remoto (H/M/X)",
+      "company": "",
+      "url": "https://www.infojobs.net/barcelona/python-developer-junior-ansible-proyecto-estable-100-remoto-h-m-x/of-i49fd088972446a871e2d61b69407af",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "score": 64,
+      "notified": true,
+      "eliminated": false
+    },
+    "infojobs_es_92f75bdb9a420c9eee0741df5ff500": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "AI Junior Developer (Python / React) - REMOTO",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/ai-junior-developer-python-react-remoto/of-i92f75bdb9a420c9eee0741df5ff500",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "score": 79,
+      "notified": true,
+      "eliminated": false
+    },
+    "infojobs_es_7259fbe79e49cd82add80fdbc4e1cc": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "AI / ML Engineer \u2013 RPA Developer (UiPath). 100% REMOTO. ESPA\u00d1A. (ID)",
+      "company": "",
+      "url": "https://www.infojobs.net/sevilla/ai-ml-engineer-rpa-developer-uipath-.-100-remoto.-espana.-id/of-i7259fbe79e49cd82add80fdbc4e1cc",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "score": 58,
+      "notified": true,
+      "eliminated": false
+    },
+    "infojobs_es_627335e71247c18b671bdfb9c00f6a": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Backend .NET y Desarrollo mobile (flutter)",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/backend-.net-desarrollo-mobile-flutter/of-i627335e71247c18b671bdfb9c00f6a",
+      "first_seen": "2026-04-29T20:26:15.775060+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Madrid location, no remote keyword in title; tech stack .NET (unknown to candidate)"
     }
   },
   "daily_stats": {
@@ -12869,22 +13445,30 @@
       ]
     },
     "2026-04-29": {
-      "total_seen": 94,
-      "notified": 3,
-      "high_score": 1,
-      "medium_score": 2,
-      "eliminated": 91,
+      "total_seen": 142,
+      "notified": 9,
+      "eliminated": 133,
+      "high_score": 4,
+      "medium_score": 5,
       "ambiguous": 0,
       "top_3": [
         {
-          "score": 62,
-          "title": "Developer With Experience in Protopie",
+          "score": 93,
+          "title": "AWS DevOps Engineer (Freelancer \u2013 Hourly Basis)",
+          "company": "ADDVantage Digital Solutions",
           "site": "Arc.dev"
         },
         {
-          "score": 59,
+          "score": 83,
           "title": "Frontend Engineer (Open Source Experience) - PT - Worldwide",
+          "company": "Scout Company (via Arc.dev)",
           "site": "Arc.dev"
+        },
+        {
+          "score": 79,
+          "title": "AI Junior Developer (Python / React) - REMOTO",
+          "company": "(non visibile dal listing)",
+          "site": "InfoJobs Espa\u00f1a"
         }
       ]
     }
@@ -12892,61 +13476,61 @@
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-29T14:41:09.812508+00:00",
+      "last_success": "2026-04-29T20:26:15.775060+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-29T14:41:09.812508+00:00",
+      "last_success": "2026-04-29T20:26:15.775060+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS feed returns HTML (akamai redirect)"
     },
     "infojobs_es": {
-      "consecutive_failures": 3,
-      "last_success": "2026-04-28T14:42:55.345375+00:00",
-      "last_error": "Proxy DNS resolution failure"
+      "consecutive_failures": 0,
+      "last_success": "2026-04-29T20:26:15.775060+00:00",
+      "last_error": null
     },
     "welcometothejungle": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Proxy 200 but no jobs in HTML (SPA, no SSR)"
+      "last_error": "Proxy 200 but SPA, no SSR jobs"
     },
     "landingjobs": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Proxy 200 but no jobs in HTML (SPA)"
+      "last_error": "Proxy 200 but SPA, no jobs in HTML"
     },
     "indeed_uk": {
-      "consecutive_failures": 26,
+      "consecutive_failures": 27,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "403 via proxy (Cloudflare)"
     },
@@ -12960,16 +13544,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-29T14:41:09.812508+00:00",
+      "last_success": "2026-04-29T20:26:15.775060+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-29T14:41:09.812508+00:00",
+      "last_success": "2026-04-29T20:26:15.775060+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-04-29T06:44:13.864824+00:00",
       "last_error": "HTML returned but no job listings parseable (SPA)"
     }

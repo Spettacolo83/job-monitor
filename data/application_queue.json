@@ -1,18 +1,3 @@
 {
-  "queue": [
-    {
-      "job_id": "infojobs_es_92f75bdb9a420c9eee0741df5ff500",
-      "chat_id": "181648234",
-      "message_text": "🟢 Score: 79/100 | AI Junior Developer (Python / React) - REMOTO\n🏢 (non visibile dal listing) — España (REMOTO)\n💼 Contratto non specificato (verificare freelance vs nómina)\n🔧 Python, React, AI\n📅 data non disponibile — via InfoJobs España\n\n✅ Perché matcha:\n• Esplicitamente Junior in titolo + 100% REMOTO\n• Stack Python/React: any_dev_role match\n• Coinvolgimento AI: bonus AI applicato\n\n⚠️ Tipo di contratto non chiaro dal titolo (InfoJobs blocca i bot in dettaglio). Da chiarire se accettano P.IVA / freelance.\n\n🔗 https://www.infojobs.net/madrid/ai-junior-developer-python-react-remoto/of-i92f75bdb9a420c9eee0741df5ff500",
-      "requested_at": "2026-04-29T20:28:55.887Z",
-      "status": "pending"
-    },
-    {
-      "job_id": "infojobs_es_49fd088972446a871e2d61b69407af",
-      "chat_id": "181648234",
-      "message_text": "🟡 Score: 64/100 | Python Developer Junior + Ansible/Proyecto estable-100% Remoto (H/M/X)\n🏢 (non visibile dal listing) — España (Barcelona, 100% Remoto)\n💼 Contratto non specificato (probabile 'proyecto estable' = nómina)\n🔧 Python, Ansible\n📅 data non disponibile — via InfoJobs España\n\n✅ Match: Junior + 100% Remoto esplicito; Stack Python/Ansible (any_dev_role)\n⚠️ 'Proyecto estable' suggerisce contratto a tempo indeterminato — verifica se accettano P.IVA.\n\n🔗 https://www.infojobs.net/barcelona/python-developer-junior-ansible-proyecto-estable-100-remoto-h-m-x/of-i49fd088972446a871e2d61b69407af",
-      "requested_at": "2026-04-29T20:32:19.173Z",
-      "status": "pending"
-    }
-  ]
+  "queue": []
 }

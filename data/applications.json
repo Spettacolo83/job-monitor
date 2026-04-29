@@ -128,12 +128,38 @@
         "entire application form"
       ],
       "notes": "Stack tecnico molto buono (Android/Kotlin/Compose/Espresso/Mockito match con profilo), ma blocco geografico hard. Point Wild ha la stessa role aperta anche per Poland/Ukraine (visibili in 'Other jobs at Point Wild') — nessuna apertura per Spagna o EU-wide al momento."
+    },
+    {
+      "job_id": "infojobs_es_92f75bdb9a420c9eee0741df5ff500",
+      "status": "failed",
+      "reason": "InfoJobs blocca il proxy con CAPTCHA '¿Eres humano o un robot? — Hacer clic para comprobar'. Testato sia con use_residential=true che con proxy standard, identico blocco (status 200/405 + pagina captcha statica). Stesso pattern di Glassdoor/StepStone — il sito rileva il proxy come bot prima di servire il contenuto della offerta.",
+      "title": "AI Junior Developer (Python / React) - REMOTO",
+      "company": "N/D (non visibile dal listing InfoJobs)",
+      "location": "España (REMOTO)",
+      "job_url": "https://www.infojobs.net/madrid/ai-junior-developer-python-react-remoto/of-i92f75bdb9a420c9eee0741df5ff500",
+      "requested_at": "2026-04-29T20:28:55.887Z",
+      "processed_at": "2026-04-29T20:35:00.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
+    },
+    {
+      "job_id": "infojobs_es_49fd088972446a871e2d61b69407af",
+      "status": "failed",
+      "reason": "InfoJobs blocca il proxy con stesso CAPTCHA '¿Eres humano o un robot?'. Verificato che l'URL della seconda offerta restituisce identica pagina di blocco — InfoJobs rifiuta sistematicamente il traffico dai range IP del proxy (sia residential che standard).",
+      "title": "Python Developer Junior + Ansible/Proyecto estable-100% Remoto (H/M/X)",
+      "company": "N/D (non visibile dal listing InfoJobs)",
+      "location": "Barcelona, España (100% Remoto)",
+      "job_url": "https://www.infojobs.net/barcelona/python-developer-junior-ansible-proyecto-estable-100-remoto-h-m-x/of-i49fd088972446a871e2d61b69407af",
+      "requested_at": "2026-04-29T20:32:19.173Z",
+      "processed_at": "2026-04-29T20:35:00.000Z",
+      "completed_fields": [],
+      "remaining_fields": ["entire application form"]
     }
   ],
   "stats": {
     "total_applied": 1,
     "total_success": 1,
-    "total_failed": 7,
+    "total_failed": 9,
     "total_pending": 0,
     "total_skipped": 1
   }

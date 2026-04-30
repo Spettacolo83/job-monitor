@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T14:47:23.572436+00:00",
+  "last_updated": "2026-04-30T20:18:45.611387+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -13973,6 +13973,19 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "arcdev_4a72283db0c63db85df154b0ac9c0e13": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Mobile Developer + Website for Shopify and Stripe Integration",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/mobile-developer-website-for-shopify-and-stripe-integration",
+      "first_seen": "2026-04-30T20:18:45.611387+00:00",
+      "pub_date": "2026-04-27T02:26:02+00:00",
+      "score": 48,
+      "notified": false,
+      "eliminated": false,
+      "reason": "below_threshold (score < 50)"
     }
   },
   "daily_stats": {
@@ -14174,67 +14187,69 @@
       "medium_score": 0,
       "ambiguous": 0,
       "eliminated": 58,
-      "top_jobs": []
+      "top_jobs": [],
+      "total_seen": 1,
+      "below_threshold": 1
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T14:47:23.572436+00:00",
+      "last_success": "2026-04-30T20:18:45.611387+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T14:47:23.572436+00:00",
+      "last_success": "2026-04-30T20:18:45.611387+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS feed returns HTML (akamai redirect)"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_success": "2026-04-30T14:47:23.572436+00:00",
-      "last_error": null
+      "last_error": "Proxy 200 but no job listings (shell page only)"
     },
     "welcometothejungle": {
-      "consecutive_failures": 14,
+      "consecutive_failures": 15,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Proxy 200 but SPA, no SSR jobs"
     },
     "landingjobs": {
-      "consecutive_failures": 13,
+      "consecutive_failures": 14,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Proxy 200 but no jobs in HTML (SPA shell)"
     },
     "indeed_uk": {
-      "consecutive_failures": 29,
+      "consecutive_failures": 30,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 28,
+      "consecutive_failures": 29,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 28,
+      "consecutive_failures": 29,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 28,
+      "consecutive_failures": 29,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 28,
+      "consecutive_failures": 29,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 9,
+      "consecutive_failures": 10,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "403 via proxy (Cloudflare)"
     },
@@ -14248,16 +14263,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T14:47:23.572436+00:00",
+      "last_success": "2026-04-30T20:18:45.611387+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T14:47:23.572436+00:00",
+      "last_success": "2026-04-30T20:18:45.611387+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-04-29T06:44:13.864824+00:00",
       "last_error": "HTML returned but no job listings parseable (SPA)"
     }

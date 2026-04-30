@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T06:12:33.066135+00:00",
+  "last_updated": "2026-04-30T14:47:23.572436+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -13674,6 +13674,305 @@
       "eliminated": false,
       "score": 48,
       "notes": "Below threshold (50)"
+    },
+    "remoteok_1131382": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Backend Engineer",
+      "company": "Paperpile",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-engineer-paperpile-1131382",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": "2026-04-29T09:10:29+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (Senior tag) + freelance_only (annual EUR salary, paid time off, equity/bonus → permanent employment)"
+    },
+    "remoteok_1131381": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Full Stack Engineer",
+      "company": "Paperpile",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-paperpile-1131381",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": "2026-04-29T08:59:39+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (senior/lead in title)"
+    },
+    "remoteok_1131380": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Software Engineer",
+      "company": "Interra Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131380",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": "2026-04-29T08:00:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (senior/lead in title)"
+    },
+    "remoteok_1131379": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Software Engineer",
+      "company": "Interra Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131379",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": "2026-04-29T08:00:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (senior/lead in title)"
+    },
+    "arcdev_a99d6e1200e42572": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Wordpress Developer",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/senior-wordpress-developer-olih505fsj",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (senior/lead in title)"
+    },
+    "arcdev_e3d894df3cffa149": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior AI Product Engineer - Fulltime - EMEA/APAC",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/senior-ai-product-engineer-fulltime-emea-apac-oleznqkcmz",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (senior/lead in title)"
+    },
+    "arcdev_e24ffc79bf2dd0bc": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "React Native Developer (Beauty Discovery App MVP) - PT - Worldwide/EST time",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/react-native-developer-beauty-discovery-app-mvp-pt-worldwide-est-time-olackti6zq",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (5+ years required)"
+    },
+    "arcdev_680a4ae2d025a5d8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "iOS Designer",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/ios-designer-ol742aw18v",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match (non-software-dev role)"
+    },
+    "infojobs_es_cf224ec4e3a0e653": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Senior Software Engineer Backend (Java/Kotlin)",
+      "company": null,
+      "url": "https://www.infojobs.net/esparreguera/senior-software-engineer-backend-java-kotlin/of-i49f7b5e0b44cbc83ee21385e3821a6",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (senior/lead in title)"
+    },
+    "infojobs_es_23b253a91a0c551d": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador/a iOS/Swift- Teletrabajo 100%",
+      "company": null,
+      "url": "https://www.infojobs.net/cualquier-ubicacion/programador-ios-swift-teletrabajo-100/of-i8e41534b114824b4cff82d451a09da",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "detail page unavailable (InfoJobs anti-bot CAPTCHA via proxy) — cannot verify remote/freelance"
+    },
+    "infojobs_es_3b0dcb4bd47aa2a9": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Tech Lead iOS (Swift) with French",
+      "company": null,
+      "url": "https://www.infojobs.net/murcia/tech-lead-ios-swift-with-french/of-i1e4f59bd2c475eaa42cdba85c19803",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (senior/lead in title)"
+    },
+    "infojobs_es_f72beb7a8b761556": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a iOS (SwiftUI & UIKit) (Remoto) CC",
+      "company": null,
+      "url": "https://www.infojobs.net/madrid/desarrollador-ios-swiftui-uikit-remoto-cc/of-i5dc510c6f548de848a8e786773e1f7",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "detail page unavailable (InfoJobs anti-bot CAPTCHA via proxy) — cannot verify remote/freelance"
+    },
+    "infojobs_es_25af84aad6fb9ac4": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Backend developer - Python especializado/a en IA",
+      "company": null,
+      "url": "https://www.infojobs.net/madrid/backend-developer-python-especializado-ia/of-i2908d1090f4ed6b1045a2f673ede2b",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "detail page unavailable (InfoJobs anti-bot CAPTCHA via proxy) — cannot verify remote/freelance"
+    },
+    "arcdev_8df79909c51e461c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-Stack Developer – Data-Driven Web Platform WW-PT",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/full-stack-developer-data-driven-web-platform-ww-pt-ol3q54t0uf",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "arcdev_18adc38f6303b81d": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Developer With Experience in Protopie",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/developer-with-experience-in-protopie-ol27dlt6u5",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "arcdev_5c1f0a1ce085f9ee": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Project Lead - Structural Engineering",
+      "company": "Mogi I/O : Ott/Podcast/Short Video Apps For You",
+      "url": "https://arc.dev/remote-jobs/j/mogi-i-o-ott-podcast-short-video-apps-for-you-project-lead-structural-engineering-oliuic9wgu",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "arcdev_3f5097ac3902ec1d": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "AWS DevOps Engineer (Freelancer – Hourly Basis)",
+      "company": "Addvantage Digital Solutions",
+      "url": "https://arc.dev/remote-jobs/j/addvantage-digital-solutions-aws-devops-engineer-freelancer-hourly-basis-oliujt8wpt",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "arcdev_59ab6568850e3a29": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Project Engineer - Structural Design",
+      "company": "Mogi I/O : Ott/Podcast/Short Video Apps For You",
+      "url": "https://arc.dev/remote-jobs/j/mogi-i-o-ott-podcast-short-video-apps-for-you-project-engineer-structural-design-oliukjfyqq",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "arcdev_082b9934a6625895": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Design Program Manager, Games Platform",
+      "company": "Ladders",
+      "url": "https://arc.dev/remote-jobs/j/ladders-senior-design-program-manager-games-platform-oliyamk17h",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "infojobs_es_57be988dbd8d7c23": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Android developer",
+      "company": null,
+      "url": "https://www.infojobs.net/crevillent/android-developer/of-i973e51454744b9b1c164887189042b",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "infojobs_es_121133b39e7c39de": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Android | Java – 100% Remoto | REF: EGC",
+      "company": null,
+      "url": "https://www.infojobs.net/madrid/desarrollador-android-java-100-remoto-egc/of-i6a946c182f4f44abfce65055a89235",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "infojobs_es_257b7c23089181f7": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "iOS Developer (Swift) – Híbrido Madrid Nuevos Ministerios. (3 meses prorrogables)",
+      "company": null,
+      "url": "https://www.infojobs.net/madrid/ios-developer-swift-hibrido-madrid-nuevos-ministerios.-3-meses-prorrogables/of-i3f14423b424292a06b05962ae9fe4c",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "infojobs_es_cd124564cf3ef9b9": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Python Developer Junior + Ansible/Proyecto estable-100% Remoto (H/M/X)",
+      "company": null,
+      "url": "https://www.infojobs.net/barcelona/python-developer-junior-ansible-proyecto-estable-100-remoto-h-m-x/of-i49fd088972446a871e2d61b69407af",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "infojobs_es_e7c50d0bf041a600": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "AI Junior Developer (Python / React) - REMOTO",
+      "company": null,
+      "url": "https://www.infojobs.net/madrid/ai-junior-developer-python-react-remoto/of-i92f75bdb9a420c9eee0741df5ff500",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "infojobs_es_a8be3cc12cc224f0": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Power Platform",
+      "company": null,
+      "url": "https://www.infojobs.net/madrid/desarrollador-power-platform/of-i3595a62ad740eb910897121fef3fc6",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
+    },
+    "infojobs_es_1f6967b5e6cbc892": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Business Developer Junior - Consultoría I+D",
+      "company": null,
+      "url": "https://www.infojobs.net/barcelona/business-developer-junior-consultoria-d/of-i7dcbcc7051495ca600e36307d90a6b",
+      "first_seen": "2026-04-30T14:47:23.572436+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title_duplicate (same title+company already seen)"
     }
   },
   "daily_stats": {
@@ -13874,68 +14173,68 @@
       "high_score": 0,
       "medium_score": 0,
       "ambiguous": 0,
-      "eliminated": 32,
+      "eliminated": 58,
       "top_jobs": []
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T06:12:33.066135+00:00",
+      "last_success": "2026-04-30T14:47:23.572436+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T06:12:33.066135+00:00",
+      "last_success": "2026-04-30T14:47:23.572436+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 19,
+      "consecutive_failures": 20,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS feed returns HTML (akamai redirect)"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T06:12:33.066135+00:00",
+      "last_success": "2026-04-30T14:47:23.572436+00:00",
       "last_error": null
     },
     "welcometothejungle": {
-      "consecutive_failures": 13,
+      "consecutive_failures": 14,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Proxy 200 but SPA, no SSR jobs"
     },
     "landingjobs": {
-      "consecutive_failures": 12,
+      "consecutive_failures": 13,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Proxy 200 but SPA, no jobs in HTML"
+      "last_error": "Proxy 200 but no jobs in HTML (SPA shell)"
     },
     "indeed_uk": {
-      "consecutive_failures": 28,
+      "consecutive_failures": 29,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 27,
+      "consecutive_failures": 28,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 27,
+      "consecutive_failures": 28,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 27,
+      "consecutive_failures": 28,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 27,
+      "consecutive_failures": 28,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "403 via proxy (Cloudflare)"
     },
@@ -13949,16 +14248,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T06:12:33.066135+00:00",
+      "last_success": "2026-04-30T14:47:23.572436+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-04-30T06:12:33.066135+00:00",
+      "last_success": "2026-04-30T14:47:23.572436+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_success": "2026-04-29T06:44:13.864824+00:00",
       "last_error": "HTML returned but no job listings parseable (SPA)"
     }

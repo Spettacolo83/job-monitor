@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T06:31:47.541954+00:00",
+  "last_updated": "2026-05-12T07:50:39.280129+00:00",
   "jobs": {
     "remoteok_1131173": {
       "site_id": "remoteok",
@@ -23,7 +23,8 @@
       "pub_date": "2026-04-09T21:15:48",
       "score": 68,
       "notified": true,
-      "eliminated": false
+      "eliminated": true,
+      "elimination_reason": "remote_only: candidate_required_location=USA only"
     },
     "remotive_2088708": {
       "site_id": "remotive",
@@ -14328,6 +14329,270 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "non_dev_role: matched '\\bdesarrollador power platform\\b'"
+    },
+    "remoteok_1131531": {
+      "site_id": "remoteok",
+      "title": "Staff Product Manager Enterprise",
+      "company": "LiveKit",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-enterprise-livekit-1131531",
+      "date": "2026-05-09T16:00:24+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "unprocessed",
+      "notified": false
+    },
+    "remoteok_1131529": {
+      "site_id": "remoteok",
+      "title": "Lead Software Engineer",
+      "company": "CSC Generation",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
+      "date": "2026-05-09T08:00:10+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "unprocessed",
+      "notified": false
+    },
+    "remoteok_1131520": {
+      "site_id": "remoteok",
+      "title": "Engineering Manager AI Fleet Management &amp; Honk",
+      "company": "Spotify",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520",
+      "date": "2026-05-08T16:01:13+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "unprocessed",
+      "notified": false
+    },
+    "remoteok_1131490": {
+      "site_id": "remoteok",
+      "title": "Curriculum Developer Aerospace Technician",
+      "company": "Correlation One",
+      "url": "https://remoteOK.com/remote-jobs/remote-curriculum-developer-aerospace-technician-correlation-one-1131490",
+      "date": "2026-05-06T16:01:52+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "elimination_reason": "tech_match: curriculum/training content, not software dev",
+      "notified": false
+    },
+    "remoteok_1131479": {
+      "site_id": "remoteok",
+      "title": "Senior Backend Engineer",
+      "company": "Akuity",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479",
+      "date": "2026-05-06T00:01:19+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "unprocessed",
+      "notified": false
+    },
+    "remoteok_1131477": {
+      "site_id": "remoteok",
+      "title": "Central Study Coordinator Retention",
+      "company": "Care Access",
+      "url": "https://remoteOK.com/remote-jobs/remote-central-study-coordinator-retention-care-access-1131477",
+      "date": "2026-05-06T00:00:48+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "unprocessed",
+      "notified": false
+    },
+    "remoteok_1131473": {
+      "site_id": "remoteok",
+      "title": "UI Developer",
+      "company": "RainFocus",
+      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1131473",
+      "date": "2026-05-05T16:01:22+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority: Senior UI Developer (despite title); on-site Lehi Utah",
+      "notified": false
+    },
+    "remoteok_1131472": {
+      "site_id": "remoteok",
+      "title": "Software Development Engineer Backend",
+      "company": "HighLevel",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-backend-highlevel-1131472",
+      "date": "2026-05-05T16:01:11+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority: SDE-3 backend (senior level)",
+      "notified": false
+    },
+    "remoteok_1131457": {
+      "site_id": "remoteok",
+      "title": "Software Engineer Showroom",
+      "company": "Higharc",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-showroom-higharc-1131457",
+      "date": "2026-05-05T00:00:16+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance_only: 5+ employment benefits (medical, dental, vision, 401K, unlimited PTO, maternity leave, equity); also US-employees only",
+      "notified": false
+    },
+    "remoteok_1131437": {
+      "site_id": "remoteok",
+      "title": "Junior Mid Full Stack Software Engineer",
+      "company": "Black Canyon Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437",
+      "date": "2026-05-03T00:00:13+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "remote-first but EST timezone preferred; partial tech match; old (9d)",
+      "notified": false
+    },
+    "remoteok_1131433": {
+      "site_id": "remoteok",
+      "title": "Data Conversion Developer",
+      "company": "Grant Street Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-conversion-developer-grant-street-group-1131433",
+      "date": "2026-05-02T00:01:19+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance_only: annual salary range $75K-$165K/year; Perl/MySQL unknown tech",
+      "notified": false
+    },
+    "remoteok_1131430": {
+      "site_id": "remoteok",
+      "title": "Clinical Vendor Activation Manager",
+      "company": "Care Access",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-vendor-activation-manager-care-access-1131430",
+      "date": "2026-05-02T00:00:53+00:00",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "unprocessed",
+      "notified": false
+    },
+    "remotive_2090002": {
+      "site_id": "remotive",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002",
+      "date": "2026-04-30T14:11:53",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": false,
+      "note": "unprocessed",
+      "notified": false
+    },
+    "himalayas_https://himalayas.app/companies/jobrack/jobs/bems-ventures-amazon-marketplace-specialist": {
+      "site_id": "himalayas",
+      "title": "BEMS Ventures - Amazon Marketplace Specialist",
+      "company": "name",
+      "url": "https://himalayas.app/companies/jobrack/jobs/bems-ventures-amazon-marketplace-specialist",
+      "date": "1778549124",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "tech_match: Amazon marketplace specialist, not dev"
+    },
+    "himalayas_https://himalayas.app/companies/hire-hangar/jobs/frontend-focused-full-stack-developer": {
+      "site_id": "himalayas",
+      "title": "Frontend-Focused Full Stack Developer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/hire-hangar/jobs/frontend-focused-full-stack-developer",
+      "date": "1778548735",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "remote_only: location-restricted to LATAM countries, EST-PST timezone"
+    },
+    "himalayas_https://himalayas.app/companies/teya/jobs/principal-backend-engineer": {
+      "site_id": "himalayas",
+      "title": "Principal Backend Engineer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/teya/jobs/principal-backend-engineer",
+      "date": "1778548673",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "seniority: Principal Backend Engineer"
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/head-of-engineering-3066928984": {
+      "site_id": "himalayas",
+      "title": "Head of Engineering",
+      "company": "name",
+      "url": "https://himalayas.app/companies/bjak/jobs/head-of-engineering-3066928984",
+      "date": "1778548561",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "seniority: Head of Engineering"
+    },
+    "himalayas_https://himalayas.app/companies/college-board/jobs/associate-director-k-12-candidate-must-reside-in-texas": {
+      "site_id": "himalayas",
+      "title": "Associate Director, K-12 (Candidate Must Reside in\u00a0Texas)\u00a0\u00a0",
+      "company": "name",
+      "url": "https://himalayas.app/companies/college-board/jobs/associate-director-k-12-candidate-must-reside-in-texas",
+      "date": "1778548435",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "remote_only: must reside in Texas; not dev role"
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/senior-recruiter-machine-learning-uk": {
+      "site_id": "himalayas",
+      "title": "Senior Recruiter, Machine Learning(UK)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/bjak/jobs/senior-recruiter-machine-learning-uk",
+      "date": "1778548330",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "tech_match: recruiter, not dev; senior"
+    },
+    "himalayas_https://himalayas.app/companies/sosafe/jobs/customer-success-manager-m-w-d": {
+      "site_id": "himalayas",
+      "title": "Customer Success Manager (m/w/d)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/sosafe/jobs/customer-success-manager-m-w-d",
+      "date": "1778548293",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "tech_match: customer success manager, not dev"
+    },
+    "himalayas_https://himalayas.app/companies/syneos-health-india-private-limited/jobs/sr-dir-strategy-delivery-cardiometabolic-us-home-based": {
+      "site_id": "himalayas",
+      "title": "Sr Dir, Strategy & Delivery - Cardiometabolic (US - Home Based)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/sr-dir-strategy-delivery-cardiometabolic-us-home-based",
+      "date": "1778548138",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "seniority/tech: Senior Director Strategy, not dev"
+    },
+    "himalayas_https://himalayas.app/companies/capco/jobs/senior-fullstack-developer-remoto-com-ingles": {
+      "site_id": "himalayas",
+      "title": "Senior Fullstack Developer -  Remoto com INGLES",
+      "company": "name",
+      "url": "https://himalayas.app/companies/capco/jobs/senior-fullstack-developer-remoto-com-ingles",
+      "date": "1778548082",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "seniority: Senior Fullstack Developer"
+    },
+    "himalayas_https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-ict-project-manager-with-microsoft-x2f-azure-experience-full-remote": {
+      "site_id": "himalayas",
+      "title": "Senior ICT Project Manager with Microsoft&#x2f;Azure experience - Full Remote - ",
+      "company": "name",
+      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-ict-project-manager-with-microsoft-x2f-azure-experience-full-remote",
+      "date": "1778548055",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "seniority: Senior ICT Project Manager"
+    },
+    "himalayas_https://himalayas.app/companies/fyxer/jobs/lead-platform-engineer": {
+      "site_id": "himalayas",
+      "title": "Lead Platform Engineer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/fyxer/jobs/lead-platform-engineer",
+      "date": "1778548028",
+      "first_seen": "2026-05-12T07:50:39.280129+00:00",
+      "eliminated": true,
+      "notified": false,
+      "elimination_reason": "seniority: Lead Platform Engineer"
     }
   },
   "daily_stats": {
@@ -14541,68 +14806,74 @@
       "medium_score": 0,
       "ambiguous": 0,
       "top_3": []
+    },
+    "2026-05-12": {
+      "found": 24,
+      "eliminated": 16,
+      "notified": 0,
+      "below_threshold": 8
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-05-01T06:31:47.541954+00:00",
+      "last_success": "2026-05-12T07:50:39.280129+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-05-01T06:31:47.541954+00:00",
+      "last_success": "2026-05-12T07:50:39.280129+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS feed returns HTML (akamai redirect)"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_success": "2026-05-01T06:31:47.541954+00:00",
-      "last_error": null
+      "last_error": "Proxy 200 but SPA shell, no jobs parseable"
     },
     "welcometothejungle": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Proxy 200 but SPA, no SSR jobs"
+      "last_error": "Proxy 200 but SPA shell, no jobs parseable"
     },
     "landingjobs": {
-      "consecutive_failures": 15,
+      "consecutive_failures": 16,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Proxy 200 but no jobs in HTML (SPA shell)"
+      "last_error": "Proxy 200 but SPA shell, no jobs parseable"
     },
     "indeed_uk": {
-      "consecutive_failures": 31,
+      "consecutive_failures": 32,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 30,
+      "consecutive_failures": 31,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Proxy returned empty (timeout/no response)"
     },
     "indeed_de": {
-      "consecutive_failures": 30,
+      "consecutive_failures": 31,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Proxy returned empty (timeout/no response)"
     },
     "indeed_es": {
-      "consecutive_failures": 30,
+      "consecutive_failures": 31,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Proxy returned empty (timeout/no response)"
     },
     "indeed_fr": {
-      "consecutive_failures": 30,
+      "consecutive_failures": 31,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
-      "last_error": "403 via proxy (Cloudflare)"
+      "last_error": "Proxy returned empty (timeout/no response)"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -14614,18 +14885,18 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-05-01T06:31:47.541954+00:00",
+      "last_success": "2026-05-12T07:50:39.280129+00:00",
       "last_error": null
     },
     "arcdev": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_success": "2026-05-01T06:31:47.541954+00:00",
-      "last_error": null
+      "last_error": "HTML returned but no parseable job listings (SPA shell)"
     },
     "justremote": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-04-29T06:44:13.864824+00:00",
-      "last_error": "HTML returned but no job listings parseable (SPA)"
+      "last_error": "HTML returned but no parseable job listings (SPA)"
     }
   }
 }

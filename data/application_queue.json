@@ -1,3 +1,11 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "job_id": "infojobs_es_a1a7256b57489bbe5e32a7d0ecd09e",
+      "chat_id": "181648234",
+      "message_text": "🟢 Score: 87/100 | iOS developer - REMOTO\n🏢 SLASH MOBILITY, S.L — Spagna (Barcelona)\n💼 Flessibile: Contratto laboral o collaborazione freelance\n🔧 Swift, SwiftUI, MVVM, Clean Architecture, AI-assisted dev (Copilot/Claude/Cursor)\n📅 Pubblicato il 18 mag 2026 — via InfoJobs España\n\n✅ Perché matcha:\n• 100% remoto (\"Solo teletrabajo\") e con opzione freelance esplicita\n• Stack iOS nativo perfetto: Swift + SwiftUI + MVVM + Clean Architecture\n• Bonus AI: uso avanzato di GitHub Copilot, Claude, OpenAI e prompt engineering\n\n⚠️ Nota: annuncio non recente (~7 settimane), verificare che sia ancora attivo.\n\n🔗 https://www.infojobs.net/barcelona/ios-developer-remoto/of-ia1a7256b57489bbe5e32a7d0ecd09e",
+      "requested_at": "2026-07-06T14:18:26.337Z",
+      "status": "pending"
+    }
+  ]
 }

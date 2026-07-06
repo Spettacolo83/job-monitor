@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:06:33.955251+00:00",
+  "last_updated": "2026-07-06T14:17:10+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -492,6 +492,258 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "freelance_only: jobType=permanent (employment contract)"
+    },
+    "remoteok_1134518": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Front End Developer",
+      "company": "PULSEMEDIA (MENA)",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-07-02T17:42:25+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Geographic: MENA-only remote, candidate is in Spain"
+    },
+    "remoteok_1134395": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Full Stack Developer first UK",
+      "company": "Better Futures Multi Academy Trust",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-first-uk-better-futures-multi-academy-trust-1134395",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-07-02T11:52:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: public sector pension + UK-only (employment position)"
+    },
+    "remoteok_1134413": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior UI Engineer",
+      "company": "Arabian Private Holdings",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-ui-engineer-arabian-private-holdings-1134413",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-07-02T09:06:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: \"permanent, full time position\""
+    },
+    "remotive_2090991": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Frontend Developer",
+      "company": "Quinncia Inc",
+      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-06-16T06:59:30",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: \"We are NOT looking for part-time work, contractors\""
+    },
+    "remotive_1956455": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "iOS Developer",
+      "company": "nooro",
+      "url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-06-09T21:15:39",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: 5+ years required; geographic: USA only"
+    },
+    "arcdev_d53c841115a389cb": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Frontend Developer (Design-Focused) - Part-time - EMEA/APAC",
+      "company": "Arc.dev listing",
+      "url": "https://arc.dev/jobs/frontend-developer-design-focused-part-time-emea-apac",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-07-03T10:12:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: experienceLevels=[senior]"
+    },
+    "arcdev_602422271f28cfbd": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Freelance Developer",
+      "company": "Arc.dev listing",
+      "url": "https://arc.dev/jobs/freelance-developer",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-06-30T14:09:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: experienceLevels=[senior]"
+    },
+    "arcdev_2559c02f980a53dd": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer Kotlin AWS",
+      "company": "Client Server",
+      "url": "https://arc.dev/jobs/client-server-software-engineer-kotlin-aws",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-07-06T04:00:27+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "jobType=permanent (freelance_only reject); backend Kotlin AWS not mobile"
+    },
+    "arcdev_8467ad2cae3d66ba": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "(Junior) Financial Data Scientist (w/m/d)",
+      "company": "KPMG Deutschland",
+      "url": "https://arc.dev/jobs/kpmg-deutschland-junior-financial-data-scientist-w-m-d",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-07-06T03:31:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a dev role (data science); jobType=permanent"
+    },
+    "infojobs_es_5e6bd27845482b92172321aad85882": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "iOS Developer",
+      "company": "SISTEMA AZUD, S.A.",
+      "url": "https://www.infojobs.net/alcantarilla/ios-developer/of-i5e6bd27845482b92172321aad85882",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location Alcantarilla, no remote mentioned in listing"
+    },
+    "infojobs_es_a1a7256b57489bbe5e32a7d0ecd09e": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "iOS developer - REMOTO",
+      "company": "SLASH MOBILITY, S.L",
+      "url": "https://www.infojobs.net/barcelona/ios-developer-remoto/of-ia1a7256b57489bbe5e32a7d0ecd09e",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-05-18T00:00:00+00:00",
+      "notified": true,
+      "eliminated": false,
+      "score": 87
+    },
+    "infojobs_es_2b4bb1f06e455ab33c9cacac4285f7": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "ANDROID SOFTWARE ENGINEER (CLIENTE FINAL)",
+      "company": "SEBASTIÁN CONSULTORES",
+      "url": "https://www.infojobs.net/alcala-de-henares/android-software-engineer-cliente-final/of-i2b4bb1f06e455ab33c9cacac4285f7",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: annual gross salary \"40.000€ Bruto/año\" + Contrato indefinido"
+    },
+    "infojobs_es_b6a6f963b44776afecb369677e9aa8": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador/a de aplicaciones",
+      "company": "MACROSISTEMAS S.A.",
+      "url": "https://www.infojobs.net/vigo/programador-aplicaciones/of-ib6a6f963b44776afecb369677e9aa8",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location Vigo, no remote mention"
+    },
+    "infojobs_es_ffb40509ce494784a9a3c17574e3cc": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador React Native",
+      "company": "Infortec Consultores, S.A.U",
+      "url": "https://www.infojobs.net/madrid/desarrollador-react-native/of-iffb40509ce494784a9a3c17574e3cc",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: Contrato indefinido; description mismatch (Akeneo PIM)"
+    },
+    "infojobs_es_bc34db4ecb412db696e3f65b9cd79d": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a web & mobile (React Native) | Híbrido Madrid",
+      "company": "Unknown",
+      "url": "https://www.infojobs.net/alcobendas/desarrollador-web-mobile-react-native-hibrido-madrid/of-ibc34db4ecb412db696e3f65b9cd79d",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: \"Híbrido\" explicitly in title"
+    },
+    "infojobs_es_c2364fc9fe4d7d9df0b3dc9bedbf62": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Ingeniero/a Junior - Arganda del Rey",
+      "company": "Unknown",
+      "url": "https://www.infojobs.net/arganda-del-rey/ingeniero-junior-arganda-del-rey/of-ic2364fc9fe4d7d9df0b3dc9bedbf62",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location Arganda del Rey, no remote mention (Junior default = on-site)"
+    },
+    "infojobs_es_63da406b744ef390bd44a8b0d9861c": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a backend (Java)",
+      "company": "Unknown",
+      "url": "https://www.infojobs.net/madrid/desarrollador-backend-java/of-i63da406b744ef390bd44a8b0d9861c",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Madrid location, no remote mention in listing"
+    },
+    "infojobs_es_524e9fc62e46fdaf36c73b59fcea62": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Prácticas - Desarrollador/a Junior de Software PHP/Javascript",
+      "company": "Unknown",
+      "url": "https://www.infojobs.net/valencia/practicas-desarrollador-junior-software-php-javascript/of-i524e9fc62e46fdaf36c73b59fcea62",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: \"Prácticas\" (internship contract, not freelance)"
+    },
+    "infojobs_es_2c9722e84140e7b57676a130a5b069": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Junior Rust / C++ — Tauri 2.0",
+      "company": "Daedo",
+      "url": "https://www.infojobs.net/l-hospitalet-de-llobregat/desarrollador-junior-rust-c-tauri-2.0/of-i2c9722e84140e7b57676a130a5b069",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": "2026-06-22T10:31:08Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Contrato formativo, location L'Hospitalet, no remote mention (Junior default = on-site)"
+    },
+    "infojobs_es_030521ae724e6abb6bc3d4cfe1d038": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Software Junior",
+      "company": "SELECTOS GESTION S.L.",
+      "url": "https://www.infojobs.net/petrer/desarrollador-software-junior/of-i030521ae724e6abb6bc3d4cfe1d038",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location Petrer, no remote mention (Junior default = on-site)"
+    },
+    "infojobs_es_191a3736904524bfc9443fcc6298a8": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Junior de SW Embebido (C / ARM) Getafe",
+      "company": "Unknown",
+      "url": "https://www.infojobs.net/getafe/desarrollador-junior-sw-embebido-c-arm-getafe/of-i191a3736904524bfc9443fcc6298a8",
+      "first_seen": "2026-07-06T14:17:10+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: embedded/C-ARM requires hardware lab in Getafe (on-site)"
     }
   },
   "daily_stats": {
@@ -721,66 +973,83 @@
       "medium_score": 0,
       "ambiguous": 0,
       "top_3": []
+    },
+    "2026-07-06": {
+      "total_seen": 21,
+      "total_notified": 1,
+      "total_eliminated": 20,
+      "below_threshold": 0,
+      "high_score": 1,
+      "medium_score": 0,
+      "ambiguous": 0,
+      "top_3": [
+        {
+          "title": "iOS developer - REMOTO",
+          "company": "SLASH MOBILITY, S.L",
+          "site": "infojobs_es",
+          "score": 87
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-06-16T16:06:33.955251+00:00",
+      "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-06-16T16:06:33.955251+00:00",
+      "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 24,
+      "consecutive_failures": 25,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS feed returns HTML (akamai redirect)"
     },
     "infojobs_es": {
-      "consecutive_failures": 2,
-      "last_success": "2026-05-01T06:31:47.541954+00:00",
-      "last_error": "Proxy 200 but SPA shell, no jobs parseable"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-06T14:17:10+00:00",
+      "last_error": null
     },
     "welcometothejungle": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Proxy 200 but SPA shell, no jobs parseable"
     },
     "landingjobs": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Proxy 200 but SPA shell, no jobs parseable"
     },
     "indeed_uk": {
-      "consecutive_failures": 33,
+      "consecutive_failures": 34,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 31,
+      "consecutive_failures": 32,
       "last_success": null,
-      "last_error": "Proxy returned empty (timeout/no response)"
+      "last_error": "Cloudflare 403 via proxy (not attempted this run)"
     },
     "indeed_es": {
-      "consecutive_failures": 31,
+      "consecutive_failures": 32,
       "last_success": null,
-      "last_error": "Proxy returned empty (timeout/no response)"
+      "last_error": "Cloudflare 403 via proxy (not attempted this run)"
     },
     "indeed_fr": {
-      "consecutive_failures": 31,
+      "consecutive_failures": 32,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Cloudflare 403 via proxy (not attempted this run)"
     },
     "glassdoor": {
-      "consecutive_failures": 13,
+      "consecutive_failures": 14,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "Cloudflare 403 via proxy"
     },
@@ -794,18 +1063,18 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-06-16T16:06:33.955251+00:00",
+      "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-06-16T16:06:33.955251+00:00",
+      "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 8,
-      "last_success": "2026-04-29T06:44:13.864824+00:00",
-      "last_error": "HTML returned but no parseable job listings (SPA)"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-06T14:17:10+00:00",
+      "last_error": null
     }
   }
 }

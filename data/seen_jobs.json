@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T20:01:49+00:00",
+  "last_updated": "2026-07-07T06:12:05.795880+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -1476,6 +1476,236 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "prefilter: senior/lead"
+    },
+    "remoteok_1134533": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Human Resources Generalist Manager",
+      "company": "Seasoned Recruitment",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-manager-seasoned-recruitment-1134533",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-05T20:53:39+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: HR role, not a developer"
+    },
+    "remotive_1749306": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Copywriter",
+      "company": "Coalition Technologies ",
+      "url": "https://remotive.com/remote-jobs/writing/copywriter-1749306",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-02T20:01:13",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: Copywriter, not a developer role"
+    },
+    "remotive_1919266": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-16T10:16:11",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/architect"
+    },
+    "remotive_2090983": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2090983",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-12T09:35:12",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/architect"
+    },
+    "himalayas_https://himalayas.app/companies/speechify/jobs/software-engineer-ios-core-product-bloomington-in-usa": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer, iOS Core Product - Bloomington, IN, USA",
+      "company": "Speechify",
+      "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-ios-core-product-bloomington-in-usa",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-07T01:58:47+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas metadata seniority=Senior"
+    },
+    "himalayas_https://himalayas.app/companies/viind-gmbh/jobs/senior-fullstack-developer-m-w-d-8601420327": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Fullstack Developer (m/w/d)",
+      "company": "viind GmbH",
+      "url": "https://himalayas.app/companies/viind-gmbh/jobs/senior-fullstack-developer-m-w-d-8601420327",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-07T01:48:55+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/architect"
+    },
+    "himalayas_https://himalayas.app/companies/blp-digital-ag/jobs/software-engineer-erp-integrations-7783955903": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer ERP Integrations",
+      "company": "BLP Digital AG",
+      "url": "https://himalayas.app/companies/blp-digital-ag/jobs/software-engineer-erp-integrations-7783955903",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-07T01:45:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: hybrid role (3-4 days in Zurich/Germany office); language_requirement: German proficiency required"
+    },
+    "himalayas_https://himalayas.app/companies/speechify/jobs/software-engineer-ios-core-product-copenhagen-denmark": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer, iOS Core Product - Copenhagen, Denmark",
+      "company": "Speechify",
+      "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-ios-core-product-copenhagen-denmark",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-07T01:42:45+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: job description explicitly says \"Senior iOS Engineer\""
+    },
+    "himalayas_https://himalayas.app/companies/speechify/jobs/software-engineer-data-infrastructure-acquisition-raleigh-nc-usa": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Raleigh, NC, USA",
+      "company": "Speechify",
+      "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-data-infrastructure-acquisition-raleigh-nc-usa",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-07T01:39:56+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas metadata seniority=Senior"
+    },
+    "arcdev_p1t7zgd46v": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Backend Developer (Python, Django) w/ DevOps experience - Perm - EMEA/APAC",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/senior-backend-developer-python-django-w-devops-experience-perm-emea-apac-p1t7zgd46v",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-03T15:55:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/architect"
+    },
+    "arcdev_p1r2cpbds6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Frontend Developer (Design-Focused) - Part-time - EMEA/APAC",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/frontend-developer-design-focused-part-time-emea-apac-p1r2cpbds6",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-03T10:12:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: arc.dev experienceLevel=senior"
+    },
+    "arcdev_p1kd8vm1iu": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Backend Developer",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/backend-developer-p1kd8vm1iu",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-02T16:24:19+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: arc.dev experienceLevel=senior"
+    },
+    "arcdev_p14o4iad24": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Php Developer - Part-time - Worldwide",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/php-developer-part-time-worldwide-p14o4iad24",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-30T22:41:35+00:00",
+      "notified": true,
+      "eliminated": false,
+      "score": 74
+    },
+    "arcdev_p13jrv07hw": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Blockchain Developer",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/senior-blockchain-developer-p13jrv07hw",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-30T19:42:52+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/architect"
+    },
+    "arcdev_p11gelgyux": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Freelance Developer",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/freelance-developer-p11gelgyux",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-30T14:09:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: arc.dev experienceLevel=senior"
+    },
+    "arcdev_p0psyie9ir": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-Stack Web Developer WW-PT",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/full-stack-web-developer-ww-pt-p0psyie9ir",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-29T07:11:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: arc.dev experienceLevel=senior"
+    },
+    "arcdev_p03bfpixp5": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "MS Dynamics 365 CRM Expert Developer US/WW-PT",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/ms-dynamics-365-crm-expert-developer-us-ww-pt-p03bfpixp5",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-26T19:26:23+00:00",
+      "notified": false,
+      "eliminated": false,
+      "score": 49,
+      "below_threshold": true,
+      "note": "Sotto soglia 50: tech MS Dynamics 365 non nel profilo, posting vecchio"
+    },
+    "arcdev_oyayiy16j6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Scientist",
+      "company": "新安传媒有限公司",
+      "url": "https://arc.dev/remote-jobs/j/data-scientist-oyayiy16j6",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-07-06T03:31:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: Data Scientist role in China, not matching profile"
+    },
+    "arcdev_oz6oj9egk3": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Dev Technosys is hiring AI Developer",
+      "company": "Arc.dev company",
+      "url": "https://arc.dev/remote-jobs/details/dev-technosys-is-hiring-ai-developer-oz6oj9egk3",
+      "first_seen": "2026-07-07T06:12:05.795880+00:00",
+      "pub_date": "2026-06-23T04:43:08+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: arc.dev experienceLevel=senior"
     }
   },
   "daily_stats": {
@@ -1712,66 +1942,74 @@
       "below_threshold": 0,
       "sites_ok": 4,
       "sites_failed": 11
+    },
+    "2026-07-07": {
+      "notified": 1,
+      "eliminated": 17,
+      "below_threshold": 1,
+      "high_score": 0,
+      "mid_score": 1,
+      "total_seen": 19
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-06T20:01:49+00:00",
+      "last_success": "2026-07-07T06:12:05.795880+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-06T20:01:49+00:00",
+      "last_success": "2026-07-07T06:12:05.795880+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 26,
+      "consecutive_failures": 27,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "RSS returns HTML page (SPA)"
+      "last_error": "RSS returns HTML SPA (Jobicy)"
     },
     "infojobs_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": "Captcha challenge via proxy"
     },
     "welcometothejungle": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "SPA — no server-rendered listings"
     },
     "landingjobs": {
-      "consecutive_failures": 19,
+      "consecutive_failures": 20,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Proxy 200 but 0 results for keyword"
+      "last_error": "Captcha challenge via proxy"
     },
     "indeed_uk": {
-      "consecutive_failures": 35,
+      "consecutive_failures": 36,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 34,
+      "consecutive_failures": 35,
       "last_success": null,
-      "last_error": "Cloudflare block via proxy"
+      "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 33,
+      "consecutive_failures": 34,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 33,
+      "consecutive_failures": 34,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 33,
+      "consecutive_failures": 34,
       "last_success": null,
-      "last_error": "Cloudflare block via proxy"
+      "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 15,
+      "consecutive_failures": 16,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "Cloudflare 403 via proxy"
     },
@@ -1785,16 +2023,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-06T20:01:49+00:00",
+      "last_success": "2026-07-07T06:12:05.795880+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-06T20:01:49+00:00",
+      "last_success": "2026-07-07T06:12:05.795880+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": "SPA — no server-rendered listings"
     }

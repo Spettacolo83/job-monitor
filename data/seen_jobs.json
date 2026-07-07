@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T06:12:05.795880+00:00",
+  "last_updated": "2026-07-07T14:05:00+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -1706,6 +1706,369 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "seniority_filter: arc.dev experienceLevel=senior"
+    },
+    "remoteok_1134531": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Scrum Master",
+      "company": "Holliday Systems Inc",
+      "url": "https://remoteOK.com/remote-jobs/remote-scrum-master-holliday-systems-inc-1134531",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "2026-07-06T12:30:37+00:00",
+      "notified": false,
+      "below_threshold": true,
+      "score": 25,
+      "reason": "tech_match=0: Scrum Master role, no dev tech match"
+    },
+    "remoteok_1134530": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Wireless Systems Technical Support Engineer",
+      "company": "Intracom Telecom",
+      "url": "https://remoteOK.com/remote-jobs/remote-wireless-systems-technical-support-engineer-intracom-telecom-1134530",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "2026-07-06T10:28:03+00:00",
+      "notified": false,
+      "below_threshold": true,
+      "score": 25,
+      "reason": "tech_match=0: Wireless Systems Support (RF/telecom), not software dev"
+    },
+    "remoteok_1134524": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Administrative Assistant",
+      "company": "Recruitlytic Hiring",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytic-hiring-1134524",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "2026-07-06T06:58:37+00:00",
+      "notified": false,
+      "below_threshold": true,
+      "score": 20,
+      "reason": "tech_match=0: Administrative Assistant, not dev role"
+    },
+    "remoteok_1134471": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Administrative Assistant",
+      "company": "Recruitlytics Hiring",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hiring-1134471",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "2026-07-04T08:21:03+00:00",
+      "notified": false,
+      "below_threshold": true,
+      "score": 20,
+      "reason": "tech_match=0: Administrative Assistant, not dev role"
+    },
+    "remoteok_1134433": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Administrative Assistant",
+      "company": "ReLyticx HR",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relyticx-hr-1134433",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "2026-07-03T08:44:20+00:00",
+      "notified": false,
+      "below_threshold": true,
+      "score": 20,
+      "reason": "tech_match=0: Administrative Assistant, not dev role"
+    },
+    "himalayas_475bf168d59eda7024971195b3910d62": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Associate Manager, Talent Acquisition",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/associate-manager-talent-acquisition-5969154128",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783430764,
+      "notified": false,
+      "below_threshold": true,
+      "score": 15,
+      "reason": "below_threshold: HR role, tech_match=0"
+    },
+    "himalayas_62bd956e3642c35e390cc2be5f031765": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Staff Product Manager, Governance",
+      "company": "Webflow",
+      "url": "https://himalayas.app/companies/webflow/jobs/staff-product-manager-governance",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783429241,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Staff-level PM"
+    },
+    "himalayas_d686b85061b794cc432bc54f9589ffcd": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "CRM Team Lead",
+      "company": "Massive Rocket",
+      "url": "https://himalayas.app/companies/massive-rocket/jobs/crm-team-lead-1221191987",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783429179,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: team lead + not dev role"
+    },
+    "himalayas_dfee8eba00de46e9b84223ce1f952044": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "DevOps Engineer - AI Model Evaluator",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-1430443360",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783428743,
+      "notified": true,
+      "score": 100,
+      "contract_type": "Freelance (Contractor $85/hr)",
+      "tech": "AWS, GCP, Azure, Kubernetes, Terraform, CI/CD, AI tools",
+      "notified_at": "2026-07-07T14:05:00+00:00"
+    },
+    "himalayas_6565c177a3a5fbbf0b1a32c9cadaa76f": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Cloud & Solution Architect (m/w/d)",
+      "company": "DACHS IT",
+      "url": "https://himalayas.app/companies/dachs-it/jobs/cloud-solution-architect-m-w-d-7287943841",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783428740,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Architect (senior tier) + German posting (m/w/d)"
+    },
+    "himalayas_a5f10a88b8200716e094115d303e534b": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Back End Engineer UK Based",
+      "company": "Kyra",
+      "url": "https://himalayas.app/companies/kyra/jobs/senior-back-end-engineer-uk-based-7742843632",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783428407,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior in title"
+    },
+    "himalayas_37a01f066b45bc6404c43a20be5079f0": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Analista de Engenharia FEA NVH",
+      "company": "Applus IDIADA",
+      "url": "https://himalayas.app/companies/applus-idiada/jobs/analista-de-engenharia-fea-nvh",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783426886,
+      "notified": false,
+      "below_threshold": true,
+      "score": 15,
+      "reason": "below_threshold: mechanical/vehicle engineer, not software"
+    },
+    "himalayas_b4878e705b02810a92de5042c83248fe": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "DevOps Engineer - AI Model Evaluator",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-4521791070",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783426792,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "duplicate: same title+company as himalayas_dfee8eba00de46e9b84223ce1f952044 (different location variant)"
+    },
+    "himalayas_f2524e9a4b0bd51da835cfa59e15be30": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Product Marketing Manager",
+      "company": "PermitFlow",
+      "url": "https://himalayas.app/companies/permitflow/jobs/senior-product-marketing-manager-689321522",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783426751,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior + not dev role"
+    },
+    "himalayas_a53d1a1b2596dc392f862c1d3ab61f5f": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Product Engineer, AI & Platforms",
+      "company": "MJH Life Sciences®",
+      "url": "https://himalayas.app/companies/mjh-life-sciences/jobs/senior-product-engineer-ai-platforms",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783426149,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior in title"
+    },
+    "himalayas_00319203455d9c179eeac6433741b986": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Birmingham, AL, USA",
+      "company": "Speechify",
+      "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-data-infrastructure-acquisition-birmingham-al-usa",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783423774,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only + seniority: Full Time employment, 5+ years required, US-only location"
+    },
+    "himalayas_d3e0a74acd534e318dbf8dcf724fafcd": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Devops Engineer",
+      "company": "Miratech",
+      "url": "https://himalayas.app/companies/miratech/jobs/senior-devops-engineer-2781389384",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783423767,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior in title"
+    },
+    "himalayas_ca7b58a8f53260acbc3f20cd81338f8c": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Protection and Controls Engineer",
+      "company": "AECOM",
+      "url": "https://himalayas.app/companies/aecom/jobs/protection-and-controls-engineer",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783423739,
+      "notified": false,
+      "below_threshold": true,
+      "score": 15,
+      "reason": "below_threshold: electrical/power engineer, not software"
+    },
+    "himalayas_c000c44e1cb780291b66c40724a77428": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Operations Specialist I, Remote Assistance (Night Shift)",
+      "company": "Doordash",
+      "url": "https://himalayas.app/companies/doordash/jobs/operations-specialist-i-remote-assistance-night-shift",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783423736,
+      "notified": false,
+      "below_threshold": true,
+      "score": 15,
+      "reason": "below_threshold: operations role, not dev, night shift Mexico"
+    },
+    "himalayas_f1890e50990e561b99bd305195bb9344": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Environment & Sustainability BP (Remote, GB, REMOTE)",
+      "company": "Amey",
+      "url": "https://himalayas.app/companies/amey/jobs/environment-sustainability-bp-remote-gb-remote-5965088054",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": 1783423717,
+      "notified": false,
+      "below_threshold": true,
+      "score": 15,
+      "reason": "below_threshold: sustainability role, not dev"
+    },
+    "arcdev_004ade2a6d790c54d548c14b938eff7e": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Technical Project Manager for Health-tech Development Team - (AI & Tokenomic combined) WW-FT",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/technical-project-manager-for-health-tech-development-team-ai-tokenomic-combined-ww-ft-p1u86exia6",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior (Arc.dev experience-level tag) + PM role"
+    },
+    "arcdev_ebca87e62e6727d494912fe19f9de6ad": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "IT Project Manager - Perm - EMEA/LATAM",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/it-project-manager-perm-emea-latam-p1t9l6a5aq",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior + Full-time (Perm) + PM role"
+    },
+    "arcdev_4858a345cf08ff34110d1f4a0ad799a3": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web Designer for Premium Tutoring Website - PT - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/web-designer-for-premium-tutoring-website-pt-worldwide-p1t8m96uyw",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "below_threshold": true,
+      "score": 30,
+      "reason": "tech_match=0: pure designer role, not developer"
+    },
+    "arcdev_00e5e25f383f6e5eab6cf203fb848515": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Backend Developer (Python, Django) w/ DevOps experience - Perm - EMEA/APAC",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/senior-backend-developer-python-django-w-devops-experience-perm-emea-apac-p1t7zgd46v",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior in title + Full-time (Perm)"
+    },
+    "arcdev_dd7e8644abca9147548668f6ca1b81c0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web/Frontend Developer (Design-Focused) - Part-time - EMEA/APAC",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/web-frontend-developer-design-focused-part-time-emea-apac-p1r2cpbds6",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior (Arc.dev experience-level tag)"
+    },
+    "arcdev_c510266b2efd652db65a6930ed230c05": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Designer WW-FT",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/product-designer-ww-ft-p1kfvs1ptv",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior + not developer role (designer)"
+    },
+    "arcdev_0a54f1fa1679820422f773263c24bbf9": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Frontend Developer (Design-Focused) - Part-time - EMEA/APAC",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/frontend-developer-design-focused-part-time-emea-apac-p1r2cpbds6",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior (Arc.dev experience-level tag)"
+    },
+    "arcdev_002156d54293ba83e3ef0f6a28f99aa5": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Experienced Angular Developer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/experienced-angular-developer-p2rkpf327r",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": true,
+      "score": 54,
+      "contract_type": "Freelance (Hourly rate)",
+      "tech": "Angular, JavaScript, HTML, CSS",
+      "notified_at": "2026-07-07T14:05:00+00:00"
+    },
+    "arcdev_e3167afb4c4d33fc5aaeb99e8a434f86": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web Developer (Web Design-Focused) - Part-time - EMEA/APAC",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/web-developer-web-design-focused-part-time-emea-apac-p1r2cpbds6",
+      "first_seen": "2026-07-07T14:05:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior (Arc.dev experience-level tag)"
     }
   },
   "daily_stats": {
@@ -1944,72 +2307,88 @@
       "sites_failed": 11
     },
     "2026-07-07": {
-      "notified": 1,
-      "eliminated": 17,
-      "below_threshold": 1,
-      "high_score": 0,
-      "mid_score": 1,
-      "total_seen": 19
+      "notified": 3,
+      "eliminated": 33,
+      "below_threshold": 12,
+      "high_score": 1,
+      "mid_score": 2,
+      "total_seen": 48,
+      "sites_ok": 4,
+      "sites_failed": 11,
+      "top_3": [
+        {
+          "score": 100,
+          "title": "DevOps Engineer - AI Model Evaluator",
+          "company": "mercor",
+          "site": "Himalayas"
+        },
+        {
+          "score": 54,
+          "title": "Experienced Angular Developer",
+          "company": "",
+          "site": "Arc.dev"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-07T06:12:05.795880+00:00",
+      "last_success": "2026-07-07T14:05:00+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-07T06:12:05.795880+00:00",
+      "last_success": "2026-07-07T14:05:00+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 27,
+      "consecutive_failures": 28,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS returns HTML SPA (Jobicy)"
     },
     "infojobs_es": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": "Captcha challenge via proxy"
     },
     "welcometothejungle": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "SPA — no server-rendered listings"
     },
     "landingjobs": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Captcha challenge via proxy"
     },
     "indeed_uk": {
-      "consecutive_failures": 36,
+      "consecutive_failures": 37,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 35,
+      "consecutive_failures": 36,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 34,
+      "consecutive_failures": 35,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 34,
+      "consecutive_failures": 35,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 34,
+      "consecutive_failures": 35,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "Cloudflare 403 via proxy"
     },
@@ -2023,16 +2402,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-07T06:12:05.795880+00:00",
+      "last_success": "2026-07-07T14:05:00+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-07T06:12:05.795880+00:00",
+      "last_success": "2026-07-07T14:05:00+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": "SPA — no server-rendered listings"
     }

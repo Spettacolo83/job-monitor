@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T20:09:44.403677+00:00",
+  "last_updated": "2026-07-08T06:05:17.759171+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -23,7 +23,7 @@
       "pub_date": "2026-06-13T03:09:27+00:00",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "freelance_only: job description states \"Full-time Permanent\" — employment contract"
+      "elimination_reason": "freelance_only: job description states \"Full-time Permanent\" \u2014 employment contract"
     },
     "remotive_2090910": {
       "site_id": "remotive",
@@ -40,14 +40,14 @@
     "remotive_2090911": {
       "site_id": "remotive",
       "site_name": "Remotive",
-      "title": "Staff Software Engineer, Product (Florianópolis)",
+      "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
       "company": "LawnStarter",
       "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2090911",
       "first_seen": "2026-06-16T16:06:33.955251+00:00",
       "pub_date": "2026-06-02T07:52:26",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Software Engineer, Product (Florianópolis)', exp=)"
+      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Software Engineer, Product (Florian\u00f3polis)', exp=)"
     },
     "remotive_2090909": {
       "site_id": "remotive",
@@ -64,14 +64,14 @@
     "remotive_2090912": {
       "site_id": "remotive",
       "site_name": "Remotive",
-      "title": "Staff Software Engineer, Product (São Paulo)",
+      "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
       "company": "LawnStarter",
       "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2090912",
       "first_seen": "2026-06-16T16:06:33.955251+00:00",
       "pub_date": "2026-06-02T07:49:18",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Software Engineer, Product (São Paulo)', exp=)"
+      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Software Engineer, Product (S\u00e3o Paulo)', exp=)"
     },
     "remotive_2090913": {
       "site_id": "remotive",
@@ -88,14 +88,14 @@
     "remotive_2090899": {
       "site_id": "remotive",
       "site_name": "Remotive",
-      "title": "Staff Product Engineer (Florianópolis)",
+      "title": "Staff Product Engineer (Florian\u00f3polis)",
       "company": "LawnStarter",
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899",
       "first_seen": "2026-06-16T16:06:33.955251+00:00",
       "pub_date": "2026-05-27T12:32:53",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Product Engineer (Florianópolis)', exp=)"
+      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Product Engineer (Florian\u00f3polis)', exp=)"
     },
     "remotive_2090900": {
       "site_id": "remotive",
@@ -136,14 +136,14 @@
     "remotive_2090890": {
       "site_id": "remotive",
       "site_name": "Remotive",
-      "title": "Staff Product Engineer (São Paulo)",
+      "title": "Staff Product Engineer (S\u00e3o Paulo)",
       "company": "LawnStarter",
       "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2090890",
       "first_seen": "2026-06-16T16:06:33.955251+00:00",
       "pub_date": "2026-05-21T16:42:09",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Product Engineer (São Paulo)', exp=)"
+      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Staff Product Engineer (S\u00e3o Paulo)', exp=)"
     },
     "himalayas_7318671c5789cb3ae96148d93477bbf1": {
       "site_id": "himalayas",
@@ -251,7 +251,7 @@
       "pub_date": "2026-06-15T17:50:48+00:00",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "location_restriction: required_countries=[US] — candidate in Spain"
+      "elimination_reason": "location_restriction: required_countries=[US] \u2014 candidate in Spain"
     },
     "arcdev_f021aa88ad1adb1a22767f1fc6115f4f": {
       "site_id": "arcdev",
@@ -268,14 +268,14 @@
     "arcdev_832e0b86affe744ded81428bd6a99d31": {
       "site_id": "arcdev",
       "site_name": "Arc.dev",
-      "title": "Senior Full-Stack Developer — Laravel, WordPress/WooCommerce - FT-WW",
+      "title": "Senior Full-Stack Developer \u2014 Laravel, WordPress/WooCommerce - FT-WW",
       "company": "",
       "url": "https://arc.dev/remote-jobs/senior-full-stack-developer-laravel-wordpress-woocommerce-ft-ww",
       "first_seen": "2026-06-16T16:06:33.955251+00:00",
       "pub_date": "2026-06-15T16:48:11+00:00",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Senior Full-Stack Developer — Laravel, WordPress/WooCommerce', exp=senior)"
+      "elimination_reason": "seniority_filter: senior/staff/lead/principal (title='Senior Full-Stack Developer \u2014 Laravel, WordPress/WooCommerce', exp=senior)"
     },
     "arcdev_ff141981be40c10d71a7256d52004b55": {
       "site_id": "arcdev",
@@ -359,7 +359,7 @@
       "pub_date": "2026-06-10T18:34:59+00:00",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "location_restriction: required_countries=[CA, US] — candidate in Spain"
+      "elimination_reason": "location_restriction: required_countries=[CA, US] \u2014 candidate in Spain"
     },
     "arcdev_ecaa3e5fc15ebcd70125e1738e39a509": {
       "site_id": "arcdev",
@@ -371,7 +371,7 @@
       "pub_date": "2026-06-10T01:40:45+00:00",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "location_restriction: required_countries=[CA, US] — candidate in Spain"
+      "elimination_reason": "location_restriction: required_countries=[CA, US] \u2014 candidate in Spain"
     },
     "arcdev_71bfe2268dd865cf56d098f94f0e9cd7": {
       "site_id": "arcdev",
@@ -419,7 +419,7 @@
       "pub_date": "2026-06-09T08:07:10+00:00",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "location_restriction: required_countries=[GB] — candidate in Spain"
+      "elimination_reason": "location_restriction: required_countries=[GB] \u2014 candidate in Spain"
     },
     "arcdev_4deb862fe53f6ec79c3c111ee2773fe4": {
       "site_id": "arcdev",
@@ -603,7 +603,7 @@
     },
     "infojobs_es_5e6bd27845482b92172321aad85882": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "iOS Developer",
       "company": "SISTEMA AZUD, S.A.",
       "url": "https://www.infojobs.net/alcantarilla/ios-developer/of-i5e6bd27845482b92172321aad85882",
@@ -615,7 +615,7 @@
     },
     "infojobs_es_a1a7256b57489bbe5e32a7d0ecd09e": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "iOS developer - REMOTO",
       "company": "SLASH MOBILITY, S.L",
       "url": "https://www.infojobs.net/barcelona/ios-developer-remoto/of-ia1a7256b57489bbe5e32a7d0ecd09e",
@@ -627,19 +627,19 @@
     },
     "infojobs_es_2b4bb1f06e455ab33c9cacac4285f7": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "ANDROID SOFTWARE ENGINEER (CLIENTE FINAL)",
-      "company": "SEBASTIÁN CONSULTORES",
+      "company": "SEBASTI\u00c1N CONSULTORES",
       "url": "https://www.infojobs.net/alcala-de-henares/android-software-engineer-cliente-final/of-i2b4bb1f06e455ab33c9cacac4285f7",
       "first_seen": "2026-07-06T14:17:10+00:00",
       "pub_date": null,
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "freelance_only: annual gross salary \"40.000€ Bruto/año\" + Contrato indefinido"
+      "elimination_reason": "freelance_only: annual gross salary \"40.000\u20ac Bruto/a\u00f1o\" + Contrato indefinido"
     },
     "infojobs_es_b6a6f963b44776afecb369677e9aa8": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "Programador/a de aplicaciones",
       "company": "MACROSISTEMAS S.A.",
       "url": "https://www.infojobs.net/vigo/programador-aplicaciones/of-ib6a6f963b44776afecb369677e9aa8",
@@ -651,7 +651,7 @@
     },
     "infojobs_es_ffb40509ce494784a9a3c17574e3cc": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "Desarrollador React Native",
       "company": "Infortec Consultores, S.A.U",
       "url": "https://www.infojobs.net/madrid/desarrollador-react-native/of-iffb40509ce494784a9a3c17574e3cc",
@@ -663,19 +663,19 @@
     },
     "infojobs_es_bc34db4ecb412db696e3f65b9cd79d": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
-      "title": "Desarrollador/a web & mobile (React Native) | Híbrido Madrid",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Desarrollador/a web & mobile (React Native) | H\u00edbrido Madrid",
       "company": "Unknown",
       "url": "https://www.infojobs.net/alcobendas/desarrollador-web-mobile-react-native-hibrido-madrid/of-ibc34db4ecb412db696e3f65b9cd79d",
       "first_seen": "2026-07-06T14:17:10+00:00",
       "pub_date": null,
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "remote_only: \"Híbrido\" explicitly in title"
+      "elimination_reason": "remote_only: \"H\u00edbrido\" explicitly in title"
     },
     "infojobs_es_c2364fc9fe4d7d9df0b3dc9bedbf62": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "Ingeniero/a Junior - Arganda del Rey",
       "company": "Unknown",
       "url": "https://www.infojobs.net/arganda-del-rey/ingeniero-junior-arganda-del-rey/of-ic2364fc9fe4d7d9df0b3dc9bedbf62",
@@ -687,7 +687,7 @@
     },
     "infojobs_es_63da406b744ef390bd44a8b0d9861c": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "Desarrollador/a backend (Java)",
       "company": "Unknown",
       "url": "https://www.infojobs.net/madrid/desarrollador-backend-java/of-i63da406b744ef390bd44a8b0d9861c",
@@ -699,20 +699,20 @@
     },
     "infojobs_es_524e9fc62e46fdaf36c73b59fcea62": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
-      "title": "Prácticas - Desarrollador/a Junior de Software PHP/Javascript",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Pr\u00e1cticas - Desarrollador/a Junior de Software PHP/Javascript",
       "company": "Unknown",
       "url": "https://www.infojobs.net/valencia/practicas-desarrollador-junior-software-php-javascript/of-i524e9fc62e46fdaf36c73b59fcea62",
       "first_seen": "2026-07-06T14:17:10+00:00",
       "pub_date": null,
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "freelance_only: \"Prácticas\" (internship contract, not freelance)"
+      "elimination_reason": "freelance_only: \"Pr\u00e1cticas\" (internship contract, not freelance)"
     },
     "infojobs_es_2c9722e84140e7b57676a130a5b069": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
-      "title": "Desarrollador/a Junior Rust / C++ — Tauri 2.0",
+      "site_name": "InfoJobs Espa\u00f1a",
+      "title": "Desarrollador/a Junior Rust / C++ \u2014 Tauri 2.0",
       "company": "Daedo",
       "url": "https://www.infojobs.net/l-hospitalet-de-llobregat/desarrollador-junior-rust-c-tauri-2.0/of-i2c9722e84140e7b57676a130a5b069",
       "first_seen": "2026-07-06T14:17:10+00:00",
@@ -723,7 +723,7 @@
     },
     "infojobs_es_030521ae724e6abb6bc3d4cfe1d038": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "Desarrollador/a Software Junior",
       "company": "SELECTOS GESTION S.L.",
       "url": "https://www.infojobs.net/petrer/desarrollador-software-junior/of-i030521ae724e6abb6bc3d4cfe1d038",
@@ -735,7 +735,7 @@
     },
     "infojobs_es_191a3736904524bfc9443fcc6298a8": {
       "site_id": "infojobs_es",
-      "site_name": "InfoJobs España",
+      "site_name": "InfoJobs Espa\u00f1a",
       "title": "Desarrollador/a Junior de SW Embebido (C / ARM) Getafe",
       "company": "Unknown",
       "url": "https://www.infojobs.net/getafe/desarrollador-junior-sw-embebido-c-arm-getafe/of-i191a3736904524bfc9443fcc6298a8",
@@ -976,7 +976,7 @@
     "remotive_2090994": {
       "site_id": "remotive",
       "site_name": "Remotive",
-      "title": "Senior Quality Engineer (Florianópolis)",
+      "title": "Senior Quality Engineer (Florian\u00f3polis)",
       "company": "LawnStarter",
       "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-florianopolis-2090994",
       "first_seen": "2026-07-06T20:01:49+00:00",
@@ -988,7 +988,7 @@
     "remotive_2090995": {
       "site_id": "remotive",
       "site_name": "Remotive",
-      "title": "Senior Quality Engineer (São Paulo)",
+      "title": "Senior Quality Engineer (S\u00e3o Paulo)",
       "company": "LawnStarter",
       "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-sao-paulo-2090995",
       "first_seen": "2026-07-06T20:01:49+00:00",
@@ -1192,7 +1192,7 @@
     "arcdev_senior-full-stack-software-engineer-healthcare-saas-pt-na-latam": {
       "site_id": "arcdev",
       "site_name": "Arc.dev",
-      "title": "Senior Full-Stack Software Engineer – Healthcare SaaS (PT-NA/LATAM)",
+      "title": "Senior Full-Stack Software Engineer \u2013 Healthcare SaaS (PT-NA/LATAM)",
       "company": "",
       "url": "https://arc.dev/remote-jobs/senior-full-stack-software-engineer-healthcare-saas-pt-na-latam",
       "first_seen": "2026-07-06T20:01:49+00:00",
@@ -1687,7 +1687,7 @@
       "site_id": "arcdev",
       "site_name": "Arc.dev",
       "title": "Data Scientist",
-      "company": "新安传媒有限公司",
+      "company": "\u65b0\u5b89\u4f20\u5a92\u6709\u9650\u516c\u53f8",
       "url": "https://arc.dev/remote-jobs/j/data-scientist-oyayiy16j6",
       "first_seen": "2026-07-07T06:12:05.795880+00:00",
       "pub_date": "2026-07-06T03:31:44+00:00",
@@ -1888,7 +1888,7 @@
       "site_id": "himalayas",
       "site_name": "Himalayas",
       "title": "Senior Product Engineer, AI & Platforms",
-      "company": "MJH Life Sciences®",
+      "company": "MJH Life Sciences\u00ae",
       "url": "https://himalayas.app/companies/mjh-life-sciences/jobs/senior-product-engineer-ai-platforms",
       "first_seen": "2026-07-07T14:05:00+00:00",
       "pub_date": 1783426149,
@@ -2121,7 +2121,7 @@
     "remoteok_1134468": {
       "site_id": "remoteok",
       "site_name": "RemoteOK",
-      "title": "Supervisora de OperaÃ§Ãµes e Reservas Remoto",
+      "title": "Supervisora de Opera\u00c3\u00a7\u00c3\u00b5es e Reservas Remoto",
       "company": "PANROTAS",
       "url": "https://remoteOK.com/remote-jobs/remote-supervisora-de-operacoes-e-reservas-remoto-panrotas-1134468",
       "first_seen": "2026-07-07T20:09:44.403677+00:00",
@@ -2181,8 +2181,8 @@
     "remoteok_1134510": {
       "site_id": "remoteok",
       "site_name": "RemoteOK",
-      "title": "Â¡Vacante Remota AtenciÃ³n al Cliente ContrataciÃ³n RÃ¡pida",
-      "company": "GEA PerÃº",
+      "title": "\u00c2\u00a1Vacante Remota Atenci\u00c3\u00b3n al Cliente Contrataci\u00c3\u00b3n R\u00c3\u00a1pida",
+      "company": "GEA Per\u00c3\u00ba",
       "url": "https://remoteOK.com/remote-jobs/remote-vacante-remota-atencion-al-cliente-contratacion-rapida-gea-peru-1134510",
       "first_seen": "2026-07-07T20:09:44.403677+00:00",
       "pub_date": "2026-07-02T13:05:55+00:00",
@@ -2193,8 +2193,8 @@
     "remoteok_1134426": {
       "site_id": "remoteok",
       "site_name": "RemoteOK",
-      "title": "Docente a Tiempo Parcial para Escuela de ComunicaciÃ³n",
-      "company": "Universidad CatÃ³lica Santo Toribio de Mogrovejo",
+      "title": "Docente a Tiempo Parcial para Escuela de Comunicaci\u00c3\u00b3n",
+      "company": "Universidad Cat\u00c3\u00b3lica Santo Toribio de Mogrovejo",
       "url": "https://remoteOK.com/remote-jobs/remote-docente-a-tiempo-parcial-para-escuela-de-comunicacion-universidad-catolica-santo-toribio-de-mogrovejo-1134426",
       "first_seen": "2026-07-07T20:09:44.403677+00:00",
       "pub_date": "2026-07-02T13:04:34+00:00",
@@ -2212,7 +2212,7 @@
       "pub_date": "2026-07-02T12:25:12+00:00",
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "remote_only: ambiguous + non-Junior → conservative reject"
+      "elimination_reason": "remote_only: ambiguous + non-Junior \u2192 conservative reject"
     },
     "remoteok_1134427": {
       "site_id": "remoteok",
@@ -2297,6 +2297,66 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "not_dev_role: title not a developer/engineer position"
+    },
+    "remoteok_1134576": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Project Manager",
+      "company": "ASG International",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-asg-international-1134576",
+      "first_seen": "2026-07-08T06:05:17.759171+00:00",
+      "pub_date": "2026-07-06T09:15:22+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: Project Manager role, not software development"
+    },
+    "himalayas_5590b29ed455": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "FP&A Analyst",
+      "company": "iwoca",
+      "url": "https://himalayas.app/companies/iwoca/jobs/fp-a-analyst-3457002356",
+      "first_seen": "2026-07-08T06:05:17.759171+00:00",
+      "pub_date": "2026-07-08T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: Financial Planning & Analysis role, not software development"
+    },
+    "himalayas_544c8aac6040": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Full Stack Engineer - Fully Remote | Upto $130/hr",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/full-stack-engineer-fully-remote-upto-130-hr-119301974",
+      "first_seen": "2026-07-08T06:05:17.759171+00:00",
+      "pub_date": "2026-07-08T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: description states \"Senior Software Engineer Expert\" and requires multiple years experience"
+    },
+    "himalayas_ac67af40aba6": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Advisor, Exception Management",
+      "company": "Cardinal Health",
+      "url": "https://himalayas.app/companies/cardinal-health/jobs/advisor-exception-management",
+      "first_seen": "2026-07-08T06:05:17.759171+00:00",
+      "pub_date": "2026-07-08T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: Revenue Management advisor role, not software development. Also Senior level."
+    },
+    "himalayas_cd471271ed5e": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Acute Wound Healing Specialist (Pensacola, FL)",
+      "company": "Solventum",
+      "url": "https://himalayas.app/companies/solventum/jobs/acute-wound-healing-specialist-pensacola-fl",
+      "first_seen": "2026-07-08T06:05:17.759171+00:00",
+      "pub_date": "2026-07-08T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: Medical/healthcare specialist role, not software development"
     }
   },
   "daily_stats": {
@@ -2385,7 +2445,7 @@
       "top_3": [
         {
           "score": 87,
-          "title": "Fluent English Web Developer – Client Calls",
+          "title": "Fluent English Web Developer \u2013 Client Calls",
           "site": "Arc.dev"
         }
       ],
@@ -2474,7 +2534,7 @@
       "top_3": [
         {
           "score": 93,
-          "title": "AWS DevOps Engineer (Freelancer – Hourly Basis)",
+          "title": "AWS DevOps Engineer (Freelancer \u2013 Hourly Basis)",
           "company": "ADDVantage Digital Solutions",
           "site": "Arc.dev"
         },
@@ -2488,7 +2548,7 @@
           "score": 79,
           "title": "AI Junior Developer (Python / React) - REMOTO",
           "company": "(non visibile dal listing)",
-          "site": "InfoJobs España"
+          "site": "InfoJobs Espa\u00f1a"
         }
       ]
     },
@@ -2557,33 +2617,54 @@
           "site": "Arc.dev"
         }
       ]
+    },
+    "2026-07-08": {
+      "jobs_found": 5,
+      "jobs_notified": 0,
+      "jobs_eliminated": 5,
+      "jobs_below_threshold": 0,
+      "top_notified": [],
+      "sites_attempted": [
+        "remoteok",
+        "remotive",
+        "himalayas",
+        "arcdev",
+        "justremote",
+        "jobicy",
+        "infojobs_es"
+      ],
+      "sites_succeeded": [
+        "remoteok",
+        "remotive",
+        "himalayas"
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-07T20:09:44.403677+00:00",
+      "last_success": "2026-07-08T06:05:17.759171+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-07T20:09:44.403677+00:00",
+      "last_success": "2026-07-08T06:05:17.759171+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 29,
+      "consecutive_failures": 30,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS returns HTML SPA"
     },
     "infojobs_es": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": "Captcha challenge via proxy"
     },
     "welcometothejungle": {
       "consecutive_failures": 23,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "SPA — no server-rendered listings"
+      "last_error": "SPA \u2014 no server-rendered listings"
     },
     "landingjobs": {
       "consecutive_failures": 22,
@@ -2630,18 +2711,18 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-07T20:09:44.403677+00:00",
+      "last_success": "2026-07-08T06:05:17.759171+00:00",
       "last_error": null
     },
     "arcdev": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_success": "2026-07-07T20:09:44.403677+00:00",
-      "last_error": null
+      "last_error": "SPA \u2014 no server-rendered listings"
     },
     "justremote": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-07-06T14:17:10+00:00",
-      "last_error": "SPA — no server-rendered listings"
+      "last_error": "SPA \u2014 no server-rendered listings"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T06:13:26.245645+00:00",
+  "last_updated": "2026-07-09T14:03:00+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -5874,6 +5874,246 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "seniority_filter: experienceLevel=senior"
+    },
+    "remoteok_1134622": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Events Manager",
+      "company": "Lantern",
+      "url": "https://remoteOK.com/remote-jobs/remote-events-manager-lantern-1134622",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-08T13:51:13+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title): 'Events Manager' matches senior/lead/staff/principal/architect/director/manager"
+    },
+    "remoteok_1134618": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Social Content Lead",
+      "company": "KAST",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-content-lead-kast-1134618",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-08T07:25:40+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title): 'Social Content Lead' matches senior/lead/staff/principal/architect/director/manager"
+    },
+    "arcdev_p35k0wsmsb": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Head of Brand Marketing",
+      "company": "Inc42 Media",
+      "url": "https://arc.dev/remote-jobs/j/inc42-media-head-of-brand-marketing-p35k0wsmsb",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title): 'Head of Brand Marketing' matches senior/lead/staff/principal/architect/director/manager"
+    },
+    "arcdev_p39ins7sbl": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Digital Marketing",
+      "company": "Arc.dev listing",
+      "url": "https://arc.dev/remote-jobs/details/digital-marketing-p39ins7sbl",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match_zero: title 'Digital Marketing' is a marketing role, not a developer role"
+    },
+    "arcdev_p35k02fgbe": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Executive",
+      "company": "Avnet",
+      "url": "https://arc.dev/remote-jobs/j/avnet-marketing-executive-p35k02fgbe",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match_zero: title 'Marketing Executive' is a marketing role, not a developer role"
+    },
+    "arcdev_p35jy27rre": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Online Marketing Manager (w/m/d)",
+      "company": "Targobank",
+      "url": "https://arc.dev/remote-jobs/j/targobank-senior-online-marketing-manager-w-m-d-p35jy27rre",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter (title): 'Senior Online Marketing Manager (w/m/d)' matches senior/lead/staff/principal/architect/director/manager"
+    },
+    "arcdev_p35k02f3o9": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Influencer Marketing Executive (from agency only)",
+      "company": "Career Bloc",
+      "url": "https://arc.dev/remote-jobs/j/career-bloc-influencer-marketing-executive-from-agency-only-p35k02f3o9",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match_zero: title 'Influencer Marketing Executive (from agency only)' is a marketing role, not a developer role"
+    },
+    "himalayas_a05f3b899d14": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Software Engineer, Infrastructure",
+      "company": "Cribl",
+      "url": "https://himalayas.app/companies/cribl/jobs/senior-software-engineer-infrastructure-6604256554",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:52:38+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: seniority=['Senior'] — reject Senior/Staff/Lead/Manager/Director"
+    },
+    "himalayas_4c339a5d3afd": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Entry Level CSR - Work From Home",
+      "company": "American Income Life Insurance Company",
+      "url": "https://himalayas.app/companies/american-income-life-insurance-company/jobs/entry-level-csr-work-from-home-8177168525",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:52:26+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match_zero: title 'Entry Level CSR - Work From Home' is not a developer role"
+    },
+    "himalayas_5879edea7048": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Regional Account Manager (Denver, CO, US, 80202)",
+      "company": "Dover Corporation",
+      "url": "https://himalayas.app/companies/dover-corporation/jobs/regional-account-manager-denver-co-us-80202",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:52:26+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: seniority=['Senior'] — reject Senior/Staff/Lead/Manager/Director"
+    },
+    "himalayas_116e42970d2a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Product Marketing Manager",
+      "company": "Abnormal Security",
+      "url": "https://himalayas.app/companies/abnormal/jobs/senior-product-marketing-manager",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:50:49+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: seniority=['Senior', 'Manager'] — reject Senior/Staff/Lead/Manager/Director"
+    },
+    "himalayas_cac1898e898f": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Global Service Desk Specialist - Argentina",
+      "company": "Teladoc Health",
+      "url": "https://himalayas.app/companies/teladoc-health/jobs/global-service-desk-specialist-argentina",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:50:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match_zero: title 'Global Service Desk Specialist - Argentina' is not a developer role"
+    },
+    "himalayas_8778ef4422fb": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Staff Software Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/staff-software-engineer-2952048770",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:49:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: seniority=['Senior'] — reject Senior/Staff/Lead/Manager/Director"
+    },
+    "himalayas_acb192e749dc": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Fullstack Developer (Senior) - Python (Flask) + React - Remote, Latin America",
+      "company": "Bluelight Consulting",
+      "url": "https://himalayas.app/companies/bluelight-consulting/jobs/fullstack-developer-senior-python-flask-react-remote-latin-america-1332552251",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:48:41+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: seniority=['Senior'] — reject Senior/Staff/Lead/Manager/Director"
+    },
+    "himalayas_e02f1e1f5838": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "ServiceNow Technical PM / Delivery Manager",
+      "company": "Chameleon Integrated Services",
+      "url": "https://himalayas.app/companies/chameleon-integrated-services/jobs/servicenow-technical-pm-delivery-manager",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:46:38+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: seniority=['Manager'] — reject Senior/Staff/Lead/Manager/Director"
+    },
+    "himalayas_a30cb5351638": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sr Director, AI Strategy & Architecture",
+      "company": "BeyondTrust",
+      "url": "https://himalayas.app/companies/beyondtrust/jobs/sr-director-ai-strategy-architecture",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": "2026-07-09T13:46:25+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: seniority=['Director'] — reject Senior/Staff/Lead/Manager/Director"
+    },
+    "infojobs_es_33ac2159064d48bcbacc6aa86a61ae": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a Junior .NET/Oracle",
+      "company": "Avanade Spain",
+      "url": "https://www.infojobs.net/sevilla/desarrollador-junior-.net-oracle/of-i33ac2159064d48bcbacc6aa86a61ae",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: \"Presencial\" (Sevilla) + freelance_only: \"Contrato indefinido, jornada completa\" (permanent)"
+    },
+    "infojobs_es_e8eb60a1844e16ab28c335528d5f11": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a .NET",
+      "company": "Infisa Consultoría y Aplicaciones, S.A.",
+      "url": "https://www.infojobs.net/san-sebastian-de-los-reyes/desarrollador-.net/of-ie8eb60a1844e16ab28c335528d5f11",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: \"Presencial\" (San Sebastián de los Reyes) + freelance_only: \"Contrato indefinido, jornada completa\""
+    },
+    "infojobs_es_756aa86c324065976057f6c5b92ef0": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Angular Senior Developer + IA (Inglés alto)",
+      "company": "M & GT Consulting",
+      "url": "https://www.infojobs.net/madrid/angular-senior-developer-ia-ingles-alto/of-i756aa86c324065976057f6c5b92ef0",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title=\"Senior\" + \"Más de 5 años\" required + freelance_only: \"Contrato indefinido, jornada completa\""
+    },
+    "infojobs_es_d4ac8e84204f2daa3ea4849f8bc858": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Técnico/a de Soporte e Identidad Digital (M365 / ITIL) - Sustitución",
+      "company": "Sphera-TI, SA",
+      "url": "https://www.infojobs.net/cordoba/tecnico-soporte-identidad-digital-m365-itil-sustitucion/of-id4ac8e84204f2daa3ea4849f8bc858",
+      "first_seen": "2026-07-09T14:03:00+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: \"Presencial\" (Córdoba) + tech_match_zero: technical support role, not developer"
     }
   },
   "daily_stats": {
@@ -6154,9 +6394,9 @@
       ]
     },
     "2026-07-09": {
-      "jobs_found": 96,
+      "jobs_found": 116,
       "jobs_notified": 0,
-      "jobs_eliminated": 96,
+      "jobs_eliminated": 116,
       "jobs_below_threshold": 0,
       "high_score": 0,
       "medium_score": 0,
@@ -6168,61 +6408,61 @@
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T06:13:26.245645+00:00",
+      "last_success": "2026-07-09T14:03:00+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T06:13:26.245645+00:00",
+      "last_success": "2026-07-09T14:03:00+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 33,
+      "consecutive_failures": 34,
       "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "RSS returns HTML SPA"
+      "last_error": "SPA - RSS returns HTML SPA"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T06:13:26.245645+00:00",
+      "last_success": "2026-07-09T14:03:00+00:00",
       "last_error": null
     },
     "welcometothejungle": {
-      "consecutive_failures": 26,
+      "consecutive_failures": 27,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "SPA - landing page shown via proxy"
     },
     "landingjobs": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "last_success": "2026-04-26T10:14:59.943467+00:00",
       "last_error": "Cloudflare captcha via proxy"
     },
     "indeed_uk": {
-      "consecutive_failures": 41,
+      "consecutive_failures": 42,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_it": {
-      "consecutive_failures": 40,
+      "consecutive_failures": 41,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_de": {
-      "consecutive_failures": 39,
+      "consecutive_failures": 40,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_es": {
-      "consecutive_failures": 39,
+      "consecutive_failures": 40,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "indeed_fr": {
-      "consecutive_failures": 39,
+      "consecutive_failures": 40,
       "last_success": null,
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_success": "2026-04-27T06:21:28.675971+00:00",
       "last_error": "Cloudflare 403 via proxy"
     },
@@ -6236,16 +6476,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T06:13:26.245645+00:00",
+      "last_success": "2026-07-09T14:03:00+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T06:13:26.245645+00:00",
+      "last_success": "2026-07-09T14:03:00+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_success": "2026-07-06T14:17:10+00:00",
       "last_error": "SPA - no server-rendered listings"
     }

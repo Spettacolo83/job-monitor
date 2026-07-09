@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T14:03:00+00:00",
+  "last_updated": "2026-07-09T20:15:15.976462+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -6114,6 +6114,606 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "remote_only: \"Presencial\" (Córdoba) + tech_match_zero: technical support role, not developer"
+    },
+    "arcdev_99bd98264517cc1c524f68baf4a7a39a": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Digital marketing",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/digital-marketing",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Digital marketing\")"
+    },
+    "arcdev_223830d59af33c67cbe9e04b2547e8df": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "(Senior) Online Marketing Manager (w/m/d)",
+      "company": "TARGOBANK",
+      "url": "https://arc.dev/remote-jobs/targobank-senior-online-marketing-manager-w-m-d",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"(Senior) Online Marketing Manager (w/m/d)\")"
+    },
+    "arcdev_e34e3e8689dd4c97a97c755d103904e4": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Head Of Brand & Marketing",
+      "company": "Inc42 Media",
+      "url": "https://arc.dev/remote-jobs/inc42-media-head-of-brand-marketing",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Head Of Brand & Marketing\")"
+    },
+    "arcdev_17b3c6512d48f064b9531a4a6d89efc8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Influencer Marketing Associate",
+      "company": "WishCare",
+      "url": "https://arc.dev/remote-jobs/wishcare-influencer-marketing-associate",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Influencer Marketing Associate\")"
+    },
+    "arcdev_b9bfae01a9b7f69b6d27c2034d3bcb1b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Influencer Marketing Executive",
+      "company": "Viral Pitch: Influencer Marketing Platform",
+      "url": "https://arc.dev/remote-jobs/viral-pitch-influencer-marketing-platform-influencer-marketing-executive",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Influencer Marketing Executive\")"
+    },
+    "arcdev_048ccc233bd8c801d64b6342c3b20d49": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Executive",
+      "company": "Louder",
+      "url": "https://arc.dev/remote-jobs/louder-marketing-executive",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Marketing Executive\")"
+    },
+    "arcdev_e0590df4d68d5aece965e7db3fca071b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Social Media Marketing Manager",
+      "company": "Study Info Centre",
+      "url": "https://arc.dev/remote-jobs/study-info-centre-social-media-marketing-manager",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Social Media Marketing Manager\")"
+    },
+    "arcdev_8a0ada062a52a261e2076ca83d5cad58": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Social Media Manager",
+      "company": "JIX TECH",
+      "url": "https://arc.dev/remote-jobs/jix-tech-social-media-manager",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Social Media Manager\")"
+    },
+    "arcdev_49e970a351ead3ac789eeffde0ef3b45": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Marketing Lead (ž/m/d)",
+      "company": "Erste&Steiermärkische Bank d.d. (Erste Bank Croatia)",
+      "url": "https://arc.dev/remote-jobs/erste-steiermarkische-bank-d-d-erste-bank-croatia-product-marketing-lead-z-m-d",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Product Marketing Lead (ž/m/d)\")"
+    },
+    "arcdev_bcecb1e8e0e2536e2be4a8741de254fa": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Mobile UI/UX Designer",
+      "company": "Techedin",
+      "url": "https://arc.dev/remote-jobs/techedin-senior-mobile-ui-ux-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Senior Mobile UI/UX Designer\")"
+    },
+    "arcdev_ec859d6171780e3a06168166c8a2435e": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Designer",
+      "company": "Manchester City Football Club",
+      "url": "https://arc.dev/remote-jobs/manchester-city-football-club-product-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Product Designer\")"
+    },
+    "arcdev_185b320f0bcb52e369db8e43aa0b2922": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Visual Designer",
+      "company": "Talent Corner HR Services Pvt Ltd",
+      "url": "https://arc.dev/remote-jobs/talent-corner-hr-services-pvt-ltd-visual-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Visual Designer\")"
+    },
+    "arcdev_bd0e306aab719ab44832c1e62746ffd5": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Product/UI Designer",
+      "company": "New York Technology Partners",
+      "url": "https://arc.dev/remote-jobs/new-york-technology-partners-senior-product-ui-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Senior Product/UI Designer\")"
+    },
+    "arcdev_217940bb91e928a33a7300e06f5fd62d": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "UX/UI Designer | Titleist Performance",
+      "company": "Acushnet Company",
+      "url": "https://arc.dev/remote-jobs/acushnet-company-ux-ui-designer-titleist-performance",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"UX/UI Designer | Titleist Performance\")"
+    },
+    "arcdev_b4a159969d40538985357c1b6048f119": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "DViO Digital",
+      "url": "https://arc.dev/remote-jobs/dvio-digital-graphic-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Graphic Designer\")"
+    },
+    "arcdev_4525cdca5a838e5237030a51e931a571": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "FB Education Services",
+      "url": "https://arc.dev/remote-jobs/fb-education-services-graphic-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Graphic Designer\")"
+    },
+    "arcdev_9e49586a95f14ebf83f0d276255cef6a": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "Iron Mountain",
+      "url": "https://arc.dev/remote-jobs/iron-mountain-graphic-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Graphic Designer\")"
+    },
+    "arcdev_0f3a8c2a93fc6a851eaf9d29184fa5f3": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "Goldenmud Creation",
+      "url": "https://arc.dev/remote-jobs/goldenmud-creation-graphic-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Graphic Designer\")"
+    },
+    "arcdev_753ec049753f67fb53f883a46d551067": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "Savvytree",
+      "url": "https://arc.dev/remote-jobs/savvytree-graphic-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Graphic Designer\")"
+    },
+    "arcdev_feb63fa4ef1b3b4cec0f26030245d3a5": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "Teamware Solutions",
+      "url": "https://arc.dev/remote-jobs/teamware-solutions-graphic-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Graphic Designer\")"
+    },
+    "arcdev_577966450fadfd7961588e8580ffbd97": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Digital Designer",
+      "company": "Handy Finance",
+      "url": "https://arc.dev/remote-jobs/handy-finance-digital-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Digital Designer\")"
+    },
+    "arcdev_f98117dea2858638b46cef1b202c31a1": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Designer",
+      "company": "Dezerv",
+      "url": "https://arc.dev/remote-jobs/dezerv-product-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Product Designer\")"
+    },
+    "arcdev_cb86f6ce26b98a42d95f6c76f2dc1e5a": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "ID/UX Designer",
+      "company": "Johnson Controls",
+      "url": "https://arc.dev/remote-jobs/johnson-controls-id-ux-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"ID/UX Designer\")"
+    },
+    "arcdev_0200329aa7c04e35a9a916764b4f19e0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "UX Designer",
+      "company": "Shipway by Unicommerce",
+      "url": "https://arc.dev/remote-jobs/shipway-by-unicommerce-ux-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"UX Designer\")"
+    },
+    "arcdev_a780dd16f6cf67e4336df6870a873cc1": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "GreenHonchos",
+      "url": "https://arc.dev/remote-jobs/greenhonchos-graphic-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Graphic Designer\")"
+    },
+    "justremote_432a239e82c6d923d714ec511e7d4753": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Director, Revenue Cycle Management",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/director-revenue-cycle-management-foodsmart-e6752938-574b-4480-b8b6-863668b0a8b3",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "30 Jun",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Director, Revenue Cycle Management\")"
+    },
+    "justremote_5d8fa874046988494c852f96492a657d": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Staff Software Engineer",
+      "company": "",
+      "url": "https://justremote.co/remote-developer-jobs/staff-software-engineer-foodsmart-31c9cfdc-e958-4c09-aa70-31aa0baa81af",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "08 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Staff Software Engineer\")"
+    },
+    "justremote_ca49ec75293de5b032e38ddd92f7cf33": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Member Support Representative Lead",
+      "company": "",
+      "url": "https://justremote.co/remote-customer-service-jobs/member-support-representative-lead-foodsmart",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "03 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Member Support Representative Lead\")"
+    },
+    "justremote_51ab9e323825af78ed97fd7dd4989ec4": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Senior Account Manager",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/senior-account-manager-foodsmart",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "09 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Senior Account Manager\")"
+    },
+    "justremote_748ef5fa35812ce3086ee15a377b29a3": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Staff Accountant - Corporate",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/staff-accountant-corporate-nutrafol-7362321d-988c-4978-b97b-a8226bc08bf4",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "09 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Staff Accountant - Corporate\")"
+    },
+    "justremote_feadb738376315424d1fdc4248d4c071": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Inside Sales Specialist - Salon",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/inside-sales-specialist-salon-nutrafol",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "09 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: not a developer role (\"Inside Sales Specialist - Salon\")"
+    },
+    "justremote_d1ad46bcd6598077ffba4b6a9284b731": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Business Development Manager - DC/MD/DE",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/business-development-manager-dc-md-de-nutrafol",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "08 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Business Development Manager - DC/MD/DE\")"
+    },
+    "justremote_dc78ead534bacd173ce950c9549941b9": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Engineering Manager, Cell Infrastructure",
+      "company": "",
+      "url": "https://justremote.co/remote-developer-jobs/engineering-manager-cell-infrastructure-gitlab",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "07 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Engineering Manager, Cell Infrastructure\")"
+    },
+    "justremote_809f9fe786300f71018058f4cd8292ee": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Lead Solutions Consultant",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/lead-solutions-consultant-outreach-cacb1959-6d29-476c-9a49-ef28eb3ba92d",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "07 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Lead Solutions Consultant\")"
+    },
+    "justremote_ec3daca4ba8b94c85dff237be008ed74": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Senior Solutions Consultant",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/senior-solutions-consultant-outreach-fa1a7650-fd8f-4284-a5c2-f0fddfd73b65",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "07 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Senior Solutions Consultant\")"
+    },
+    "justremote_df9dfc2292789bf2bf9975e136f0b9c0": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Director of Deal Desk",
+      "company": "",
+      "url": "https://justremote.co/remote-manager-exec-jobs/director-of-deal-desk-superside",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "05 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Director of Deal Desk\")"
+    },
+    "himalayas_a89f9eb67a53d608c128e45fe0ed6a34": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "SR PRINCIPAL POWER R&D/PRODUCT DVL ENGINEER (#Remote, PA, US, #remote)",
+      "company": "te-connectivity",
+      "url": "https://himalayas.app/companies/te-connectivity/jobs/sr-principal-power-r-d-product-dvl-engineer-remote-pa-us-remote-7626367326",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": 1783620434,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"SR PRINCIPAL POWER R&D/PRODUCT DVL ENGINEER (#Remote, PA, US\")"
+    },
+    "himalayas_8602d0c6f12e3cba0548878f175f8c91": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Product Security Engineer II",
+      "company": "instacart",
+      "url": "https://himalayas.app/companies/instacart/jobs/senior-product-security-engineer-ii-2209153310",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": 1783620172,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Senior Product Security Engineer II\")"
+    },
+    "himalayas_c1d988e2ace2b3528b6b3f62f111f954": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "HARDWARE ENGINEERING MANAGER (17057, PA, US, Middletown)",
+      "company": "te-connectivity",
+      "url": "https://himalayas.app/companies/te-connectivity/jobs/hardware-engineering-manager-17057-pa-us-middletown",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": 1783619852,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"HARDWARE ENGINEERING MANAGER (17057, PA, US, Middletown)\")"
+    },
+    "himalayas_cf950d94c36526850cb4894a54e539b2": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Engineering Consultant (Remote, Remote, US)",
+      "company": "bureau-veritas",
+      "url": "https://himalayas.app/companies/bureau-veritas/jobs/senior-engineering-consultant-remote-remote-us-6403118352",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": 1783619701,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (\"Senior Engineering Consultant (Remote, Remote, US)\")"
+    },
+    "remotive_2091045": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "2026-07-07T09:04:10",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: IT support role, not developer"
+    },
+    "arcdev_018156ece34f13988be3cd18c0bd3ead": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Agent Engineer (Python, agentic platform exp) - Fulltime - EMEA",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/agent-engineer-python-agentic-platform-exp-fulltime-emea",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Arc.dev exp_level=senior"
+    },
+    "arcdev_5b1cf93a1c2e6104f814f755fa321aab": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Front-End Developer – Squarespace Performance & Speed Optimization - PT-WW",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/front-end-developer-squarespace-performance-speed-optimization-pt-ww",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Arc.dev exp_level=senior"
+    },
+    "arcdev_c7adc0484dc9a904e4552dadf02fb236": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "User Experience Designer",
+      "company": "ACL Digital",
+      "url": "https://arc.dev/remote-jobs/acl-digital-user-experience-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: designer role, not a developer role"
+    },
+    "arcdev_03bcc96d36cea059b2410e5c53813e59": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "User Interface Designer",
+      "company": "KTC - Krungthai Card",
+      "url": "https://arc.dev/remote-jobs/ktc-krungthai-card-user-interface-designer",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: designer role, not a developer role"
+    },
+    "himalayas_d3e0ae76cc22c30365f97c248f709baa": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "SAP HANA ETL Developer",
+      "company": "concentrix",
+      "url": "https://himalayas.app/companies/concentrix/jobs/sap-hana-etl-developer-422272085",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": 1783619608,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas API tag=['Senior']"
+    },
+    "arcdev_027b44df967391571f868ebe10805c89": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer II, Developer Experience",
+      "company": "CoreWeave",
+      "url": "https://arc.dev/remote-jobs/coreweave-software-engineer-ii-developer-experience",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: jobType=permanent, US-only (not EU) — employment contract"
+    },
+    "arcdev_bab967de0d96bfb8e80762bfb33e81ca": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Forward Deployed Software Engineer at Stint Ltd",
+      "company": "Jack & Jill",
+      "url": "https://arc.dev/remote-jobs/jack-jill-forward-deployed-software-engineer-at-stint-ltd",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: jobType=permanent — employment contract"
+    },
+    "justremote_e3379bb5c3c80aec2b7bb579304bcee0": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Applied AI Engineer",
+      "company": "",
+      "url": "https://justremote.co/remote-developer-jobs/applied-ai-engineer-assemblyai-842cc2f1-90ab-4aec-9a11-dec5cd802a2e",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": "08 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only + seniority: requires NYC/SF relocation, 4+ years experience"
+    },
+    "arcdev_7bfbfaf488847b5ed290995d4227901e": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web Designer/Developer for Premium Tutoring Website - PT - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/web-designer-developer-for-premium-tutoring-website-pt-worldwide",
+      "first_seen": "2026-07-09T20:15:15.976462+00:00",
+      "pub_date": null,
+      "notified": true,
+      "eliminated": false,
+      "score": 62
     }
   },
   "daily_stats": {
@@ -6394,67 +6994,70 @@
       ]
     },
     "2026-07-09": {
-      "jobs_found": 116,
-      "jobs_notified": 0,
-      "jobs_eliminated": 116,
+      "jobs_found": 166,
+      "jobs_notified": 1,
+      "jobs_eliminated": 165,
       "jobs_below_threshold": 0,
       "high_score": 0,
-      "medium_score": 0,
-      "sites_ok": 5,
-      "sites_failed": 10,
-      "top_notified": []
+      "medium_score": 1,
+      "sites_ok": 7,
+      "sites_failed": 8,
+      "top_notified": [
+        {
+          "score": 62,
+          "title": "Web Designer/Developer for Premium Tutoring Website - PT - Worldwide",
+          "company": "",
+          "site": "Arc.dev"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T14:03:00+00:00",
-      "last_error": null
+      "last_success": "2026-07-09T20:15:15.976462+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T14:03:00+00:00",
-      "last_error": null
+      "last_success": "2026-07-09T20:15:15.976462+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 34,
-      "last_success": "2026-04-25T05:50:00+00:00",
-      "last_error": "SPA - RSS returns HTML SPA"
+      "consecutive_failures": 35,
+      "last_error": "RSS feed returned HTML",
+      "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T14:03:00+00:00",
-      "last_error": null
+      "last_success": "2026-07-09T20:15:15.976462+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 27,
-      "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "SPA - landing page shown via proxy"
+      "consecutive_failures": 28,
+      "last_error": "JS-rendered, no listings in HTML",
+      "last_success": "2026-04-26T10:14:59.943467+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 26,
-      "last_success": "2026-04-26T10:14:59.943467+00:00",
-      "last_error": "Cloudflare captcha via proxy"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-09T20:15:15.976462+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 42,
-      "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "consecutive_failures": 43,
+      "last_error": "403 Forbidden via proxy",
+      "last_success": null
     },
     "indeed_it": {
-      "consecutive_failures": 41,
-      "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "consecutive_failures": 42,
+      "last_error": "403 Forbidden via proxy",
+      "last_success": null
     },
     "indeed_de": {
-      "consecutive_failures": 40,
-      "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "consecutive_failures": 41,
+      "last_error": "403 Forbidden via proxy",
+      "last_success": null
     },
     "indeed_es": {
-      "consecutive_failures": 40,
-      "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "consecutive_failures": 41,
+      "last_error": "403 Forbidden via proxy",
+      "last_success": null
     },
     "indeed_fr": {
       "consecutive_failures": 40,
@@ -6462,9 +7065,9 @@
       "last_error": "Cloudflare 403 via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 22,
-      "last_success": "2026-04-27T06:21:28.675971+00:00",
-      "last_error": "Cloudflare 403 via proxy"
+      "consecutive_failures": 23,
+      "last_error": "403 Forbidden via proxy",
+      "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -6476,18 +7079,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T14:03:00+00:00",
-      "last_error": null
+      "last_success": "2026-07-09T20:15:15.976462+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T14:03:00+00:00",
-      "last_error": null
+      "last_success": "2026-07-09T20:15:15.976462+00:00"
     },
     "justremote": {
-      "consecutive_failures": 9,
-      "last_success": "2026-07-06T14:17:10+00:00",
-      "last_error": "SPA - no server-rendered listings"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-09T20:15:15.976462+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T20:15:15.976462+00:00",
+  "last_updated": "2026-07-10T06:15:13.011206+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -6714,6 +6714,54 @@
       "notified": true,
       "eliminated": false,
       "score": 62
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/android-developer-5944060935": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Android Developer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/android-developer-5944060935",
+      "first_seen": "2026-07-10T06:15:13.011206+00:00",
+      "pub_date": 1783659345,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Location-restricted to Netherlands only (\"candidates must be based in Netherlands\"); employmentType=Full Time (employment, not freelance)"
+    },
+    "infojobs_es_16b35a9f734231851878143affddf1": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Técnico/a Soporte Vip Alta dirección ( Windows, MacOS, iOS y Office 365) (Inglés Alto)",
+      "company": "MINSAIT (Indra Soluciones TI)",
+      "url": "https://www.infojobs.net/madrid/tecnico-soporte-vip-alta-direccion-windows-macos-ios-office-365-ingles-alto/of-i16b35a9f734231851878143affddf1?applicationOrigin=search-new&page=1&sortBy=RELEVANCE",
+      "first_seen": "2026-07-10T06:15:13.011206+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role — IT support technician for VIP executives"
+    },
+    "landingjobs_8bd9abc97491": {
+      "site_id": "landingjobs",
+      "site_name": "Landing.Jobs",
+      "title": "Staff Frontend Software Engineer | BASE Team",
+      "company": "Wellhub",
+      "url": "https://landing.jobs/jobs?q=Staff+Frontend+Software+Engineer+|+BASE+Team",
+      "first_seen": "2026-07-10T06:15:13.011206+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Staff Engineer (senior tier)"
+    },
+    "landingjobs_e559929f85bc": {
+      "site_id": "landingjobs",
+      "site_name": "Landing.Jobs",
+      "title": "Founding Full Stack Software Engineer / Technical Lead",
+      "company": "TouchPoints.health",
+      "url": "https://landing.jobs/at/touchpoints-health",
+      "first_seen": "2026-07-10T06:15:13.011206+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Technical Lead (senior tier)"
     }
   },
   "daily_stats": {
@@ -7010,63 +7058,74 @@
           "site": "Arc.dev"
         }
       ]
+    },
+    "2026-07-10": {
+      "jobs_found": 4,
+      "jobs_notified": 0,
+      "jobs_eliminated": 4,
+      "jobs_below_threshold": 0,
+      "high_score": 0,
+      "medium_score": 0,
+      "sites_ok": 7,
+      "sites_failed": 8,
+      "top_notified": []
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T20:15:15.976462+00:00"
+      "last_success": "2026-07-10T06:15:13.011206+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T20:15:15.976462+00:00"
+      "last_success": "2026-07-10T06:15:13.011206+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 35,
+      "consecutive_failures": 36,
       "last_error": "RSS feed returned HTML",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T20:15:15.976462+00:00"
+      "last_success": "2026-07-10T06:15:13.011206+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 28,
+      "consecutive_failures": 29,
       "last_error": "JS-rendered, no listings in HTML",
       "last_success": "2026-04-26T10:14:59.943467+00:00"
     },
     "landingjobs": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T20:15:15.976462+00:00"
+      "last_success": "2026-07-10T06:15:13.011206+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 43,
+      "consecutive_failures": 44,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_it": {
-      "consecutive_failures": 42,
+      "consecutive_failures": 43,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_de": {
-      "consecutive_failures": 41,
+      "consecutive_failures": 42,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_es": {
-      "consecutive_failures": 41,
+      "consecutive_failures": 42,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_fr": {
-      "consecutive_failures": 40,
+      "consecutive_failures": 41,
       "last_success": null,
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "403 Forbidden via proxy"
     },
     "glassdoor": {
-      "consecutive_failures": 23,
-      "last_error": "403 Forbidden via proxy",
+      "consecutive_failures": 24,
+      "last_error": "403 Cloudflare via proxy",
       "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "stepstone": {
@@ -7079,15 +7138,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T20:15:15.976462+00:00"
+      "last_success": "2026-07-10T06:15:13.011206+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T20:15:15.976462+00:00"
+      "last_success": "2026-07-10T06:15:13.011206+00:00"
     },
     "justremote": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-09T20:15:15.976462+00:00"
+      "last_success": "2026-07-10T06:15:13.011206+00:00"
     }
   }
 }

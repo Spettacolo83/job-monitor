@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T20:12:20.222617+00:00",
+  "last_updated": "2026-07-11T06:18:00.802820+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -8419,6 +8419,114 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "remote_only: physical repair store in Barakaldo (Bilbao); not a developer role"
+    },
+    "remoteok_1134690": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Weâre not hiring right now â but weâre growing fast",
+      "company": "VENDED",
+      "url": "https://remoteOK.com/remote-jobs/remote-were-not-hiring-right-now-but-were-growing-fast-vended-1134690",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-10T06:01:39+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a real job posting"
+    },
+    "remoteok_1134700": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Creative Designer Design Strategist",
+      "company": "Digital",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-creative-designer-design-strategist-digital-1134700",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-09T15:13:13+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead in title"
+    },
+    "remoteok_1134597": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Administrative Assistant",
+      "company": "ReLytics Hire",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relytics-hire-1134597",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-08T04:20:26+00:00",
+      "notified": false,
+      "eliminated": false,
+      "score": 40
+    },
+    "himalayas_https://himalayas.app/companies/rapinno-tech/jobs/cloud-engineer": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Cloud Engineer",
+      "company": "Rapinno Tech",
+      "url": "https://himalayas.app/companies/rapinno-tech/jobs/cloud-engineer",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-11T00:19:32+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: 5+ years required"
+    },
+    "himalayas_https://himalayas.app/companies/nesto-cloud/jobs/senior-backend-developer-integrations": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Backend Developer, Integrations",
+      "company": "Nesto Cloud",
+      "url": "https://himalayas.app/companies/nesto-cloud/jobs/senior-backend-developer-integrations",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-11T00:12:13+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead in title"
+    },
+    "arcdev_p3oiaf49sb": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "AI Developer for HIPAA Compliant Wellness Assistant",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/ai-developer-for-hipaa-compliant-wellness-assistant",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-11T02:43:30+00:00",
+      "notified": true,
+      "eliminated": false,
+      "score": 98
+    },
+    "arcdev_kymxv1wlks": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Sr Data Scientist",
+      "company": "Ascend Learning",
+      "url": "https://arc.dev/remote-jobs/ascend-learning-sr-data-scientist",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-10T06:34:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead in title"
+    },
+    "arcdev_p3hmjz50yn": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Founding CTO",
+      "company": "Diana",
+      "url": "https://arc.dev/remote-jobs/diana-founding-cto",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-10T06:34:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead in title"
+    },
+    "arcdev_p3ht1eto3o": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Manager",
+      "company": "Leadership Talent Hunters",
+      "url": "https://arc.dev/remote-jobs/leadership-talent-hunters-marketing-manager",
+      "first_seen": "2026-07-11T06:18:00.802820+00:00",
+      "pub_date": "2026-07-10T06:34:07+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: arcdev jobType=permanent"
     }
   },
   "daily_stats": {
@@ -8746,63 +8854,81 @@
         }
       ],
       "daily_summary_sent": true
+    },
+    "2026-07-11": {
+      "jobs_found": 9,
+      "jobs_notified": 1,
+      "jobs_eliminated": 7,
+      "jobs_below_threshold": 1,
+      "high_score": 1,
+      "medium_score": 0,
+      "sites_ok": 5,
+      "sites_failed": 10,
+      "top_notified": [
+        {
+          "score": 98,
+          "title": "AI Developer for HIPAA Compliant Wellness Assistant",
+          "company": "",
+          "site": "Arc.dev"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-10T20:12:20.222617+00:00"
+      "last_success": "2026-07-11T06:18:00.802820+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-10T20:12:20.222617+00:00"
+      "last_success": "2026-07-11T06:18:00.802820+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 38,
+      "consecutive_failures": 39,
       "last_error": "RSS feed returned HTML (Akamai block)",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-10T20:12:20.222617+00:00"
+      "last_success": "2026-07-11T06:18:00.802820+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 31,
+      "consecutive_failures": 32,
       "last_error": "JS-rendered, no listings in HTML",
       "last_success": "2026-04-26T10:14:59.943467+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "SPA-rendered, no cards found via proxy",
       "last_success": "2026-07-10T14:19:35.222737+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 46,
+      "consecutive_failures": 47,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_it": {
-      "consecutive_failures": 45,
+      "consecutive_failures": 46,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_de": {
-      "consecutive_failures": 44,
+      "consecutive_failures": 45,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_es": {
-      "consecutive_failures": 44,
+      "consecutive_failures": 45,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_fr": {
-      "consecutive_failures": 43,
+      "consecutive_failures": 44,
       "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "glassdoor": {
-      "consecutive_failures": 26,
+      "consecutive_failures": 27,
       "last_error": "403 Cloudflare via proxy",
       "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
@@ -8816,14 +8942,14 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-10T20:12:20.222617+00:00"
+      "last_success": "2026-07-11T06:18:00.802820+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-10T20:12:20.222617+00:00"
+      "last_success": "2026-07-11T06:18:00.802820+00:00"
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Homepage returned non-tech titles, no dev cards parseable",
       "last_success": "2026-07-10T14:19:35.222737+00:00"
     }

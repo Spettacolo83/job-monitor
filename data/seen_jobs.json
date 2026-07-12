@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T06:13:59.501116+00:00",
+  "last_updated": "2026-07-12T14:15:00+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -11133,6 +11133,72 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (Senior Software Engineer)"
+    },
+    "himalayas_qube_cinema_fullstack": {
+      "id": "himalayas_qube_cinema_fullstack",
+      "site": "himalayas",
+      "title": "Full Stack Developer",
+      "company": "Qube Cinema",
+      "url": "https://himalayas.app/companies/qube-cinema/jobs/full-stack-developer",
+      "location": "India",
+      "eliminated": true,
+      "elimination_reason": "seniority (5+ years, Senior seniority per Himalayas API)",
+      "checked_at": "2026-07-12T14:15:00+00:00"
+    },
+    "infojobs_es_of-i524e9fc62e46fdaf36c73b59fcea62": {
+      "id": "infojobs_es_of-i524e9fc62e46fdaf36c73b59fcea62",
+      "site": "infojobs_es",
+      "title": "Prácticas - Desarrollador/a Junior de Software PHP/Javascript",
+      "company": "Läberit",
+      "url": "https://www.infojobs.net/valencia/practicas-desarrollador-junior-software-php-javascript/of-i524e9fc62e46fdaf36c73b59fcea62",
+      "location": "Valencia (hybrid)",
+      "eliminated": true,
+      "elimination_reason": "remote_only (Híbrido, on-site required) + freelance_only (contrato formativo/indefinido)",
+      "checked_at": "2026-07-12T14:15:00+00:00"
+    },
+    "infojobs_es_of-i2c9722e84140e7b57676a130a5b069": {
+      "id": "infojobs_es_of-i2c9722e84140e7b57676a130a5b069",
+      "site": "infojobs_es",
+      "title": "Desarrollador/a Junior Rust / C++ - Tauri 2.0",
+      "company": "Daedo S.L",
+      "url": "https://www.infojobs.net/l-hospitalet-de-llobregat/desarrollador-junior-rust-c-tauri-2.0/of-i2c9722e84140e7b57676a130a5b069",
+      "location": "L'Hospitalet de Llobregat (hybrid)",
+      "eliminated": true,
+      "elimination_reason": "remote_only (Híbrido) + freelance_only (contrato indefinido, RAL 24-28k)",
+      "checked_at": "2026-07-12T14:15:00+00:00"
+    },
+    "infojobs_es_of-i030521ae724e6abb6bc3d4cfe1d038": {
+      "id": "infojobs_es_of-i030521ae724e6abb6bc3d4cfe1d038",
+      "site": "infojobs_es",
+      "title": "Desarrollador/a Software Junior",
+      "company": "SELECTOS GESTION S.L.",
+      "url": "https://www.infojobs.net/petrer/desarrollador-software-junior/of-i030521ae724e6abb6bc3d4cfe1d038",
+      "location": "Petrer (Presencial)",
+      "eliminated": true,
+      "elimination_reason": "remote_only (Presencial) + freelance_only (indefinido)",
+      "checked_at": "2026-07-12T14:15:00+00:00"
+    },
+    "infojobs_es_of-ie6f9b63cae414883a3c1e7c1f4b91a": {
+      "id": "infojobs_es_of-ie6f9b63cae414883a3c1e7c1f4b91a",
+      "site": "infojobs_es",
+      "title": "Desarrollador Junior de .NET con curiosidad IA | Palma de Mallorca",
+      "company": "ALTEN IT",
+      "url": "https://www.infojobs.net/palma-de-mallorca/desarrollador-junior-.net-con-curiosidad-ia-palma-mallorca/of-ie6f9b63cae414883a3c1e7c1f4b91a",
+      "location": "Palma de Mallorca (Presencial)",
+      "eliminated": true,
+      "elimination_reason": "remote_only (Presencial) + freelance_only (indefinido)",
+      "checked_at": "2026-07-12T14:15:00+00:00"
+    },
+    "infojobs_es_of-i33ac2159064d48bcbacc6aa86a61ae": {
+      "id": "infojobs_es_of-i33ac2159064d48bcbacc6aa86a61ae",
+      "site": "infojobs_es",
+      "title": "Desarrollador/a Junior .NET/Oracle",
+      "company": "Avanade Spain",
+      "url": "https://www.infojobs.net/sevilla/desarrollador-junior-.net-oracle/of-i33ac2159064d48bcbacc6aa86a61ae",
+      "location": "Sevilla (Presencial)",
+      "eliminated": true,
+      "elimination_reason": "remote_only (Presencial) + freelance_only (indefinido)",
+      "checked_at": "2026-07-12T14:15:00+00:00"
     }
   },
   "daily_stats": {
@@ -11491,65 +11557,65 @@
           "title": "AI Developer for HIPAA Compliant Wellness Assistant",
           "site_id": "arcdev"
         }
-      ]
+      ],
+      "eliminated": 6,
+      "total_found": 6
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-12T06:13:59.501116+00:00"
+      "last_success": "2026-07-12T14:15:00+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-12T06:13:59.501116+00:00"
+      "last_success": "2026-07-12T14:15:00+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 42,
-      "last_error": "Page not found (RSS endpoint broken)",
+      "consecutive_failures": 43,
+      "last_error": "Page not found (RSS endpoint broken - returns HTML)",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-12T06:13:59.501116+00:00"
+      "last_success": "2026-07-12T14:15:00+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 35,
-      "last_error": "JS-rendered, no parseable listings",
-      "last_success": "2026-04-26T10:14:59.943467+00:00"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-12T14:15:00+00:00"
     },
     "landingjobs": {
       "consecutive_failures": 0,
-      "last_error": "SPA-rendered, no cards extractable",
-      "last_success": "2026-07-12T06:13:59.501116+00:00"
+      "last_success": "2026-07-12T14:15:00+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 50,
-      "last_error": "Indeed error page (not RSS)",
+      "consecutive_failures": 51,
+      "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_it": {
-      "consecutive_failures": 49,
-      "last_error": "Indeed error page (not RSS)",
+      "consecutive_failures": 50,
+      "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_de": {
-      "consecutive_failures": 48,
-      "last_error": "Indeed error page (not RSS)",
+      "consecutive_failures": 49,
+      "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_es": {
-      "consecutive_failures": 48,
-      "last_error": "Indeed error page (not RSS)",
+      "consecutive_failures": 49,
+      "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "indeed_fr": {
-      "consecutive_failures": 47,
-      "last_error": "Indeed error page (not RSS)",
+      "consecutive_failures": 48,
+      "last_error": "403 Forbidden via proxy",
       "last_success": null
     },
     "glassdoor": {
-      "consecutive_failures": 30,
-      "last_error": "Cloudflare/no parseable listings",
+      "consecutive_failures": 31,
+      "last_error": "Not fetched this run (deprioritized -15)",
       "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "stepstone": {
@@ -11562,15 +11628,17 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-12T06:13:59.501116+00:00"
+      "last_success": "2026-07-12T14:15:00+00:00"
     },
     "arcdev": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-12T06:13:59.501116+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-12T06:13:59.501116+00:00",
+      "last_error": "HTML has no server-side job data (client-side JS required)"
     },
     "justremote": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-12T06:13:59.501116+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-12T06:13:59.501116+00:00",
+      "last_error": "HTML has no server-side job data (client-side JS required)"
     }
   }
 }

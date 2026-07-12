@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T20:13:20.565582+00:00",
+  "last_updated": "2026-07-12T06:13:59.501116+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -8387,13 +8387,13 @@
       "site_id": "arcdev",
       "site_name": "Arc.dev",
       "title": "Machine Learning Engineer (RAG, DSPy) - Fulltime - EMEA",
-      "company": "Confidential",
-      "url": "https://arc.dev/remote-jobs/machine-learning-engineer-rag-dspy-fulltime-emea",
-      "first_seen": "2026-07-10T20:12:20.222617+00:00",
-      "pub_date": "2026-07-10T11:23:30+00:00",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/machine-learning-engineer-rag-dspy-fulltime-emea-p3iqjwgmed",
+      "first_seen": "2026-07-12T06:13:59.501116+00:00",
+      "pub_date": null,
       "notified": false,
       "eliminated": true,
-      "elimination_reason": "seniority_filter: arc.dev experienceLevel=senior"
+      "elimination_reason": "seniority_filter: source-tagged senior (Machine Learning Engineer (RAG, DSPy) - Fulltime - EMEA)"
     },
     "arcdev_p20fs08s9b": {
       "site_id": "arcdev",
@@ -8484,13 +8484,13 @@
       "site_id": "arcdev",
       "site_name": "Arc.dev",
       "title": "AI Developer for HIPAA Compliant Wellness Assistant",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/ai-developer-for-hipaa-compliant-wellness-assistant",
-      "first_seen": "2026-07-11T06:18:00.802820+00:00",
-      "pub_date": "2026-07-11T02:43:30+00:00",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/ai-developer-for-hipaa-compliant-wellness-assistant-p3oiaf49sb",
+      "first_seen": "2026-07-12T06:13:59.501116+00:00",
+      "pub_date": null,
       "notified": true,
       "eliminated": false,
-      "score": 98
+      "score": 100
     },
     "arcdev_kymxv1wlks": {
       "site_id": "arcdev",
@@ -11073,6 +11073,66 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "infojobs: category/nav page, not a listing"
+    },
+    "arcdev_p3ddx07m6z": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Fullstack Developer (Supabase, Firebase, React Native) - FT - India",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/senior-fullstack-developer-supabase-firebase-react-native-ft-india-p3ddx07m6z",
+      "first_seen": "2026-07-12T06:13:59.501116+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (Senior Fullstack Developer (Supabase, Firebase, React Native) - FT - India)"
+    },
+    "arcdev_p3cdryyshr": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Agent Engineer (Python, agentic platform exp) - Fulltime - EMEA",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/agent-engineer-python-agentic-platform-exp-fulltime-emea-p3cdryyshr",
+      "first_seen": "2026-07-12T06:13:59.501116+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: source-tagged senior (Agent Engineer (Python, agentic platform exp) - Fulltime - EMEA)"
+    },
+    "arcdev_p3b2cd7eb1": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Solidity &amp; Smart-Contract Developer",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/solidity-smart-contract-developer-p3b2cd7eb1",
+      "first_seen": "2026-07-12T06:13:59.501116+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": false,
+      "score": 38
+    },
+    "arcdev_p3tf1pn3tt": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Full-Stack SaaS Engineer — React, TypeScript, and MySQL (PT-US)",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/senior-full-stack-saas-engineer-react-typescript-and-mysql-pt-us-p3tf1pn3tt",
+      "first_seen": "2026-07-12T06:13:59.501116+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (Senior Full-Stack SaaS Engineer — React, TypeScript, and MySQL (PT-US))"
+    },
+    "landingjobs_9e14f0f3b50e": {
+      "site_id": "landingjobs",
+      "site_name": "Landing.Jobs",
+      "title": "Senior Software Engineer",
+      "company": "Stellar AI",
+      "url": "https://landing.jobs/#4a93a746440b",
+      "first_seen": "2026-07-12T06:13:59.501116+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: title contains senior/lead/staff/principal (Senior Software Engineer)"
     }
   },
   "daily_stats": {
@@ -11419,64 +11479,77 @@
         }
       ],
       "daily_summary_sent": true
+    },
+    "2026-07-12": {
+      "notified_count": 1,
+      "eliminated_count": 5,
+      "below_threshold_count": 1,
+      "top_scored": [
+        {
+          "job_id": "arcdev_p3oiaf49sb",
+          "score": 100,
+          "title": "AI Developer for HIPAA Compliant Wellness Assistant",
+          "site_id": "arcdev"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-11T20:13:20.565582+00:00"
+      "last_success": "2026-07-12T06:13:59.501116+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-11T20:13:20.565582+00:00"
+      "last_success": "2026-07-12T06:13:59.501116+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 41,
-      "last_error": "no RSS content",
+      "consecutive_failures": 42,
+      "last_error": "Page not found (RSS endpoint broken)",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-11T20:13:20.565582+00:00"
+      "last_success": "2026-07-12T06:13:59.501116+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 34,
-      "last_error": "JS-rendered skeleton, no listings",
+      "consecutive_failures": 35,
+      "last_error": "JS-rendered, no parseable listings",
       "last_success": "2026-04-26T10:14:59.943467+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 0,
       "last_error": "SPA-rendered, no cards extractable",
-      "last_success": "2026-07-10T14:19:35.222737+00:00"
+      "last_success": "2026-07-12T06:13:59.501116+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 49,
-      "last_error": "Not RSS content",
+      "consecutive_failures": 50,
+      "last_error": "Indeed error page (not RSS)",
       "last_success": null
     },
     "indeed_it": {
-      "consecutive_failures": 48,
-      "last_error": "Not RSS content",
+      "consecutive_failures": 49,
+      "last_error": "Indeed error page (not RSS)",
       "last_success": null
     },
     "indeed_de": {
-      "consecutive_failures": 47,
-      "last_error": "Not RSS content",
+      "consecutive_failures": 48,
+      "last_error": "Indeed error page (not RSS)",
       "last_success": null
     },
     "indeed_es": {
-      "consecutive_failures": 47,
-      "last_error": "Not RSS content",
+      "consecutive_failures": 48,
+      "last_error": "Indeed error page (not RSS)",
       "last_success": null
     },
     "indeed_fr": {
-      "consecutive_failures": 46,
-      "last_error": "Not RSS content",
+      "consecutive_failures": 47,
+      "last_error": "Indeed error page (not RSS)",
       "last_success": null
     },
     "glassdoor": {
-      "consecutive_failures": 29,
-      "last_error": "Cloudflare block",
+      "consecutive_failures": 30,
+      "last_error": "Cloudflare/no parseable listings",
       "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "stepstone": {
@@ -11489,15 +11562,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-11T20:13:20.565582+00:00"
+      "last_success": "2026-07-12T06:13:59.501116+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-11T20:13:20.565582+00:00"
+      "last_success": "2026-07-12T06:13:59.501116+00:00"
     },
     "justremote": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-11T20:13:20.565582+00:00"
+      "last_success": "2026-07-12T06:13:59.501116+00:00"
     }
   }
 }

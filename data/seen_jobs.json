@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T06:13:10.196617+00:00",
+  "last_updated": "2026-07-13T14:13:29.935334+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -11859,6 +11859,606 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "remote_only: 'Presencial' Madrid; freelance_only: 'Contrato indefinido' + salario '25.000€ - 45.000€ Bruto/año' — full employment"
+    },
+    "indeed_it_e79fd7bcd029ebf4": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Junior AI Developer",
+      "company": "Finanziamento del Contenzioso S.p.A.",
+      "url": "https://it.indeed.com/viewjob?jk=e79fd7bcd029ebf4",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_1a0c55a39b3e4251": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Sviluppatore junior in ambito riconoscimento vocale e intelligenza artificiale",
+      "company": "Voisis Srl",
+      "url": "https://it.indeed.com/viewjob?jk=1a0c55a39b3e4251",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_74fac0e6572082bf": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Junior Web Developer & IT Application Engineer",
+      "company": "SCR Selezione e consulenza per le risorse umane",
+      "url": "https://it.indeed.com/viewjob?jk=74fac0e6572082bf",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_fa4b37077153f745": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Sviluppatore junior in ambito riconoscimento vocale e intelligenza artificiale",
+      "company": "Voisis Srl",
+      "url": "https://it.indeed.com/viewjob?jk=fa4b37077153f745",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_e9edb15550902dae": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Junior Web Developer",
+      "company": "Medianet Brokers srl",
+      "url": "https://it.indeed.com/viewjob?jk=e9edb15550902dae",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_0cb9689719f355f8": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Sviluppatore Software Junior",
+      "company": "Etjca Group S.p.A.",
+      "url": "https://it.indeed.com/viewjob?jk=0cb9689719f355f8",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_262002cf0b80448c": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "JUNIOR FULL STACK DEVELOPER FLUTTER REACT",
+      "company": "Bam srl",
+      "url": "https://it.indeed.com/viewjob?jk=262002cf0b80448c",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_d63524d10d7fadfd": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Ingegnere Firmware (entry level)",
+      "company": "SV sistemi di sicurezza srl",
+      "url": "https://it.indeed.com/viewjob?jk=d63524d10d7fadfd",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_123456789abcdef0": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Ingegnere Firmware (entry level)",
+      "company": "SV sistemi di sicurezza srl",
+      "url": "https://it.indeed.com/viewjob?jk=123456789abcdef0",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_c4ab15efa325ae59": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "SVILUPPATORE SOFTWARE JUNIOR",
+      "company": "Istituto Giglio",
+      "url": "https://it.indeed.com/viewjob?jk=c4ab15efa325ae59",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_e655f5fb6b6accdc": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Sviluppatore software junior",
+      "company": "NETtoWORK SRL",
+      "url": "https://it.indeed.com/viewjob?jk=e655f5fb6b6accdc",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_6e10880b0dae7159": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Full-Stack Developer Junior",
+      "company": "Focelda S.p.A.",
+      "url": "https://it.indeed.com/viewjob?jk=6e10880b0dae7159",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_fcf46be8ce40c728": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Junior Java Developer",
+      "company": "Experis",
+      "url": "https://it.indeed.com/viewjob?jk=fcf46be8ce40c728",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_ab4109911dee39f3": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "JUNIOR SOFTWARE DEVELOPER",
+      "company": "Umana S.p.A.",
+      "url": "https://it.indeed.com/viewjob?jk=ab4109911dee39f3",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_it_eeeec1caa303fced": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed IT",
+      "title": "Junior C# Developer",
+      "company": "Michael Page",
+      "url": "https://it.indeed.com/viewjob?jk=eeeec1caa303fced",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_uk_6850018f066aa284": {
+      "site_id": "indeed_uk",
+      "site_name": "Indeed UK",
+      "title": "Junior Big Data Developer",
+      "company": "Information Tech Consultants",
+      "url": "https://uk.indeed.com/viewjob?jk=6850018f066aa284",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_uk_8ee6c36e38bc8b09": {
+      "site_id": "indeed_uk",
+      "site_name": "Indeed UK",
+      "title": "Junior Software Developer",
+      "company": "Ensemble Media Limited",
+      "url": "https://uk.indeed.com/viewjob?jk=8ee6c36e38bc8b09",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_uk_9cacbd0e01b1e4cf": {
+      "site_id": "indeed_uk",
+      "site_name": "Indeed UK",
+      "title": "Junior Systems & Automation Developer",
+      "company": "Fonthill Care (Harry Park) Limited",
+      "url": "https://uk.indeed.com/viewjob?jk=9cacbd0e01b1e4cf",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_uk_0f1e2d3c4b5a6978": {
+      "site_id": "indeed_uk",
+      "site_name": "Indeed UK",
+      "title": "Junior Systems & Automation Developer",
+      "company": "Fonthill Care (Harry Park) Limited",
+      "url": "https://uk.indeed.com/viewjob?jk=0f1e2d3c4b5a6978",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_de_5fc8db7344ff5e12": {
+      "site_id": "indeed_de",
+      "site_name": "Indeed DE",
+      "title": "Junior Backend‑Entwickler / Backend Developer (m/w/d) – JavaScript / TypeScript / NestJS",
+      "company": "RUBINLAKE GmbH",
+      "url": "https://de.indeed.com/viewjob?jk=5fc8db7344ff5e12",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: hybrid_or_onsite"
+    },
+    "indeed_de_c977e39812c6a1fb": {
+      "site_id": "indeed_de",
+      "site_name": "Indeed DE",
+      "title": "(Junior) Mobile Developer (m/w/d) Android/iOS",
+      "company": "C24 Bank GmbH",
+      "url": "https://de.indeed.com/viewjob?jk=c977e39812c6a1fb",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_de_be07d1c58a7ed4ba": {
+      "site_id": "indeed_de",
+      "site_name": "Indeed DE",
+      "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",
+      "company": "Instaffo GmbH",
+      "url": "https://de.indeed.com/viewjob?jk=be07d1c58a7ed4ba",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_de_6be95d8e633bcfd7": {
+      "site_id": "indeed_de",
+      "site_name": "Indeed DE",
+      "title": "Full Stack-Engineer (Web / Mobile / Backend) (m/w/d)",
+      "company": "Instaffo GmbH",
+      "url": "https://de.indeed.com/viewjob?jk=6be95d8e633bcfd7",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_de_7cef74efae6b4e97": {
+      "site_id": "indeed_de",
+      "site_name": "Indeed DE",
+      "title": "Junior Softwareentwickler JAVA / JEE (mwd)",
+      "company": "Vesterling AG",
+      "url": "https://de.indeed.com/viewjob?jk=7cef74efae6b4e97",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: hybrid_or_onsite"
+    },
+    "indeed_es_39d484c1ec185c20": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollo software junior, Madrid - Primer Empleo",
+      "company": "Indra Sistemas",
+      "url": "https://es.indeed.com/viewjob?jk=39d484c1ec185c20",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_cbc79e3df98b7f65": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a Junior Java",
+      "company": "Minsait",
+      "url": "https://es.indeed.com/viewjob?jk=cbc79e3df98b7f65",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_7bc5f5f2d189a262": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a Python Junior",
+      "company": "Alcorce Telecomunicaciones",
+      "url": "https://es.indeed.com/viewjob?jk=7bc5f5f2d189a262",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_7cb98d78da5aa3a8": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a JAVA Junior",
+      "company": "Bahía Software",
+      "url": "https://es.indeed.com/viewjob?jk=7cb98d78da5aa3a8",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_456789abcdef0123": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a JAVA Junior",
+      "company": "Bahía Software",
+      "url": "https://es.indeed.com/viewjob?jk=456789abcdef0123",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_d59aac760761470a": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a de software junior",
+      "company": "domestiko.com",
+      "url": "https://es.indeed.com/viewjob?jk=d59aac760761470a",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_58efd130349db02c": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Junior Developer - PeopleSoft",
+      "company": "Izertis",
+      "url": "https://es.indeed.com/viewjob?jk=58efd130349db02c",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: hybrid_or_onsite"
+    },
+    "indeed_es_bb0c63c098477da2": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a IA (AI/ML Engineer) Junior",
+      "company": "Galadrim",
+      "url": "https://es.indeed.com/viewjob?jk=bb0c63c098477da2",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: hybrid_or_onsite"
+    },
+    "indeed_es_280ac35de958bc33": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "JUNIOR SOFTWARE DEVELOPER",
+      "company": "Qoobers Smart Solutions",
+      "url": "https://es.indeed.com/viewjob?jk=280ac35de958bc33",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_368f0b55e4eb4ef1": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a Junior Java",
+      "company": "Indra",
+      "url": "https://es.indeed.com/viewjob?jk=368f0b55e4eb4ef1",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_c62b7f8ce2bc349e": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Programador Junior PHP Full Stack en Sevilla",
+      "company": "Grupo Inprex",
+      "url": "https://es.indeed.com/viewjob?jk=c62b7f8ce2bc349e",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_a46c58cac95352df": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Desarrollador/a Fullstack Junior | Zaragoza | Caja Rural de Aragón",
+      "company": "Caja Rural Aragón",
+      "url": "https://es.indeed.com/viewjob?jk=a46c58cac95352df",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote; freelance_only: employment_contract"
+    },
+    "indeed_fr_7ae4bf490e04179e": {
+      "site_id": "indeed_fr",
+      "site_name": "Indeed FR",
+      "title": "Développeur IA Junior (H/F)",
+      "company": "SPV",
+      "url": "https://fr.indeed.com/viewjob?jk=7ae4bf490e04179e",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: hybrid_or_onsite"
+    },
+    "indeed_fr_40348576849ada0e": {
+      "site_id": "indeed_fr",
+      "site_name": "Indeed FR",
+      "title": "Business Developer junior H/F (Alternance et reconversion)",
+      "company": "Rocket School",
+      "url": "https://fr.indeed.com/viewjob?jk=40348576849ada0e",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_fr_35b4b6cf8540817a": {
+      "site_id": "indeed_fr",
+      "site_name": "Indeed FR",
+      "title": "Business Developer junior H/F (Alternance et reconversion)",
+      "company": "Rocket School",
+      "url": "https://fr.indeed.com/viewjob?jk=35b4b6cf8540817a",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_fr_cd9064b9c8b54426": {
+      "site_id": "indeed_fr",
+      "site_name": "Indeed FR",
+      "title": "Developpeur(se) junior en CDI - F/H",
+      "company": "France billet",
+      "url": "https://fr.indeed.com/viewjob?jk=cd9064b9c8b54426",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: hybrid_or_onsite; freelance_only: employment_contract"
+    },
+    "indeed_fr_7d3da77d4b5cc707": {
+      "site_id": "indeed_fr",
+      "site_name": "Indeed FR",
+      "title": "Développeur Junior - C#/SQL (F/H)",
+      "company": "Natixis",
+      "url": "https://fr.indeed.com/viewjob?jk=7d3da77d4b5cc707",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_fr_e38ad804bb5692ef": {
+      "site_id": "indeed_fr",
+      "site_name": "Indeed FR",
+      "title": "Développeur Fullstack Junior (exp 2 ans) (IT) / Freelance",
+      "company": "INSYCO",
+      "url": "https://fr.indeed.com/viewjob?jk=e38ad804bb5692ef",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_fr_2e9c3b1755806fb3": {
+      "site_id": "indeed_fr",
+      "site_name": "Indeed FR",
+      "title": "Développeur Front-End Angular Junior (IT) / Freelance",
+      "company": "CONSULT IT",
+      "url": "https://fr.indeed.com/viewjob?jk=2e9c3b1755806fb3",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "infojobs_es_02e510844b04": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Junior Rust C Tauri 2.0",
+      "company": "Daedo S.L",
+      "url": "https://www.infojobs.net/l-hospitalet-de-llobregat/desarrollador-junior-rust-c-tauri-2.0/of-i2c9722e84140e7b57676a130a5b069",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "infojobs_es_b3e9950c3df3": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Software Junior",
+      "company": "SELECTOS GESTION S.L.",
+      "url": "https://www.infojobs.net/petrer/desarrollador-software-junior/of-i030521ae724e6abb6bc3d4cfe1d038",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "infojobs_es_1dc88d75ec20": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Analista Bi Desarrollador Junior Soluciones Credit",
+      "company": "Teknei",
+      "url": "https://www.infojobs.net/madrid/analista-bi-desarrollador-junior-soluciones-credit/of-ie8d3439be942e9a02029ddf87f3e5f",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "infojobs_es_d715d11087dc": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Junior .Net Con Curiosidad Ia Palma Mallorca",
+      "company": "ALTEN IT",
+      "url": "https://www.infojobs.net/palma-de-mallorca/desarrollador-junior-.net-con-curiosidad-ia-palma-mallorca/of-ie6f9b63cae414883a3c1e7c1f4b91a",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "infojobs_es_5d46b5d6b26b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Junior .Net Oracle",
+      "company": "Avanade Spain",
+      "url": "https://www.infojobs.net/sevilla/desarrollador-junior-.net-oracle/of-i33ac2159064d48bcbacc6aa86a61ae",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: city_location_no_remote"
+    },
+    "indeed_es_0485e49b641c42c3": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Programador Junior (Teletrabajo 100%)",
+      "company": "Metaenlace",
+      "url": "https://es.indeed.com/viewjob?jk=0485e49b641c42c3",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: description states \"Estable y de larga duración\" (permanent employment); no freelance indicators"
+    },
+    "indeed_es_c7eb07e3a28d1fff": {
+      "site_id": "indeed_es",
+      "site_name": "Indeed ES",
+      "title": "Maquetador/a Web Junior | Part-Time",
+      "company": "HR Lean, S.L.",
+      "url": "https://es.indeed.com/viewjob?jk=c7eb07e3a28d1fff",
+      "first_seen": "2026-07-13T14:13:29.935334+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: description states \"Contrato indefinido desde el primer día\" + benefits (seguro médico, gym, psicólogo, guardería)"
     }
   },
   "daily_stats": {
@@ -12226,64 +12826,62 @@
       "daily_summary_sent": true
     },
     "2026-07-13": {
-      "new_jobs": 22,
-      "notified": 0,
-      "eliminated": 22,
-      "runs": 1,
-      "notified_details": []
+      "total_notified": 0,
+      "high_score": 0,
+      "medium_score": 0,
+      "ambiguous": 0,
+      "eliminated": 72,
+      "runs": 2,
+      "last_run": "2026-07-13T14:13:29.935334+00:00"
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T06:13:10.196617+00:00"
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T06:13:10.196617+00:00"
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 45,
-      "last_error": "RSS endpoint returns HTML (broken)",
+      "consecutive_failures": 46,
+      "last_error": "RSS endpoint returns HTML (still broken)",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T06:13:10.196617+00:00"
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-12T20:12:59.433240+00:00",
-      "last_error": "Fetched via proxy but no job listings extractable from rendered HTML"
+      "last_error": "Fetched via proxy but no job listings extractable"
     },
     "landingjobs": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-13T06:13:10.196617+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-13T06:13:10.196617+00:00",
+      "last_error": "Fetched but only navigation links, no job cards extractable"
     },
     "indeed_uk": {
-      "consecutive_failures": 53,
-      "last_error": "Not fetched this run (persistent 403 via proxy)",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 52,
-      "last_error": "Not fetched this run (persistent 403 via proxy)",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 51,
-      "last_error": "Not fetched this run (persistent 403 via proxy)",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 51,
-      "last_error": "Not fetched this run (persistent 403 via proxy)",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 50,
-      "last_error": "Not fetched this run (persistent 403 via proxy)",
-      "last_success": null
+      "consecutive_failures": 0,
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "glassdoor": {
       "consecutive_failures": 32,
@@ -12300,16 +12898,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T06:13:10.196617+00:00"
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T06:13:10.196617+00:00"
+      "last_success": "2026-07-13T14:13:29.935334+00:00"
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-12T20:12:59.433240+00:00",
-      "last_error": "Fetched via proxy but no job listings extractable from rendered HTML"
+      "last_error": "Fetched but no developer jobs extractable"
     }
   }
 }

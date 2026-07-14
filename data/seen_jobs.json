@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T20:12:54.596594+00:00",
+  "last_updated": "2026-07-14T06:16:39.125696+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -12579,6 +12579,271 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "freelance_only: fixed-term employment contract (\"Contrato de duraci\u00f3n determinada\", Nivel: Empleado/a)"
+    },
+    "himalayas_59320d53ab9ee6b0": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "091L - Principal Engineer / Technical Lead (.NET / Azure / Security / PCI DSS) \u00b7",
+      "company": "Darwoft",
+      "url": "https://himalayas.app/companies/darwoft/jobs/091l-principal-engineer-technical-lead-net-azure-security-pci-dss-3326544132",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "1783992358",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal in title or metadata"
+    },
+    "arcdev_441ac24155063058": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Full-Stack SaaS Engineer \u2014 React, TypeScript, and MySQL (PT-US)",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/senior-full-stack-saas-engineer-react-typescript-and-mysql-pt-us",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-11T15:46:18+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal in title or metadata"
+    },
+    "arcdev_2c9a6c83475dc0e2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "AI Developer for HIPAA Compliant Wellness Assistant",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/ai-developer-for-hipaa-compliant-wellness-assistant",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-11T02:43:30+00:00",
+      "notified": true,
+      "score": 79.2,
+      "notified_at": "2026-07-14T06:16:39.125696+00:00"
+    },
+    "arcdev_60eaa0152bc63f5a": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Experienced Full-Stack Developer / Automation Engineer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/experienced-full-stack-developer-automation-engineer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-10T20:34:12+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to BR (non-EU)"
+    },
+    "arcdev_76bd2c4bc12250c3": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Solidity & Smart-Contract Developer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/solidity-smart-contract-developer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-09T15:00:16+00:00",
+      "notified": false,
+      "eliminated": false,
+      "score": 43.2,
+      "reason": "score 43.2 < 50"
+    },
+    "arcdev_5a8f100aa68cf6cf": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Experienced Angular Developer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/experienced-angular-developer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-07T11:12:56+00:00",
+      "notified": true,
+      "score": 54.2,
+      "notified_at": "2026-07-14T06:16:39.125696+00:00"
+    },
+    "arcdev_7bfbfaf488847b5e": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web Designer/Developer for Premium Tutoring Website - PT - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/web-designer-developer-for-premium-tutoring-website-pt-worldwide",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-03T15:58:43+00:00",
+      "notified": true,
+      "score": 69.8,
+      "notified_at": "2026-07-14T06:16:39.125696+00:00"
+    },
+    "arcdev_da1665123c644d9e": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "UI engineer / UI Designer / Product Engineer",
+      "company": "Value Innovation Labs",
+      "url": "https://arc.dev/remote-jobs/value-innovation-labs-ui-engineer-ui-designer-product-engineer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:46:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to US (non-EU)"
+    },
+    "arcdev_d14d13f0c98478ab": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer II",
+      "company": "CNN",
+      "url": "https://arc.dev/remote-jobs/cnn-software-engineer-ii",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:38:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: jobType=\"permanent\" (permanent employment)"
+    },
+    "arcdev_d4bb84b11f9d6563": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Developer",
+      "company": "Karibu World",
+      "url": "https://arc.dev/remote-jobs/karibu-world-software-developer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:27:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to TZ (non-EU)"
+    },
+    "arcdev_c388c810a4a577cd": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer (Backend) - (f/m/d)",
+      "company": "Instaffo",
+      "url": "https://arc.dev/remote-jobs/instaffo-software-engineer-backend-f-m-d",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:27:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: jobType=\"permanent\" (permanent employment)"
+    },
+    "arcdev_009b63fc8254357e": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer",
+      "company": "CoreTech Security",
+      "url": "https://arc.dev/remote-jobs/coretech-security-software-engineer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:27:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to GB (non-EU)"
+    },
+    "arcdev_c1d4d5613d8c6ca8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Planning Engineer",
+      "company": "MetisPeople",
+      "url": "https://arc.dev/remote-jobs/metispeople-planning-engineer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:27:41+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to GB (non-EU)"
+    },
+    "arcdev_6840c6a7f57f96b6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer",
+      "company": "ACI Worldwide",
+      "url": "https://arc.dev/remote-jobs/aci-worldwide-software-engineer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:27:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to ZA, US (non-EU)"
+    },
+    "arcdev_33033efab4fe27aa": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer",
+      "company": "HARMAN International",
+      "url": "https://arc.dev/remote-jobs/harman-international-software-engineer",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:27:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: jobType=\"permanent\" (permanent employment)"
+    },
+    "arcdev_5a0b6524453c68fc": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Associate Project Manager, Operations Engineering Services",
+      "company": "Jobgether",
+      "url": "https://arc.dev/remote-jobs/jobgether-associate-project-manager-operations-engineering-services",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:24:37+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to US (non-EU)"
+    },
+    "arcdev_649287db9ebb52f7": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer II",
+      "company": "WiseHR Group",
+      "url": "https://arc.dev/remote-jobs/wisehr-group-software-engineer-ii",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-13T08:21:39+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to US (non-EU)"
+    },
+    "arcdev_82d0e0cd211075e2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer III, Full Stack, Publisher Inventory",
+      "company": "Google",
+      "url": "https://arc.dev/remote-jobs/google-software-engineer-iii-full-stack-publisher-inventory",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-12T13:22:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to GB (non-EU)"
+    },
+    "arcdev_d9e88a87ed186d2f": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Embedded AI Software Engineer Mid-Level",
+      "company": "Bosch Romania",
+      "url": "https://arc.dev/remote-jobs/bosch-romania-embedded-ai-software-engineer-mid-level",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-12T13:22:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: jobType=\"permanent\" (permanent employment)"
+    },
+    "arcdev_cc12ca0ec5649a3d": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Backend Engineer (AI/ Legal Tech)",
+      "company": "Saga",
+      "url": "https://arc.dev/remote-jobs/saga-backend-engineer-ai-legal-tech",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "2026-07-12T13:22:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: jobType=\"permanent\" (permanent employment)"
+    },
+    "justremote_2c1b98389603be2c": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Senior Data Scientist, Marketing Analytics (Mobile)",
+      "company": "Gametime",
+      "url": "https://justremote.co/remote-manager-exec-jobs/senior-data-scientist-marketing-analytics-mobile-gametime",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "13 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal in title or metadata"
+    },
+    "justremote_9a362a19674948fc": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Staff Data Engineer",
+      "company": "Foodsmart",
+      "url": "https://justremote.co/remote-manager-exec-jobs/staff-data-engineer-foodsmart",
+      "first_seen": "2026-07-14T06:16:39.125696+00:00",
+      "pub_date": "11 Jul",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal in title or metadata"
     }
   },
   "daily_stats": {
@@ -12954,63 +13219,67 @@
       "runs": 3,
       "last_run": "2026-07-13T20:12:54.596594+00:00",
       "daily_summary_sent": true
+    },
+    "2026-07-14": {
+      "new_seen": 22,
+      "notified": 3,
+      "eliminated": 18,
+      "below_threshold": 1
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T20:12:54.596594+00:00"
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T20:12:54.596594+00:00"
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 47,
-      "last_error": "RSS endpoint still returns HTML SPA (broken)",
+      "consecutive_failures": 48,
+      "last_error": "RSS endpoint returns HTML SPA",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T20:12:54.596594+00:00"
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 3,
-      "last_success": "2026-07-12T20:12:59.433240+00:00",
-      "last_error": "Fetched via proxy but no job listings extractable"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 2,
-      "last_success": "2026-07-13T06:13:10.196617+00:00",
-      "last_error": "Fetched but no job cards extractable"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-13T14:13:29.935334+00:00",
-      "last_error": "RSS endpoint returns \"Not found\""
+      "last_error": "RSS endpoint returns Not found / no items"
     },
     "indeed_it": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-13T14:13:29.935334+00:00",
-      "last_error": "RSS endpoint returns \"Pagina non trovata\""
+      "last_error": "RSS endpoint returns Not found / no items"
     },
     "indeed_de": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-13T14:13:29.935334+00:00",
-      "last_error": "RSS endpoint returns \"Nicht gefunden\""
+      "last_error": "RSS endpoint returns Not found / no items"
     },
     "indeed_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-13T14:13:29.935334+00:00",
-      "last_error": "RSS endpoint returns \"No se encontr\u00f3 la p\u00e1gina\""
+      "last_error": "RSS endpoint returns Not found / no items"
     },
     "indeed_fr": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-13T14:13:29.935334+00:00",
-      "last_error": "RSS endpoint returns \"Page introuvable\""
+      "last_error": "RSS endpoint returns Not found / no items"
     },
     "glassdoor": {
-      "consecutive_failures": 32,
+      "consecutive_failures": 33,
       "last_error": "Not fetched this run (deprioritized -15)",
       "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
@@ -13024,17 +13293,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-13T20:12:54.596594+00:00"
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "arcdev": {
-      "consecutive_failures": 1,
-      "last_success": "2026-07-13T14:13:29.935334+00:00",
-      "last_error": "Landing page category links only, no job cards (needs proxy)"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "justremote": {
-      "consecutive_failures": 3,
-      "last_success": "2026-07-12T20:12:59.433240+00:00",
-      "last_error": "JS-rendered, no job cards in raw HTML"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-14T06:16:39.125696+00:00"
     }
   }
 }

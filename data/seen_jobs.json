@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T14:25:52.072047+00:00",
+  "last_updated": "2026-07-14T20:16:44.449063+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -13054,6 +13054,342 @@
       "status": "eliminated",
       "first_seen": "2026-07-14T14:25:52.072047+00:00",
       "reason": "remote_only:hybrid_40pct_wfh"
+    },
+    "remoteok_1134781": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Hiring Operations Team Member BBG etc",
+      "company": "BBG etc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-hiring-operations-team-member-bbg-etc-bbg-etc-1134781",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-13T18:11:20+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134779": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Client Success Manager NYC Fully",
+      "company": "The Reed Corporation",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-success-manager-nyc-fully-the-reed-corporation-1134779",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-13T17:12:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134792": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Clases de Refuerzo Primaria Media Jornada",
+      "company": "Tusclasesparticulares",
+      "url": "https://remoteOK.com/remote-jobs/remote-clases-de-refuerzo-primaria-media-jornada-tusclasesparticulares-1134792",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-13T13:49:13+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134788": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Clases de Refuerzo Primaria Media Jornada",
+      "company": "TUS Media",
+      "url": "https://remoteOK.com/remote-jobs/remote-clases-de-refuerzo-primaria-media-jornada-tus-media-1134788",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-13T08:39:19+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134748": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "The Role",
+      "company": "Artefacts / Asteria ART",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-role-artefacts-asteria-art-1134748",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-12T16:09:13+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134747": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Freelance Background Artist for YouTube Studio",
+      "company": "DevHub",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-background-artist-for-youtube-studio-devhub-1134747",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-12T15:42:31+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134794": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Italian Voice Over Artist Turin",
+      "company": "OpsArmy Careers",
+      "url": "https://remoteOK.com/remote-jobs/remote-italian-voice-over-artist-turin-opsarmy-careers-1134794",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-11T02:18:23+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134703": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Analista de AtraÃ§Ã£o e SeleÃ§Ã£o TemporÃ¡rio",
+      "company": "Lojas Renner S.A.",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atracao-e-selecao-temporario-lojas-renner-s-a-1134703",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-10T22:44:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "remoteok_1134819": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Key Accounts Executive",
+      "company": "Unilever",
+      "url": "https://remoteOK.com/remote-jobs/remote-key-accounts-executive-unilever-1134819",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-10T15:40:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "remoteok_1134795": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "TUTOR MANIPULACIÃN EN CRUDO Y CONSERVACIÃN DE ALIMENTOS",
+      "company": "Grupo Euroformac",
+      "url": "https://remoteOK.com/remote-jobs/remote-tutor-manipulacion-en-crudo-y-conservacion-de-alimentos-grupo-euroformac-1134795",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-10T15:03:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: employment contract detected"
+    },
+    "remotive_2091062": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Senior Product Engineer (Fullstack)",
+      "company": "Clipster",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "2026-07-13T07:05:10",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "himalayas_https://himalayas.app/companies/colibri-group/jobs/call-center-quality-analyst-remote": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Call Center Quality Analyst- Remote",
+      "company": "Colibri Group",
+      "url": "https://himalayas.app/companies/colibri-group/jobs/call-center-quality-analyst-remote",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784041131,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "himalayas_https://himalayas.app/companies/mirantis/jobs/hpc-network-engineer-1191172986": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "HPC Network Engineer",
+      "company": "Mirantis",
+      "url": "https://himalayas.app/companies/mirantis/jobs/hpc-network-engineer-1191172986",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784041126,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_software_dev_role: infrastructure/ops/hw specialty"
+    },
+    "himalayas_https://himalayas.app/companies/webbing/jobs/dba-bulk-data-management-engineer-6306220571": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "DBA & Bulk Data Management Engineer",
+      "company": "Webbing",
+      "url": "https://himalayas.app/companies/webbing/jobs/dba-bulk-data-management-engineer-6306220571",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784041124,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: tags indicate senior/lead"
+    },
+    "himalayas_https://himalayas.app/companies/epoch-ai/jobs/software-engineer-benchmarking": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer, Benchmarking",
+      "company": "Epoch AI",
+      "url": "https://himalayas.app/companies/epoch-ai/jobs/software-engineer-benchmarking",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784041013,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: 6 employee benefits detected"
+    },
+    "himalayas_https://himalayas.app/companies/affirm/jobs/senior-product-manager-credit-pricing": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Product Manager, Credit & Pricing",
+      "company": "Affirm",
+      "url": "https://himalayas.app/companies/affirm/jobs/senior-product-manager-credit-pricing",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784040995,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "himalayas_https://himalayas.app/companies/meijer/jobs/information-security-architect": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Information Security Architect",
+      "company": "Meijer",
+      "url": "https://himalayas.app/companies/meijer/jobs/information-security-architect",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784040995,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "himalayas_https://himalayas.app/companies/utilitiesone/jobs/permit-specialist": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Permit Specialist",
+      "company": "UtilitiesOne",
+      "url": "https://himalayas.app/companies/utilitiesone/jobs/permit-specialist",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784040873,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: 4 employee benefits detected"
+    },
+    "himalayas_https://himalayas.app/companies/aecom/jobs/t-d-project-manager-remote-u-s": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "T&D Project Manager (Remote U.S.)",
+      "company": "AECOM",
+      "url": "https://himalayas.app/companies/aecom/jobs/t-d-project-manager-remote-u-s",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784040873,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: tags indicate senior/lead"
+    },
+    "himalayas_https://himalayas.app/companies/foodics/jobs/senior-full-stack-engineer-6403489751": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Full Stack Engineer",
+      "company": "Foodics",
+      "url": "https://himalayas.app/companies/foodics/jobs/senior-full-stack-engineer-6403489751",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": 1784040789,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "arcdev_p4ds6lqfzl": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior .Net Backend Engineer (FT-WW)",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/senior-net-backend-engineer-ft-ww-p4ds6lqfzl",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "arcdev_p4a5t8evkd": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Junior Financial Market Analyst (Remote)",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/junior-financial-market-analyst-remote-p4a5t8evkd",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "arcdev_p4jb7wj904": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Agentic Product Designer - Remote - Latin America",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/fullstack-senior-agentic-product-designer-remote-latin-america-p4jb7wj904",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "arcdev_p4j6so2lx7": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Science Team Lead",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/youcc-technologies-ltd-data-science-team-lead-p4j6so2lx7",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "arcdev_p48ziwnkoy": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "CTO / COO",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/jac-recruitment-cto-coo-p48ziwnkoy",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: senior/lead/architect detected"
+    },
+    "justremote_new": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "New",
+      "company": "",
+      "url": "https://justremote.co/remote-jobs/new",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role: no tech match"
+    },
+    "infojobs_es_38d02f7d724fb38f8da12311776e40": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "",
+      "company": "",
+      "url": "https://www.infojobs.net//www.infojobs.net/madrid/tecnico-soporte-oficina/of-i38d02f7d724fb38f8da12311776e40?applicationOrigin=search-new&amp;page=1&amp;sortBy=RELEVANCE",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: no explicit remote confirmation"
+    },
+    "infojobs_es_9d9e4569ba4621a74dc31a0f604262": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "",
+      "company": "",
+      "url": "https://www.infojobs.net//www.infojobs.net/barakaldo/tecnico-reparacion-smartphones-tablets-iservices-bilbao/of-i9d9e4569ba4621a74dc31a0f604262?applicationOrigin=search-new&amp;page=1&amp;sortBy=RELEVANCE",
+      "first_seen": "2026-07-14T20:16:44.449063+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: no explicit remote confirmation"
     }
   },
   "daily_stats": {
@@ -13431,63 +13767,93 @@
       "daily_summary_sent": true
     },
     "2026-07-14": {
-      "new_seen": 41,
-      "notified": 4,
-      "eliminated": 31,
-      "below_threshold": 6
+      "new_seen": 69,
+      "notified": 3,
+      "eliminated": 46,
+      "below_threshold": 20,
+      "high_score": 1,
+      "medium_score": 2,
+      "ambiguous": 0,
+      "top_notified": [
+        {
+          "score": 79.2,
+          "title": "AI Developer for HIPAA Compliant Wellness Assistant",
+          "company": "",
+          "site": "Arc.dev"
+        },
+        {
+          "score": 69.8,
+          "title": "Web Designer/Developer for Premium Tutoring Website - PT - Worldwide",
+          "company": "",
+          "site": "Arc.dev"
+        },
+        {
+          "score": 54.2,
+          "title": "Experienced Angular Developer",
+          "company": "",
+          "site": "Arc.dev"
+        }
+      ],
+      "last_run": "2026-07-14T20:17:11.606684+00:00",
+      "daily_summary_sent": true
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "last_success": "2026-07-14T20:16:44.449063+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "last_success": "2026-07-14T20:16:44.449063+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 49,
+      "consecutive_failures": 50,
       "last_error": "RSS endpoint returns HTML SPA",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "last_success": "2026-07-14T20:16:44.449063+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 1,
-      "last_error": "Page requires login/matching - no public listings",
+      "consecutive_failures": 2,
+      "last_error": "No jobs in HTML response",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 1,
-      "last_error": "Job listings behind login",
+      "consecutive_failures": 2,
+      "last_error": "No jobs in HTML response",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
+      "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
+      "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
+      "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
+      "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
+      "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "glassdoor": {
       "consecutive_failures": 34,
-      "last_error": "Not fetched this run (deprioritized -15)",
+      "last_error": "Skipped this run (deprioritized -15)",
       "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
     "stepstone": {
@@ -13500,16 +13866,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "last_success": "2026-07-14T20:16:44.449063+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "last_success": "2026-07-14T20:16:44.449063+00:00"
     },
     "justremote": {
-      "consecutive_failures": 1,
-      "last_error": "SPA - no jobs in HTML response",
-      "last_success": "2026-07-14T06:16:39.125696+00:00"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-14T20:16:44.449063+00:00"
     }
   }
 }

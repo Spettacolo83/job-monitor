@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T14:13:16.715395+00:00",
+  "last_updated": "2026-07-15T20:10:00+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -13834,6 +13834,478 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "tech_match: non-dev role (seniority=Manager, title='Project Manager - Special Uses')"
+    },
+    "remoteok_1134821": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Estimator",
+      "company": "Airswift",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-airswift-1134821",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-14T17:37:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134869": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Customer Success Manager Enterprise",
+      "company": "PointClickCare",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-enterprise-pointclickcare-1134869",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-14T09:04:19+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134807": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Data Entry Clerk Fully",
+      "company": "JobsInMass.com",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-fully-jobsinmass-com-1134807",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-14T08:22:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134787": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Pool Technician",
+      "company": "Four Seasons",
+      "url": "https://remoteOK.com/remote-jobs/remote-pool-technician-four-seasons-1134787",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-13T16:54:19+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134870": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Jr Creative Strategist",
+      "company": "Trivium Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-jr-creative-strategist-trivium-group-1134870",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-13T16:13:23+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134760": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Administrative Assistant",
+      "company": "ReLytics Hires",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relytics-hires-1134760",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-13T05:28:19+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134758": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Architectural Drafter Designer",
+      "company": "DevHub",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-12T15:43:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134856": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Join Our HQ",
+      "company": "Kanidata FZE",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-hq-kanidata-fze-1134856",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-11T15:44:51+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "remoteok_1134783": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "General Consideration Upload Your Resume Here",
+      "company": "ATCS Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-consideration-upload-your-resume-here-atcs-inc-1134783",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-11T07:18:11+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "himalayas_32cda7e6ada2": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Associate Product Marketer",
+      "company": "Vermont Information Processing",
+      "url": "https://himalayas.app/companies/vermont-information-processing/jobs/associate-product-marketer",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:57:12+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "himalayas_053a55a72260": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Consultant - Client Solutions",
+      "company": "Yordas Group",
+      "url": "https://himalayas.app/companies/yordas-group/jobs/senior-consultant-client-solutions",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:56:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter"
+    },
+    "himalayas_7f0d97298153": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "DevSecOps Project Lead (Sr DevSecOps Engineer)",
+      "company": "DEFCON AI",
+      "url": "https://himalayas.app/companies/defconai/jobs/devsecops-project-lead-sr-devsecops-engineer",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:29:26+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter"
+    },
+    "himalayas_1920a03da15f": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Structural Engineer",
+      "company": "PrimECS",
+      "url": "https://himalayas.app/companies/primecs/jobs/structural-engineer",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:12:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "himalayas_b7393afe9ddb": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "AI Engineer",
+      "company": "Kobie Marketing",
+      "url": "https://himalayas.app/companies/kobie-marketing/jobs/ai-engineer",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:12:35+00:00",
+      "notified": false,
+      "eliminated": false,
+      "elimination_reason": null
+    },
+    "himalayas_b94774bda8cc": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Profesor especialista en Eletromagnetismo",
+      "company": "ESSS",
+      "url": "https://himalayas.app/companies/esss/jobs/profesor-especialista-en-eletromagnetismo",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:11:29+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "himalayas_26c8d9abd121": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Interview Engineer (Malaysia)",
+      "company": "Karat",
+      "url": "https://himalayas.app/companies/karat/jobs/interview-engineer-malaysia",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:10:43+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "himalayas_ce97eea6132c": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Census Future Career Opportunities",
+      "company": "CENSUS SA",
+      "url": "https://himalayas.app/companies/census-sa/jobs/census-future-career-opportunities",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T19:09:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "himalayas_9244c4ef6f18": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior GIS Specialist",
+      "company": "Together Group",
+      "url": "https://himalayas.app/companies/together-group/jobs/senior-gis-specialist",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T18:43:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "himalayas_91914f432fdd": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Finance Administrator  - Entry level (Remote -  Ahmedabad)",
+      "company": "adm Group",
+      "url": "https://himalayas.app/companies/adm-group/jobs/finance-administrator-entry-level-remote-ahmedabad",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "2026-07-15T18:41:56+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role"
+    },
+    "infojobs_es_5029c9ed455d": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "iOS Developer",
+      "company": "SISTEMA AZUD, S.A.",
+      "url": "https://www.infojobs.net/alcantarilla/ios-developer/of-i5e6bd27845482b92172321aad85882",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_or_freelance_filter"
+    },
+    "infojobs_es_12b5a3be025d": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a iOS (Swift & SwiftUI) con inglés alto",
+      "company": "NCS Spain",
+      "url": "https://www.infojobs.net/madrid/desarrollador-ios-swift-swiftui-con-ingles-alto/of-i19c271eb484abdab099ebe886ae63d",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_or_freelance_filter"
+    },
+    "infojobs_es_77fbacb0e42b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "PROGRAMADOR/A WEB FRONTEND JUNIOR-MID (JavaScript/Firebase) - MADRID",
+      "company": "STAFFPREMIUM SL.",
+      "url": "https://www.infojobs.net/madrid/programador-web-frontend-junior-mid-javascript-firebase-madrid/of-i36a9b107d648028e400443db7ed10c",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_or_freelance_filter"
+    },
+    "infojobs_es_1985ded5b6fc": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Junior Java Developer",
+      "company": "METRICA CONSULTING",
+      "url": "https://www.infojobs.net/madrid/junior-java-developer/of-ie33421b86b40d8b7646ec28d1722f4",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_or_freelance_filter"
+    },
+    "indeed_it_f726e64b0cadb888": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "iOS Developer",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=f726e64b0cadb888",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_onsite_roma"
+    },
+    "indeed_it_7e8180b9b0981bc4": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Flutter Developer Junior",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=7e8180b9b0981bc4",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": true,
+      "eliminated": false,
+      "elimination_reason": null,
+      "score": 70,
+      "notified_at": "2026-07-15T20:10:00+00:00"
+    },
+    "indeed_it_024ec59eba61eac5": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "iOS Developer",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=024ec59eba61eac5",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_onsite"
+    },
+    "indeed_it_0f1e2d3c4b5a6978": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "iOS Developer",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=0f1e2d3c4b5a6978",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "detail_page_empty"
+    },
+    "indeed_it_d8910a0e3b00840f": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Sviluppatore Android-iOS",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=d8910a0e3b00840f",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_no_remote_mention"
+    },
+    "indeed_it_4692189e986d524d": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "SVILUPPATORI MOBILE IOS",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=4692189e986d524d",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_no_remote_mention"
+    },
+    "indeed_it_481c148cec2b4fa2": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Senior iOS Developer",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=481c148cec2b4fa2",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter"
+    },
+    "indeed_it_0620ca895a002dc7": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Sviluppatori iOs",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=0620ca895a002dc7",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_hybrid_torino"
+    },
+    "indeed_it_037d41e601e83a9f": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "iOS Devloper",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=037d41e601e83a9f",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "detail_page_empty"
+    },
+    "indeed_it_b6627fc3888c4e98": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "iOS developer",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=b6627fc3888c4e98",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "detail_page_empty"
+    },
+    "indeed_it_0eb033dabfdc67c0": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "MOBILE DEVELOPER iOS / Android",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=0eb033dabfdc67c0",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only_tempo_indeterminato"
+    },
+    "indeed_it_19d8673497fb9cee": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Sviluppatore Junior Android",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=19d8673497fb9cee",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_onsite_milano"
+    },
+    "indeed_it_061a38db58ffd384": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Junior Android Develoepr",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=061a38db58ffd384",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_onsite_milano"
+    },
+    "indeed_it_cee17ddfe5edb327": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Mobile Apps developer",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=cee17ddfe5edb327",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only_onsite_for_junior"
+    },
+    "indeed_it_f87295a0229a9036": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Sviluppatore Jr Apple iOS",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=f87295a0229a9036",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only_tempo_indeterminato"
+    },
+    "indeed_it_0fe0f64c383ceb24": {
+      "site_id": "indeed_it",
+      "site_name": "Indeed Italia",
+      "title": "Sviluppatore Mobile iOS",
+      "company": "",
+      "url": "https://it.indeed.com/viewjob?jk=0fe0f64c383ceb24",
+      "first_seen": "2026-07-15T20:10:00+00:00",
+      "pub_date": "",
+      "notified": true,
+      "eliminated": false,
+      "elimination_reason": null,
+      "score": 66,
+      "notified_at": "2026-07-15T20:10:00+00:00"
     }
   },
   "daily_stats": {
@@ -14242,75 +14714,91 @@
       "daily_summary_sent": true
     },
     "2026-07-15": {
-      "total_new": 37,
-      "notified": 0,
+      "total_new": 76,
+      "notified": 2,
       "high_score": 0,
-      "mid_score": 0,
-      "eliminated": 37,
-      "runs": 2
+      "mid_score": 2,
+      "eliminated": 73,
+      "runs": 3,
+      "last_run": "2026-07-15T20:10:00+00:00",
+      "daily_summary_sent": true,
+      "top_notified": [
+        {
+          "score": 70,
+          "title": "Flutter Developer Junior",
+          "company": "ISelection - Iagica srl",
+          "site": "Indeed Italia"
+        },
+        {
+          "score": 66,
+          "title": "Sviluppatore Mobile iOS",
+          "company": "T4 Project",
+          "site": "Indeed Italia"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T14:13:16.715395+00:00"
+      "last_success": "2026-07-15T20:10:00+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T14:13:16.715395+00:00"
+      "last_success": "2026-07-15T20:10:00+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "last_error": "RSS endpoint returns HTML SPA",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T06:16:25.021725+00:00"
+      "last_success": "2026-07-15T20:10:00+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 4,
-      "last_error": "SPA-heavy, likely no listings",
+      "consecutive_failures": 5,
+      "last_error": "SPA-heavy, no job cards extracted",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 4,
-      "last_error": "SPA-heavy, likely no listings",
+      "consecutive_failures": 5,
+      "last_error": "SPA-heavy, no job cards extracted",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_error": "RSS endpoint deprecated (404)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 3,
-      "last_error": "RSS endpoint deprecated (404)",
-      "last_success": "2026-07-14T14:25:52.072047+00:00",
+      "consecutive_failures": 0,
+      "last_success": "2026-07-15T20:10:00+00:00",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_error": "RSS endpoint deprecated (404)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_error": "RSS endpoint deprecated (404)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 3,
+      "consecutive_failures": 4,
       "last_error": "RSS endpoint deprecated (404)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-15T14:13:16.715395+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-15T14:13:16.715395+00:00",
+      "last_error": "Cloudflare 403 via proxy"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -14322,16 +14810,17 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T14:13:16.715395+00:00"
+      "last_success": "2026-07-15T20:10:00+00:00"
     },
     "arcdev": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-15T14:13:16.715395+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-15T14:13:16.715395+00:00",
+      "last_error": "SPA-heavy, only category pages returned"
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-07-15T06:16:25.021725+00:00",
-      "last_error": "SPA - no parseable listings"
+      "last_error": "SPA-heavy, likely no listings"
     }
   }
 }

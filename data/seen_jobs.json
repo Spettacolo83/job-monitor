@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T06:16:25.021725+00:00",
+  "last_updated": "2026-07-15T14:13:16.715395+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -13594,6 +13594,246 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "remote_only: requiredCountries=BR (Brazil-only)"
+    },
+    "himalayas_a27eec9f470b": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior/Managing Consultant: Chemical Regulatory",
+      "company": "Yordas Group",
+      "url": "https://himalayas.app/companies/yordas-group/jobs/senior-managing-consultant-chemical-regulatory",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T13:46:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_42b80d152557": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Writer/Content Manager",
+      "company": "BuyAnyCoin",
+      "url": "https://himalayas.app/companies/buyanycoin/jobs/writer-content-manager",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T13:43:25+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role (seniority=Manager, title='Writer/Content Manager')"
+    },
+    "himalayas_b6499a0637f7": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Design Lead - Future Openings",
+      "company": "Outlive",
+      "url": "https://himalayas.app/companies/outlive/jobs/design-lead-future-openings",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T13:29:08+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_18cafed6b0be": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Intern",
+      "company": "AapKaPainter",
+      "url": "https://himalayas.app/companies/aapkapainter/jobs/software-intern",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T13:06:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: internship restricted to India (not worldwide remote)"
+    },
+    "himalayas_bc59a42bd361": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Researcher, Healthcare Innovations",
+      "company": "American Institutes for Research",
+      "url": "https://himalayas.app/companies/american-institutes-for-research/jobs/senior-researcher-healthcare-innovations",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T13:03:49+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_d04129378f61": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Regional Sales Manager, New Business - Americas",
+      "company": "Team Internet",
+      "url": "https://himalayas.app/companies/team-internet/jobs/regional-sales-manager-new-business-americas",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:54:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role (seniority=Manager, title='Regional Sales Manager, New Business - Americas')"
+    },
+    "himalayas_fd783b1be890": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Professor Especialista em CFD",
+      "company": "ESSS",
+      "url": "https://himalayas.app/companies/esss/jobs/professor-especialista-em-cfd",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:54:11+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_8a906c270dc9": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Product Manager",
+      "company": "HouseAccount",
+      "url": "https://himalayas.app/companies/houseaccount/jobs/product-manager",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:39:09+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role (title='Product Manager')"
+    },
+    "himalayas_fa2aa1dd0517": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Accounts and Finance Operations Executive (Remote - Jaipur)",
+      "company": "adm Group",
+      "url": "https://himalayas.app/companies/adm-group/jobs/accounts-and-finance-operations-executive-remote-jaipur",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:35:38+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Executive']"
+    },
+    "himalayas_9fbb9622645b": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "韓国語＞日本語、日本語＞英語 WEB小説翻訳者募集",
+      "company": "Voithru",
+      "url": "https://himalayas.app/companies/voithru/jobs/web",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:31:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "language_requirement: Korean/Japanese translator role (candidate speaks IT/ES/EN only) + not a dev role"
+    },
+    "himalayas_e577fce9b276": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Medicaid Researcher, Healthcare Innovations",
+      "company": "American Institutes for Research",
+      "url": "https://himalayas.app/companies/american-institutes-for-research/jobs/medicaid-researcher-healthcare-innovations",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:31:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role (title='Medicaid Researcher, Healthcare Innovations')"
+    },
+    "himalayas_9ee8a6fa2777": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "AMER Talent Community",
+      "company": "Valtech",
+      "url": "https://himalayas.app/companies/valtech/jobs/amer-talent-community",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:29:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_b55463565715": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Sales Director (Health System Sales)",
+      "company": "The Health Management Academy",
+      "url": "https://himalayas.app/companies/the-health-management-academy/jobs/senior-sales-director-health-system-sales",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:26:49+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Director']"
+    },
+    "himalayas_928b589ee269": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Head of Health, Safety & Environmental - Living Landscapes Division",
+      "company": "Origin Suregreen",
+      "url": "https://himalayas.app/companies/origin-suregreen/jobs/head-of-health-safety-environmental-living-landscapes-division",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:25:58+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Director']"
+    },
+    "himalayas_eb533640d033": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Town Planner",
+      "company": "Celnor Group Ltd",
+      "url": "https://himalayas.app/companies/celnor-group-ltd/jobs/senior-town-planner",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:25:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_098432675e0b": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Platform Database Engineer",
+      "company": "Valtech",
+      "url": "https://himalayas.app/companies/valtech/jobs/platform-database-engineer",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:22:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_bc13d519c865": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Project Manager",
+      "company": "adm Group",
+      "url": "https://himalayas.app/companies/adm-group/jobs/project-manager",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:22:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role (seniority=Manager, title='Project Manager')"
+    },
+    "himalayas_1d70f8a6065a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Agente comercial",
+      "company": "Iber'ADS",
+      "url": "https://himalayas.app/companies/iber-ads/jobs/agente-comercial",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:20:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Himalayas seniority=['Senior']"
+    },
+    "himalayas_257c6a67671b": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sales Support Specialist",
+      "company": "Clean Energy Associates",
+      "url": "https://himalayas.app/companies/clean-energy-associates/jobs/sales-support-specialist",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:13:58+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role (title='Sales Support Specialist')"
+    },
+    "himalayas_4b390652ba0a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Project Manager - Special Uses",
+      "company": "Terrestris",
+      "url": "https://himalayas.app/companies/terrestris/jobs/project-manager-special-uses",
+      "first_seen": "2026-07-15T14:13:16.715395+00:00",
+      "pub_date": "2026-07-15T12:11:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role (seniority=Manager, title='Project Manager - Special Uses')"
     }
   },
   "daily_stats": {
@@ -14002,25 +14242,25 @@
       "daily_summary_sent": true
     },
     "2026-07-15": {
-      "total_new": 17,
+      "total_new": 37,
       "notified": 0,
       "high_score": 0,
       "mid_score": 0,
-      "eliminated": 17,
-      "runs": 1
+      "eliminated": 37,
+      "runs": 2
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T06:16:25.021725+00:00"
+      "last_success": "2026-07-15T14:13:16.715395+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T06:16:25.021725+00:00"
+      "last_success": "2026-07-15T14:13:16.715395+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 51,
+      "consecutive_failures": 53,
       "last_error": "RSS endpoint returns HTML SPA",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
@@ -14029,44 +14269,48 @@
       "last_success": "2026-07-15T06:16:25.021725+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 3,
-      "last_error": "SPA - no content in initial HTML",
+      "consecutive_failures": 4,
+      "last_error": "SPA-heavy, likely no listings",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 3,
-      "last_error": "SPA - no listings in HTML",
+      "consecutive_failures": 4,
+      "last_error": "SPA-heavy, likely no listings",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 2,
-      "last_error": "403 Forbidden",
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "consecutive_failures": 3,
+      "last_error": "RSS endpoint deprecated (404)",
+      "last_success": "2026-07-14T14:25:52.072047+00:00",
+      "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 2,
-      "last_error": "403 Forbidden",
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "consecutive_failures": 3,
+      "last_error": "RSS endpoint deprecated (404)",
+      "last_success": "2026-07-14T14:25:52.072047+00:00",
+      "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 2,
-      "last_error": "403 Forbidden",
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "consecutive_failures": 3,
+      "last_error": "RSS endpoint deprecated (404)",
+      "last_success": "2026-07-14T14:25:52.072047+00:00",
+      "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 2,
-      "last_error": "403 Forbidden",
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "consecutive_failures": 3,
+      "last_error": "RSS endpoint deprecated (404)",
+      "last_success": "2026-07-14T14:25:52.072047+00:00",
+      "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 2,
-      "last_error": "403 Forbidden",
-      "last_success": "2026-07-14T14:25:52.072047+00:00"
+      "consecutive_failures": 3,
+      "last_error": "RSS endpoint deprecated (404)",
+      "last_success": "2026-07-14T14:25:52.072047+00:00",
+      "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 35,
-      "last_error": "Skipped this run (deprioritized -15)",
-      "last_success": "2026-04-27T06:21:28.675971+00:00"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-15T14:13:16.715395+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -14078,15 +14322,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T06:16:25.021725+00:00"
+      "last_success": "2026-07-15T14:13:16.715395+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-15T06:16:25.021725+00:00"
+      "last_success": "2026-07-15T14:13:16.715395+00:00"
     },
     "justremote": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-15T06:16:25.021725+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-15T06:16:25.021725+00:00",
+      "last_error": "SPA - no parseable listings"
     }
   }
 }

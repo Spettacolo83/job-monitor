@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T20:16:44.449063+00:00",
+  "last_updated": "2026-07-15T06:16:25.021725+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -13390,6 +13390,210 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "remote_only: no explicit remote confirmation"
+    },
+    "remoteok_1134793": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Motion Designer",
+      "company": "Pragmatike",
+      "url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-14T03:08:25+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"motion designer\" (not dev role)"
+    },
+    "remoteok_1134790": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Content Writer",
+      "company": "SupportYourApp",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-content-writer-supportyourapp-1134790",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-14T03:03:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"content writer\" (not dev role)"
+    },
+    "remoteok_1134791": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Head of Creative Studio &amp; Brand Operations YOUNG",
+      "company": "YOUNG",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-creative-studio-amp-brand-operations-young-young-1134791",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-13T20:27:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"head of\" (not dev role)"
+    },
+    "himalayas_https://himalayas.app/companies/sobi/jobs/junior-compliance-specialist-cee-2919051613": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Junior Compliance Specialist CEE+",
+      "company": "Sobi",
+      "url": "https://himalayas.app/companies/sobi/jobs/junior-compliance-specialist-cee-2919051613",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784094460,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"compliance\" (not dev role)"
+    },
+    "himalayas_https://himalayas.app/companies/leland/jobs/aerospace-engineering-coach": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Aerospace Engineering Coach",
+      "company": "Leland",
+      "url": "https://himalayas.app/companies/leland/jobs/aerospace-engineering-coach",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784094211,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"aerospace\" (not dev role)"
+    },
+    "himalayas_https://himalayas.app/companies/computacenter/jobs/solution-manager-w-m-d-next-generation-data-center-edge-technologies-bunde": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Solution Manager w/m/d - Next Generation Data Center & Edge Technologies | bunde",
+      "company": "Computacenter",
+      "url": "https://himalayas.app/companies/computacenter/jobs/solution-manager-w-m-d-next-generation-data-center-edge-technologies-bunde",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784093937,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"solution manager\" (not dev role)"
+    },
+    "himalayas_https://himalayas.app/companies/mercor/jobs/risk-management-specialist-fully-remote-upto-1450-part-time-3411374248": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Risk Management Specialist - Fully Remote | Upto $1450 Part-time",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/risk-management-specialist-fully-remote-upto-1450-part-time-3411374248",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784093728,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"risk management\" (not dev role)"
+    },
+    "arcdev_p2azqrrzmj": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Full-Stack Developer (Mortgage Broker Platform) - Part-time - LATAM/NA",
+      "company": "Unknown",
+      "url": "https://arc.dev/remote-jobs/senior-full-stack-developer-mortgage-broker-platform-part-time-latam-na",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-05T15:09:11+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"senior\" (senior/lead level)"
+    },
+    "arcdev_p4nhxniwju": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Digital Marketing Specialist – SEO, Social Media & Google Ads",
+      "company": "Unknown",
+      "url": "https://arc.dev/remote-jobs/senior-digital-marketing-specialist-seo-social-media-google-ads",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-14T23:42:04+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"digital marketing\" (not dev role)"
+    },
+    "justremote_24989": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Senior UI&UX / Graphic Designer",
+      "company": "Lemon.io",
+      "url": "https://justremote.co/remote-design-jobs/senior-ui-ux-graphic-designer-lemon-io",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-14T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"ui&ux\" (not dev role)"
+    },
+    "justremote_24956": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Senior Engineering Manager, Non-Linear Productivity",
+      "company": "Gitlab",
+      "url": "https://justremote.co/remote-developer-jobs/senior-engineering-manager-non-linear-productivity-gitlab",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-14T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"engineering manager\" (not dev role)"
+    },
+    "justremote_24461": {
+      "site_id": "justremote",
+      "site_name": "JustRemote",
+      "title": "Senior Product Designer, AI",
+      "company": "Gitlab",
+      "url": "https://justremote.co/remote-design-jobs/senior-product-designer-ai-gitlab",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-06-28T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "title contains \"product designer\" (not dev role)"
+    },
+    "himalayas_https://himalayas.app/companies/employ/jobs/ai-product-engineer": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "AI Product Engineer",
+      "company": "Employ",
+      "url": "https://himalayas.app/companies/employ/jobs/ai-product-engineer",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784094891,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior-level, US-only, full-time employment"
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/android-developer-vietnam": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Android Developer (Vietnam)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/android-developer-vietnam",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784093887,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to Vietnam"
+    },
+    "himalayas_https://himalayas.app/companies/reddit/jobs/frontend-engineer-ads-growth": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Frontend Engineer, Ads Growth",
+      "company": "Reddit",
+      "url": "https://himalayas.app/companies/reddit/jobs/frontend-engineer-ads-growth",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784093695,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Staff-level, US-only, $217-303k full-time"
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/android-software-engineer-ai-neobank-app-spain": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Android Software Engineer - AI Neobank App (Spain)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/android-software-engineer-ai-neobank-app-spain",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": 1784093299,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: employmentType=Full Time (employment, not freelance)"
+    },
+    "arcdev_p3m6wctylz": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Experienced Full-Stack Developer / Automation Engineer",
+      "company": "Unknown",
+      "url": "https://arc.dev/remote-jobs/experienced-full-stack-developer-automation-engineer",
+      "first_seen": "2026-07-15T06:16:25.021725+00:00",
+      "pub_date": "2026-07-10T20:34:12+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: requiredCountries=BR (Brazil-only)"
     }
   },
   "daily_stats": {
@@ -13796,63 +14000,71 @@
       ],
       "last_run": "2026-07-14T20:17:11.606684+00:00",
       "daily_summary_sent": true
+    },
+    "2026-07-15": {
+      "total_new": 17,
+      "notified": 0,
+      "high_score": 0,
+      "mid_score": 0,
+      "eliminated": 17,
+      "runs": 1
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T20:16:44.449063+00:00"
+      "last_success": "2026-07-15T06:16:25.021725+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T20:16:44.449063+00:00"
+      "last_success": "2026-07-15T06:16:25.021725+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 50,
+      "consecutive_failures": 51,
       "last_error": "RSS endpoint returns HTML SPA",
       "last_success": "2026-04-25T05:50:00+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T20:16:44.449063+00:00"
+      "last_success": "2026-07-15T06:16:25.021725+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 2,
-      "last_error": "No jobs in HTML response",
+      "consecutive_failures": 3,
+      "last_error": "SPA - no content in initial HTML",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 2,
-      "last_error": "No jobs in HTML response",
+      "consecutive_failures": 3,
+      "last_error": "SPA - no listings in HTML",
       "last_success": "2026-07-14T06:16:39.125696+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "403 Forbidden",
       "last_success": "2026-07-14T14:25:52.072047+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 34,
+      "consecutive_failures": 35,
       "last_error": "Skipped this run (deprioritized -15)",
       "last_success": "2026-04-27T06:21:28.675971+00:00"
     },
@@ -13866,15 +14078,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T20:16:44.449063+00:00"
+      "last_success": "2026-07-15T06:16:25.021725+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T20:16:44.449063+00:00"
+      "last_success": "2026-07-15T06:16:25.021725+00:00"
     },
     "justremote": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-14T20:16:44.449063+00:00"
+      "last_success": "2026-07-15T06:16:25.021725+00:00"
     }
   }
 }

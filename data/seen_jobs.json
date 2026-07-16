@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T06:12:57.638941+00:00",
+  "last_updated": "2026-07-16T14:13:29.186843+00:00",
   "jobs": {
     "remoteok_1133430": {
       "site_id": "remoteok",
@@ -15171,6 +15171,294 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "freelance_only: contrato indefinido + .NET/MAUI unknown_tech_malus"
+    },
+    "remoteok_1134888": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Chief Operating Officer",
+      "company": "Verity Search Limited",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-verity-search-limited-1134888",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "2026-07-15T10:14:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Chief Operating Officer)"
+    },
+    "remoteok_1134913": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Estimating Assistant",
+      "company": "RecruitGo Careers",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimating-assistant-recruitgo-careers-1134913",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "2026-07-14T13:23:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: non-dev role (Estimating Assistant)"
+    },
+    "remoteok_1134906": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Manager People &amp; Culture",
+      "company": "Bursting Silver",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-people-amp-culture-bursting-silver-1134906",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "2026-07-13T22:33:11+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Manager People &amp; Culture)"
+    },
+    "remoteok_1134917": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Customer Support Associate",
+      "company": "Habitat Learn",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-associate-habitat-learn-1134917",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "2026-07-13T18:53:46+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: non-dev role (Customer Support Associate)"
+    },
+    "remotive_2091067": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "2026-07-14T14:14:46",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Senior DevOps Engineer)"
+    },
+    "himalayas_80cf195479cf966153b2a0ffe72c2a08": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Backend Engineer",
+      "company": "ImagineArt",
+      "url": "https://himalayas.app/companies/imagineart/jobs/senior-backend-engineer-6713187487",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187801",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Senior Backend Engineer)"
+    },
+    "himalayas_c302f7fb726ceb9b2d82b66471531c7a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Freelance AI Artist - Image & Brand",
+      "company": "Kirin",
+      "url": "https://himalayas.app/companies/kirin/jobs/freelance-ai-artist-image-brand-3591703604",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187639",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: non-dev role (Freelance AI Artist - Image & Brand)"
+    },
+    "himalayas_fe19d7fd1da0f2e69290bacc71e0f3e8": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Paid Social Specialist",
+      "company": "Darkroom",
+      "url": "https://himalayas.app/companies/darkroom/jobs/senior-paid-social-specialist",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187579",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Senior Paid Social Specialist)"
+    },
+    "himalayas_5111064413192e56ff4859f9dfb87cc9": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Lead Engineer - AI Agents",
+      "company": "M-KOPA",
+      "url": "https://himalayas.app/companies/m-kopa/jobs/lead-engineer-ai-agents-5414986640",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187530",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Lead Engineer - AI Agents)"
+    },
+    "himalayas_d96ca6b3673b1701c9d4db2c92e22e20": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Operations Coordinator",
+      "company": "Conetic Group",
+      "url": "https://himalayas.app/companies/conetic-group/jobs/operations-coordinator",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187519",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: non-dev role (Operations Coordinator)"
+    },
+    "himalayas_0489049b2bfc16bcef3f35fed4504085": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Engineering Tech Lead (vNode)",
+      "company": "vCluster Labs",
+      "url": "https://himalayas.app/companies/vcluster-labs/jobs/engineering-tech-lead-vnode-2477922900",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187507",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Engineering Tech Lead (vNode))"
+    },
+    "himalayas_e7c7c15959e2a7f315695935573bfe71": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "New Patient Coordinator",
+      "company": "Hire Hangar",
+      "url": "https://himalayas.app/companies/hire-hangar/jobs/new-patient-coordinator-2629710111",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187378",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: non-dev role (New Patient Coordinator)"
+    },
+    "himalayas_102da0febf5b51443fbd95823744c26e": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Systems Administrator Quality Assurance",
+      "company": "Starfish Storage Corporation",
+      "url": "https://himalayas.app/companies/starfish-storage-corporation/jobs/systems-administrator-quality-assurance",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187100",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: non-dev role (Systems Administrator Quality Assurance)"
+    },
+    "himalayas_89a8d42181ed94395d981e11f904031d": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sr. Software Engineer-AI Reliability",
+      "company": "MixMode",
+      "url": "https://himalayas.app/companies/mixmode/jobs/sr-software-engineer-ai-reliability",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187098",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Sr. Software Engineer-AI Reliability)"
+    },
+    "himalayas_370a543d6f8cb18889e42572a23d7347": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Staff Software Engineer",
+      "company": "vCluster Labs",
+      "url": "https://himalayas.app/companies/vcluster-labs/jobs/staff-software-engineer-1537236590",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187086",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Staff Software Engineer)"
+    },
+    "himalayas_9789622ae54a51da1464dd0beedd5a80": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Channel Enablement Manager (Technical)",
+      "company": "Starfish Storage Corporation",
+      "url": "https://himalayas.app/companies/starfish-storage-corporation/jobs/channel-enablement-manager-technical",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784186886",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Channel Enablement Manager (Technical))"
+    },
+    "himalayas_baa4ef2ac0d1ac9a7970fbb884062cb5": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Developer R-Shiny & React",
+      "company": "functionHR",
+      "url": "https://himalayas.app/companies/functionhr/jobs/senior-developer-r-shiny-react",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784186886",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: title mentions senior/lead/staff/principal/etc (Senior Developer R-Shiny & React)"
+    },
+    "infojobs_es_5a93039dd24f51bf8a88e1b0a26a06": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "GESTOR ADMINISTRATIVO INCIDENCIAS AUDIOVISUALES en CARIÑENA (ZARAGOZA)",
+      "company": "prodereg",
+      "url": "https://www.infojobs.net/carinena/gestor-administrativo-incidencias-audiovisuales-carinena-zaragoza/of-i5a93039dd24f51bf8a88e1b0a26a06",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: non-dev role (GESTOR ADMINISTRATIVO INCIDENCIAS AUDIOVISUALES en CARIÑENA (ZARAGOZA))"
+    },
+    "remotive_2090903": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "2026-07-01T01:48:13",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: data labeling role, not software developer"
+    },
+    "himalayas_6f1f85fa090ded4d891961e17c4b91ba": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Interview Engineer (Netherlands)",
+      "company": "Karat",
+      "url": "https://himalayas.app/companies/karat/jobs/interview-engineer-netherlands",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "1784187077",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "pre-filter: technical interviewer role (Karat), not dev role"
+    },
+    "infojobs_es_6fb69ad00043cc9403a447157240ee": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador/a Java",
+      "company": "CENTRO TECNOLÓGICO DEL NOTARIADO",
+      "url": "https://www.infojobs.net/sevilla/programador-java/of-i6fb69ad00043cc9403a447157240ee",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter + freelance_only: Experiencia mínima: Más de 5 años (senior), contrato indefinido (permanent employment)"
+    },
+    "infojobs_es_0dd7d94750436e99a7ca2af5de0fa4": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador/a especialista en desarrollo de APIs y arquitecturas Cloud-native  100% Teletrabajo",
+      "company": "Sphera-TI, SA",
+      "url": "https://www.infojobs.net/madrid/programador-especialista-desarrollo-apis-arquitecturas-cloud-native-100-teletrabajo/of-i0dd7d94750436e99a7ca2af5de0fa4",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: Contrato indefinido + salario anual 28.000-30.000€ bruto/año (employment position, not freelance)"
+    },
+    "infojobs_es_0709e821734af6a890349c38b38fde": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Analista BI y desarrollador junior de soluciones credit",
+      "company": "Teknei",
+      "url": "https://www.infojobs.net/sevilla/analista-bi-desarrollador-junior-soluciones-credit/of-i0709e821734af6a890349c38b38fde",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: Contrato indefinido, jornada completa (permanent employment position)"
+    },
+    "infojobs_es_641dbc18674919aa68b88b17a0b9f3": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Junior Developer",
+      "company": "Juniper Innovating Travel Technology",
+      "url": "https://www.infojobs.net/palma-de-mallorca/junior-developer/of-i641dbc18674919aa68b88b17a0b9f3",
+      "first_seen": "2026-07-16T14:13:29.186843+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only + freelance_only: Modalidad: Híbrido (hybrid, not full remote) + Contrato indefinido (permanent employment)"
     }
   },
   "daily_stats": {
@@ -15607,7 +15895,7 @@
       "notified": 1,
       "high_score": 0,
       "mid_score": 1,
-      "eliminated": 72,
+      "eliminated": 96,
       "runs": 1,
       "top_notified": [
         {
@@ -15617,17 +15905,18 @@
           "site": "InfoJobs España"
         }
       ],
-      "last_run": "2026-07-16T06:12:57.638941+00:00"
+      "last_run": "2026-07-16T06:12:57.638941+00:00",
+      "total_processed": 24
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-16T06:12:57.638941+00:00"
+      "last_success": "2026-07-16T14:13:29.186843+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-16T06:12:57.638941+00:00"
+      "last_success": "2026-07-16T14:13:29.186843+00:00"
     },
     "jobicy": {
       "consecutive_failures": 55,
@@ -15636,7 +15925,7 @@
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-16T06:12:57.638941+00:00"
+      "last_success": "2026-07-16T14:13:29.186843+00:00"
     },
     "welcometothejungle": {
       "consecutive_failures": 6,
@@ -15679,9 +15968,9 @@
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-07-15T14:13:16.715395+00:00",
-      "last_error": "Cloudflare 403 via proxy"
+      "last_error": "Cloudflare 403 via proxy (Just a moment...)"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -15693,7 +15982,7 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-16T06:12:57.638941+00:00"
+      "last_success": "2026-07-16T14:13:29.186843+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,

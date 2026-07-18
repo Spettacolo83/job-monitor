@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T14:02:00+00:00",
+  "last_updated": "2026-07-18T14:15:19.491337+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -15377,38 +15377,533 @@
       "first_seen": "2026-07-17T14:02:00+00:00",
       "eliminated": true,
       "eliminated_reason": "freelance_only: contrato indefinido (permanent employment)"
+    },
+    "remoteok_1135021": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Parks Services",
+      "company": "FinditinCW",
+      "url": "https://remoteOK.com/remote-jobs/remote-parks-services-finditincw-1135021",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-17T09:23:32+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134970": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Desk Operator",
+      "company": "Hyatt Regency",
+      "url": "https://remoteOK.com/remote-jobs/remote-desk-operator-hyatt-regency-1134970",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-17T08:32:52+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134961": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Senior Product Manager Platform",
+      "company": "Delinea",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-17T08:00:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134989": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Digital Media Specialist",
+      "company": "Rose, Klein &amp; Marias",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-17T07:51:58+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134953": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Content Marketing Manager",
+      "company": "Planned Parenthood of Greater New York",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-marketing-manager-planned-parenthood-of-greater-new-york-1134953",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-17T01:11:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134941": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Analista de Testes Pleno",
+      "company": "Melhor Envio",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-testes-pleno-melhor-envio-1134941",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-17T01:02:51+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1135018": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "I am a Professional",
+      "company": "Boustead Property Services",
+      "url": "https://remoteOK.com/remote-jobs/remote-i-am-a-professional-boustead-property-services-1135018",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-17T00:59:56+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134990": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Creative Strategist",
+      "company": "New Engen",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-new-engen-1134990",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T20:10:03+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134925": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Graphic Designer",
+      "company": "YouFibre",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T16:08:59+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134956": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Founder Residence",
+      "company": "Saff",
+      "url": "https://remoteOK.com/remote-jobs/remote-founder-residence-saff-1134956",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T15:02:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134957": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Museum Specialist ",
+      "company": "Smithsonian Institution",
+      "url": "https://remoteOK.com/remote-jobs/remote-museum-specialist-smithsonian-institution-1134957",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T10:42:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134954": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Date Posted",
+      "company": "OptN Inc",
+      "url": "https://remoteOK.com/remote-jobs/remote-date-posted-optn-inc-1134954",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T10:09:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134897": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Create Your Own Role",
+      "company": "NewsletterJobs.io",
+      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T03:01:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134898": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Publisher",
+      "company": "NewsletterJobs.io",
+      "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T03:00:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134942": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Inmobiliario Call center Remoto",
+      "company": "Los Portales",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-inmobiliario-call-center-remoto-los-portales-1134942",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T01:07:43+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134955": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Associate Customer Engagement",
+      "company": "The Coca-Cola Company",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T22:55:09+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134879": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Medical Support Technician Scheduler Outpatient",
+      "company": "Yukon-Kuskokwim Health Corporation",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-support-technician-scheduler-outpatient-yukon-kuskokwim-health-corporation-1134879",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T20:05:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134876": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Purchase Order Administrator",
+      "company": "Hirewell",
+      "url": "https://remoteOK.com/remote-jobs/remote-purchase-order-administrator-hirewell-1134876",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T20:02:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134875": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Creative Strategist",
+      "company": "DREAMLABS",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-dreamlabs-1134875",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T20:02:12+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134881": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "National Account Manager",
+      "company": "Future Beauty Brands (formerly PPI Beauty)",
+      "url": "https://remoteOK.com/remote-jobs/remote-national-account-manager-future-beauty-brands-formerly-ppi-beauty-1134881",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T19:28:13+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134867": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Project Manager",
+      "company": "Empire Life",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-empire-life-1134867",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T15:07:31+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134863": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Level Designer",
+      "company": "Devoted Studios",
+      "url": "https://remoteOK.com/remote-jobs/remote-level-designer-devoted-studios-1134863",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T15:02:15+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134874": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Field Marketing Manager",
+      "company": "CELSIUS",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-celsius-1134874",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T14:30:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134927": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Trabaja como canguro Ayuda con los deberes",
+      "company": "TUS Media",
+      "url": "https://remoteOK.com/remote-jobs/remote-trabaja-como-canguro-ayuda-con-los-deberes-tus-media-1134927",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T10:44:46+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1134883": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Copywriter Clases de Redacci\u00c3\u00b3n Sin Experiencia",
+      "company": "TUS Media",
+      "url": "https://remoteOK.com/remote-jobs/remote-copywriter-clases-de-redaccion-sin-experiencia-tus-media-1134883",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-15T10:32:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remotive_2091056": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Software Engineer, Product (Belo Horizonte)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2091056",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-09T14:45:43",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "remotive_2091055": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Software Engineer, Product (S\u00e3o Paulo)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-sao-paulo-2091055",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-09T14:41:32",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "remotive_2091049": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Software Engineer, Product (Campinas)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-campinas-2091049",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-09T14:39:55",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "remotive_2091059": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Software Engineer, Product (Florian\u00f3polis)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-florianopolis-2091059",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-09T14:39:06",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "remotive_2091053": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Product Engineer (Campinas)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2091053",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-09T14:28:36",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "remotive_2091052": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Product Engineer (Belo Horizonte)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2091052",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-09T14:26:20",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "remotive_2091051": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Product Engineer (Florian\u00f3polis)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2091051",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-09T14:24:28",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "remotive_2091000": {
+      "site_id": "remotive",
+      "site_name": "Remotive",
+      "title": "Staff Product Engineer (S\u00e3o Paulo)",
+      "company": "LawnStarter",
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2091000",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-06-23T08:31:36",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "himalayas_3dbc33169c88f00d": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Backend Software Engineer - AI Neobank App (Indonesia)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/backend-software-engineer-ai-neobank-app-indonesia",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784368536",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic: location \"Indonesia\" excludes EU"
+    },
+    "himalayas_39388641db3627c6": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Full Stack Engineer (Indonesia)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/full-stack-engineer-indonesia",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784366811",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic: location \"Indonesia\" excludes EU"
+    },
+    "himalayas_a2f20205cf89dce0": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Supply Chain ERP Application Owner",
+      "company": "Redcare Pharmacy",
+      "url": "https://himalayas.app/companies/redcare-pharmacy/jobs/supply-chain-erp-application-owner",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784365002",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "himalayas_5ef8a31b8ef8e835": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer, NZ",
+      "company": "Partly",
+      "url": "https://himalayas.app/companies/partly/jobs/software-engineer-nz",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784364525",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic: location \"New Zealand\" excludes EU"
+    },
+    "himalayas_ed77d7ad9e505c2f": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Applied AI Engineer (China)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-china",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784363606",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic: location \"China\" excludes EU"
+    },
+    "himalayas_9bb9e7e9f02a293b": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Backend Engineer",
+      "company": "Partyhat",
+      "url": "https://himalayas.app/companies/partyhat/jobs/senior-backend-engineer-2039914117",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784362200",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "himalayas_13d19eccaef98c64": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Founding Product Engineer",
+      "company": "Clera",
+      "url": "https://himalayas.app/companies/clera/jobs/founding-product-engineer",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784364232",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic: no visa sponsorship, UK work rights required (candidate in Spain)"
+    },
+    "himalayas_492e56bd69d0e5bf": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Applied AI Engineer (Spain)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-spain",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "1784366171",
+      "notified": true,
+      "score": 98
+    },
+    "remoteok_1134921": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Software Engineer",
+      "company": "Lockwood Publishing Ltd",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-lockwood-publishing-ltd-1134921",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T16:01:52+00:00",
+      "notified": true,
+      "score": 67
+    },
+    "remoteok_1134923": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Python Developer",
+      "company": "YO IT Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-python-developer-yo-it-consulting-1134923",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T16:03:54+00:00",
+      "notified": true,
+      "score": 62
+    },
+    "remoteok_1134919": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Engineers",
+      "company": "Lockwood Publishing Ltd",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineers-lockwood-publishing-ltd-1134919",
+      "first_seen": "2026-07-18T14:15:19.491337+00:00",
+      "pub_date": "2026-07-16T16:00:41+00:00",
+      "notified": true,
+      "score": 62
     }
   },
   "daily_stats": {
-    "2026-04-18": {
-      "total_found": 70,
-      "total_new": 70,
-      "notified": 10,
-      "eliminated": 41,
-      "high_score": 0,
-      "mid_score": 29,
-      "ambiguous_contract": 29,
-      "top_3": [
-        {
-          "score": 70,
-          "title": "PHP Developer",
-          "company": "N/D",
-          "site": "Glassdoor"
-        },
-        {
-          "score": 70,
-          "title": "Full Stack Developer (PHP - Symfony)",
-          "company": "N/D",
-          "site": "Glassdoor"
-        },
-        {
-          "score": 68,
-          "title": "Junior Angular Developer",
-          "company": "N/D",
-          "site": "Glassdoor"
-        }
-      ]
-    },
     "2026-04-19": {
       "total_found": 225,
       "total_new": 202,
@@ -15812,70 +16307,82 @@
         "high": 0,
         "medium": 0
       }
+    },
+    "2026-07-18": {
+      "jobs_seen": 44,
+      "jobs_eliminated": 40,
+      "jobs_below_threshold": 0,
+      "jobs_notified": 4,
+      "notifications_by_score": {
+        "high": 1,
+        "medium": 3
+      },
+      "last_run": "2026-07-18T14:15:19.491337+00:00"
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-17T14:02:00+00:00"
+      "last_success": "2026-07-18T14:15:19.491337+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-17T14:02:00+00:00"
+      "last_success": "2026-07-18T14:15:19.491337+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 56,
+      "consecutive_failures": 57,
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_error": "RSS endpoint returns HTML SPA"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-17T14:02:00+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-17T14:02:00+00:00",
+      "last_error": "Proxy returns page but SPA-rendered, no listings extracted"
     },
     "welcometothejungle": {
-      "consecutive_failures": 7,
+      "consecutive_failures": 8,
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_error": "SPA-heavy, no job cards extracted via proxy"
     },
     "landingjobs": {
-      "consecutive_failures": 7,
+      "consecutive_failures": 8,
       "last_success": "2026-07-14T06:16:39.125696+00:00",
-      "last_error": "SPA-heavy, no job cards extracted via proxy"
+      "last_error": "SPA-heavy, only nav links extracted"
     },
     "indeed_uk": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_error": "RSS endpoint returns HTML challenge (403)",
+      "last_error": "Cloudflare challenge via proxy (403)",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_success": "2026-07-15T20:10:00+00:00",
-      "last_error": "RSS endpoint returns HTML challenge (403)",
+      "last_error": "Cloudflare challenge via proxy (403)",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_error": "RSS endpoint returns HTML challenge (403)",
+      "last_error": "Cloudflare challenge via proxy (403)",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_error": "RSS endpoint returns HTML challenge (403)",
+      "last_error": "Cloudflare challenge via proxy (403)",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_error": "RSS endpoint returns HTML challenge (403)",
+      "last_error": "Cloudflare challenge via proxy (403)",
       "last_warned": "2026-07-15T14:14:29.493047+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-07-15T14:13:16.715395+00:00",
-      "last_error": "Cloudflare 403 via proxy (Just a moment...)"
+      "last_error": "Cloudflare 403 via proxy"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -15887,14 +16394,15 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-17T14:02:00+00:00"
+      "last_success": "2026-07-18T14:15:19.491337+00:00"
     },
     "arcdev": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-17T14:02:00+00:00"
+      "consecutive_failures": 1,
+      "last_success": "2026-07-17T14:02:00+00:00",
+      "last_error": "SPA rendered, no listings extracted"
     },
     "justremote": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_success": "2026-07-15T06:16:25.021725+00:00",
       "last_error": "SPA-heavy, no listings extracted"
     }

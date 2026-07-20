@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T14:16:30.130627+00:00",
+  "last_updated": "2026-07-20T14:16:13.447127+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -16021,6 +16021,388 @@
       "first_seen": "2026-07-19T14:16:30.130627+00:00",
       "eliminated": true,
       "elimination_reason": "multiple"
+    },
+    "remoteok_1135049": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "AIR DEFENSE",
+      "company": "Mississippi Army National Guard Biloxi Office",
+      "url": "https://remoteOK.com/remote-jobs/remote-air-defense-mississippi-army-national-guard-biloxi-office-1135049",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": "2026-07-16T20:12:12+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic/military mismatch"
+    },
+    "himalayas_9c24286373ec699b": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Software Engineer - Payments",
+      "company": "OrderYOYO",
+      "url": "https://himalayas.app/companies/orderyoyo/jobs/senior-software-engineer-payments-6318758423",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784527263,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "himalayas_5c0f802e80a1259a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Forward Deployed Process Engineer",
+      "company": "Regrello",
+      "url": "https://himalayas.app/companies/regrello/jobs/forward-deployed-process-engineer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784527090,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "himalayas_8c9a605b5150b61f": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Kafka Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/kafka-engineer-8202894012",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784527059,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "himalayas_5106b66042bce110": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "FinTech Software Developer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/fintech-software-developer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784527058,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "himalayas_9a998f6d0a4502fb": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Cloud Solutions Engineer",
+      "company": "Parsons Corporation",
+      "url": "https://himalayas.app/companies/parsons-corporation/jobs/cloud-solutions-engineer-732704824",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784527032,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "himalayas_8a7e77f01774f702": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Development Engineer in Test",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/software-development-engineer-in-test",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784526968,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "himalayas_933bbcbad6060581": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/senior-machine-learning-engineer-4387465779",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784526954,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "himalayas_707deadbac29797e": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "DevOps Engineer",
+      "company": "OpenFn",
+      "url": "https://himalayas.app/companies/openfn/jobs/devops-engineer-8504092648",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784526953,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: ['senior']"
+    },
+    "arcdev_b2632058d9f5816c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Executive Assistant, SVP/GM, Engineering (Hybrid)",
+      "company": "Cisco",
+      "url": "https://arc.dev/companies/cisco/jobs/cisco-executive-assistant-svp-gm-engineering-hybrid",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547921,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_0b9cba0d3da0c7a0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Automation & Retention Specialist",
+      "company": "Oswaal Books",
+      "url": "https://arc.dev/companies/oswaal-books/jobs/oswaal-books-marketing-automation-retention-specialist",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547916,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_7c38c236c793f74c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Growth Marketing Manager",
+      "company": "Beyond Pricing",
+      "url": "https://arc.dev/companies/beyond-pricing/jobs/beyond-senior-growth-marketing-manager",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547916,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_53b95e46d2172f01": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Director",
+      "company": "MyRemoteTeam Inc",
+      "url": "https://arc.dev/companies/myremoteteam-inc/jobs/myremoteteam-inc-marketing-director",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547916,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_fd6cc7197d3c8b57": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Content and Social Media Manager",
+      "company": "Jobgether",
+      "url": "https://arc.dev/companies/jobgether/jobs/jobgether-content-and-social-media-manager",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547916,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_38cc065f10a42220": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Graphic Designer",
+      "company": "Accor",
+      "url": "https://arc.dev/companies/accor/jobs/accor-graphic-designer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547916,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_7481e14e90d57e6b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Product Designer",
+      "company": "Elfie",
+      "url": "https://arc.dev/companies/elfie/jobs/elfie-senior-product-designer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_53f00140941da4c3": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "User Experience Product Design, Specialist- DC - Widgetton",
+      "company": "Vanguard",
+      "url": "https://arc.dev/companies/vanguard619/jobs/vanguard-user-experience-product-design-specialist-dc-widgetton",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_8842ea044ec1bf10": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Designer - Mijn Jumbo",
+      "company": "Jumbo Supermarkten",
+      "url": "https://arc.dev/companies/jumbo-supermarkten/jobs/jumbo-supermarkten-product-designer-mijn-jumbo",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_eb737f14b3855664": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Designer",
+      "company": "NatWest Group",
+      "url": "https://arc.dev/companies/natwest-group/jobs/natwest-group-product-designer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_48af632322843074": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Designer (1–3 Years Experience)",
+      "company": "Trovex.ai",
+      "url": "https://arc.dev/companies/trovex-ai/jobs/trovex-ai-product-designer-1-3-years-experience",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_0ed3df269c924929": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Discover Deloitte Digital: UX/UI Design Talent Day | Budapest",
+      "company": "Deloitte",
+      "url": "https://arc.dev/companies/deloitte65/jobs/deloitte-discover-deloitte-digital-ux-ui-design-talent-day-budapest",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_2af06728e298c503": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Visual Designer",
+      "company": "Jobgether",
+      "url": "https://arc.dev/companies/jobgether/jobs/jobgether-marketing-visual-designer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547914,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_d4679041203cf2c7": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "UI/UX + Creative Designer",
+      "company": "Cognitionteam",
+      "url": "https://arc.dev/companies/cognitionteam/jobs/cognitionteam-ui-ux-creative-designer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547914,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_00371aaaff838708": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "UI/UX Designer",
+      "company": "Lemon Yellow LLP",
+      "url": "https://arc.dev/companies/lemon-yellow-llp/jobs/lemon-yellow-llp-ui-ux-designer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547914,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_fe80743b2a85d9e2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "User Experience Designer",
+      "company": "Unnati Anam Consultancy",
+      "url": "https://arc.dev/companies/unnati-anam-consultancy/jobs/unnati-anam-consultancy-user-experience-designer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547914,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "arcdev_6c9fff1c9f3d62d2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Design System/UX Engineer",
+      "company": "TTEC Digital",
+      "url": "https://arc.dev/companies/ttec-digital/jobs/ttec-digital-design-system-ux-engineer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784547914,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (marketing/design/other)"
+    },
+    "infojobs_es_f88a3fdc8c9c9bee": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Técnico/a HelpDesk con inglés",
+      "company": "job&talent",
+      "url": "https://www.infojobs.net/madrid/tecnico-helpdesk-con-ingles/of-i40b442f17748b5a17177255bb15edf",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role (support/técnico)"
+    },
+    "himalayas_650834e56a39d294": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Infrastructure Data Centre Design Engineer",
+      "company": "Astreya",
+      "url": "https://himalayas.app/companies/astreya/jobs/infrastructure-data-centre-design-engineer",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": 1784527031,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a software developer role (data center infrastructure)"
+    },
+    "infojobs_es_bbf3b535600ce0b1": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador/a frontend",
+      "company": "LIGHTFIELD MEDICAL EUROPE, S.L.U.",
+      "url": "https://www.infojobs.net/viladecans/desarrollador-frontend/of-i33b6aa01ef451ca6f52f3cb8fb224e",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Híbrido + Contrato indefinido + salary annual 27K€ Bruto/año (employment position, not remote)"
+    },
+    "glassdoor_98c7adc2f25a99ff": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Flutter Developer Junior",
+      "company": "",
+      "url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019f7fd9c540b0e8d1c3bc31d21f&src=GD_JOB_AD&t=SR&vt=w&cs=1_0e0ca001&cb=1784556406244&jobListingId=1010020424740&jrtk=5-yul1-0-1jtvtjhb9m22o800-7e8180b9b0981bc4",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Glassdoor: job age > 30 days + detail fetch returned 403 (cannot verify remote/contract)"
+    },
+    "himalayas_b74f70d31a163059": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Android Software Engineer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/android-software-engineer-8897877992",
+      "first_seen": "2026-07-20T14:16:13.447127+00:00",
+      "pub_date": "2026-07-20T05:45:04+00:00",
+      "notified": true,
+      "eliminated": false,
+      "score": 94.5,
+      "score_breakdown": {
+        "freshness": 70,
+        "tech_match": 100,
+        "seniority": 50,
+        "language": 100,
+        "weighted": 79.5,
+        "ai_bonus": 15,
+        "age_h": 8.5,
+        "pub_date_iso": "2026-07-20T05:45:04+00:00"
+      }
     }
   },
   "daily_stats": {
@@ -16422,70 +16804,93 @@
       "sites_ok": 6,
       "sites_failed": 9,
       "last_run": "2026-07-19T14:16:30.130627+00:00"
+    },
+    "2026-07-20": {
+      "jobs_seen": 31,
+      "jobs_eliminated": 30,
+      "jobs_below_threshold": 0,
+      "jobs_notified": 1,
+      "notifications_by_score": {
+        "high": 1,
+        "medium": 0
+      },
+      "sites_ok": 6,
+      "sites_failed": 9,
+      "top_notified": [
+        {
+          "score": 94.5,
+          "title": "Android Software Engineer",
+          "company": "Bjak",
+          "site": "Himalayas"
+        }
+      ],
+      "last_run": "2026-07-20T14:16:13.447127+00:00"
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-19T14:16:30.130627+00:00"
+      "last_success": "2026-07-20T14:16:13.447127+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-19T14:16:30.130627+00:00"
+      "last_success": "2026-07-20T14:16:13.447127+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 58,
+      "consecutive_failures": 59,
       "last_error": "RSS endpoint returns HTML SPA",
-      "last_success": "2026-04-25T05:50:00+00:00"
+      "last_success": "2026-04-25T05:50:00+00:00",
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-19T14:16:30.130627+00:00"
+      "last_success": "2026-07-20T14:16:13.447127+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 9,
+      "consecutive_failures": 10,
       "last_error": "SPA-heavy, no job cards extracted via proxy",
-      "last_success": "2026-07-14T06:16:39.125696+00:00"
+      "last_success": "2026-07-14T06:16:39.125696+00:00",
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 9,
+      "consecutive_failures": 10,
       "last_error": "SPA-heavy, no job cards extracted via proxy",
-      "last_success": "2026-07-14T06:16:39.125696+00:00"
+      "last_success": "2026-07-14T06:16:39.125696+00:00",
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 8,
-      "last_error": "Cloudflare 403 via proxy",
+      "consecutive_failures": 9,
+      "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_warned": "2026-07-15T14:14:29.493047+00:00"
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 4,
-      "last_error": "Cloudflare 403 via proxy",
+      "consecutive_failures": 5,
+      "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-15T20:10:00+00:00",
-      "last_warned": "2026-07-15T14:14:29.493047+00:00"
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 8,
-      "last_error": "Cloudflare 403 via proxy",
+      "consecutive_failures": 9,
+      "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_warned": "2026-07-15T14:14:29.493047+00:00"
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 8,
-      "last_error": "Cloudflare 403 via proxy",
+      "consecutive_failures": 9,
+      "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_warned": "2026-07-15T14:14:29.493047+00:00"
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 8,
-      "last_error": "Cloudflare 403 via proxy",
+      "consecutive_failures": 9,
+      "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
-      "last_warned": "2026-07-15T14:14:29.493047+00:00"
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 6,
-      "last_error": "Cloudflare 403 via proxy",
-      "last_success": "2026-07-15T14:13:16.715395+00:00"
+      "consecutive_failures": 0,
+      "last_success": "2026-07-20T14:16:13.447127+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -16497,15 +16902,17 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-19T14:16:30.130627+00:00"
+      "last_success": "2026-07-20T14:16:13.447127+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-19T14:16:30.130627+00:00"
+      "last_success": "2026-07-20T14:16:13.447127+00:00"
     },
     "justremote": {
-      "consecutive_failures": 0,
-      "last_success": "2026-07-19T14:16:30.130627+00:00"
+      "consecutive_failures": 10,
+      "last_success": "2026-07-19T14:16:30.130627+00:00",
+      "last_error": "SPA-heavy, no job data in initial HTML",
+      "last_warned": "2026-07-20T14:17:21.816718+00:00"
     }
   }
 }

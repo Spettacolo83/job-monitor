@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T14:20:51.630847+00:00",
+  "last_updated": "2026-07-22T14:20:24+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -17952,6 +17952,534 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "seniority: requires 5+ years"
+    },
+    "remoteok_1135201": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Freelance Designer",
+      "company": "Abamedia",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-abamedia-1135201",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-21T07:43:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1135199": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Receptionist",
+      "company": "Evolve Psychiatry",
+      "url": "https://remoteOK.com/remote-jobs/remote-receptionist-evolve-psychiatry-1135199",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-21T02:14:07+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "remoteok_1135061": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Applied AI Product Strategy & Revenue Lead",
+      "company": "Prime Intellect",
+      "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-19T16:00:03+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/mobile-ui-designer": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": 1784719537,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "himalayas_https://himalayas.app/companies/clera/jobs/senior-firmware-engineer": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Firmware Engineer",
+      "company": "Clera",
+      "url": "https://himalayas.app/companies/clera/jobs/senior-firmware-engineer",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": 1784717538,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "himalayas_https://himalayas.app/companies/hazelcast/jobs/senior-software-engineer-in-test-sdet": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Software Engineer in Test (SDET)",
+      "company": "Hazelcast",
+      "url": "https://himalayas.app/companies/hazelcast/jobs/senior-software-engineer-in-test-sdet",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": 1784716481,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "arcdev_p63y1plszg": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Full-Stack Developer (Python, Typescript, PostgreSQL) - PT/FT - NA/LATAM/EU",
+      "company": null,
+      "url": "https://arc.dev/jobs/senior-full-stack-developer-python-typescript-postgresql-pt-ft-na-latam-eu",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-20T19:03:54Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "arcdev_p61i8uv9ze": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Remote - Senior blockchain developer",
+      "company": null,
+      "url": "https://arc.dev/jobs/remote-senior-blockchain-developer",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-20T12:35:03Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "arcdev_p613gltttu": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Qt/C++ GUI Developer (Embedded Electro-Optic Systems) - PT - US/NA",
+      "company": null,
+      "url": "https://arc.dev/jobs/qt-c-gui-developer-embedded-electro-optic-systems-pt-us-na",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-20T11:29:35Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic: US/India only"
+    },
+    "glassdoor_1010177032282": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior Java Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/senior-java-developer-quix-JV_IC2794785_KO0,21_KE22,26.htm?jl=1010177032282",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "glassdoor_1010110502873": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Analyst Developer (.NET / Angular)",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/analyst-developer-net-angular-crea-solution-srl-JV_IC2815486_KO0,29_KE30,47.htm?jl=1010110502873",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "glassdoor_1010204449916": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Business Developer – Servizi Digitali e Creativi",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-business-developer-servizi-digitali-e-creativi-delfiadv-it-JV_IC4508683_KO0,53_KE54,65.htm?jl=1010204449916",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "glassdoor_1010200632820": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Project & Business Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-project-business-developer-arca-di-noè-società-cooperativa-sociale-JV_IC2828653_KO0,33_KE34,73.htm?jl=1010200632820",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "glassdoor_1010192503949": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Animatore/Facilitatore Didattico e Content Developer (Junior)",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/animatore-facilitatore-didattico-e-content-developer-junior-pirene-srl-JV_KO0,59_KE60,70.htm?jl=1010192503949",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "glassdoor_1010201800087": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Business Developer Lombardia",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-business-developer-lombardia-autosicura-srl-JV_KO0,35_KE36,50.htm?jl=1010201800087",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "glassdoor_1010205700025": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior developer_C# .Net",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/senior-developer-c-net-page-group-london-JV_IC2734746_KO0,22_KE23,40.htm?jl=1010205700025",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "glassdoor_1010196644567": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Business Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-business-developer-iqm-selezione-JV_KO0,25_KE26,39.htm?jl=1010196644567",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_a_dev_role"
+    },
+    "infojobs_es_831e0e79ab41f5bdcee4ef6f318801": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Senior MuleSoft Developer",
+      "company": null,
+      "url": "https://www.infojobs.net/madrid/senior-mulesoft-developer/of-i831e0e79ab41f5bdcee4ef6f318801",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: senior/lead/staff/principal"
+    },
+    "arcdev_p6hopbdzhm": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web developer",
+      "company": null,
+      "url": "https://arc.dev/jobs/web-developer",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-22T07:34:34Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: exp_level=senior"
+    },
+    "arcdev_p64ycriqsm": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Native IOS Developer WW-FT ",
+      "company": null,
+      "url": "https://arc.dev/jobs/native-ios-developer-ww-ft",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-20T21:44:42Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: exp_level=senior"
+    },
+    "arcdev_p59t9hedzv": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Freelance Backend Developer",
+      "company": null,
+      "url": "https://arc.dev/jobs/freelance-backend-developer",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-17T10:59:45Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: exp_level=senior"
+    },
+    "glassdoor_1010205336614": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR .NET DEVELOPER",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-net-developer-umana-JV_IC2750658_KO0,20_KE21,26.htm?jl=1010205336614",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Treviso) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1009898729772": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Web Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-web-developer-medianet-brokers-srl-JV_IC4509049_KO0,20_KE21,41.htm?jl=1009898729772",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Roma) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010176993459": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR SOFTWARE DEVELOPER",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-software-developer-umana-JV_IC2797012_KO0,25_KE26,31.htm?jl=1010176993459",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Venezia) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010202942724": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Developer ERP",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-developer-erp-lavoropiù-JV_IC2813310_KO0,20_KE21,30.htm?jl=1010202942724",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Lecco) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010183692864": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Software Engineering",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-software-engineering-nowdiploma-srl-JV_IC2792679_KO0,27_KE28,42.htm?jl=1010183692864",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Montichiari) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1009899557118": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Developer categorie protette",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-developer-categorie-protette-centro-veneto-del-mobile-JV_IC2837480_KO0,35_KE36,60.htm?jl=1009899557118",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Santo Stino di Livenza) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010204720070": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR SOFTWARE DEVELOPER",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-software-developer-humangest-JV_IC2770573_KO0,25_KE26,35.htm?jl=1010204720070",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Grottammare) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010176958513": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR SOFTWARE DEVELOPER",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-software-developer-umana-JV_IC2818559_KO0,25_KE26,31.htm?jl=1010176958513",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Cremona) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010198350918": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Software Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/software-developer-lavoropiù-JV_IC2820117_KO0,18_KE19,28.htm?jl=1010198350918",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Alessandria) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010178250951": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Software Developer – Building Automation",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-software-developer-building-automation-umana-JV_IC2797768_KO0,45_KE46,51.htm?jl=1010178250951",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Pianiga) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010204668190": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Software developer junior",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/software-developer-junior-jobros-JV_IC2797012_KO0,25_KE26,32.htm?jl=1010204668190",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Venezia) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010182336811": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Full-Stack Developer Junior",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/full-stack-developer-junior-focelda-spa-JV_IC4509049_KO0,27_KE28,39.htm?jl=1010182336811",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Roma) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010199722960": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "SOFTWARE DEVELOPER JUNIOR",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/software-developer-junior-jobitalia-JV_IC2828653_KO0,25_KE26,35.htm?jl=1010199722960",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Milano) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010178374710": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior C# Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-c-developer-page-group-london-JV_KO0,18_KE19,36.htm?jl=1010178374710",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Emilia-Romagna) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010196346801": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Software Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/software-developer-randstad-JV_IC2786271_KO0,18_KE19,27.htm?jl=1010196346801",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Pavia) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010178627020": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Web Developer",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/web-developer-randstad-JV_IC2831574_KO0,13_KE14,22.htm?jl=1010178627020",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Udine) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010189466286": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Full Stack Developer - categorie protette (L. 68/99)",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/junior-full-stack-developer-categorie-protette-l-68-99-risorse-JV_KO0,54_KE55,62.htm?jl=1010189466286",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Italy) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "glassdoor_1010205485644": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "UFFICIO IT-SOFTWARE DEVELOPER - Settore Arredamento - Brugnera (PN)",
+      "company": null,
+      "url": "https://www.glassdoor.it/job-listing/ufficio-it-software-developer-settore-arredamento-brugnera-pn-synergie-JV_IC2802850_KO0,61_KE62,70.htm?jl=1010205485644",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: on-site Italy (Brugnera) — Glassdoor.it Junior listing from staffing/labor agency, no remote for junior"
+    },
+    "remoteok_1135142": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Rippling",
+      "company": "StackAmplify",
+      "url": "https://remoteOK.com/remote-jobs/remote-rippling-stackamplify-1135142",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-21T02:32:47+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only + freelance_only: title is company review \"Rippling\", not a developer role. HR-focused sales/marketing content by StackAmplify, employment position."
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-6032652871": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Applied AI Engineer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-6032652871",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": 1784728816,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to ['Ireland'] — candidate is in Spain, need worldwide/EU-wide remote"
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/ios-software-engineer-8950664190": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "iOS Software Engineer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/ios-software-engineer-8950664190",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": 1784720876,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to ['Germany'] — candidate is in Spain, need worldwide/EU-wide remote"
+    },
+    "himalayas_https://himalayas.app/companies/bjak/jobs/backend-engineer-ai-agent-systems-3136811863": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Backend Engineer, AI (Agent Systems)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/backend-engineer-ai-agent-systems-3136811863",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": 1784717606,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to ['China'] — candidate is in Spain, need worldwide/EU-wide remote"
+    },
+    "arcdev_p5uswletjp": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Flutter Developer",
+      "company": null,
+      "url": "https://arc.dev/jobs/flutter-developer",
+      "first_seen": "2026-07-22T14:20:24+00:00",
+      "pub_date": "2026-07-19T18:46:14Z",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: geographic restriction to ['US'], candidate is in Spain"
     }
   },
   "daily_stats": {
@@ -18387,72 +18915,79 @@
       "sites_ok": 7,
       "sites_failed": 9,
       "last_run": "2026-07-21T14:20:51.630847+00:00"
+    },
+    "2026-07-22": {
+      "new_jobs_found": 44,
+      "eliminated": 44,
+      "notified": 0,
+      "score_high": 0,
+      "score_medium": 0
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-21T14:20:51.630847+00:00"
+      "last_success": "2026-07-22T14:20:24+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-21T14:20:51.630847+00:00"
+      "last_success": "2026-07-22T14:20:24+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 60,
-      "last_error": "RSS endpoint returns HTML SPA",
+      "consecutive_failures": 61,
+      "last_error": "SPA-heavy HTML (still no RSS)",
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-21T14:20:51.630847+00:00"
+      "last_success": "2026-07-22T14:20:24+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 11,
-      "last_error": "SPA-heavy, no job cards extracted via proxy",
+      "consecutive_failures": 12,
+      "last_error": "SPA-heavy, no job cards extracted",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 11,
-      "last_error": "Proxy timeout / no content",
+      "consecutive_failures": 12,
+      "last_error": "SPA-heavy, no data",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-15T20:10:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "last_error": "RSS 404 via proxy (endpoint deprecated)",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "glassdoor": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-21T14:20:51.630847+00:00"
+      "last_success": "2026-07-22T14:20:24+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -18464,16 +18999,16 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-21T14:20:51.630847+00:00"
+      "last_success": "2026-07-22T14:20:24+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-21T14:20:51.630847+00:00"
+      "last_success": "2026-07-22T14:20:24+00:00"
     },
     "justremote": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_success": "2026-07-21T14:20:51.630847+00:00",
-      "last_error": "SPA-heavy, no job data in initial HTML",
+      "last_error": "SPA-heavy, no data in initial HTML",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     }
   }

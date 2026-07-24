@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T14:13:10.018961+00:00",
+  "last_updated": "2026-07-24T14:15:04.875737+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -19476,21 +19476,489 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "non_tech_title: no software development keyword in title"
+    },
+    "remoteok_1135299": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "UFC GYM Jurnior Graphic Designer",
+      "company": "UFC GYM",
+      "url": "https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T11:18:07+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): UFC GYM Jurnior Graphic Designer"
+    },
+    "remoteok_1135273": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Data Entry Specialist",
+      "company": "Morgan McKinley",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-morgan-mckinley-1135273",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T09:09:33+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Data Entry Specialist"
+    },
+    "remoteok_1135294": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Concept Artist",
+      "company": "Youtooz",
+      "url": "https://remoteOK.com/remote-jobs/remote-concept-artist-youtooz-1135294",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T07:31:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Concept Artist"
+    },
+    "remoteok_1135260": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional",
+      "company": "UNICEF Bangladesh",
+      "url": "https://remoteOK.com/remote-jobs/remote-consultor-para-estrategia-de-sbc-de-primera-infancia-programme-effectiveness-quito-ecuador-remoto-7-meses-nacional-unicef-bangladesh-1135260",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T03:16:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Consultor para estrategia de SBC de Primera Infancia Program"
+    },
+    "remoteok_1135258": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "CoordenaÃ§Ã£o de Tecnologia I CloudOps",
+      "company": "Aurum",
+      "url": "https://remoteOK.com/remote-jobs/remote-coordenacao-de-tecnologia-i-cloudops-aurum-1135258",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T03:12:22+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): CoordenaÃ§Ã£o de Tecnologia I CloudOps"
+    },
+    "remoteok_1135256": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Appointment Setter",
+      "company": "Everlast Bathrooms",
+      "url": "https://remoteOK.com/remote-jobs/remote-appointment-setter-everlast-bathrooms-1135256",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T03:09:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Appointment Setter"
+    },
+    "remoteok_1135251": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Analista de Atendimento TEMPORÃRIO Remoto",
+      "company": "Melhor Envio",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-temporario-remoto-melhor-envio-1135251",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T03:05:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Analista de Atendimento TEMPORÃRIO Remoto"
+    },
+    "remoteok_1135250": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Programa de EstÃ¡gio Atendimento Remoto",
+      "company": "Nibo",
+      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-atendimento-remoto-nibo-1135250",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T03:05:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Programa de EstÃ¡gio Atendimento Remoto"
+    },
+    "remoteok_1135301": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Vice President Field Services",
+      "company": "Verra Mobility",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-field-services-verra-mobility-1135301",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T02:31:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Vice President Field Services"
+    },
+    "remoteok_1135300": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Human Resources Business Partner",
+      "company": "Cardiovascular Associates of America - CVAUSA",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-business-partner-cardiovascular-associates-of-america-cvausa-1135300",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-23T00:00:00+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Human Resources Business Partner"
+    },
+    "remoteok_1135360": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Designer",
+      "company": "Digitalilusion S.L.",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-digitalilusion-s-l-1135360",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T22:37:53+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Designer"
+    },
+    "remoteok_1135243": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "VP Strategic Finance",
+      "company": "Emergence (Automotive Group)",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-strategic-finance-emergence-automotive-group-1135243",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T22:10:32+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): VP Strategic Finance"
+    },
+    "remoteok_1135241": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Director of IT",
+      "company": "Emergence",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-emergence-1135241",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T22:08:16+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Director of IT"
+    },
+    "remoteok_1135239": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Human Resources Generalist",
+      "company": "FIT Solutions, LLC",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-fit-solutions-llc-1135239",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T22:05:42+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Human Resources Generalist"
+    },
+    "remoteok_1135302": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Chat Representative",
+      "company": "Barefoot Student",
+      "url": "https://remoteOK.com/remote-jobs/remote-chat-representative-barefoot-student-1135302",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T20:27:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Chat Representative"
+    },
+    "remoteok_1135259": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Asistente de Marketing",
+      "company": "Universia PerÃº",
+      "url": "https://remoteOK.com/remote-jobs/remote-asistente-de-marketing-universia-peru-1135259",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T19:30:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Asistente de Marketing"
+    },
+    "remoteok_1135238": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Director of Customer Experience",
+      "company": "LifeMD",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-customer-experience-lifemd-1135238",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T19:02:28+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Director of Customer Experience"
+    },
+    "remoteok_1135305": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Creative Director",
+      "company": "Logical Media Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-director-logical-media-group-1135305",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T18:06:48+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Creative Director"
+    },
+    "remoteok_1135227": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "UX DESIGNER",
+      "company": "Qaledon by Caledonia Financial Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T17:11:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): UX DESIGNER"
+    },
+    "remoteok_1135242": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Marketing Assistant",
+      "company": "Venture Media",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-venture-media-1135242",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T16:13:37+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Marketing Assistant"
+    },
+    "remoteok_1135217": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Backend Developer",
+      "company": "Bjak ",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-bjak-1135217",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-22T16:00:20+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Geographic: candidates must be based in India only"
+    },
+    "remoteok_1135327": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Designer",
+      "company": "ð© ð ð¥ ð§ ð¥ ð ð¢",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-21T18:21:31+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Junior Designer"
+    },
+    "remoteok_1135351": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Manual QA Engineer",
+      "company": "Seeking Alpha",
+      "url": "https://remoteOK.com/remote-jobs/remote-manual-qa-engineer-seeking-alpha-1135351",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": "2026-07-21T17:47:19+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (QA) + Ukraine-only contractor (Private Entrepreneur)"
+    },
+    "himalayas_120a4cf64304b675": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Surveyor - Hospital MD (Psych)",
+      "company": "The Joint Commission",
+      "url": "https://himalayas.app/companies/the-joint-commission/jobs/surveyor-hospital-md-psych",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": 1784895614,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Surveyor - Hospital MD (Psych)"
+    },
+    "himalayas_679e3d9dcb86240a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Email Designer",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/email-designer-1998278791",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": 1784895104,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Email Designer"
+    },
+    "himalayas_615d02ce050d07f2": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Test Coordinator",
+      "company": "Peraton",
+      "url": "https://himalayas.app/companies/peraton/jobs/software-test-coordinator",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": 1784895057,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/Manager in title"
+    },
+    "himalayas_97933962e47e7d1c": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Technical Project Manager, Trade",
+      "company": "Zero Hash",
+      "url": "https://himalayas.app/companies/zero-hash/jobs/technical-project-manager-trade",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": 1784894602,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Technical Project Manager, Trade"
+    },
+    "himalayas_aed97b28ecb237d2": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Infrastructure Engineer - Remote",
+      "company": "US Anesthesia Partners",
+      "url": "https://himalayas.app/companies/us-anesthesia-partners/jobs/infrastructure-engineer-remote",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": 1784893620,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: annual salary $73.6K-$125K + annual bonus + US-only (no CA/HI/AK)"
+    },
+    "arcdev_b92acda2432a272b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Support &amp; Deployment Engineer (JS/Typescript, PostgreSQL/AI coding tools) - FL Fulltime - NA/LATAM",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/support-deployment-engineer-js-typescript-postgresql-ai-coding-tools-fl-fulltime-na-latam-p6j8ucza0l",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Geographic: NA/LATAM only, requires Central Time overlap (candidate in Spain)"
+    },
+    "arcdev_513126da17ecf6e2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Fullstack developer (Node.js, PostgreSQL, AWS) - PT - Worldwide (2)",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/senior-fullstack-developer-node-js-postgresql-aws-pt-worldwide-2-p70lsv666y",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/Manager in title"
+    },
+    "arcdev_4566adbd2eb31953": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Admin Assistant, Ads Engineering",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/netflix-admin-assistant-ads-engineering-p6ueey60mo",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a dev role (Administrative Assistant), permanent employment"
+    },
+    "arcdev_b114381bf6bdf37d": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web developer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/web-developer-p6hopbdzhm",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Min. experience 5+ years (Senior)"
+    },
+    "arcdev_bb12724f80f6607b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior React Native Engineer (Real-Time Location Platform) - Full-time - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/details/senior-react-native-engineer-real-time-location-platform-full-time-worldwide-p723sl08xb",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/Manager in title"
+    },
+    "infojobs_es_af390bbd8a4f3c8f09cb7de32dd05d": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Web",
+      "company": "",
+      "url": "https://www.infojobs.net/majadahonda/desarrollador-web/of-iaf390bbd8a4f3c8f09cb7de32dd05d",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: contrato indefinido + Híbrido + LabVIEW (unknown tech)"
+    },
+    "infojobs_es_0a5ec7790f4cb8b0ccda7af7b8d90b": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador Senior React Native",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/programador-senior-react-native/of-i0a5ec7790f4cb8b0ccda7af7b8d90b",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/Manager in title"
+    },
+    "infojobs_es_94989f1dac4bb18b2c518e02d8a8e3": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Desarrollador Frontend React Viajes Nacionales Internacionales",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/desarrollador-frontend-react-viajes-nacionales-internacionales/of-i94989f1dac4bb18b2c518e02d8a8e3",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: contrato indefinido + Híbrido + 3+ años"
+    },
+    "infojobs_es_aed96d7df74a10ace0200f866b2869": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Java Senior Developer Ia Generativa Sector Seguros",
+      "company": "",
+      "url": "https://www.infojobs.net/barcelona/java-senior-developer-ia-generativa-sector-seguros/of-iaed96d7df74a10ace0200f866b2869",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/Manager in title"
+    },
+    "infojobs_es_bf5df7b47e41a08dc8836f676eb9f5": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Backend Senior Mid",
+      "company": "",
+      "url": "https://www.infojobs.net/las-palmas-de-gran-canaria/backend-senior-mid/of-ibf5df7b47e41a08dc8836f676eb9f5",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/Manager in title"
+    },
+    "infojobs_es_f2621addc543f59aec0a6391135eaf": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Analista Programador Android Ios Sector Salud",
+      "company": "",
+      "url": "https://www.infojobs.net/barcelona/analista-programador-android-ios-sector-salud/of-if2621addc543f59aec0a6391135eaf",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: contrato indefinido + salario anual bruto €30-39K (employment position)"
+    },
+    "infojobs_es_8814887a5b4b8e9410fbed3d0577b9": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Technical Leader",
+      "company": "",
+      "url": "https://www.infojobs.net/madrid/technical-leader/of-i8814887a5b4b8e9410fbed3d0577b9",
+      "first_seen": "2026-07-24T14:15:04.875737+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Not a developer role (title): Technical Leader"
     }
   },
   "daily_stats": {
-    "2026-04-25": {
-      "top_3": [
-        {
-          "score": 87,
-          "title": "Fluent English Web Developer – Client Calls",
-          "site": "Arc.dev"
-        }
-      ],
-      "total": 1,
-      "high": 1,
-      "medium": 0
-    },
     "2026-04-26": {
       "total_found": 277,
       "total_new": 138,
@@ -19926,36 +20394,44 @@
       "high_score": 0,
       "mid_score": 0,
       "ambiguous": 0
+    },
+    "2026-07-24": {
+      "total_found": 40,
+      "notified": 0,
+      "eliminated": 40,
+      "score_high": 0,
+      "score_medium": 0,
+      "score_low": 0
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-23T14:13:10.018961+00:00"
+      "last_success": "2026-07-24T14:15:04.875737+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-23T14:13:10.018961+00:00"
+      "last_success": "2026-07-24T14:15:04.875737+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 62,
+      "consecutive_failures": 63,
       "last_error": "RSS returns HTML SPA (no feed)",
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-23T14:13:10.018961+00:00"
+      "last_success": "2026-07-24T14:15:04.875737+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 13,
+      "consecutive_failures": 14,
       "last_error": "SPA-heavy, no job cards extracted",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 13,
-      "last_error": "SPA-heavy, no data",
+      "consecutive_failures": 14,
+      "last_error": "SPA-heavy, no job data in server-rendered HTML",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
@@ -19990,7 +20466,8 @@
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
+      "last_error": "Cloudflare \"Just a moment\" challenge, no job data extracted",
       "last_success": "2026-07-23T14:13:10.018961+00:00"
     },
     "stepstone": {
@@ -20003,11 +20480,11 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-23T14:13:10.018961+00:00"
+      "last_success": "2026-07-24T14:15:04.875737+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-23T14:13:10.018961+00:00"
+      "last_success": "2026-07-24T14:15:04.875737+00:00"
     },
     "justremote": {
       "consecutive_failures": 2,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:22:52.585983+00:00",
+  "last_updated": "2026-07-28T14:16:39.239284+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -22094,37 +22094,489 @@
       "eliminated": false,
       "score": 44,
       "below_threshold": true
+    },
+    "remoteok_1135514": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Graphic Designer",
+      "company": "Brand Hackers",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-brand-hackers-1135514",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T13:56:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Junior Graphic Designer"
+    },
+    "remoteok_1135518": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Account Manager",
+      "company": "Future Beauty Brands (formerly PPI Beauty)",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-account-manager-future-beauty-brands-formerly-ppi-beauty-1135518",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T13:10:20+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Account Manager"
+    },
+    "remoteok_1135478": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Junior Trader",
+      "company": "Atom Partners",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-junior-trader-atom-partners-1135478",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T12:50:24+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Trader"
+    },
+    "remoteok_1135534": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Entry Level Analyst",
+      "company": "Renewable Careers",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-analyst-renewable-careers-1135534",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T12:33:06+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Analyst"
+    },
+    "remoteok_1135498": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "SCALE PLAN",
+      "company": "Carexroads.com, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-scale-plan-carexroads-com-inc-1135498",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T12:04:17+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: SCALE PLAN"
+    },
+    "remoteok_1135520": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Chief Human Resources Officer",
+      "company": "UNITE",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-human-resources-officer-unite-1135520",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T11:14:01+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Chief Human Resources Officer"
+    },
+    "remoteok_1135530": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "CFO Controller",
+      "company": "FractionalFinders",
+      "url": "https://remoteOK.com/remote-jobs/remote-cfo-controller-fractionalfinders-1135530",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T10:53:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: CFO Controller"
+    },
+    "remoteok_1135496": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Master Plan",
+      "company": "US Gove",
+      "url": "https://remoteOK.com/remote-jobs/remote-master-plan-us-gove-1135496",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T10:16:07+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: Master Plan"
+    },
+    "remoteok_1135459": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Software Developer Intermediate",
+      "company": "Smile Digital Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-intermediate-smile-digital-health-1135459",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T08:00:17+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: annual salary $102.5K-$135K USD indicates employment; Mid-level (Intermediate) Toronto CA"
+    },
+    "remoteok_1135519": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Chief Operating Officer",
+      "company": "DSD Recruitment",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-dsd-recruitment-1135519",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T07:58:03+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Chief Operating Officer"
+    },
+    "remoteok_1135524": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Social Media Strategist",
+      "company": "Digital",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-strategist-digital-1135524",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T07:57:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Social Media Strategist"
+    },
+    "remoteok_1135521": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Instagram VA",
+      "company": "OnlineJobs.PH",
+      "url": "https://remoteOK.com/remote-jobs/remote-instagram-va-onlinejobs-ph-1135521",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T07:15:22+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Instagram VA"
+    },
+    "remoteok_1135491": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Touchpoint",
+      "company": "AdConversion",
+      "url": "https://remoteOK.com/remote-jobs/remote-touchpoint-adconversion-1135491",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T07:11:52+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: Touchpoint"
+    },
+    "remoteok_1135499": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "v",
+      "company": "Norsk senter for CERN-relatert forskning (NorCC)",
+      "url": "https://remoteOK.com/remote-jobs/remote-v-norsk-senter-for-cern-relatert-forskning-norcc-1135499",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T06:02:07+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: 'v'"
+    },
+    "remoteok_1135494": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Who We Are",
+      "company": "Pet Health Insurance Services",
+      "url": "https://remoteOK.com/remote-jobs/remote-who-we-are-pet-health-insurance-services-1135494",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T03:52:22+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: Who We Are"
+    },
+    "remoteok_1135500": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Candidate Requirements",
+      "company": "The VETS",
+      "url": "https://remoteOK.com/remote-jobs/remote-candidate-requirements-the-vets-1135500",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T00:39:44+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: Candidate Requirements"
+    },
+    "remoteok_1135504": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "No positions currently available",
+      "company": "UpTye",
+      "url": "https://remoteOK.com/remote-jobs/remote-no-positions-currently-available-uptye-1135504",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-27T00:02:53+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / placeholder: No positions currently available"
+    },
+    "remoteok_1135495": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Expertise Path and Manager Path",
+      "company": "nidup",
+      "url": "https://remoteOK.com/remote-jobs/remote-expertise-path-and-manager-path-nidup-1135495",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-26T21:51:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: Expertise Path and Manager Path"
+    },
+    "remoteok_1135490": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Rent the Runway",
+      "company": "nidup",
+      "url": "https://remoteOK.com/remote-jobs/remote-rent-the-runway-nidup-1135490",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-26T21:50:30+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: Rent the Runway"
+    },
+    "remoteok_1135493": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Supervisor",
+      "company": "Strive Engineering Solutions",
+      "url": "https://remoteOK.com/remote-jobs/remote-supervisor-strive-engineering-solutions-1135493",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-26T20:04:17+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Supervisor (engineering)"
+    },
+    "remoteok_1135502": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "System kolejkowy KolejkoBot",
+      "company": "WidNet",
+      "url": "https://remoteOK.com/remote-jobs/remote-system-kolejkowy-kolejkobot-widnet-1135502",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-26T19:47:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: System kolejkowy KolejkoBot"
+    },
+    "remoteok_1135492": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Prediction Markets",
+      "company": "responsiblo",
+      "url": "https://remoteOK.com/remote-jobs/remote-prediction-markets-responsiblo-1135492",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-26T19:32:55+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / junk title: Prediction Markets"
+    },
+    "remoteok_1135456": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Digital Designer",
+      "company": "Revlytic",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-26T17:57:39+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Digital Designer"
+    },
+    "remoteok_1135425": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "No open roles right now",
+      "company": "Public Health Bureau",
+      "url": "https://remoteOK.com/remote-jobs/remote-no-open-roles-right-now-public-health-bureau-1135425",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-26T01:11:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev / placeholder: No open roles right now"
+    },
+    "remoteok_1135516": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Monitor Operacional Cachoeirinha RS Vagas Profissionais",
+      "company": "BuscarVagas - Empregos Brasil",
+      "url": "https://remoteOK.com/remote-jobs/remote-monitor-operacional-cachoeirinha-rs-vagas-profissionais-buscarvagas-empregos-brasil-1135516",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "2026-07-25T07:39:46+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Monitor Operacional (Brasile)"
+    },
+    "himalayas_https://himalayas.app/companies/under-armour/jobs/sr-data-analytics-engineer-remote-us-1075888688": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sr. Data Analytics Engineer (Remote, US)",
+      "company": "Under Armour",
+      "url": "https://himalayas.app/companies/under-armour/jobs/https://himalayas.app/companies/under-armour/jobs/sr-data-analytics-engineer-remote-us-1075888688",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": 1785224423,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Sr. Data Analytics Engineer (Senior)"
+    },
+    "glassdoor_2803357": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR SOFTWARE DEVELOPER",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/junior-software-developer-umana-JV_IC2803357_KO0,25_KE26,31.htm?jl=1010210726278",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Umana staffing, no remote confirmed; default on-site for Junior)"
+    },
+    "glassdoor_2747825": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior SEO Specialist",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/junior-seo-specialist-gruppo-co-JV_IC2747825_KO0,21_KE22,31.htm?jl=1010148490630",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Junior SEO Specialist"
+    },
+    "glassdoor_2774800": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior Full Stack Developer - categorie protette (L. 68/99)",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/junior-full-stack-developer-categorie-protette-l-68-99-risorse-JV_IC2774800_KO0,54_KE55,62.htm?jl=1010189466286",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Risorse, no remote confirmed; default on-site for Junior)"
+    },
+    "glassdoor_2734746": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Senior developer_C# .Net",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/senior-developer-c-net-pagegroup-JV_IC2734746_KO0,22_KE23,32.htm?jl=1010205700025",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior developer C# .Net"
+    },
+    "glassdoor_2822810": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Sales Account & Business Developer – Gas & Power",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/sales-account-business-developer-gas-power-gi-group-holding-JV_IC2822810_KO0,42_KE43,59.htm?jl=1010191355251",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Sales Account & Business Developer"
+    },
+    "glassdoor_2733998": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Junior IT Application Specialist – Integrazione Sistemi e AI",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/junior-it-application-specialist-integrazione-sistemi-e-ai-apollon-srl-JV_IC2733998_KO0,58_KE59,70.htm?jl=1010210270141",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Apollon Srl, no remote confirmed; default on-site for Junior)"
+    },
+    "glassdoor_2792068": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Ingegnere Junior – Manutenzione e Asset Management - Apprendistato (m/f/d)",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/ingegnere-junior-manutenzione-e-asset-management-apprendistato-mfd-terme-di-sirmione-JV_IC2792068_KO0,66_KE67,84.htm?jl=1010191273341",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Ingegnere Manutenzione e Asset Management"
+    },
+    "glassdoor_2733347": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "GEOMETRA JUNIOR",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/geometra-junior-umana-JV_IC2733347_KO0,15_KE16,21.htm?jl=1010208242663",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Geometra (surveyor)"
+    },
+    "glassdoor_2824492": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR ELECTRICAL AND AUTOMATION PROJECT ENGINEER",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/junior-electrical-and-automation-project-engineer-esse-engineering-srls-JV_IC2824492_KO0,49_KE50,71.htm?jl=1010209563911",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Junior Electrical/Automation Project Engineer"
+    },
+    "glassdoor_2791476": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "JUNIOR SOFTWARE ENGINEER",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/junior-software-engineer-umana-JV_IC2791476_KO0,24_KE25,30.htm?jl=1010208199847",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Umana staffing, no remote confirmed; default on-site for Junior)"
+    },
+    "glassdoor_6bb8d14a2956": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Ingegnere Meccanico - Junior",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/ingegnere-meccanico-junior-actarus-oy-JV_KO0,26_KE27,37.htm?jl=1010207875178",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Ingegnere Meccanico Junior"
+    },
+    "glassdoor_2802871": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Technical Sales Engineer",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/technical-sales-engineer-aebi-schmidt-italia-srl-JV_IC2802871_KO0,24_KE25,48.htm?jl=1010126050803",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Technical Sales Engineer"
+    },
+    "glassdoor_2751409": {
+      "site_id": "glassdoor",
+      "site_name": "Glassdoor",
+      "title": "Ingegnere meccanico junior",
+      "company": "",
+      "url": "https://www.glassdoor.it/job-listing/ingegnere-meccanico-junior-tecnonaval-srl-JV_IC2751409_KO0,26_KE27,41.htm?jl=1010206871527",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "Non-dev role: Ingegnere meccanico junior"
+    },
+    "infojobs_es_ca286bb7e040f8a6dd26dab5cbef5f": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Frontend Senior (Shopify Plus) — freelance",
+      "company": "Consultia IT",
+      "url": "https://www.infojobs.net/madrid/frontend-senior-shopify-plus-freelance/of-ica286bb7e040f8a6dd26dab5cbef5f",
+      "first_seen": "2026-07-28T14:16:39.239284+00:00",
+      "pub_date": "",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Frontend Senior (Shopify Plus) — Senior"
     }
   },
   "daily_stats": {
-    "2026-04-29": {
-      "total_seen": 142,
-      "notified": 9,
-      "eliminated": 133,
-      "high_score": 4,
-      "medium_score": 5,
-      "ambiguous": 0,
-      "top_3": [
-        {
-          "score": 93,
-          "title": "AWS DevOps Engineer (Freelancer – Hourly Basis)",
-          "company": "ADDVantage Digital Solutions",
-          "site": "Arc.dev"
-        },
-        {
-          "score": 83,
-          "title": "Frontend Engineer (Open Source Experience) - PT - Worldwide",
-          "company": "Scout Company (via Arc.dev)",
-          "site": "Arc.dev"
-        },
-        {
-          "score": 79,
-          "title": "AI Junior Developer (Python / React) - REMOTO",
-          "company": "(non visibile dal listing)",
-          "site": "InfoJobs España"
-        }
-      ]
-    },
     "2026-04-30": {
       "total_found": 0,
       "high_score": 0,
@@ -22496,72 +22948,84 @@
       "high_score": 0,
       "medium_score": 0,
       "ambiguous": 0
+    },
+    "2026-07-28": {
+      "total_found": 40,
+      "notified": 0,
+      "eliminated": 40,
+      "below_threshold": 0,
+      "high_score": 0,
+      "medium_score": 0,
+      "ambiguous": 0,
+      "sites_ok": 6,
+      "sites_failed": 8,
+      "last_run": "2026-07-28T14:16:39.239284+00:00"
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-27T14:22:52.585983+00:00"
+      "last_success": "2026-07-28T14:16:39.239284+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-27T14:22:52.585983+00:00"
+      "last_success": "2026-07-28T14:16:39.239284+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 66,
+      "consecutive_failures": 67,
       "last_error": "RSS returns HTML SPA (no feed)",
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-27T14:22:52.585983+00:00"
+      "last_success": "2026-07-28T14:16:39.239284+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_error": "SPA-heavy, no job cards extracted",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_error": "SPA-heavy, no job cards extracted",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 15,
-      "last_error": "RSS 403 via proxy (blocked)",
+      "consecutive_failures": 16,
+      "last_error": "RSS 404 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 11,
-      "last_error": "RSS 403 via proxy (blocked)",
+      "consecutive_failures": 12,
+      "last_error": "RSS 404 via proxy",
       "last_success": "2026-07-15T20:10:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 15,
-      "last_error": "RSS 403 via proxy (blocked)",
+      "consecutive_failures": 16,
+      "last_error": "RSS 404 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 15,
-      "last_error": "RSS 403 via proxy (blocked)",
+      "consecutive_failures": 16,
+      "last_error": "RSS 404 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 15,
-      "last_error": "RSS 403 via proxy (blocked)",
+      "consecutive_failures": 16,
+      "last_error": "RSS 404 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "glassdoor": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-27T14:22:52.585983+00:00"
+      "last_success": "2026-07-28T14:16:39.239284+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
@@ -22573,16 +23037,17 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-27T14:22:52.585983+00:00"
+      "last_success": "2026-07-28T14:16:39.239284+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-07-27T14:22:52.585983+00:00"
+      "last_success": "2026-07-28T14:16:39.239284+00:00"
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
+      "last_error": "SPA landing page, no job cards extracted (direct fetch)",
       "last_success": "2026-07-26T14:19:43.020031+00:00",
-      "last_error": "SPA landing page, no job cards extracted (direct fetch)"
+      "last_warned": null
     }
   }
 }

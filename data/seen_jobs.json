@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T14:21:29.344209+00:00",
+  "last_updated": "2026-08-02T14:14:45.367884+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -25233,6 +25233,61 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "Non-dev role (title)"
+    },
+    "remoteok_1135739": {
+      "title": "Product Engineer",
+      "company": "SuperPlane",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-engineer-superplane-1135739",
+      "site_id": "remoteok",
+      "first_seen": "2026-08-02T14:14:45.367884+00:00",
+      "notified": true,
+      "notified_at": "2026-08-02T14:14:45.367884+00:00",
+      "score": 72.0
+    },
+    "himalayas_https://himalayas.app/companies/clera/jobs/founding-full-stack-ios-engineer": {
+      "title": "Founding Full-Stack iOS Engineer",
+      "company": "Clera",
+      "url": "https://himalayas.app/companies/clera/jobs/founding-full-stack-ios-engineer",
+      "site_id": "himalayas",
+      "first_seen": "2026-08-02T14:14:45.367884+00:00",
+      "eliminated": true,
+      "elimination_reason": "Executive seniority + $135-200k annual salary + Full Time employment (not freelance)"
+    },
+    "himalayas_https://himalayas.app/companies/clera/jobs/founding-full-stack-engineer": {
+      "title": "Founding Full Stack Engineer",
+      "company": "Clera",
+      "url": "https://himalayas.app/companies/clera/jobs/founding-full-stack-engineer",
+      "site_id": "himalayas",
+      "first_seen": "2026-08-02T14:14:45.367884+00:00",
+      "eliminated": true,
+      "elimination_reason": "Executive seniority + $135-200k annual salary + Full Time employment (not freelance)"
+    },
+    "himalayas_https://himalayas.app/companies/clera/jobs/founding-member-of-technical-staff": {
+      "title": "Founding Member of Technical Staff",
+      "company": "Clera",
+      "url": "https://himalayas.app/companies/clera/jobs/founding-member-of-technical-staff",
+      "site_id": "himalayas",
+      "first_seen": "2026-08-02T14:14:45.367884+00:00",
+      "eliminated": true,
+      "elimination_reason": "Executive seniority + $135-200k annual salary + Full Time employment (not freelance)"
+    },
+    "arcdev_p8taz3r4ue": {
+      "title": "Experienced Full-Stack Blockchain Developer",
+      "company": "Unknown",
+      "url": "https://arc.dev/remote-jobs/details/experienced-full-stack-blockchain-developer-p8taz3r4ue",
+      "site_id": "arcdev",
+      "first_seen": "2026-08-02T14:14:45.367884+00:00",
+      "score": 48.2
+    },
+    "arcdev_p8or0w7tc0": {
+      "title": "WebRTC/LiveKit Developer (Live-Audio App Audit) - PT - Worldwide",
+      "company": "Unknown",
+      "url": "https://arc.dev/remote-jobs/details/webrtc-livekit-developer-live-audio-app-audit-pt-worldwide-p8or0w7tc0",
+      "site_id": "arcdev",
+      "first_seen": "2026-08-02T14:14:45.367884+00:00",
+      "notified": true,
+      "notified_at": "2026-08-02T14:14:45.367884+00:00",
+      "score": 80.2
     }
   },
   "daily_stats": {
@@ -25690,75 +25745,103 @@
       ],
       "total_seen": 80,
       "total_eliminated": 74
+    },
+    "2026-08-02": {
+      "total_new": 6,
+      "notified": 2,
+      "eliminated": 3,
+      "below_threshold": 1,
+      "high_score": 1,
+      "medium_score": 1,
+      "ambiguous": 1,
+      "notified_jobs": [
+        {
+          "id": "arcdev_p8or0w7tc0",
+          "title": "WebRTC/LiveKit Developer (Live-Audio App Audit) - PT - Worldwide",
+          "company": "Unknown",
+          "score": 80.2,
+          "site": "Arc.dev"
+        },
+        {
+          "id": "remoteok_1135739",
+          "title": "Product Engineer",
+          "company": "SuperPlane",
+          "score": 72.0,
+          "site": "RemoteOK"
+        }
+      ],
+      "sites_ok": 5,
+      "sites_failed": 12,
+      "last_run": "2026-08-02T14:14:45.367884+00:00"
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-01T14:21:29.344209+00:00",
+      "last_success": "2026-08-02T14:14:45.367884+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-01T14:21:29.344209+00:00",
+      "last_success": "2026-08-02T14:14:45.367884+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 71,
+      "consecutive_failures": 72,
       "last_error": "RSS returns HTML SPA (no feed)",
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_success": "2026-08-01T14:21:29.344209+00:00",
-      "last_error": null
+      "last_error": "Job cards not extractable from search results HTML"
     },
     "welcometothejungle": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "SPA-heavy, no job cards extracted via proxy",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "SPA-heavy, no job cards extracted via proxy",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-15T20:10:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 2,
-      "last_error": "403 via proxy",
+      "consecutive_failures": 3,
+      "last_error": "Not fetched this run",
       "last_success": "2026-07-30T14:20:26.063310+00:00",
       "last_warned": null
     },
@@ -25772,17 +25855,17 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-01T14:21:29.344209+00:00",
+      "last_success": "2026-08-02T14:14:45.367884+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-01T14:21:29.344209+00:00",
+      "last_success": "2026-08-02T14:14:45.367884+00:00",
       "last_error": null
     },
     "justremote": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-01T14:21:29.344209+00:00",
+      "last_success": "2026-08-02T14:14:45.367884+00:00",
       "last_error": null
     }
   }

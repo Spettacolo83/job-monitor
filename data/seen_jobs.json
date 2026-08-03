@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T14:14:45.367884+00:00",
+  "last_updated": "2026-08-03T14:15:41.847361+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -25288,6 +25288,606 @@
       "notified": true,
       "notified_at": "2026-08-02T14:14:45.367884+00:00",
       "score": 80.2
+    },
+    "remoteok_1135942": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Estimator USA TX Dickinson R26 04471",
+      "company": "BrandSafway",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-usa-tx-dickinson-r26-04471-brandsafway-1135942",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-02T12:13:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135979": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Apply Support Engineer",
+      "company": "Markelic LLC",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-support-engineer-markelic-llc-1135979",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-02T11:30:58+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only + non-dev role: monthly salary, Bachelor required, Apply Support (not dev)"
+    },
+    "remoteok_1135961": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Estimator",
+      "company": "Jobot",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-jobot-1135961",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-02T09:12:31+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135900": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Junior Designer",
+      "company": "Haystack",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-02T01:55:47+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: Digital Designer (Adobe/Figma), not dev role; geographic: Ohio US only"
+    },
+    "remoteok_1135868": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Cleaning Assistant Afternoon Evening",
+      "company": "Canadian Base Operators Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-cleaning-assistant-afternoon-evening-canadian-base-operators-inc-1135868",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-01T14:27:52+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135994": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Business Development Representative ANZ",
+      "company": "JFrog",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-anz-jfrog-1135994",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-01T12:50:59+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135756": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Chief Operating Officer",
+      "company": "U.S. Hunger",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-u-s-hunger-1135756",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-01T01:54:09+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "remoteok_1135901": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Freelance Creative Director",
+      "company": "BMWL",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T23:38:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "remoteok_1135755": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "HR Generalist",
+      "company": "Aditi Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-aditi-consulting-1135755",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T19:23:37+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136017": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Cleansing Crew Operators",
+      "company": "IndigenousX",
+      "url": "https://remoteOK.com/remote-jobs/remote-cleansing-crew-operators-indigenousx-1136017",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T16:42:51+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136010": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Sales Development Representative",
+      "company": "Aaron Sansoni Group International",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-aaron-sansoni-group-international-1136010",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T10:22:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135871": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Contents Crew Lead",
+      "company": "First Onsite Property Restoration",
+      "url": "https://remoteOK.com/remote-jobs/remote-contents-crew-lead-first-onsite-property-restoration-1135871",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T09:05:49+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "remoteok_1135997": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "BMS Service Technician",
+      "company": "Johnson Controls",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T09:02:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136005": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Field Maintenance Technician CTC_LIS",
+      "company": "Cubic Defence Australia &amp; NZ",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-maintenance-technician-ctc-lis-cubic-defence-australia-amp-nz-1136005",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T06:52:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136027": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Plant Fitter",
+      "company": "Queensland Rail",
+      "url": "https://remoteOK.com/remote-jobs/remote-plant-fitter-queensland-rail-1136027",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T05:02:54+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136004": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Laboratory Technician TI AS",
+      "company": "Downer",
+      "url": "https://remoteOK.com/remote-jobs/remote-laboratory-technician-ti-as-downer-1136004",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T00:58:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136030": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Hardship &amp; Insolvency Specialist",
+      "company": "Jacaranda Finance",
+      "url": "https://remoteOK.com/remote-jobs/remote-hardship-amp-insolvency-specialist-jacaranda-finance-1136030",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T23:39:40+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135969": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Trades Generalist",
+      "company": "New York State Center for Recruitment &amp; Public Service",
+      "url": "https://remoteOK.com/remote-jobs/remote-trades-generalist-new-york-state-center-for-recruitment-amp-public-service-1135969",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T22:25:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135988": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Maintenance Fitter",
+      "company": "New World Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-new-world-consulting-1135988",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T18:52:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1135815": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "lead Generator",
+      "company": "Representaciones del caribe",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-generator-representaciones-del-caribe-1135815",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T16:17:40+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role: lead generation"
+    },
+    "remoteok_1135829": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Accounts Assistant",
+      "company": "CUBE Construction Group Ltd.",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-cube-construction-group-ltd-1135829",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T11:46:35+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136003": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Technician Field Service",
+      "company": "Cummins Asia Pacific",
+      "url": "https://remoteOK.com/remote-jobs/remote-technician-field-service-cummins-asia-pacific-1136003",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T09:49:16+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "arcdev_p9dxox6elx": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "AI Tools Developer (GTM Systems & Agents) - Part-time - APAC/EMEA",
+      "company": "Arc.dev listing",
+      "url": "https://arc.dev/remote-jobs/ai-tools-developer-gtm-systems-agents-part-time-apac-emea",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-02T20:35:20+00:00",
+      "notified": true,
+      "eliminated": false,
+      "score": 100.0
+    },
+    "arcdev_p8m09vfz6g": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Backend / Database Developer (Supabase) - Part-time - NA/LATAM/EU",
+      "company": "Arc.dev listing",
+      "url": "https://arc.dev/remote-jobs/senior-backend-database-developer-supabase-part-time-na-latam-eu",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T18:22:40+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "arcdev_p8lzljdxjj": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Remote - Full Time Marketer",
+      "company": "Arc.dev listing",
+      "url": "https://arc.dev/remote-jobs/remote-full-time-marketer",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T18:19:41+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "arcdev_p8l81rctrk": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Shopify Design Specialist With CRO Experience",
+      "company": "Arc.dev listing",
+      "url": "https://arc.dev/remote-jobs/shopify-design-specialist-with-cro-experience",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-30T16:17:40+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "arcdev_p95jc94oyt": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "LinkedIn Marketing & Lead Generation Specialist",
+      "company": "Talent Global LLC",
+      "url": "https://arc.dev/remote-jobs/talent-global-llc-linkedin-marketing-lead-generation-specialist",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:17+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not a dev role: lead generation"
+    },
+    "arcdev_lrq5m0jsso": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Partner Marketing Manager",
+      "company": "The Channel Company",
+      "url": "https://arc.dev/remote-jobs/the-channel-company-partner-marketing-manager",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:16+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "arcdev_p95jdek3fv": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Expert Opportunity - Marketing Specialist ($70/hr, up to $1,400/week)",
+      "company": "Ethos",
+      "url": "https://arc.dev/remote-jobs/ethos-expert-opportunity-marketing-specialist-70-hr-up-to-1-400-week",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:16+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "arcdev_p95jelp4kz": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Sr Product Marketing Manager",
+      "company": "G-P",
+      "url": "https://arc.dev/remote-jobs/g-p-sr-product-marketing-manager",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:16+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "arcdev_p95jfv3zaw": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Performance Marketer (m/w/d) - Meta Ads × AI × Creative Strategy | E-Commerce, Online Marketing",
+      "company": "Divinely HQ GmbH",
+      "url": "https://arc.dev/remote-jobs/divinely-hq-gmbh-performance-marketer-m-w-d-meta-ads-x-ai-x-creative-strategy-e-commerce-online-marketing",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:15+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "arcdev_p8wgp6prw4": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Head of Marketing, Commercialization & Web Design",
+      "company": "Unscripted",
+      "url": "https://arc.dev/remote-jobs/unscripted-head-of-marketing-commercialization-web-design",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:15+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "arcdev_p95jg8gq62": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Growth Marketing Manager",
+      "company": "Talentgigs",
+      "url": "https://arc.dev/remote-jobs/talentgigs-growth-marketing-manager",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:15+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "arcdev_p95jgk3ud8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Manager",
+      "company": "Babington",
+      "url": "https://arc.dev/remote-jobs/babington-marketing-manager",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:15+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "arcdev_p95jgy8by6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Account Manager, Digital Marketing",
+      "company": "BizIQ - Smart Growth Marketing",
+      "url": "https://arc.dev/remote-jobs/biziq-smart-growth-marketing-account-manager-digital-marketing",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:15+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "arcdev_p95jhgghhc": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Marketing Associate",
+      "company": "Kochasoft",
+      "url": "https://arc.dev/remote-jobs/kochasoft-senior-marketing-associate",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "arcdev_p95jhpvczl": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Direct Marketing Manager II",
+      "company": "Apollo",
+      "url": "https://arc.dev/remote-jobs/apollo-io-senior-direct-marketing-manager-ii",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "arcdev_p8wgpgkz91": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior UX Designer, DTC Web",
+      "company": "Ladders",
+      "url": "https://arc.dev/remote-jobs/ladders-senior-ux-designer-dtc-web",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "arcdev_p8wgpgrng6": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Product Designer",
+      "company": "9amHealth",
+      "url": "https://arc.dev/remote-jobs/9amhealth-senior-product-designer",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "arcdev_o390kf428b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior UX/UI & Web Designer",
+      "company": "Designity",
+      "url": "https://arc.dev/remote-jobs/designity-senior-ux-ui-web-designer",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-07-31T21:46:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "himalayas_f0b9354ae57d5f0d": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Analista de Sistemas Sênior (4743)",
+      "company": "Keep Simple",
+      "url": "https://himalayas.app/companies/keep-simple/jobs/analista-de-sistemas-senior-4743",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:28:18+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: Sênior (Portuguese senior); geographic: Brazil-only"
+    },
+    "himalayas_f570ee1c62a4ab20": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "CrowdStrike Platform Associate Resident Consultant (Remote, MEX)",
+      "company": "Crowdstrike",
+      "url": "https://himalayas.app/companies/crowdstrike/jobs/crowdstrike-platform-associate-resident-consultant-remote-mex",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:28:09+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
+    },
+    "himalayas_55a7c7ac2c84224a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior AI Infrastructure & Platform Operations Engineer (remote in the EU)",
+      "company": "Mirantis",
+      "url": "https://himalayas.app/companies/mirantis/jobs/senior-ai-infrastructure-platform-operations-engineer-remote-in-the-eu-9190432113",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:27:56+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "himalayas_9c752df94483d6cd": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Platform RUN Engineer",
+      "company": "InVita Healthcare Technologies",
+      "url": "https://himalayas.app/companies/invita-healthcare-technologies/jobs/platform-run-engineer",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:27:52+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "geographic: Canada-only (Platform Engineer)"
+    },
+    "himalayas_ff6bace6e407fd4e": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Manager, Product Engineering",
+      "company": "SRS Acquiom",
+      "url": "https://himalayas.app/companies/srs-acquiom/jobs/manager-product-engineering",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:27:50+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "himalayas_17a066832947d575": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Sales Engineer, ACT",
+      "company": "Commvault",
+      "url": "https://himalayas.app/companies/commvault/jobs/senior-sales-engineer-act",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:27:05+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "himalayas_fa7abc1f8867af74": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Developer (Front-End)",
+      "company": "General Dynamics Information Technology",
+      "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/senior-developer-front-end-6702104489",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:27:02+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "himalayas_9d2a64e311119c07": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Hootsuite Implementation Manager",
+      "company": "Convosphere",
+      "url": "https://himalayas.app/companies/convosphere/jobs/hootsuite-implementation-manager-7733263066",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:26:51+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority: manager role"
+    },
+    "himalayas_f68ee52170771ab9": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Subject Matter Expert – IBM Maximo & Cognos",
+      "company": "Rolls-Royce",
+      "url": "https://himalayas.app/companies/rolls-royce/jobs/senior-subject-matter-expert-ibm-maximo-cognos",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:26:51+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: Senior/Lead/Staff/Principal/etc."
+    },
+    "himalayas_0c175b3baed1af15": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Project/Service Coordinator",
+      "company": "Qualus",
+      "url": "https://himalayas.app/companies/qualus/jobs/project-service-coordinator",
+      "first_seen": "2026-08-03T14:15:41.847361+00:00",
+      "pub_date": "2026-08-03T13:26:51+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "tech_match: non-dev role"
     }
   },
   "daily_stats": {
@@ -25773,75 +26373,96 @@
       "sites_ok": 5,
       "sites_failed": 12,
       "last_run": "2026-08-02T14:14:45.367884+00:00"
+    },
+    "2026-08-03": {
+      "total_new": 50,
+      "notified": 1,
+      "eliminated": 49,
+      "below_threshold": 0,
+      "high_score": 1,
+      "medium_score": 0,
+      "ambiguous": 0,
+      "notified_jobs": [
+        {
+          "id": "arcdev_p9dxox6elx",
+          "title": "AI Tools Developer (GTM Systems & Agents) - Part-time - APAC/EMEA",
+          "company": "Arc.dev listing",
+          "score": 100.0,
+          "site": "Arc.dev"
+        }
+      ],
+      "sites_ok": 4,
+      "sites_failed": 11,
+      "last_run": "2026-08-03T14:15:41.847361+00:00"
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-02T14:14:45.367884+00:00",
+      "last_success": "2026-08-03T14:15:41.847361+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-02T14:14:45.367884+00:00",
+      "last_success": "2026-08-03T14:15:41.847361+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 72,
+      "consecutive_failures": 73,
       "last_error": "RSS returns HTML SPA (no feed)",
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_success": "2026-08-01T14:21:29.344209+00:00",
-      "last_error": "Job cards not extractable from search results HTML"
+      "last_error": "Job cards not extractable from search results HTML (proxy)"
     },
     "welcometothejungle": {
-      "consecutive_failures": 23,
+      "consecutive_failures": 24,
       "last_error": "SPA-heavy, no job cards extracted via proxy",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 23,
+      "consecutive_failures": 24,
       "last_error": "SPA-heavy, no job cards extracted via proxy",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-15T20:10:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 3,
-      "last_error": "Not fetched this run",
+      "consecutive_failures": 4,
+      "last_error": "403 Forbidden even via proxy",
       "last_success": "2026-07-30T14:20:26.063310+00:00",
       "last_warned": null
     },
@@ -25855,18 +26476,18 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-02T14:14:45.367884+00:00",
+      "last_success": "2026-08-03T14:15:41.847361+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-02T14:14:45.367884+00:00",
+      "last_success": "2026-08-03T14:15:41.847361+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "last_success": "2026-08-02T14:14:45.367884+00:00",
-      "last_error": null
+      "last_error": "SPA-heavy, no job cards extractable"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:15:41.847361+00:00",
+  "last_updated": "2026-08-04T14:13:40.748793+00:00",
   "jobs": {
     "remoteok_1134518": {
       "site_id": "remoteok",
@@ -25888,6 +25888,331 @@
       "notified": false,
       "eliminated": true,
       "elimination_reason": "tech_match: non-dev role"
+    },
+    "remoteok_1136063": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Social Media Coordinator",
+      "company": "Clandestine Magazine",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-clandestine-magazine-1136063",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-03T13:11:14+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: social media"
+    },
+    "remoteok_1135996": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Program Delivery Officer Level 1",
+      "company": "Queensland Corrective Services",
+      "url": "https://remoteOK.com/remote-jobs/remote-program-delivery-officer-level-1-queensland-corrective-services-1135996",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-03T07:37:10+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: program delivery"
+    },
+    "remoteok_1136024": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Join Our Team",
+      "company": "Bay Plumbing &amp; Drainage",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-bay-plumbing-amp-drainage-1136024",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-03T06:37:28+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non-dev: plumbing"
+    },
+    "remoteok_1135957": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Build Anything Launch â 99 Seconds",
+      "company": "Clarity-Fox",
+      "url": "https://remoteOK.com/remote-jobs/remote-build-anything-launch-99-seconds-clarity-fox-1135957",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-03T05:03:52+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: launch"
+    },
+    "remoteok_1136062": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Profesor A De Ele â EnseÃ±anza Innovadora Horario Flexible",
+      "company": "Apprentus",
+      "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-ele-ensenanza-innovadora-horario-flexible-apprentus-1136062",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-02T17:41:43+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: ele â"
+    },
+    "remoteok_1136000": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Fire Technician",
+      "company": "Chubb Fire &amp; Security",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-technician-chubb-fire-amp-security-1136000",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-02T16:31:39+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: fire technician"
+    },
+    "remoteok_1136064": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Brand Designer",
+      "company": "STGU",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-stgu-1136064",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-01T14:49:11+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: brand designer"
+    },
+    "remoteok_1136066": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Customer Support Specialist",
+      "company": "Resource Guru",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-01T14:24:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: customer support"
+    },
+    "remoteok_1136082": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Short Form Video Content Creator",
+      "company": "OnlineJobs.PH",
+      "url": "https://remoteOK.com/remote-jobs/remote-short-form-video-content-creator-onlinejobs-ph-1136082",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-08-01T05:25:31+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: content creator"
+    },
+    "remoteok_1136065": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Professeur particulier toutes matiÃ¨res H F",
+      "company": "Apprentus",
+      "url": "https://remoteOK.com/remote-jobs/remote-professeur-particulier-toutes-matieres-h-f-apprentus-1136065",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": "2026-07-31T16:38:36+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: professeur"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/director-of-robotics-research": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Director of Robotics Research",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/director-of-robotics-research",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: director of"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/marketing-documents-specialist-german-552522540": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Marketing Documents Specialist (German)",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/marketing-documents-specialist-german-552522540",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: documents specialist"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/dutch-audio-recording-experts-1618366362": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Dutch Audio Recording Experts",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/dutch-audio-recording-experts-1618366362",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: audio recording"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/military-operations-ihl-expert-3330434352": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Military Operations & IHL Expert",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/military-operations-ihl-expert-3330434352",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: military"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/marketing-documents-specialist-korean-178573498": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Marketing Documents Specialist (Korean)",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/marketing-documents-specialist-korean-178573498",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: documents specialist"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/business-document-expert-korean-speaker-9885021383": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Business Document Expert (Korean Speaker)",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/business-document-expert-korean-speaker-9885021383",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: business document"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/physics-expert-postdoc-junior-professor-6971997972": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Physics Expert (Postdoc / Junior professor)",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/physics-expert-postdoc-junior-professor-6971997972",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: physics expert"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/phd-engineer-electrical-mechanical-chemical-6507478934": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "PhD Engineer (Electrical, Mechanical, Chemical)",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/phd-engineer-electrical-mechanical-chemical-6507478934",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: phd engineer"
+    },
+    "himalayas_https://himalayas.app/companies/micro1/jobs/software-engineer-new-grad": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer, New Grad",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-new-grad",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "freelance_only: full-time, US-only, equity+bonuses (employment)"
+    },
+    "arcdev_p9rtz3ey4d": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Designer (UX/UI — Web + Mobile) - PT - APAC/EMEA",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/product-designer-ux-ui-web-mobile-pt-apac-emea-p9rtz3ey4d",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "non-dev: designer"
+    },
+    "arcdev_p9p5n9cvqq": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "HIRING: Content Creators — Polygon Web3 Gaming",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/hiring-content-creators-polygon-web3-gaming-p9p5n9cvqq",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: content creator"
+    },
+    "arcdev_p9mgs779jq": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Mobile App Developer (React Native) - Part-time - APAC/EMEA",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/mobile-app-developer-react-native-part-time-apac-emea-p9mgs779jq",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": true,
+      "eliminated": false,
+      "score": 99,
+      "notified_at": "2026-08-04T14:13:40.748793+00:00"
+    },
+    "arcdev_p9kzstb9r0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Remote Collaboration Specialist / JR PM - US-based",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/remote-collaboration-specialist-jr-pm-us-based-p9kzstb9r0",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: collaboration specialist"
+    },
+    "arcdev_p9kuw0vypr": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Full-Stack Engineer - Privacy-First Desktop Application",
+      "company": "Arc Exclusive",
+      "url": "https://arc.dev/remote-jobs/details/senior-full-stack-engineer-privacy-first-desktop-application-p9kuw0vypr",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "senior explicit"
+    },
+    "infojobs_es_c1a39d5fe94446ac644f4e31e3e506": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Business Developer Junior – E-commerce y Proyectos Internacionales",
+      "company": "TRADEVISTA ECOM SL.",
+      "url": "https://www.infojobs.net/beniparrell/business-developer-junior-commerce-proyectos-internacionales/of-ic1a39d5fe94446ac644f4e31e3e506",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "obvious non-dev: business developer"
+    },
+    "infojobs_es_076fe2dd104cd588d01e0a8f8c5bc0": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador/a SQL &amp; PL/SQL - Girona",
+      "company": "Digital Talent Agency Zona Centro",
+      "url": "https://www.infojobs.net/barcelona/programador-sql-pl-sql-girona/of-i076fe2dd104cd588d01e0a8f8c5bc0",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only+freelance_only: 100% presencial Girona, contrato indefinido"
+    },
+    "infojobs_es_af06da4a8e4d2b80cb14aa7263d692": {
+      "site_id": "infojobs_es",
+      "site_name": "InfoJobs España",
+      "title": "Programador Java / Python | Remoto (presencialidad puntual)",
+      "company": "KRELL CONSULTING & TRAINING",
+      "url": "https://www.infojobs.net/madrid/programador-java-python-remoto-presencialidad-puntual/of-iaf06da4a8e4d2b80cb14aa7263d692",
+      "first_seen": "2026-08-04T14:13:40.748793+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only+freelance_only: híbrido Madrid, contrato indefinido"
     }
   },
   "daily_stats": {
@@ -26394,74 +26719,95 @@
       "sites_ok": 4,
       "sites_failed": 11,
       "last_run": "2026-08-03T14:15:41.847361+00:00"
+    },
+    "2026-08-04": {
+      "total_new": 27,
+      "notified": 1,
+      "eliminated": 26,
+      "below_threshold": 0,
+      "high_score": 1,
+      "medium_score": 0,
+      "ambiguous": 0,
+      "notified_jobs": [
+        {
+          "id": "arcdev_p9mgs779jq",
+          "title": "Mobile App Developer (React Native) - Part-time - APAC/EMEA",
+          "company": "Arc Exclusive",
+          "score": 99,
+          "site": "Arc.dev"
+        }
+      ],
+      "sites_ok": 5,
+      "sites_failed": 10,
+      "last_run": "2026-08-04T14:13:40.748793+00:00"
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-03T14:15:41.847361+00:00",
+      "last_success": "2026-08-04T14:13:40.748793+00:00",
       "last_error": null
     },
     "remotive": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-03T14:15:41.847361+00:00",
+      "last_success": "2026-08-04T14:13:40.748793+00:00",
       "last_error": null
     },
     "jobicy": {
-      "consecutive_failures": 73,
+      "consecutive_failures": 74,
       "last_error": "RSS returns HTML SPA (no feed)",
       "last_success": "2026-04-25T05:50:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 2,
-      "last_success": "2026-08-01T14:21:29.344209+00:00",
-      "last_error": "Job cards not extractable from search results HTML (proxy)"
+      "consecutive_failures": 0,
+      "last_success": "2026-08-04T14:13:40.748793+00:00",
+      "last_error": null
     },
     "welcometothejungle": {
-      "consecutive_failures": 24,
-      "last_error": "SPA-heavy, no job cards extracted via proxy",
+      "consecutive_failures": 25,
+      "last_error": "proxy fetch failed",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 24,
-      "last_error": "SPA-heavy, no job cards extracted via proxy",
+      "consecutive_failures": 25,
+      "last_error": "proxy fetch failed",
       "last_success": "2026-07-14T06:16:39.125696+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 18,
+      "consecutive_failures": 19,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-15T20:10:00+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "RSS 403 via proxy",
       "last_success": "2026-07-14T14:25:52.072047+00:00",
       "last_warned": "2026-07-20T14:17:21.816718+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_error": "403 Forbidden even via proxy",
       "last_success": "2026-07-30T14:20:26.063310+00:00",
       "last_warned": null
@@ -26476,18 +26822,19 @@
     },
     "himalayas": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-03T14:15:41.847361+00:00",
+      "last_success": "2026-08-04T14:13:40.748793+00:00",
       "last_error": null
     },
     "arcdev": {
       "consecutive_failures": 0,
-      "last_success": "2026-08-03T14:15:41.847361+00:00",
+      "last_success": "2026-08-04T14:13:40.748793+00:00",
       "last_error": null
     },
     "justremote": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
+      "last_error": "SPA-heavy, no job cards extractable",
       "last_success": "2026-08-02T14:14:45.367884+00:00",
-      "last_error": "SPA-heavy, no job cards extractable"
+      "last_warned": null
     }
   }
 }

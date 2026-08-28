@@ -1,486 +1,6 @@
 {
- "last_updated": "2026-08-27T00:13:13.912451+00:00",
+ "last_updated": "2026-08-28T00:16:32.295641+00:00",
  "jobs": {
-  "remoteok_1135514": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Junior Graphic Designer",
-   "company": "Brand Hackers",
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-brand-hackers-1135514",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T13:56:10+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Junior Graphic Designer"
-  },
-  "remoteok_1135518": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Junior Account Manager",
-   "company": "Future Beauty Brands (formerly PPI Beauty)",
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-account-manager-future-beauty-brands-formerly-ppi-beauty-1135518",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T13:10:20+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Account Manager"
-  },
-  "remoteok_1135478": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Entry Level Junior Trader",
-   "company": "Atom Partners",
-   "url": "https://remoteOK.com/remote-jobs/remote-entry-level-junior-trader-atom-partners-1135478",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T12:50:24+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Trader"
-  },
-  "remoteok_1135534": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Entry Level Analyst",
-   "company": "Renewable Careers",
-   "url": "https://remoteOK.com/remote-jobs/remote-entry-level-analyst-renewable-careers-1135534",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T12:33:06+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Analyst"
-  },
-  "remoteok_1135498": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "SCALE PLAN",
-   "company": "Carexroads.com, Inc.",
-   "url": "https://remoteOK.com/remote-jobs/remote-scale-plan-carexroads-com-inc-1135498",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T12:04:17+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: SCALE PLAN"
-  },
-  "remoteok_1135520": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Chief Human Resources Officer",
-   "company": "UNITE",
-   "url": "https://remoteOK.com/remote-jobs/remote-chief-human-resources-officer-unite-1135520",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T11:14:01+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Chief Human Resources Officer"
-  },
-  "remoteok_1135530": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "CFO Controller",
-   "company": "FractionalFinders",
-   "url": "https://remoteOK.com/remote-jobs/remote-cfo-controller-fractionalfinders-1135530",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T10:53:50+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: CFO Controller"
-  },
-  "remoteok_1135496": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Master Plan",
-   "company": "US Gove",
-   "url": "https://remoteOK.com/remote-jobs/remote-master-plan-us-gove-1135496",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T10:16:07+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: Master Plan"
-  },
-  "remoteok_1135459": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Software Developer Intermediate",
-   "company": "Smile Digital Health",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-developer-intermediate-smile-digital-health-1135459",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T08:00:17+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "freelance_only: annual salary $102.5K-$135K USD indicates employment; Mid-level (Intermediate) Toronto CA"
-  },
-  "remoteok_1135519": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Chief Operating Officer",
-   "company": "DSD Recruitment",
-   "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-dsd-recruitment-1135519",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T07:58:03+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Chief Operating Officer"
-  },
-  "remoteok_1135524": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Social Media Strategist",
-   "company": "Digital",
-   "url": "https://remoteOK.com/remote-jobs/remote-social-media-strategist-digital-1135524",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T07:57:30+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Social Media Strategist"
-  },
-  "remoteok_1135521": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Instagram VA",
-   "company": "OnlineJobs.PH",
-   "url": "https://remoteOK.com/remote-jobs/remote-instagram-va-onlinejobs-ph-1135521",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T07:15:22+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Instagram VA"
-  },
-  "remoteok_1135491": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Touchpoint",
-   "company": "AdConversion",
-   "url": "https://remoteOK.com/remote-jobs/remote-touchpoint-adconversion-1135491",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T07:11:52+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: Touchpoint"
-  },
-  "remoteok_1135499": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "v",
-   "company": "Norsk senter for CERN-relatert forskning (NorCC)",
-   "url": "https://remoteOK.com/remote-jobs/remote-v-norsk-senter-for-cern-relatert-forskning-norcc-1135499",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T06:02:07+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: 'v'"
-  },
-  "remoteok_1135494": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Who We Are",
-   "company": "Pet Health Insurance Services",
-   "url": "https://remoteOK.com/remote-jobs/remote-who-we-are-pet-health-insurance-services-1135494",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T03:52:22+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: Who We Are"
-  },
-  "remoteok_1135500": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Candidate Requirements",
-   "company": "The VETS",
-   "url": "https://remoteOK.com/remote-jobs/remote-candidate-requirements-the-vets-1135500",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T00:39:44+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: Candidate Requirements"
-  },
-  "remoteok_1135504": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "No positions currently available",
-   "company": "UpTye",
-   "url": "https://remoteOK.com/remote-jobs/remote-no-positions-currently-available-uptye-1135504",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-27T00:02:53+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / placeholder: No positions currently available"
-  },
-  "remoteok_1135495": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Expertise Path and Manager Path",
-   "company": "nidup",
-   "url": "https://remoteOK.com/remote-jobs/remote-expertise-path-and-manager-path-nidup-1135495",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-26T21:51:30+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: Expertise Path and Manager Path"
-  },
-  "remoteok_1135490": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Rent the Runway",
-   "company": "nidup",
-   "url": "https://remoteOK.com/remote-jobs/remote-rent-the-runway-nidup-1135490",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-26T21:50:30+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: Rent the Runway"
-  },
-  "remoteok_1135493": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Supervisor",
-   "company": "Strive Engineering Solutions",
-   "url": "https://remoteOK.com/remote-jobs/remote-supervisor-strive-engineering-solutions-1135493",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-26T20:04:17+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Supervisor (engineering)"
-  },
-  "remoteok_1135502": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "System kolejkowy KolejkoBot",
-   "company": "WidNet",
-   "url": "https://remoteOK.com/remote-jobs/remote-system-kolejkowy-kolejkobot-widnet-1135502",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-26T19:47:10+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: System kolejkowy KolejkoBot"
-  },
-  "remoteok_1135492": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Prediction Markets",
-   "company": "responsiblo",
-   "url": "https://remoteOK.com/remote-jobs/remote-prediction-markets-responsiblo-1135492",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-26T19:32:55+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / junk title: Prediction Markets"
-  },
-  "remoteok_1135456": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Digital Designer",
-   "company": "Revlytic",
-   "url": "https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-26T17:57:39+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Digital Designer"
-  },
-  "remoteok_1135425": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "No open roles right now",
-   "company": "Public Health Bureau",
-   "url": "https://remoteOK.com/remote-jobs/remote-no-open-roles-right-now-public-health-bureau-1135425",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-26T01:11:50+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev / placeholder: No open roles right now"
-  },
-  "remoteok_1135516": {
-   "site_id": "remoteok",
-   "site_name": "RemoteOK",
-   "title": "Monitor Operacional Cachoeirinha RS Vagas Profissionais",
-   "company": "BuscarVagas - Empregos Brasil",
-   "url": "https://remoteOK.com/remote-jobs/remote-monitor-operacional-cachoeirinha-rs-vagas-profissionais-buscarvagas-empregos-brasil-1135516",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "2026-07-25T07:39:46+00:00",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Monitor Operacional (Brasile)"
-  },
-  "himalayas_https://himalayas.app/companies/under-armour/jobs/sr-data-analytics-engineer-remote-us-1075888688": {
-   "site_id": "himalayas",
-   "site_name": "Himalayas",
-   "title": "Sr. Data Analytics Engineer (Remote, US)",
-   "company": "Under Armour",
-   "url": "https://himalayas.app/companies/under-armour/jobs/https://himalayas.app/companies/under-armour/jobs/sr-data-analytics-engineer-remote-us-1075888688",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": 1785224423,
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "seniority_filter: Sr. Data Analytics Engineer (Senior)"
-  },
-  "glassdoor_2803357": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "JUNIOR SOFTWARE DEVELOPER",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/junior-software-developer-umana-JV_IC2803357_KO0,25_KE26,31.htm?jl=1010210726278",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Umana staffing, no remote confirmed; default on-site for Junior)"
-  },
-  "glassdoor_2747825": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Junior SEO Specialist",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/junior-seo-specialist-gruppo-co-JV_IC2747825_KO0,21_KE22,31.htm?jl=1010148490630",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Junior SEO Specialist"
-  },
-  "glassdoor_2774800": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Junior Full Stack Developer - categorie protette (L. 68/99)",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/junior-full-stack-developer-categorie-protette-l-68-99-risorse-JV_IC2774800_KO0,54_KE55,62.htm?jl=1010189466286",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Risorse, no remote confirmed; default on-site for Junior)"
-  },
-  "glassdoor_2734746": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Senior developer_C# .Net",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/senior-developer-c-net-pagegroup-JV_IC2734746_KO0,22_KE23,32.htm?jl=1010205700025",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "seniority_filter: Senior developer C# .Net"
-  },
-  "glassdoor_2822810": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Sales Account & Business Developer – Gas & Power",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/sales-account-business-developer-gas-power-gi-group-holding-JV_IC2822810_KO0,42_KE43,59.htm?jl=1010191355251",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Sales Account & Business Developer"
-  },
-  "glassdoor_2733998": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Junior IT Application Specialist – Integrazione Sistemi e AI",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/junior-it-application-specialist-integrazione-sistemi-e-ai-apollon-srl-JV_IC2733998_KO0,58_KE59,70.htm?jl=1010210270141",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Apollon Srl, no remote confirmed; default on-site for Junior)"
-  },
-  "glassdoor_2792068": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Ingegnere Junior – Manutenzione e Asset Management - Apprendistato (m/f/d)",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/ingegnere-junior-manutenzione-e-asset-management-apprendistato-mfd-terme-di-sirmione-JV_IC2792068_KO0,66_KE67,84.htm?jl=1010191273341",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Ingegnere Manutenzione e Asset Management"
-  },
-  "glassdoor_2733347": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "GEOMETRA JUNIOR",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/geometra-junior-umana-JV_IC2733347_KO0,15_KE16,21.htm?jl=1010208242663",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Geometra (surveyor)"
-  },
-  "glassdoor_2824492": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "JUNIOR ELECTRICAL AND AUTOMATION PROJECT ENGINEER",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/junior-electrical-and-automation-project-engineer-esse-engineering-srls-JV_IC2824492_KO0,49_KE50,71.htm?jl=1010209563911",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Junior Electrical/Automation Project Engineer"
-  },
-  "glassdoor_2791476": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "JUNIOR SOFTWARE ENGINEER",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/junior-software-engineer-umana-JV_IC2791476_KO0,24_KE25,30.htm?jl=1010208199847",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "remote_only: Junior on-site Italy (Glassdoor Umana staffing, no remote confirmed; default on-site for Junior)"
-  },
-  "glassdoor_6bb8d14a2956": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Ingegnere Meccanico - Junior",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/ingegnere-meccanico-junior-actarus-oy-JV_KO0,26_KE27,37.htm?jl=1010207875178",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Ingegnere Meccanico Junior"
-  },
-  "glassdoor_2802871": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Technical Sales Engineer",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/technical-sales-engineer-aebi-schmidt-italia-srl-JV_IC2802871_KO0,24_KE25,48.htm?jl=1010126050803",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Technical Sales Engineer"
-  },
-  "glassdoor_2751409": {
-   "site_id": "glassdoor",
-   "site_name": "Glassdoor",
-   "title": "Ingegnere meccanico junior",
-   "company": "",
-   "url": "https://www.glassdoor.it/job-listing/ingegnere-meccanico-junior-tecnonaval-srl-JV_IC2751409_KO0,26_KE27,41.htm?jl=1010206871527",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "Non-dev role: Ingegnere meccanico junior"
-  },
-  "infojobs_es_ca286bb7e040f8a6dd26dab5cbef5f": {
-   "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Frontend Senior (Shopify Plus) — freelance",
-   "company": "Consultia IT",
-   "url": "https://www.infojobs.net/madrid/frontend-senior-shopify-plus-freelance/of-ica286bb7e040f8a6dd26dab5cbef5f",
-   "first_seen": "2026-07-28T14:16:39.239284+00:00",
-   "pub_date": "",
-   "notified": false,
-   "eliminated": true,
-   "elimination_reason": "seniority_filter: Frontend Senior (Shopify Plus) — Senior"
-  },
   "arcdev_p89micg8nv": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
@@ -748,7 +268,7 @@
   "glassdoor_1010191355251": {
    "site_id": "glassdoor",
    "site_name": "Glassdoor",
-   "title": "Sales Account &amp; Business Developer – Gas &amp; Power",
+   "title": "Sales Account &amp; Business Developer \u2013 Gas &amp; Power",
    "company": "",
    "url": "https://www.glassdoor.it/job-listing/sales-account-business-developer-gas-power-gi-group-holding-JV_IC2822810_KO0,42_KE43,59.htm",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
@@ -952,14 +472,14 @@
   "himalayas_https://himalayas.app/companies/clicksign/jobs/especialista-em-revops-engineering-partner-operations-low-code": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Especialista em RevOps Engineering – Partner Operations (Low-Code)",
+   "title": "Especialista em RevOps Engineering \u2013 Partner Operations (Low-Code)",
    "company": "Clicksign",
    "url": "https://himalayas.app/companies/clicksign/jobs/especialista-em-revops-engineering-partner-operations-low-code",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "non-dev role: 'Especialista em RevOps Engineering – Partner Operations (Low-Code)'"
+   "elimination_reason": "non-dev role: 'Especialista em RevOps Engineering \u2013 Partner Operations (Low-Code)'"
   },
   "himalayas_https://himalayas.app/companies/bjak/jobs/strategy-operations-lead-8207018272": {
    "site_id": "himalayas",
@@ -1024,14 +544,14 @@
   "himalayas_https://himalayas.app/companies/bucherinvest-gmbh/jobs/fuhrungskraft-quereinsteiger-3645271845": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Führungskraft / Quereinsteiger",
+   "title": "F\u00fchrungskraft / Quereinsteiger",
    "company": "BucherInvest GmbH",
    "url": "https://himalayas.app/companies/bucherinvest-gmbh/jobs/fuhrungskraft-quereinsteiger-3645271845",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "non-dev role: 'Führungskraft / Quereinsteiger'"
+   "elimination_reason": "non-dev role: 'F\u00fchrungskraft / Quereinsteiger'"
   },
   "himalayas_https://himalayas.app/companies/verto/jobs/lead-frontend-engineer": {
    "site_id": "himalayas",
@@ -1060,14 +580,14 @@
   "himalayas_https://himalayas.app/companies/minsait-an-indra-company/jobs/analista-adquirencia": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Analista Adquirência",
+   "title": "Analista Adquir\u00eancia",
    "company": "Minsait an Indra Company",
    "url": "https://himalayas.app/companies/minsait-an-indra-company/jobs/analista-adquirencia",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "non-dev role: 'Analista Adquirência'"
+   "elimination_reason": "non-dev role: 'Analista Adquir\u00eancia'"
   },
   "arcdev_p7w5aw263l": {
    "site_id": "arcdev",
@@ -1096,7 +616,7 @@
   "arcdev_p82jut4psh": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Backend / Infrastructure Engineer (m/w/d) für das INSPO Team // Remote möglich",
+   "title": "Senior Backend / Infrastructure Engineer (m/w/d) f\u00fcr das INSPO Team // Remote m\u00f6glich",
    "company": "E. Breuninger GmbH & Co.",
    "url": "https://arc.dev/remote-jobs/breuninger-senior-backend-infrastructure-engineer-m-w-d-fur-das-inspo-team-remote-moglich",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
@@ -1168,7 +688,7 @@
   "arcdev_p82jyxb3q1": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Principal Technical Curriculum Developer – SaMD Product Development & QA",
+   "title": "Principal Technical Curriculum Developer \u2013 SaMD Product Development & QA",
    "company": "Oracle",
    "url": "https://arc.dev/remote-jobs/oracle-principal-technical-curriculum-developer-samd-product-development-qa",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
@@ -1192,7 +712,7 @@
   "arcdev_omklfb08rw": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Embedded Software Engineer (m/w/d) – Günzburg",
+   "title": "Senior Embedded Software Engineer (m/w/d) \u2013 G\u00fcnzburg",
    "company": "Xylem",
    "url": "https://arc.dev/remote-jobs/xylem-senior-embedded-software-engineer-m-w-d-gunzburg",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
@@ -1323,9 +843,9 @@
   },
   "infojobs_es_35e13c976849fab09bff03e63c7ff3": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Administrativo Premiun Soporte Telefonía Inplant Mañanas",
-   "company": "ABAI SERVICIOS TÉCNICOS Y CONSULTORÍA&nbsp;",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Administrativo Premiun Soporte Telefon\u00eda Inplant Ma\u00f1anas",
+   "company": "ABAI SERVICIOS T\u00c9CNICOS Y CONSULTOR\u00cdA&nbsp;",
    "url": "https://www.infojobs.net/boiro/administrativo-premiun-soporte-telefonia-inplant-mananas/of-i35e13c976849fab09bff03e63c7ff3",
    "first_seen": "2026-07-29T14:20:30.908874+00:00",
    "pub_date": null,
@@ -1408,7 +928,7 @@
   "remoteok_1135641": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "Analista de Dados Junior Exclusiva SÃ£o Paulo",
+   "title": "Analista de Dados Junior Exclusiva S\u00c3\u00a3o Paulo",
    "company": "Confitec",
    "url": "https://remoteOK.com/remote-jobs/remote-analista-de-dados-junior-exclusiva-sao-paulo-confitec-1135641",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1504,7 +1024,7 @@
   "himalayas_https://himalayas.app/companies/pulselearning/jobs/software-developer-cloud-solutions": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Software Developer – Cloud Solutions",
+   "title": "Software Developer \u2013 Cloud Solutions",
    "company": "",
    "url": "https://himalayas.app/companies/pulselearning/jobs/software-developer-cloud-solutions",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1671,8 +1191,8 @@
   },
   "infojobs_es_3642ed09d44e06a086ac75283d4751": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Curso gratuito Online Programación .NET con disca",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Curso gratuito Online Programaci\u00f3n .NET con disca",
    "company": "Adecco INT",
    "url": "https://www.infojobs.net/pamplona-iruna/curso-gratuito-online-programacion-.net-con-disca/of-i3642ed09d44e06a086ac75283d4751",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1683,7 +1203,7 @@
   },
   "infojobs_es_4c966ccac04722a24bdc22a5cb9945": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "CURSO DESARROLLO WEB FRONT END CON REACT con disca",
    "company": "Adecco INT",
    "url": "https://www.infojobs.net/pamplona-iruna/curso-desarrollo-web-front-end-con-react-con-disca/of-i4c966ccac04722a24bdc22a5cb9945",
@@ -1695,7 +1215,7 @@
   },
   "infojobs_es_176fc0b89243d5852ac6ed1e753b02": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador Front-End especializado en Vue.js",
    "company": "TECDATA ENGINEERING",
    "url": "https://www.infojobs.net/madrid/desarrollador-front-end-especializado-vue.js/of-i176fc0b89243d5852ac6ed1e753b02",
@@ -1707,7 +1227,7 @@
   },
   "infojobs_es_636b892b52489484a98bdd086f01eb": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador de eCommerce PHP",
    "company": "Ioon Technologies SLU",
    "url": "https://www.infojobs.net/madrid/desarrollador-ecommerce-php/of-i636b892b52489484a98bdd086f01eb",
@@ -1719,7 +1239,7 @@
   },
   "infojobs_es_9602bea9be472f89c96e69ce8180c1": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador web WordPress y PHP",
    "company": "Javier Chiva Luis",
    "url": "https://www.infojobs.net/casinos/desarrollador-web-wordpress-php/of-i9602bea9be472f89c96e69ce8180c1",
@@ -1731,7 +1251,7 @@
   },
   "infojobs_es_ad319c7e434f6d85c87c3c52f419b8": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Ingeniero/a Junior Proyecto - Madrid",
    "company": "Grupo SICE TyS",
    "url": "https://www.infojobs.net/alcobendas/ingeniero-junior-proyecto-madrid/of-iad319c7e434f6d85c87c3c52f419b8",
@@ -1743,7 +1263,7 @@
   },
   "infojobs_es_c171f25dca412282d12247e0b4c85c": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Frontend Developer | React",
    "company": "BETWEEN Technology",
    "url": "https://www.infojobs.net/sevilla/frontend-developer-react/of-ic171f25dca412282d12247e0b4c85c",
@@ -1755,9 +1275,9 @@
   },
   "infojobs_es_b53d2716644e88b5aaabef0434081a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Ecommerce (Magento + IA)",
-   "company": "FUNDACIÓN JUAN XXIII",
+   "company": "FUNDACI\u00d3N JUAN XXIII",
    "url": "https://www.infojobs.net/madrid/desarrollador-ecommerce-magento-ia/of-ib53d2716644e88b5aaabef0434081a",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-29T10:49:22Z",
@@ -1767,7 +1287,7 @@
   },
   "infojobs_es_c53b4193194dbda16476f89b69064b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "SQL Developer",
    "company": "DIGI CORPORATIVO",
    "url": "https://www.infojobs.net/alcobendas/sql-developer/of-ic53b4193194dbda16476f89b69064b",
@@ -1779,7 +1299,7 @@
   },
   "infojobs_es_1fca1dd73449f5b343e706ca6883d4": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador JAVA Junior con o sin experiencia",
    "company": "CeroPuntoCero",
    "url": "https://www.infojobs.net/madrid/programador-java-junior-con-sin-experiencia/of-i1fca1dd73449f5b343e706ca6883d4",
@@ -1791,9 +1311,9 @@
   },
   "infojobs_es_0794f5652542a8b602da61726ff7c0": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a PHP con frameworks (Symfony / Laravel)",
-   "company": "TENEA Tecnologías",
+   "company": "TENEA Tecnolog\u00edas",
    "url": "https://www.infojobs.net/barcelona/programador-php-con-frameworks-symfony-laravel/of-i0794f5652542a8b602da61726ff7c0",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-27T09:07:03Z",
@@ -1803,9 +1323,9 @@
   },
   "infojobs_es_a36ebaf74f41c6aeed63c535346d99": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Java Senior - DevOps & Cloud (Kubernetes/Azure)",
-   "company": "Asociación Inserta Empleo",
+   "company": "Asociaci\u00f3n Inserta Empleo",
    "url": "https://www.infojobs.net/madrid/desarrollador-java-senior-devops-cloud-kubernetes-azure/of-ia36ebaf74f41c6aeed63c535346d99",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-30T06:30:07Z",
@@ -1815,9 +1335,9 @@
   },
   "infojobs_es_a938ff4e304c5c95bec948b758193b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Desarrollador/a Backend & IA (Orquestación de Agentes) — 100% Remoto",
-   "company": "PRESCRIPCIÓN MÉDICA UNIVERSAL",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador/a Backend & IA (Orquestaci\u00f3n de Agentes) \u2014 100% Remoto",
+   "company": "PRESCRIPCI\u00d3N M\u00c9DICA UNIVERSAL",
    "url": "https://www.infojobs.net/madrid/desarrollador-backend-ia-orquestacion-agentes-100-remoto/of-ia938ff4e304c5c95bec948b758193b",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-27T11:39:24Z",
@@ -1827,7 +1347,7 @@
   },
   "infojobs_es_406445d1754a0c80ce50b7e9c7db0a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Ingeniero/a junior",
    "company": "METROMECANICA",
    "url": "https://www.infojobs.net/zaragoza/ingeniero-junior/of-i406445d1754a0c80ce50b7e9c7db0a",
@@ -1839,8 +1359,8 @@
   },
   "infojobs_es_12b0f6632d499392b294a06bc83435": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "BECA REMUNERADA INFORMÁTICO/A PROGRAMADOR/A",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "BECA REMUNERADA INFORM\u00c1TICO/A PROGRAMADOR/A",
    "company": "INGETEAM",
    "url": "https://www.infojobs.net/beasain/beca-remunerada-informatico-programador/of-i12b0f6632d499392b294a06bc83435",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1851,7 +1371,7 @@
   },
   "infojobs_es_7d9281aff947e5953f7aab5d151e2f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrolador/a Salesforce Marketing Automation (Junior)",
    "company": "ESR (energy solutions SL)",
    "url": "https://www.infojobs.net/sant-boi-de-llobregat/desarrolador-salesforce-marketing-automation-junior/of-i7d9281aff947e5953f7aab5d151e2f",
@@ -1863,8 +1383,8 @@
   },
   "infojobs_es_639fc0147643a393a77f793b476ee9": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Desarrollador/a backend Jr con Python - Teletrabajo - Inglés alto",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador/a backend Jr con Python - Teletrabajo - Ingl\u00e9s alto",
    "company": "CMV Consultores",
    "url": "https://www.infojobs.net/madrid/desarrollador-backend-jr-con-python-teletrabajo-ingles-alto/of-i639fc0147643a393a77f793b476ee9",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1875,8 +1395,8 @@
   },
   "infojobs_es_187fcfcf584ad084a104c42aadea15": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Developer Java Spring Boot - Inglés - REMOTO",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Developer Java Spring Boot - Ingl\u00e9s - REMOTO",
    "company": "Digital Talent Agency Zona Centro",
    "url": "https://www.infojobs.net/madrid/developer-java-spring-boot-ingles-remoto/of-i187fcfcf584ad084a104c42aadea15",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1887,7 +1407,7 @@
   },
   "infojobs_es_dab111e3cf405690539bd10d2e3234": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a Jr. Data (Business Intelligence, Big Data, Cloud, SQL o Python) indispensable Cert. Discapacidad 33%",
    "company": "Bluetab, an IBM Company",
    "url": "https://www.infojobs.net/madrid/programador-jr.-data-business-intelligence-big-data-cloud-sql-python-indispensable-cert.-discapacidad-33/of-idab111e3cf405690539bd10d2e3234",
@@ -1899,7 +1419,7 @@
   },
   "infojobs_es_1e4b278b614be3b321b419b2862ec8": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a COBOL (Remoto)",
    "company": "ALVEA SOLUCIONES TECNOLOGICAS, S.L.",
    "url": "https://www.infojobs.net/madrid/desarrollador-cobol-remoto/of-i1e4b278b614be3b321b419b2862ec8",
@@ -1911,7 +1431,7 @@
   },
   "infojobs_es_6aeb5e2a8e497fbf94eb6fa8cce7e5": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Data analyst",
    "company": "AVAFIN SPAIN S.L.",
    "url": "https://www.infojobs.net/barcelona/data-analyst/of-i6aeb5e2a8e497fbf94eb6fa8cce7e5",
@@ -1923,20 +1443,20 @@
   },
   "infojobs_es_0c5e3ef8314ad9b588b309b06a2cf8": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "PROGRAMADOR PL/SQL REMOTO ESPAÑA, TEMPORAL/H/M/X",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "PROGRAMADOR PL/SQL REMOTO ESPA\u00d1A, TEMPORAL/H/M/X",
    "company": "Experis IT",
    "url": "https://www.infojobs.net/madrid/programador-pl-sql-remoto-espana-temporal-h-m-x/of-i0c5e3ef8314ad9b588b309b06a2cf8",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-30T11:36:13Z",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "freelance_only: employment (Empleado/a) + annual gross salary €30-33K (Contrato de duración determinada)"
+   "elimination_reason": "freelance_only: employment (Empleado/a) + annual gross salary \u20ac30-33K (Contrato de duraci\u00f3n determinada)"
   },
   "infojobs_es_62a515cc454e3b9b81e7531cfbad8f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Administrativo Premiun Soporte Telefonía Inplant 20 h/s.",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Administrativo Premiun Soporte Telefon\u00eda Inplant 20 h/s.",
    "company": "ABAI Teleservicios",
    "url": "https://www.infojobs.net/madrid/administrativo-premiun-soporte-telefonia-inplant-20-h-s./of-i62a515cc454e3b9b81e7531cfbad8f",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1947,8 +1467,8 @@
   },
   "infojobs_es_154060710f4e6db7f2c329b722701d": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de Soporte IT VIP",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de Soporte IT VIP",
    "company": "Arestes",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte-it-vip/of-i154060710f4e6db7f2c329b722701d",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -1959,7 +1479,7 @@
   },
   "infojobs_es_8f32cff881437bb45906cb41ae4452": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "TECNICO DE SOPORTE VIP",
    "company": "EQUIPO TIC XXI",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte-vip/of-i8f32cff881437bb45906cb41ae4452",
@@ -1971,19 +1491,19 @@
   },
   "infojobs_es_1bb8ff0d7742cf98f6e94d8f3c8d82": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a en Reparación de Telefonía Móvil y Atención al Cliente",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a en Reparaci\u00f3n de Telefon\u00eda M\u00f3vil y Atenci\u00f3n al Cliente",
    "company": "ZOMVY SPARE PARTS S.L.",
    "url": "https://www.infojobs.net/almendralejo/tecnico-reparacion-telefonia-movil-atencion-al-cliente/of-i1bb8ff0d7742cf98f6e94d8f3c8d82",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-25T11:40:15Z",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "non-dev role (reparación de telefonía)"
+   "elimination_reason": "non-dev role (reparaci\u00f3n de telefon\u00eda)"
   },
   "infojobs_es_91ee9dd98f478daee109aeb4bb4399": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Tecnico reparacion de telefonia movil , tablets , ordenadores y consolas",
    "company": "iMovil Canarias",
    "url": "https://www.infojobs.net/ingenio/tecnico-reparacion-telefonia-movil-tablets-ordenadores-consolas/of-i91ee9dd98f478daee109aeb4bb4399",
@@ -1995,8 +1515,8 @@
   },
   "infojobs_es_c9358ac7ce48e6bface0c4ddf3b0cb": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de Soporte VIP (Ingles B1-B2) - 100% Presencial (Madrid)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de Soporte VIP (Ingles B1-B2) - 100% Presencial (Madrid)",
    "company": "SANDAV",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte-vip-ingles-b1-b2-100-presencial-madrid/of-ic9358ac7ce48e6bface0c4ddf3b0cb",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -2007,7 +1527,7 @@
   },
   "infojobs_es_b2e6f2710e4cc48d88a46d8571df77": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a Microsoft Dynamics 365 F&O - Barcelona",
    "company": "Grupo Mullor",
    "url": "https://www.infojobs.net/barcelona/programador-microsoft-dynamics-365-f-barcelona/of-ib2e6f2710e4cc48d88a46d8571df77",
@@ -2019,7 +1539,7 @@
   },
   "infojobs_es_0e1a35f54d4af993d4a7fb1cd232fd": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Gestor/a de incidencias de aplicaciones",
    "company": "LOXAM",
    "url": "https://www.infojobs.net/madrid/gestor-incidencias-aplicaciones/of-i0e1a35f54d4af993d4a7fb1cd232fd",
@@ -2031,19 +1551,19 @@
   },
   "infojobs_es_6881ac39f04950a6a29ec23e0eddc6": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "TÉCNICO/A DE SOPORTE TEMPORAL (BAJA PATERNIDAD)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00c9CNICO/A DE SOPORTE TEMPORAL (BAJA PATERNIDAD)",
    "company": "Grupo ICA",
    "url": "https://www.infojobs.net/hornachuelos/tecnico-soporte-temporal-baja-paternidad/of-i6881ac39f04950a6a29ec23e0eddc6",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-29T11:37:51Z",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "non-dev role (técnico/a de soporte)"
+   "elimination_reason": "non-dev role (t\u00e9cnico/a de soporte)"
   },
   "infojobs_es_bfc4aee5944c2a84618e71643cd233": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Native Nordic & European Language Customer Support Representatives",
    "company": "ASSIST CRM SPAIN SL.",
    "url": "https://www.infojobs.net/valencia/native-nordic-european-language-customer-support-representatives/of-ibfc4aee5944c2a84618e71643cd233",
@@ -2055,9 +1575,9 @@
   },
   "infojobs_es_ac889c04324191845e449d21d891f9": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Vendedor/a Apple Porto Pi",
-   "company": "K-TUIN, SISTEMAS INFORMÁTICOS",
+   "company": "K-TUIN, SISTEMAS INFORM\u00c1TICOS",
    "url": "https://www.infojobs.net/palma-de-mallorca/vendedor-apple-porto-pi/of-iac889c04324191845e449d21d891f9",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-28T16:00:39Z",
@@ -2067,9 +1587,9 @@
   },
   "infojobs_es_192782ddeb4738b8e4f6cb41c75848": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Vendedor/a Apple Tenerife Safari",
-   "company": "K-TUIN, SISTEMAS INFORMÁTICOS",
+   "company": "K-TUIN, SISTEMAS INFORM\u00c1TICOS",
    "url": "https://www.infojobs.net/adeje/vendedor-apple-tenerife-safari/of-i192782ddeb4738b8e4f6cb41c75848",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-30T10:02:20Z",
@@ -2079,21 +1599,21 @@
   },
   "infojobs_es_8f272fb093422c94787b2717a3eb46": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico de Soporte de Campo Junior (H/M/X). Inglés alto. Presencial Madrid.",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico de Soporte de Campo Junior (H/M/X). Ingl\u00e9s alto. Presencial Madrid.",
    "company": "Experis IT",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte-campo-junior-h-m-x-.-ingles-alto.-presencial-madrid./of-i8f272fb093422c94787b2717a3eb46",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-28T08:09:21Z",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "non-dev role (técnico de soporte)"
+   "elimination_reason": "non-dev role (t\u00e9cnico de soporte)"
   },
   "infojobs_es_21b82921824fbd920b1ce431462311": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Full Stack developer",
-   "company": "Tuyú Technology",
+   "company": "Tuy\u00fa Technology",
    "url": "https://www.infojobs.net/barcelona/full-stack-developer/of-i21b82921824fbd920b1ce431462311",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
    "pub_date": "2026-07-27T07:26:09Z",
@@ -2103,8 +1623,8 @@
   },
   "infojobs_es_9d74f62b414c078984c132fd92de91": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Senior Full Stack Developer (Angular + Java) – Sector Seguros | Barcelona (Híbrido)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Senior Full Stack Developer (Angular + Java) \u2013 Sector Seguros | Barcelona (H\u00edbrido)",
    "company": "CAS Training",
    "url": "https://www.infojobs.net/barcelona/senior-full-stack-developer-angular-java-sector-seguros-barcelona-hibrido/of-i9d74f62b414c078984c132fd92de91",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -2115,8 +1635,8 @@
   },
   "infojobs_es_bcd9440be84377867d8c0ab0f2edd3": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Asistente de Web, Diseño y Contenidos",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Asistente de Web, Dise\u00f1o y Contenidos",
    "company": "TRADEVISTA ECOM SL.",
    "url": "https://www.infojobs.net/beniparrell/asistente-web-diseno-contenidos/of-ibcd9440be84377867d8c0ab0f2edd3",
    "first_seen": "2026-07-30T14:20:26.063310+00:00",
@@ -2153,7 +1673,7 @@
   },
   "infojobs_es_0a3a8a660943a7970ee3afcbeed344": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Junior ERP MD365 F&O y Power BI",
    "company": "PLANA FABREGA",
    "url": "https://www.infojobs.net/barcelona/desarrollador-junior-erp-md365-f-power-bi/of-i0a3a8a660943a7970ee3afcbeed344",
@@ -2168,7 +1688,7 @@
   },
   "infojobs_es_17a389230e4d46873b3624e1017237": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a .NET Junior",
    "company": "ABAST",
    "url": "https://www.infojobs.net/madrid/desarrollador-.net-junior/of-i17a389230e4d46873b3624e1017237",
@@ -2176,7 +1696,7 @@
    "notified": false,
    "eliminated": true,
    "elimination_reasons": [
-    "freelance_only: Contrato indefinido + seguro médico + tarjeta restaurante (employment benefits)"
+    "freelance_only: Contrato indefinido + seguro m\u00e9dico + tarjeta restaurante (employment benefits)"
    ],
    "location": "Madrid, Spain (100% teletrabajo)"
   },
@@ -2639,7 +2159,7 @@
   "arcdev_cf2b5d68925b": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Software Engineer – AI & Data (NA/LATAM - FT)",
+   "title": "Senior Software Engineer \u2013 AI & Data (NA/LATAM - FT)",
    "company": "Arc.dev company",
    "url": "https://arc.dev/remote-jobs/senior-software-engineer-ai-data-na-latam-ft",
    "first_seen": "2026-08-01T14:21:29.344209+00:00",
@@ -2651,7 +2171,7 @@
   "arcdev_971fcbc9a221": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Full-Stack Engineer — TypeScript, React & AWS (PT-LATAM)",
+   "title": "Senior Full-Stack Engineer \u2014 TypeScript, React & AWS (PT-LATAM)",
    "company": "Arc.dev company",
    "url": "https://arc.dev/remote-jobs/senior-full-stack-engineer-typescript-react-aws-pt-latam",
    "first_seen": "2026-08-01T14:21:29.344209+00:00",
@@ -2987,7 +2507,7 @@
   "arcdev_330a7d1af1cd": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Staff Software Engineer — Backend",
+   "title": "Staff Software Engineer \u2014 Backend",
    "company": "Cari Network",
    "url": "https://arc.dev/remote-jobs/cari-network-staff-software-engineer-backend",
    "first_seen": "2026-08-01T14:21:29.344209+00:00",
@@ -3011,7 +2531,7 @@
   "arcdev_dcec1da569d6": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Software Engineer – Low Latency Applications",
+   "title": "Senior Software Engineer \u2013 Low Latency Applications",
    "company": "Lumenalta",
    "url": "https://arc.dev/remote-jobs/lumenalta-senior-software-engineer-low-latency-applications",
    "first_seen": "2026-08-01T14:21:29.344209+00:00",
@@ -3558,7 +3078,7 @@
   "arcdev_p95jfv3zaw": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Performance Marketer (m/w/d) - Meta Ads × AI × Creative Strategy | E-Commerce, Online Marketing",
+   "title": "Performance Marketer (m/w/d) - Meta Ads \u00d7 AI \u00d7 Creative Strategy | E-Commerce, Online Marketing",
    "company": "Divinely HQ GmbH",
    "url": "https://arc.dev/remote-jobs/divinely-hq-gmbh-performance-marketer-m-w-d-meta-ads-x-ai-x-creative-strategy-e-commerce-online-marketing",
    "first_seen": "2026-08-03T14:15:41.847361+00:00",
@@ -3678,14 +3198,14 @@
   "himalayas_f0b9354ae57d5f0d": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Analista de Sistemas Sênior (4743)",
+   "title": "Analista de Sistemas S\u00eanior (4743)",
    "company": "Keep Simple",
    "url": "https://himalayas.app/companies/keep-simple/jobs/analista-de-sistemas-senior-4743",
    "first_seen": "2026-08-03T14:15:41.847361+00:00",
    "pub_date": "2026-08-03T13:28:18+00:00",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "seniority: Sênior (Portuguese senior); geographic: Brazil-only"
+   "elimination_reason": "seniority: S\u00eanior (Portuguese senior); geographic: Brazil-only"
   },
   "himalayas_f570ee1c62a4ab20": {
    "site_id": "himalayas",
@@ -3774,7 +3294,7 @@
   "himalayas_f68ee52170771ab9": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Senior Subject Matter Expert – IBM Maximo & Cognos",
+   "title": "Senior Subject Matter Expert \u2013 IBM Maximo & Cognos",
    "company": "Rolls-Royce",
    "url": "https://himalayas.app/companies/rolls-royce/jobs/senior-subject-matter-expert-ibm-maximo-cognos",
    "first_seen": "2026-08-03T14:15:41.847361+00:00",
@@ -3834,7 +3354,7 @@
   "remoteok_1135957": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "Build Anything Launch â 99 Seconds",
+   "title": "Build Anything Launch \u00e2\u0080\u0094 99 Seconds",
    "company": "Clarity-Fox",
    "url": "https://remoteOK.com/remote-jobs/remote-build-anything-launch-99-seconds-clarity-fox-1135957",
    "first_seen": "2026-08-04T14:13:40.748793+00:00",
@@ -3846,14 +3366,14 @@
   "remoteok_1136062": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "Profesor A De Ele â EnseÃ±anza Innovadora Horario Flexible",
+   "title": "Profesor A De Ele \u00e2\u0080\u0094 Ense\u00c3\u00b1anza Innovadora Horario Flexible",
    "company": "Apprentus",
    "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-ele-ensenanza-innovadora-horario-flexible-apprentus-1136062",
    "first_seen": "2026-08-04T14:13:40.748793+00:00",
    "pub_date": "2026-08-02T17:41:43+00:00",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "obvious non-dev: ele â"
+   "elimination_reason": "obvious non-dev: ele \u00e2"
   },
   "remoteok_1136000": {
    "site_id": "remoteok",
@@ -3906,7 +3426,7 @@
   "remoteok_1136065": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "Professeur particulier toutes matiÃ¨res H F",
+   "title": "Professeur particulier toutes mati\u00c3\u00a8res H F",
    "company": "Apprentus",
    "url": "https://remoteOK.com/remote-jobs/remote-professeur-particulier-toutes-matieres-h-f-apprentus-1136065",
    "first_seen": "2026-08-04T14:13:40.748793+00:00",
@@ -4026,7 +3546,7 @@
   "arcdev_p9rtz3ey4d": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Product Designer (UX/UI — Web + Mobile) - PT - APAC/EMEA",
+   "title": "Product Designer (UX/UI \u2014 Web + Mobile) - PT - APAC/EMEA",
    "company": "Arc Exclusive",
    "url": "https://arc.dev/remote-jobs/details/product-designer-ux-ui-web-mobile-pt-apac-emea-p9rtz3ey4d",
    "first_seen": "2026-08-04T14:13:40.748793+00:00",
@@ -4038,7 +3558,7 @@
   "arcdev_p9p5n9cvqq": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "HIRING: Content Creators — Polygon Web3 Gaming",
+   "title": "HIRING: Content Creators \u2014 Polygon Web3 Gaming",
    "company": "Arc Exclusive",
    "url": "https://arc.dev/remote-jobs/details/hiring-content-creators-polygon-web3-gaming-p9p5n9cvqq",
    "first_seen": "2026-08-04T14:13:40.748793+00:00",
@@ -4086,8 +3606,8 @@
   },
   "infojobs_es_c1a39d5fe94446ac644f4e31e3e506": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Business Developer Junior – E-commerce y Proyectos Internacionales",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Business Developer Junior \u2013 E-commerce y Proyectos Internacionales",
    "company": "TRADEVISTA ECOM SL.",
    "url": "https://www.infojobs.net/beniparrell/business-developer-junior-commerce-proyectos-internacionales/of-ic1a39d5fe94446ac644f4e31e3e506",
    "first_seen": "2026-08-04T14:13:40.748793+00:00",
@@ -4098,7 +3618,7 @@
   },
   "infojobs_es_076fe2dd104cd588d01e0a8f8c5bc0": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a SQL &amp; PL/SQL - Girona",
    "company": "Digital Talent Agency Zona Centro",
    "url": "https://www.infojobs.net/barcelona/programador-sql-pl-sql-girona/of-i076fe2dd104cd588d01e0a8f8c5bc0",
@@ -4110,7 +3630,7 @@
   },
   "infojobs_es_af06da4a8e4d2b80cb14aa7263d692": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador Java / Python | Remoto (presencialidad puntual)",
    "company": "KRELL CONSULTING & TRAINING",
    "url": "https://www.infojobs.net/madrid/programador-java-python-remoto-presencialidad-puntual/of-iaf06da4a8e4d2b80cb14aa7263d692",
@@ -4118,7 +3638,7 @@
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote_only+freelance_only: híbrido Madrid, contrato indefinido"
+   "elimination_reason": "remote_only+freelance_only: h\u00edbrido Madrid, contrato indefinido"
   },
   "remoteok_a73361c6b1cf3dc8": {
    "title": "Application Developer",
@@ -4192,7 +3712,7 @@
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: castel maggiore)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: castel maggiore)"
   },
   "glassdoor_32ec7c71f55fa943": {
    "title": "Programmatore informatico Junior",
@@ -4201,7 +3721,7 @@
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: frosolone)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: frosolone)"
   },
   "glassdoor_ddc9e40a596ee955": {
    "title": "Junior Web Developer",
@@ -4210,7 +3730,7 @@
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: tavazzano con villavesco)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: tavazzano con villavesco)"
   },
   "glassdoor_c09c5a2dae4b293a": {
    "title": "JUNIOR SOFTWARE DEVELOPER",
@@ -4219,16 +3739,16 @@
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: grottammare)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: grottammare)"
   },
   "glassdoor_af38e99cb02bcb11": {
    "title": "Junior Developer ERP",
-   "company": "Lavoropiù",
-   "url": "https://www.glassdoor.it/job-listing/junior-developer-erp-lavoropiù-JV_IC2813310_KO0,20_KE21,30.htm?jl=1010202942724",
+   "company": "Lavoropi\u00f9",
+   "url": "https://www.glassdoor.it/job-listing/junior-developer-erp-lavoropi\u00f9-JV_IC2813310_KO0,20_KE21,30.htm?jl=1010202942724",
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: lecco)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: lecco)"
   },
   "glassdoor_1c5c69609798a731": {
    "title": "Software Developer",
@@ -4237,7 +3757,7 @@
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: montichiari)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: montichiari)"
   },
   "glassdoor_c8da7e4bb8a80755": {
    "title": "JUNIOR .NET DEVELOPER",
@@ -4246,25 +3766,25 @@
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: treviso)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: treviso)"
   },
   "glassdoor_305159e3f2a2d852": {
    "title": "Junior Developer",
-   "company": "Lavoropiù",
-   "url": "https://www.glassdoor.it/job-listing/junior-developer-lavoropiù-JV_IC2763772_KO0,16_KE17,26.htm?jl=1010222036816",
+   "company": "Lavoropi\u00f9",
+   "url": "https://www.glassdoor.it/job-listing/junior-developer-lavoropi\u00f9-JV_IC2763772_KO0,16_KE17,26.htm?jl=1010222036816",
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: cuneo)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: cuneo)"
   },
   "glassdoor_6bc3c2a83c685862": {
    "title": ".NET/C# Developer Junior",
-   "company": "Lavoropiù",
-   "url": "https://www.glassdoor.it/job-listing/net-c-developer-junior-lavoropiù-JV_IC2816648_KO0,22_KE23,32.htm?jl=1010220861462",
+   "company": "Lavoropi\u00f9",
+   "url": "https://www.glassdoor.it/job-listing/net-c-developer-junior-lavoropi\u00f9-JV_IC2816648_KO0,22_KE23,32.htm?jl=1010220861462",
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
-   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default → on-site (loc: casalecchio di reno)"
+   "elimination_reason": "remote_only: glassdoor: Cloudflare-blocked, Junior default \u2192 on-site (loc: casalecchio di reno)"
   },
   "remotive_2746ff9e64cfce7a": {
    "title": "Freelance Copywriter",
@@ -4312,7 +3832,7 @@
    "elimination_reason": "not_developer_or_non_matching_role (title)"
   },
   "arcdev_7d59bac1cabcb085": {
-   "title": "Product Designer (UX/UI — Web + Mobile) - PT - APAC/EMEA",
+   "title": "Product Designer (UX/UI \u2014 Web + Mobile) - PT - APAC/EMEA",
    "company": "Unknown",
    "url": "https://arc.dev/remote-jobs/product-designer-ux-ui-web-mobile-pt-apac-emea",
    "site_id": "arcdev",
@@ -4565,8 +4085,8 @@
   },
   "glassdoor_e450216b097122f4": {
    "title": "Stellenangebot: Mitarbeiter:in IT Help Desk",
-   "company": "Landwirtschaftliche Hauptgenossenschaft Südtirol",
-   "url": "https://www.glassdoor.it/job-listing/stellenangebot-mitarbeiter-in-it-help-desk-landwirtschaftliche-hauptgenossenschaft-südtirol-JV_KO0,42_KE43,91.htm?jl=1010219200907",
+   "company": "Landwirtschaftliche Hauptgenossenschaft S\u00fcdtirol",
+   "url": "https://www.glassdoor.it/job-listing/stellenangebot-mitarbeiter-in-it-help-desk-landwirtschaftliche-hauptgenossenschaft-s\u00fcdtirol-JV_KO0,42_KE43,91.htm?jl=1010219200907",
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
@@ -4591,9 +4111,9 @@
    "elimination_reason": "not_developer_or_non_matching_role (title)"
   },
   "glassdoor_376d1d2e2ab319f2": {
-   "title": "Tecnico Qualità",
+   "title": "Tecnico Qualit\u00e0",
    "company": "MAE advanced geophysics instruments",
-   "url": "https://www.glassdoor.it/job-listing/tecnico-qualità-mae-advanced-geophysics-instruments-JV_IC2737118_KO0,15_KE16,51.htm?jl=1006704171257",
+   "url": "https://www.glassdoor.it/job-listing/tecnico-qualit\u00e0-mae-advanced-geophysics-instruments-JV_IC2737118_KO0,15_KE16,51.htm?jl=1006704171257",
    "site_id": "glassdoor",
    "first_seen": "2026-08-05T14:26:37.780500+00:00",
    "eliminated": true,
@@ -4699,7 +4219,7 @@
    "elimination_reason": "remote_only (on-site: modena)"
   },
   "glassdoor_2600c1be546dc0e6": {
-   "title": "JUNIOR BUSINESS DEVELOPER – AI ADOPTION Iniziale stage o tirocinio",
+   "title": "JUNIOR BUSINESS DEVELOPER \u2013 AI ADOPTION Iniziale stage o tirocinio",
    "company": "Studio Bicego",
    "url": "https://www.glassdoor.it/job-listing/junior-business-developer-ai-adoption-iniziale-stage-o-tirocinio-bicego-hr-srl-JV_IC2834947_KO0,64_KE65,78.htm?jl=1010205730933",
    "site_id": "glassdoor",
@@ -4877,7 +4397,7 @@
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "himalayas API: employmentType=Full Time + US-only + no freelance indicators → REJECT (employment role, not freelance)"
+   "elimination_reason": "himalayas API: employmentType=Full Time + US-only + no freelance indicators \u2192 REJECT (employment role, not freelance)"
   },
   "himalayas_https://himalayas.app/companies/concept-plus/jobs/identity-iam-engineer": {
    "site_id": "himalayas",
@@ -4890,7 +4410,7 @@
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "himalayas API: Full Time + US-only + 5+ employee benefits (PTO, insurance, holidays, bonuses, tuition) → REJECT freelance"
+   "elimination_reason": "himalayas API: Full Time + US-only + 5+ employee benefits (PTO, insurance, holidays, bonuses, tuition) \u2192 REJECT freelance"
   },
   "glassdoor_1010215821275": {
    "site_id": "glassdoor",
@@ -4903,7 +4423,7 @@
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: ambiguous — junior default REJECT (on-site assumed)"
+   "elimination_reason": "remote: ambiguous \u2014 junior default REJECT (on-site assumed)"
   },
   "glassdoor_1010213509932": {
    "site_id": "glassdoor",
@@ -4916,7 +4436,7 @@
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: ambiguous — junior default REJECT (on-site assumed)"
+   "elimination_reason": "remote: ambiguous \u2014 junior default REJECT (on-site assumed)"
   },
   "glassdoor_1010221856598": {
    "site_id": "glassdoor",
@@ -4929,33 +4449,33 @@
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: ambiguous — default REJECT"
+   "elimination_reason": "remote: ambiguous \u2014 default REJECT"
   },
   "glassdoor_1010222305159": {
    "site_id": "glassdoor",
    "site_name": "Glassdoor",
-   "title": "Junior Java Developer Lavoropiù Ic2768114_Ko0,21_Ke22,31.Htm",
+   "title": "Junior Java Developer Lavoropi\u00f9 Ic2768114_Ko0,21_Ke22,31.Htm",
    "company": "",
-   "url": "https://www.glassdoor.com/job-listing/junior-java-developer-lavoropiù-JV_IC2768114_KO0,21_KE22,31.htm?jl=1010222305159",
+   "url": "https://www.glassdoor.com/job-listing/junior-java-developer-lavoropi\u00f9-JV_IC2768114_KO0,21_KE22,31.htm?jl=1010222305159",
    "first_seen": "2026-08-06T14:19:21.136014+00:00",
    "pub_date": null,
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: ambiguous — junior default REJECT (on-site assumed)"
+   "elimination_reason": "remote: ambiguous \u2014 junior default REJECT (on-site assumed)"
   },
   "glassdoor_1010222036816": {
    "site_id": "glassdoor",
    "site_name": "Glassdoor",
-   "title": "Junior Developer Lavoropiù Ic2763772_Ko0,16_Ke17,26.Htm",
+   "title": "Junior Developer Lavoropi\u00f9 Ic2763772_Ko0,16_Ke17,26.Htm",
    "company": "",
-   "url": "https://www.glassdoor.com/job-listing/junior-developer-lavoropiù-JV_IC2763772_KO0,16_KE17,26.htm?jl=1010222036816",
+   "url": "https://www.glassdoor.com/job-listing/junior-developer-lavoropi\u00f9-JV_IC2763772_KO0,16_KE17,26.htm?jl=1010222036816",
    "first_seen": "2026-08-06T14:19:21.136014+00:00",
    "pub_date": null,
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: ambiguous — junior default REJECT (on-site assumed)"
+   "elimination_reason": "remote: ambiguous \u2014 junior default REJECT (on-site assumed)"
   },
   "glassdoor_1010215006391": {
    "site_id": "glassdoor",
@@ -4968,7 +4488,7 @@
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: ambiguous — junior default REJECT (on-site assumed)"
+   "elimination_reason": "remote: ambiguous \u2014 junior default REJECT (on-site assumed)"
   },
   "glassdoor_1010219439966": {
    "site_id": "glassdoor",
@@ -4981,7 +4501,7 @@
    "status": "eliminated",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: ambiguous — default REJECT"
+   "elimination_reason": "remote: ambiguous \u2014 default REJECT"
   },
   "arcdev_mobile-app-developer-react-native-part-time-apac-emea": {
    "site_id": "arcdev",
@@ -5246,7 +4766,7 @@
   "arcdev_product-designer-ux-ui-web-mobile-pt-apac-emea": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Product Designer (UX/UI — Web + Mobile) - PT - APAC/EMEA",
+   "title": "Product Designer (UX/UI \u2014 Web + Mobile) - PT - APAC/EMEA",
    "company": null,
    "url": "https://arc.dev/remote-jobs/product-designer-ux-ui-web-mobile-pt-apac-emea",
    "first_seen": "2026-08-06T14:19:21.136014+00:00",
@@ -5452,7 +4972,7 @@
   "arcdev_79bf1a84a5d00c3d": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Full-Stack Engineer — C#/.NET + React/Next.js",
+   "title": "Senior Full-Stack Engineer \u2014 C#/.NET + React/Next.js",
    "company": null,
    "url": "https://arc.dev/remote-jobs/senior-full-stack-engineer-c-net-react-next-js",
    "first_seen": "2026-08-08T00:21:06.454936+00:00",
@@ -5789,7 +5309,7 @@
   "arcdev_2419bf07ccc188c3": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Marketing Strategy Specialist | Higher Ed Consulting Agency | Remote (LATAM) 🎓",
+   "title": "Marketing Strategy Specialist | Higher Ed Consulting Agency | Remote (LATAM) \ud83c\udf93",
    "company": "Atomic - Remote Jobs",
    "url": "https://arc.dev/remote-jobs/atomic-remote-jobs-marketing-strategy-specialist-higher-ed-consulting-agency-remote-latam",
    "first_seen": "2026-08-08T00:21:06.454936+00:00",
@@ -6005,7 +5525,7 @@
   "remoteok_1136184": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "Donât Put Yourself a Box",
+   "title": "Don\u00e2\u0080\u0099t Put Yourself a Box",
    "company": "Order From Chaos, Today!",
    "url": "https://remoteOK.com/remote-jobs/remote-dont-put-yourself-a-box-order-from-chaos-today-1136184",
    "first_seen": "2026-08-08T00:21:06.454936+00:00",
@@ -6232,8 +5752,8 @@
   },
   "infojobs_es_29f4a94ffc46928c0bad0db5b0ab90": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Desarrollador/a de Aplicaciones y Técnico/a IT",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador/a de Aplicaciones y T\u00e9cnico/a IT",
    "company": null,
    "url": "https://www.infojobs.net/aldeamayor-de-san-martin/desarrollador-aplicaciones-tecnico-it/of-i29f4a94ffc46928c0bad0db5b0ab90",
    "first_seen": "2026-08-08T00:21:06.454936+00:00",
@@ -6244,8 +5764,8 @@
   },
   "infojobs_es_8bece11b354f0a86f8f07d3830598b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de telefonía móvil y atención al cliente | Proyecto iPhone",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de telefon\u00eda m\u00f3vil y atenci\u00f3n al cliente | Proyecto iPhone",
    "company": null,
    "url": "https://www.infojobs.net/barcelona/tecnico-telefonia-movil-atencion-al-cliente-proyecto-iphone/of-i8bece11b354f0a86f8f07d3830598b",
    "first_seen": "2026-08-08T00:21:06.454936+00:00",
@@ -6256,8 +5776,8 @@
   },
   "infojobs_es_840acef2cb48ef9db66e4dc1c1d52c": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Analista Programador App Móvil (Flutter)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Analista Programador App M\u00f3vil (Flutter)",
    "company": null,
    "url": "https://www.infojobs.net/madrid/analista-programador-app-movil-flutter/of-i840acef2cb48ef9db66e4dc1c1d52c",
    "first_seen": "2026-08-08T00:21:06.454936+00:00",
@@ -6329,7 +5849,7 @@
   "remoteok_1136276": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "IDEAS THAT\nSTICK.\nliterally ð",
+   "title": "IDEAS THAT\nSTICK.\nliterally \u00f0\u009f\u0098",
    "company": "Sticky Today",
    "url": "https://remoteOK.com/remote-jobs/",
    "first_seen": "2026-08-09T00:24:22.993369+00:00",
@@ -6532,7 +6052,7 @@
   },
   "infojobs_es_55e5d3b79c4a94aff3cc9151412271": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programa Graduate Ingeniero Linea Produccion Robotizada F M",
    "company": "",
    "url": "https://www.infojobs.net/san-fernando-de-henares/programa-graduate-ingeniero-linea-produccion-robotizada-f-m/of-i55e5d3b79c4a94aff3cc9151412271",
@@ -6544,7 +6064,7 @@
   },
   "infojobs_es_55eebbc9b0454db74df4aee068824a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador Senior Android",
    "company": "",
    "url": "https://www.infojobs.net/madrid/desarrollador-senior-android/of-i55eebbc9b0454db74df4aee068824a",
@@ -6626,7 +6146,7 @@
   },
   "infojobs_es_eea38d8e4c42fa8c64e1c96fdaa206": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador .Net Junior C React",
    "company": "",
    "url": "https://www.infojobs.net/pamplona-iruna/desarrollador-.net-junior-c-react/of-ieea38d8e4c42fa8c64e1c96fdaa206",
@@ -6638,7 +6158,7 @@
   },
   "infojobs_es_2c9722e84140e7b57676a130a5b069": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador Junior Rust C Tauri 2.0",
    "company": "",
    "url": "https://www.infojobs.net/l-hospitalet-de-llobregat/desarrollador-junior-rust-c-tauri-2.0/of-i2c9722e84140e7b57676a130a5b069",
@@ -6650,7 +6170,7 @@
   },
   "infojobs_es_681bd991964514928c5b39ff4ec74c": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador .Net React Junior",
    "company": "",
    "url": "https://www.infojobs.net/pamplona-iruna/desarrollador-.net-react-junior/of-i681bd991964514928c5b39ff4ec74c",
@@ -6662,7 +6182,7 @@
   },
   "infojobs_es_386505c3814b37a07526d72e18a84f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador Pl Sql",
    "company": "",
    "url": "https://www.infojobs.net/a-coruna/programador-pl-sql/of-i386505c3814b37a07526d72e18a84f",
@@ -6843,14 +6363,14 @@
   "himalayas_64a22dad86bcc0ba": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Analista de Dados Sr - foco em Automação de Processos",
+   "title": "Analista de Dados Sr - foco em Automa\u00e7\u00e3o de Processos",
    "company": "Stefanini",
    "url": "https://himalayas.app/companies/stefanini/jobs/analista-de-dados-sr-foco-em-automacao-de-processos",
    "first_seen": "2026-08-10T00:05:00+00:00",
    "pub_date": 1786314337,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "seniority_filter: Sênior (senior); Brazil-only Full Time"
+   "elimination_reason": "seniority_filter: S\u00eanior (senior); Brazil-only Full Time"
   },
   "himalayas_388d2e71e33ea967": {
    "site_id": "himalayas",
@@ -6868,7 +6388,7 @@
    "site_id": "himalayas",
    "site_name": "Himalayas",
    "title": "Sr. Lead, Corporate Quality",
-   "company": "Mondelēz International",
+   "company": "Mondel\u0113z International",
    "url": "https://himalayas.app/companies/mondelez-international/jobs/sr-lead-corporate-quality",
    "first_seen": "2026-08-10T00:05:00+00:00",
    "pub_date": 1786314313,
@@ -6879,7 +6399,7 @@
   "himalayas_080339b8c79c06fe": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Freelance: grabación de tareas cotidianas para proyecto de IA",
+   "title": "Freelance: grabaci\u00f3n de tareas cotidianas para proyecto de IA",
    "company": "Toloka AI",
    "url": "https://himalayas.app/companies/toloka-ai/jobs/freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-4648522314",
    "first_seen": "2026-08-10T00:05:00+00:00",
@@ -6951,14 +6471,14 @@
   "himalayas_22fa038825bd606d": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Desenvolvedor Fullstack Java + Angular Sênior (4759)",
+   "title": "Desenvolvedor Fullstack Java + Angular S\u00eanior (4759)",
    "company": "Keep Simple",
    "url": "https://himalayas.app/companies/keep-simple/jobs/desenvolvedor-fullstack-java-angular-senior-4759",
    "first_seen": "2026-08-10T00:05:00+00:00",
    "pub_date": 1786250167,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "seniority_filter: Sênior in title; Brazil-only"
+   "elimination_reason": "seniority_filter: S\u00eanior in title; Brazil-only"
   },
   "himalayas_fcdcade2c4be59aa": {
    "site_id": "himalayas",
@@ -7299,7 +6819,7 @@
   "himalayas_1779e0bddeb97300": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Authentication Specialist APAC – Jewelry",
+   "title": "Authentication Specialist APAC \u2013 Jewelry",
    "company": "Entrupy",
    "url": "https://himalayas.app/companies/entrupy/jobs/authentication-specialist-apac-jewelry",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -7359,7 +6879,7 @@
   "himalayas_88da1f3d84ea5a2a": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Technology Partnerships Manager  – EMEA",
+   "title": "Technology Partnerships Manager  \u2013 EMEA",
    "company": "Airship",
    "url": "https://himalayas.app/companies/airship/jobs/technology-partnerships-manager-emea",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -7407,7 +6927,7 @@
   "himalayas_82b933bf6b973727": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Sr. Account Manager – State Government (Texas)",
+   "title": "Sr. Account Manager \u2013 State Government (Texas)",
    "company": "Esri",
    "url": "https://himalayas.app/companies/esri/jobs/sr-account-manager-state-government-texas",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -7647,7 +7167,7 @@
   "himalayas_50b652350812878e": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Sales Manager (m/w/d) – Deutschland / Remote",
+   "title": "Sales Manager (m/w/d) \u2013 Deutschland / Remote",
    "company": "Fresha",
    "url": "https://himalayas.app/companies/fresha/jobs/sales-manager-m-w-d-deutschland-remote-3745233512",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -7911,7 +7431,7 @@
   "himalayas_0f204f2ec2261f3d": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Real-World Evidence (RWE) Specialist – Healthcare Registries (Maternity Cover)",
+   "title": "Real-World Evidence (RWE) Specialist \u2013 Healthcare Registries (Maternity Cover)",
    "company": "Necsws",
    "url": "https://himalayas.app/companies/necsws/jobs/real-world-evidence-rwe-specialist-healthcare-registries-maternity-cover",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -7983,7 +7503,7 @@
   "himalayas_50f5e80575db2d8c": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Cloud Solutions Engineer – Azure",
+   "title": "Cloud Solutions Engineer \u2013 Azure",
    "company": "Bright Vision Technologies",
    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-solutions-engineer-azure-3318964733",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -8066,8 +7586,8 @@
   },
   "infojobs_es_1490c8a4783a794a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a Soporte Vip Alta dirección ( Windows, MacOS, iOS y Office 365) (Inglés Alto)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a Soporte Vip Alta direcci\u00f3n ( Windows, MacOS, iOS y Office 365) (Ingl\u00e9s Alto)",
    "company": "MINSAIT (Indra Soluciones TI)",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte-vip-alta-direccion-windows-macos-ios-office-365-ingles-alto/of-i16b35a9f734231851878143affddf1",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -8102,19 +7622,19 @@
   },
   "infojobs_es_8224e1153e8fe5bc": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Analista / Programador/a Android / iOS – Sector Salud ¿",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Analista / Programador/a Android / iOS \u2013 Sector Salud \u00bf",
    "company": "Quental Technologies",
    "url": "https://www.infojobs.net/barcelona/analista-programador-android-ios-sector-salud/of-if2621addc543f59aec0a6391135eaf",
    "first_seen": "2026-08-11T00:15:00+00:00",
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "freelance_only: Contrato indefinido + Bruto/año 30-39K€"
+   "elimination_reason": "freelance_only: Contrato indefinido + Bruto/a\u00f1o 30-39K\u20ac"
   },
   "infojobs_es_bf7c161a9185bad8": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a PL/SQL",
    "company": "setesca",
    "url": "https://www.infojobs.net/a-coruna/programador-pl-sql/of-i386505c3814b37a07526d72e18a84f",
@@ -8126,7 +7646,7 @@
   },
   "infojobs_es_ff88f9f5ffb4496d": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a SQL & PL/SQL - Girona",
    "company": "Digital Talent Agency Zona Centro",
    "url": "https://www.infojobs.net/barcelona/programador-sql-pl-sql-girona/of-i076fe2dd104cd588d01e0a8f8c5bc0",
@@ -8134,11 +7654,11 @@
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "freelance_only: Presencial + Contrato indefinido + Bruto/año"
+   "elimination_reason": "freelance_only: Presencial + Contrato indefinido + Bruto/a\u00f1o"
   },
   "infojobs_es_e15823fd03afefc6": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Android developer",
    "company": "DESTEBA PRODUCTIONS SL.",
    "url": "https://www.infojobs.net/crevillent/android-developer/of-ia46a46b24a49a797d51229ef782388",
@@ -8146,12 +7666,12 @@
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "freelance_only: Presencial + Contrato indefinido + Bruto/año 22-28K€"
+   "elimination_reason": "freelance_only: Presencial + Contrato indefinido + Bruto/a\u00f1o 22-28K\u20ac"
   },
   "infojobs_es_ce836eb20e2b85e8": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Analista Programador App Móvil (Flutter)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Analista Programador App M\u00f3vil (Flutter)",
    "company": "IZERTIS",
    "url": "https://www.infojobs.net/madrid/analista-programador-app-movil-flutter/of-i840acef2cb48ef9db66e4dc1c1d52c",
    "first_seen": "2026-08-11T00:15:00+00:00",
@@ -8427,7 +7947,7 @@
   "arcdev_pazk8nfuvu": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Applied AI / Backend Engineer – Rules & Risk Intelligence (WW-FT)",
+   "title": "Senior Applied AI / Backend Engineer \u2013 Rules & Risk Intelligence (WW-FT)",
    "company": "(unknown)",
    "url": "https://arc.dev/remote-jobs/details/senior-applied-ai-backend-engineer-rules-risk-intelligence-ww-ft-pazk8nfuvu",
    "first_seen": "2026-08-12T00:18:43.441558+00:00",
@@ -8842,7 +8362,7 @@
    "pub_date": "2026-08-10T20:15:16+00:00",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "ambiguous \"service professionals\" role — no dev signal in detail page"
+   "elimination_reason": "ambiguous \"service professionals\" role \u2014 no dev signal in detail page"
   },
   "remotive_2091045": {
    "site_id": "remotive",
@@ -8878,12 +8398,12 @@
    "pub_date": "2026-08-11T23:38:38+00:00",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "Electrical BIM specialist — not software developer role"
+   "elimination_reason": "Electrical BIM specialist \u2014 not software developer role"
   },
   "arcdev_pbia0qln31": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Frontend Developer – Website Migration - Astro (WW-FT)",
+   "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)",
    "company": "(unknown)",
    "url": "https://arc.dev/remote-jobs/details/frontend-developer-website-migration-astro-ww-ft-pbia0qln31",
    "first_seen": "2026-08-12T00:18:43.441558+00:00",
@@ -9125,7 +8645,7 @@
   "arcdev_ac1cae609746dcfa3235c986f6f5b1ec": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Frontend Developer – Website Migration - Astro (WW-FT)",
+   "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/frontend-developer-website-migration-astro-ww-ft",
    "first_seen": "2026-08-14T00:18:36.752616+00:00",
@@ -9222,7 +8742,7 @@
   },
   "infojobs_es_c6b9367355f087eb368161637ada67df": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Senior IOS",
    "company": "",
    "url": "https://www.infojobs.net/madrid/desarrollador-senior-ios/of-i57a15022754117b5cac6b479f35d91",
@@ -9234,7 +8754,7 @@
   },
   "infojobs_es_a16a4b12c2c919fa1b17f677dfcfcac9": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Senior Android",
    "company": "",
    "url": "https://www.infojobs.net/madrid/desarrollador-senior-android/of-i55eebbc9b0454db74df4aee068824a",
@@ -9246,7 +8766,7 @@
   },
   "infojobs_es_7242df2106edce83d1ba7cb165727b76": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Android Software Developer with English (m/f/d)",
    "company": "",
    "url": "https://www.infojobs.net/granada/android-software-developer-with-english-m-f-d/of-i5dc60977a1423aaae52bc012b282f8",
@@ -9406,7 +8926,7 @@
    "site_id": "remoteok",
    "site_name": "RemoteOK",
    "title": "tan tan tan",
-   "company": "liftek Iraq Basra (Ø´Ø±ÙØ© ØªÙÙÙØ§Øª Ø§ÙØ±ÙØ¹)",
+   "company": "liftek Iraq Basra (\u00d8\u00b4\u00d8\u00b1\u00d9\u0083\u00d8\u00a9 \u00d8\u00aa\u00d9\u0082\u00d9\u0086\u00d9\u008a\u00d8\u00a7\u00d8\u00aa \u00d8\u00a7\u00d9\u0084\u00d8\u00b1\u00d9\u0081\u00d8\u00b9)",
    "url": "https://remoteOK.com/remote-jobs/remote-tan-tan-tan-liftek-iraq-basra-1136603",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
    "pub_date": "2026-08-09T23:06:52+00:00",
@@ -9525,7 +9045,7 @@
   "himalayas_d0332bbc190b09db5c849b4a03686921": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Analista de Testes Automatizados Sênior (4765)",
+   "title": "Analista de Testes Automatizados S\u00eanior (4765)",
    "company": "Keep Simple",
    "url": "https://himalayas.app/companies/keep-simple/analista-de-testes-automatizados-s-nior-4765-",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
@@ -9549,7 +9069,7 @@
   "himalayas_cfedf8f1adddf4d4cc13f28bed33bb98": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Técnico de Neumáticos de Viaje",
+   "title": "T\u00e9cnico de Neum\u00e1ticos de Viaje",
    "company": "Remote Mechanic Jobs",
    "url": "https://himalayas.app/companies/remote-mechanic-jobs/t-cnico-de-neum-ticos-de-viaje",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
@@ -9669,7 +9189,7 @@
   "arcdev_c156baaaf05c90515655f479ee98b807": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Applied AI / Backend Engineer – Rules & Risk Intelligence (WW-FT)",
+   "title": "Senior Applied AI / Backend Engineer \u2013 Rules & Risk Intelligence (WW-FT)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/senior-applied-ai-backend-engineer-rules-risk-intelligence-ww-ft",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
@@ -9717,7 +9237,7 @@
   "arcdev_7d59bac1cabcb085a41cf6b04ae2c3a1": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Product Designer (UX/UI — Web + Mobile) - PT - APAC/EMEA",
+   "title": "Product Designer (UX/UI \u2014 Web + Mobile) - PT - APAC/EMEA",
    "company": "",
    "url": "https://arc.dev/remote-jobs/product-designer-ux-ui-web-mobile-pt-apac-emea",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
@@ -9861,7 +9381,7 @@
   "arcdev_60978d94fc43e61bf3dafc5595d8267d": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Executive Assistant & Business Partner – Global Solution Engineering (m/f/d)",
+   "title": "Executive Assistant & Business Partner \u2013 Global Solution Engineering (m/f/d)",
    "company": "Kelvion",
    "url": "kelvion-executive-assistant-business-partner-global-solution-engineering-m-f-d",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
@@ -9968,8 +9488,8 @@
   },
   "infojobs_es_cbd6396f954759fe0d83afe13aa2ce4f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador/a Senior React Native – Madrid (Presencial)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador/a Senior React Native \u2013 Madrid (Presencial)",
    "company": "Voiping US",
    "url": "https://www.infojobs.net/tres-cantos/programador-senior-react-native-madrid-presencial/of-i2336b8bfa74d778a26f1f2da88a7eb",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
@@ -9980,7 +9500,7 @@
   },
   "infojobs_es_991edff2baeac07969e5737572353732": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Frontend React Senior",
    "company": "SADE Consultoria Tecnica",
    "url": "https://www.infojobs.net/madrid/desarrollador-frontend-react-senior/of-i61ac706bab4077a5005a4ea9e1b7a7",
@@ -9992,7 +9512,7 @@
   },
   "infojobs_es_0f364f58681cd90d32722fe30c5e23d1": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Tecnico programador PCI",
    "company": "Pacisa Fire Service",
    "url": "https://www.infojobs.net/fornells-de-la-selva/tecnico-programador-pci/of-i3e50b562c345c89476431212e4cc70",
@@ -10004,7 +9524,7 @@
   },
   "infojobs_es_8e9c15328647d73ecb6e7be68818a58a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Senior developer",
    "company": "BITBOX",
    "url": "https://www.infojobs.net/las-palmas-de-gran-canaria/senior-developer/of-i3c9b0784f048d5a895659a60db29f9",
@@ -10040,19 +9560,19 @@
   },
   "infojobs_es_ce836eb20e2b85e841ed38e81fa99aae": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Analista Programador App Móvil (Flutter)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Analista Programador App M\u00f3vil (Flutter)",
    "company": "",
    "url": "https://www.infojobs.net/madrid/analista-programador-app-movil-flutter/of-i840acef2cb48ef9db66e4dc1c1d52c",
    "first_seen": "2026-08-15T00:19:57.896512+00:00",
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "Híbrido + contrato indefinido (Izertis Madrid Flutter)"
+   "elimination_reason": "H\u00edbrido + contrato indefinido (Izertis Madrid Flutter)"
   },
   "infojobs_es_231c36ff84430d4e911611ffdf78bef9": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Flutter Developer",
    "company": "",
    "url": "https://www.infojobs.net/lliria/flutter-developer/of-iec65aefaa44c72ae1bddf0e4675248",
@@ -10060,11 +9580,11 @@
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "Modalidad híbrida + contrato indefinido (Power Electronics Flutter Lliria)"
+   "elimination_reason": "Modalidad h\u00edbrida + contrato indefinido (Power Electronics Flutter Lliria)"
   },
   "infojobs_es_85ef5907efc71cf86187bfe2a8bab669": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a Frontend (Vue3)|100% remoto",
    "company": "",
    "url": "https://www.infojobs.net/100-remoto/programador-frontend-vue3-100-remoto/of-i1f78750da34b96b9bae78957f5df2c",
@@ -10072,11 +9592,11 @@
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "Contrato indefinido + salario RAL 23-29K€ (Vue3 remote CAS Training)"
+   "elimination_reason": "Contrato indefinido + salario RAL 23-29K\u20ac (Vue3 remote CAS Training)"
   },
   "infojobs_es_3fdb5f049d1002ea271578bf02ff327b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programadores/as Aplicaciones Web",
    "company": "Ipartek Servicios Informaticos",
    "url": "https://www.infojobs.net/bilbao/programadores-aplicaciones-web/of-i72232434454d57a267e00fe57849f3",
@@ -10090,7 +9610,7 @@
    "site_id": "remoteok",
    "site_name": "RemoteOK",
    "title": "Engineer Officer",
-   "company": "Canadian Armed Forces | Forces armÃ©es canadiennes",
+   "company": "Canadian Armed Forces | Forces arm\u00c3\u00a9es canadiennes",
    "url": "https://remoteOK.com/remote-jobs/remote-engineer-officer-canadian-armed-forces-forces-armees-canadiennes-1136678",
    "first_seen": "2026-08-16T00:16:46.346254+00:00",
    "pub_date": "2026-08-14T10:44:01+00:00",
@@ -10149,7 +9669,7 @@
   "arcdev_frontend-developer-website-migration-astro-ww-ft": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Frontend Developer – Website Migration - Astro (WW-FT)",
+   "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/frontend-developer-website-migration-astro-ww-ft",
    "first_seen": "2026-08-16T00:16:46.346254+00:00",
@@ -10185,7 +9705,7 @@
   "arcdev_senior-applied-ai-backend-engineer-rules-risk-intelligence-ww-ft": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Senior Applied AI / Backend Engineer – Rules & Risk Intelligence (WW-FT)",
+   "title": "Senior Applied AI / Backend Engineer \u2013 Rules & Risk Intelligence (WW-FT)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/senior-applied-ai-backend-engineer-rules-risk-intelligence-ww-ft",
    "first_seen": "2026-08-16T00:16:46.346254+00:00",
@@ -10255,7 +9775,7 @@
    "elimination_reason": "seniority: exp_level: senior"
   },
   "arcdev_senior-full-stack-engineer-multi-tenant-saas-architecture": {
-   "title": "Senior Full-Stack Engineer — Multi-Tenant SaaS Architecture",
+   "title": "Senior Full-Stack Engineer \u2014 Multi-Tenant SaaS Architecture",
    "company": "",
    "url": "https://arc.dev/remote-jobs/senior-full-stack-engineer-multi-tenant-saas-architecture",
    "site": "arcdev",
@@ -10266,7 +9786,7 @@
   },
   "infojobs_es_57a15022754117b5cac6b479f35d91": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Senior IOS",
    "company": "Capgemini Engineering - Consultores/as",
    "url": "https://www.infojobs.net/madrid/desarrollador-senior-ios/of-i57a15022754117b5cac6b479f35d91",
@@ -10278,7 +9798,7 @@
   },
   "infojobs_es_5dc60977a1423aaae52bc012b282f8": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Android Software Developer with English (m/f/d)",
    "company": "T-Systems",
    "url": "https://www.infojobs.net/granada/android-software-developer-with-english-m-f-d/of-i5dc60977a1423aaae52bc012b282f8",
@@ -10290,7 +9810,7 @@
   },
   "infojobs_es_9c61ab62a446d593b7f5b27c11705a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Junior Python / Google Cloud (GCP)",
    "company": "ALVEA SOLUCIONES TECNOLOGICAS, S.L.",
    "url": "https://www.infojobs.net/madrid/desarrollador-junior-python-google-cloud-gcp/of-i9c61ab62a446d593b7f5b27c11705a",
@@ -10298,23 +9818,23 @@
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: junior + remote non esplicito → assumo on-site"
+   "elimination_reason": "remote: junior + remote non esplicito \u2192 assumo on-site"
   },
   "infojobs_es_5527ca5d434877938ba3f84ed079a0": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Desarrollador/a Junior – IA & Software",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador/a Junior \u2013 IA & Software",
    "company": "AI DIGITAL SOLUTIONS BLUE, SOCIEDAD LIMITADA.",
    "url": "https://www.infojobs.net/las-palmas-de-gran-canaria/desarrollador-junior-ia-software/of-i5527ca5d434877938ba3f84ed079a0",
    "first_seen": "2026-08-16T00:16:46.346254+00:00",
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: junior + remote non esplicito → assumo on-site"
+   "elimination_reason": "remote: junior + remote non esplicito \u2192 assumo on-site"
   },
   "infojobs_es_4e30809bdf4149ae319561c5b250bb": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "245 - DESARROLLADOR/A WEB Fullstack PHP (Junior / Mid) | Madrid",
    "company": "TPF GETINSA EUROESTUDIOS SL.",
    "url": "https://www.infojobs.net/madrid/245-desarrollador-web-fullstack-php-junior-mid-madrid/of-i4e30809bdf4149ae319561c5b250bb",
@@ -10322,7 +9842,7 @@
    "pub_date": null,
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "remote: junior + remote non esplicito → assumo on-site"
+   "elimination_reason": "remote: junior + remote non esplicito \u2192 assumo on-site"
   },
   "himalayas_konnecthub_fullstack_20260817": {
    "id": "himalayas_konnecthub_fullstack_20260817",
@@ -10495,7 +10015,7 @@
    "site_id": "remoteok",
    "site_name": "RemoteOK",
    "title": "Infanteer",
-   "company": "Canadian Armed Forces | Forces armÃ©es canadiennes",
+   "company": "Canadian Armed Forces | Forces arm\u00c3\u00a9es canadiennes",
    "url": "https://remoteOK.com/remote-jobs/remote-infanteer-canadian-armed-forces-forces-armees-canadiennes-1136677",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
   },
@@ -10576,7 +10096,7 @@
    "site_id": "remoteok",
    "site_name": "RemoteOK",
    "title": "Test Req",
-   "company": "ç¾äº",
+   "company": "\u00e7\u0099\u00be\u00e4\u00ba\u008b",
    "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
   },
@@ -10916,7 +10436,7 @@
   "infojobs_es_153e3859b94ca7c9": {
    "id": "infojobs_es_153e3859b94ca7c9",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a Full Stack (Java/Kotlin + Angular) | 100% Teletrabajo",
    "company": "",
    "url": "https://www.infojobs.net/madrid/programador-full-stack-java-kotlin-angular-100-teletrabajo/of-i93445b39c74cc3ace898a0709596d5",
@@ -10925,7 +10445,7 @@
   "infojobs_es_7242df2106edce83": {
    "id": "infojobs_es_7242df2106edce83",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Android Software Developer with English (m/f/d)",
    "company": "",
    "url": "https://www.infojobs.net/granada/android-software-developer-with-english-m-f-d/of-i5dc60977a1423aaae52bc012b282f8",
@@ -10934,7 +10454,7 @@
   "infojobs_es_8a36186d841cc06c": {
    "id": "infojobs_es_8a36186d841cc06c",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "FullStack developer Angular - 80% Remoto",
    "company": "",
    "url": "https://www.infojobs.net/barcelona/fullstack-developer-angular-80-remoto/of-i932e031e0f4ef88a021356793a1492",
@@ -10943,7 +10463,7 @@
   "infojobs_es_231c36ff84430d4e": {
    "id": "infojobs_es_231c36ff84430d4e",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Flutter Developer",
    "company": "",
    "url": "https://www.infojobs.net/lliria/flutter-developer/of-iec65aefaa44c72ae1bddf0e4675248",
@@ -10952,8 +10472,8 @@
   "infojobs_es_1618626fa7a1e3b7": {
    "id": "infojobs_es_1618626fa7a1e3b7",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador-a Junior con francés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador-a Junior con franc\u00e9s",
    "company": "",
    "url": "https://www.infojobs.net/barcelona/programador-junior-con-frances/of-i0d60fc4d644bf090cda50addec9ef7",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -10961,8 +10481,8 @@
   "infojobs_es_d172f88a749e345a": {
    "id": "infojobs_es_d172f88a749e345a",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador-a Junior con francés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador-a Junior con franc\u00e9s",
    "company": "",
    "url": "https://www.infojobs.net/madrid/programador-junior-con-frances/of-i0d1aa4166a491d82309455d47c2b1a",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -10970,8 +10490,8 @@
   "infojobs_es_88e6d9b1950736cd": {
    "id": "infojobs_es_88e6d9b1950736cd",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador-a Junior con francés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador-a Junior con franc\u00e9s",
    "company": "",
    "url": "https://www.infojobs.net/valencia/programador-junior-con-frances/of-i4db64540464a64af3eaf2ebac4ea0c",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -10979,8 +10499,8 @@
   "infojobs_es_a4d4c102470e63c0": {
    "id": "infojobs_es_a4d4c102470e63c0",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador-a Junior con francés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador-a Junior con franc\u00e9s",
    "company": "",
    "url": "https://www.infojobs.net/sevilla/programador-junior-con-frances/of-ia1ec67f99b4d89ad6a7af5519389c7",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -10988,7 +10508,7 @@
   "infojobs_es_e129170a24130058": {
    "id": "infojobs_es_e129170a24130058",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Junior Python / Google Cloud (GCP)",
    "company": "",
    "url": "https://www.infojobs.net/madrid/desarrollador-junior-python-google-cloud-gcp/of-i9c61ab62a446d593b7f5b27c11705a",
@@ -10997,8 +10517,8 @@
   "infojobs_es_f6210b9afc7c52d5": {
    "id": "infojobs_es_f6210b9afc7c52d5",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Desarrollador/a Junior – IA & Software",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador/a Junior \u2013 IA & Software",
    "company": "",
    "url": "https://www.infojobs.net/las-palmas-de-gran-canaria/desarrollador-junior-ia-software/of-i5527ca5d434877938ba3f84ed079a0",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -11006,7 +10526,7 @@
   "infojobs_es_f44607bac703bd71": {
    "id": "infojobs_es_f44607bac703bd71",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "245 - DESARROLLADOR/A WEB Fullstack PHP (Junior / Mid) | Madrid",
    "company": "",
    "url": "https://www.infojobs.net/madrid/245-desarrollador-web-fullstack-php-junior-mid-madrid/of-i4e30809bdf4149ae319561c5b250bb",
@@ -11015,7 +10535,7 @@
   "infojobs_es_57eb197ecf81fe90": {
    "id": "infojobs_es_57eb197ecf81fe90",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Junior ERP MD365 F&O y Power BI",
    "company": "",
    "url": "https://www.infojobs.net/barcelona/desarrollador-junior-erp-md365-f-power-bi/of-i0a3a8a660943a7970ee3afcbeed344",
@@ -11024,8 +10544,8 @@
   "infojobs_es_dbf7d2929ab01025": {
    "id": "infojobs_es_dbf7d2929ab01025",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Desarrollador/a Junior de Aplicaciones Internas y Automatización",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador/a Junior de Aplicaciones Internas y Automatizaci\u00f3n",
    "company": "",
    "url": "https://www.infojobs.net/vinaros/desarrollador-junior-aplicaciones-internas-automatizacion/of-i4c47bc86074c188bfff5ff53168f52",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -11033,7 +10553,7 @@
   "infojobs_es_85ef5907efc71cf8": {
    "id": "infojobs_es_85ef5907efc71cf8",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a Frontend (Vue3)|100% remoto",
    "company": "",
    "url": "https://www.infojobs.net/100-remoto/programador-frontend-vue3-100-remoto/of-i1f78750da34b96b9bae78957f5df2c",
@@ -11042,8 +10562,8 @@
   "infojobs_es_cbd6396f954759fe": {
    "id": "infojobs_es_cbd6396f954759fe",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador/a Senior React Native – Madrid (Presencial)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador/a Senior React Native \u2013 Madrid (Presencial)",
    "company": "",
    "url": "https://www.infojobs.net/tres-cantos/programador-senior-react-native-madrid-presencial/of-i2336b8bfa74d778a26f1f2da88a7eb",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -11051,7 +10571,7 @@
   "infojobs_es_c26d2c8294a6a174": {
    "id": "infojobs_es_c26d2c8294a6a174",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "PROGRAMADOR/A SENIOR REACT NATIVE",
    "company": "",
    "url": "https://www.infojobs.net/madrid/programador-senior-react-native/of-i0a5ec7790f4cb8b0ccda7af7b8d90b",
@@ -11060,7 +10580,7 @@
   "infojobs_es_991edff2baeac079": {
    "id": "infojobs_es_991edff2baeac079",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Frontend React Senior",
    "company": "",
    "url": "https://www.infojobs.net/madrid/desarrollador-frontend-react-senior/of-i61ac706bab4077a5005a4ea9e1b7a7",
@@ -11069,8 +10589,8 @@
   "infojobs_es_cd059db3f406f5e3": {
    "id": "infojobs_es_cd059db3f406f5e3",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Business Developer Junior – E-commerce y Proyectos Internacionales",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Business Developer Junior \u2013 E-commerce y Proyectos Internacionales",
    "company": "",
    "url": "https://www.infojobs.net/beniparrell/business-developer-junior-commerce-proyectos-internacionales/of-ic1a39d5fe94446ac644f4e31e3e506",
    "first_seen": "2026-08-17T00:31:16.801319+00:00"
@@ -11078,7 +10598,7 @@
   "infojobs_es_a3b609d2bdf597e5": {
    "id": "infojobs_es_a3b609d2bdf597e5",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Senior MuleSoft Developer",
    "company": "",
    "url": "https://www.infojobs.net/madrid/senior-mulesoft-developer/of-i831e0e79ab41f5bdcee4ef6f318801",
@@ -11087,7 +10607,7 @@
   "infojobs_es_8e9c15328647d73e": {
    "id": "infojobs_es_8e9c15328647d73e",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Senior developer",
    "company": "",
    "url": "https://www.infojobs.net/las-palmas-de-gran-canaria/senior-developer/of-i3c9b0784f048d5a895659a60db29f9",
@@ -11096,7 +10616,7 @@
   "infojobs_es_a16a4b12c2c919fa": {
    "id": "infojobs_es_a16a4b12c2c919fa",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Senior Android",
    "company": "",
    "url": "https://www.infojobs.net/madrid/desarrollador-senior-android/of-i55eebbc9b0454db74df4aee068824a",
@@ -11129,7 +10649,7 @@
   "remoteok_1136830": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "Repositor BelÃ©m PA",
+   "title": "Repositor Bel\u00c3\u00a9m PA",
    "company": "Grupo Raymundo da Fonte",
    "url": "https://remoteOK.com/remote-jobs/remote-repositor-belem-pa-grupo-raymundo-da-fonte-1136830",
    "first_seen": "2026-08-18T00:21:33.770535+00:00",
@@ -11213,7 +10733,7 @@
   "arcdev_pczx0wjlf8": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Sr Full-Stack Engineer — Next.js, Supabase & Row-Level Security (RLS) (FT-NA)",
+   "title": "Sr Full-Stack Engineer \u2014 Next.js, Supabase & Row-Level Security (RLS) (FT-NA)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/sr-full-stack-engineer-next-js-supabase-row-level-security-rls-ft-na",
    "first_seen": "2026-08-18T00:21:33.770535+00:00",
@@ -11320,7 +10840,7 @@
   },
   "infojobs_es_33ac2159064d48bcbacc6aa86a61ae": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Junior .NET/Oracle",
    "company": "",
    "url": "https://www.infojobs.net/sevilla/desarrollador-junior-.net-oracle/of-i33ac2159064d48bcbacc6aa86a61ae",
@@ -11332,7 +10852,7 @@
   },
   "infojobs_es_b85a88af074ed6bb56dc40577dca3b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador BPM BAW",
    "company": "",
    "url": "https://www.infojobs.net/madrid/programador-bpm-baw/of-ib85a88af074ed6bb56dc40577dca3b",
@@ -11344,7 +10864,7 @@
   },
   "infojobs_es_2c3c89173347f7805b1d530223a953": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Frontend Developer | React Native+Agentes IA",
    "company": "",
    "url": "https://www.infojobs.net/madrid/frontend-developer-react-native-agentes-ia/of-i2c3c89173347f7805b1d530223a953",
@@ -11356,7 +10876,7 @@
   },
   "infojobs_es_2b375a996045f9aa71b5f1b3f09e72": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador LabVIEW",
    "company": "",
    "url": "https://www.infojobs.net/majadahonda/desarrollador-labview/of-i2b375a996045f9aa71b5f1b3f09e72",
@@ -11497,7 +11017,7 @@
    "eliminated_reason": "non-dev role: ux designer"
   },
   "arcdev_pccj95jjiz": {
-   "title": "Senior Full-Stack Engineer — Multi-Tenant SaaS Architecture",
+   "title": "Senior Full-Stack Engineer \u2014 Multi-Tenant SaaS Architecture",
    "company": null,
    "url": "https://arc.dev/remote-jobs/senior-full-stack-engineer-multi-tenant-saas-architecture",
    "site_id": "arcdev",
@@ -11641,7 +11161,7 @@
    "eliminated_reason": "non-dev role: marketing"
   },
   "arcdev_pbyxg41hkj": {
-   "title": "Product Marketing & Campaign Manager – Global - F/H",
+   "title": "Product Marketing & Campaign Manager \u2013 Global - F/H",
    "company": "ChapsVision",
    "url": "https://arc.dev/remote-jobs/chapsvision-product-marketing-campaign-manager-global-f-h",
    "site_id": "arcdev",
@@ -11668,7 +11188,7 @@
    "eliminated_reason": "non-dev role: marketing"
   },
   "arcdev_pbyxhfqil3": {
-   "title": "Lider Marketing Generación de Demanda",
+   "title": "Lider Marketing Generaci\u00f3n de Demanda",
    "company": "TransUnion",
    "url": "https://arc.dev/remote-jobs/transunion-lider-marketing-generacion-de-demanda",
    "site_id": "arcdev",
@@ -11740,7 +11260,7 @@
    "eliminated_reason": "seniority: senior"
   },
   "arcdev_pda348odsh": {
-   "title": "Global Marketing Manager – Health Care Practice Area",
+   "title": "Global Marketing Manager \u2013 Health Care Practice Area",
    "company": "Boston Consulting Group",
    "url": "https://arc.dev/remote-jobs/boston-consulting-group-bcg-global-marketing-manager-health-care-practice-area",
    "site_id": "arcdev",
@@ -11767,7 +11287,7 @@
    "eliminated_reason": "seniority: senior"
   },
   "arcdev_p490w47vve": {
-   "title": "Senior Data Scientist | Lisbon (Hybrid – 2 days/week onsite)",
+   "title": "Senior Data Scientist | Lisbon (Hybrid \u2013 2 days/week onsite)",
    "company": "A2IT Technology",
    "url": "https://arc.dev/remote-jobs/a2it-technology-senior-data-scientist-lisbon-hybrid-2-days-week-onsite",
    "site_id": "arcdev",
@@ -11776,7 +11296,7 @@
    "eliminated_reason": "seniority: senior"
   },
   "arcdev_pda1ufi5jl": {
-   "title": "Senior UX/UI Designer – ICT Expert-DFB000216",
+   "title": "Senior UX/UI Designer \u2013 ICT Expert-DFB000216",
    "company": "ITproposal",
    "url": "https://arc.dev/remote-jobs/itproposal-senior-ux-ui-designer-ict-expert-dfb000216",
    "site_id": "arcdev",
@@ -11948,7 +11468,7 @@
   },
   "arcdev_pda3ca7bij": {
    "title": "Brand Manager Biscuits & Pastry, Ukraine & Moldova",
-   "company": "Mondelēz International",
+   "company": "Mondel\u0113z International",
    "url": "https://arc.dev/remote-jobs/mondelez-international-brand-manager-biscuits-pastry-ukraine-moldova",
    "site_id": "arcdev",
    "first_seen": "2026-08-19T00:02:30+00:00",
@@ -12027,7 +11547,7 @@
   "remoteok_1136823": {
    "site_id": "remoteok",
    "site_name": "RemoteOK",
-   "title": "HIGIENIZADOR DE CARROS JABOTÃO DOS GUARARAPES PE",
+   "title": "HIGIENIZADOR DE CARROS JABOT\u00c3\u0083O DOS GUARARAPES PE",
    "company": "Localiza&amp;Co",
    "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-jabotao-dos-guararapes-pe-localizaampco-1136823",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -12147,7 +11667,7 @@
   "himalayas_9813e854b4c37ee9": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Ingénieur Offres Services F/H",
+   "title": "Ing\u00e9nieur Offres Services F/H",
    "company": "name",
    "url": "https://himalayas.app/companies/veolia/jobs/ingenieur-offres-services-f-h",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -12531,7 +12051,7 @@
   "himalayas_1cef66181fa5d3e3": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Mandataire Indépendant - France entière - H/F",
+   "title": "Mandataire Ind\u00e9pendant - France enti\u00e8re - H/F",
    "company": "name",
    "url": "https://himalayas.app/companies/pretto/jobs/mandataire-independant-france-entiere-h-f",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -12951,7 +12471,7 @@
   "himalayas_6e500fa0b36f5716": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Japanese Language Data Contributor (Multimodal) – Freelance AI Trainer Project",
+   "title": "Japanese Language Data Contributor (Multimodal) \u2013 Freelance AI Trainer Project",
    "company": "Invisible Technologies",
    "url": "https://himalayas.app/companies/inv/jobs/japanese-language-data-contributor-multimodal-freelance-ai-trainer-project",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -12975,7 +12495,7 @@
   "himalayas_e785b15d941b5fac": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Senior Account Executive – Western Europe (Italy)",
+   "title": "Senior Account Executive \u2013 Western Europe (Italy)",
    "company": "NICE",
    "url": "https://himalayas.app/companies/nice/jobs/senior-account-executive-western-europe-italy-1774069863",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13048,7 +12568,7 @@
    "site_id": "himalayas",
    "site_name": "Himalayas",
    "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
-   "company": "1KOMMA5˚",
+   "company": "1KOMMA5\u02da",
    "url": "https://himalayas.app/companies/1komma5/jobs/senior-product-designer-heartbeat-ai-m-f-d",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
    "pub_date": 1787169339,
@@ -13263,7 +12783,7 @@
   "himalayas_0167822db717c624": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "BD Specialist – Institutional Sales & Outreach",
+   "title": "BD Specialist \u2013 Institutional Sales & Outreach",
    "company": "Farther",
    "url": "https://himalayas.app/companies/farther/jobs/bd-specialist-institutional-sales-outreach",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13335,7 +12855,7 @@
   "himalayas_2de565b3c398b9d2": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Commercial Mortgage Loan Servicing Manager – Remote",
+   "title": "Commercial Mortgage Loan Servicing Manager \u2013 Remote",
    "company": "Symetra",
    "url": "https://himalayas.app/companies/symetra/jobs/commercial-mortgage-loan-servicing-manager-remote",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13455,7 +12975,7 @@
   "arcdev_ac1cae609746dcfa": {
    "site_id": "arcdev",
    "site_name": "Arc.dev",
-   "title": "Frontend Developer – Website Migration - Astro (WW-FT)",
+   "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/frontend-developer-website-migration-astro-ww-ft",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13467,7 +12987,7 @@
   },
   "infojobs_es_444c8f3986c6835f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Engineer Android",
    "company": "CMV Consultores",
    "url": "https://www.infojobs.net/malaga/engineer-android/of-iefaf1463ed4281add08ea49460b90e",
@@ -13479,7 +12999,7 @@
   },
   "infojobs_es_bcb97fe3e3fae356": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Repartidor/a en furgoneta",
    "company": "Fastpackcr20",
    "url": "https://www.infojobs.net/madrid/repartidor-furgoneta/of-i16935cace841c68b8f38c7be60a518",
@@ -13491,8 +13011,8 @@
   },
   "infojobs_es_3ebe77ce4efaf9dd": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de Reparación de Smartphones y Tablets – iServices Bilbao",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de Reparaci\u00f3n de Smartphones y Tablets \u2013 iServices Bilbao",
    "company": "ISERVICES REPARACIONES Y REACONDICIONADOS SL.",
    "url": "https://www.infojobs.net/barakaldo/tecnico-reparacion-smartphones-tablets-iservices-bilbao/of-i9d9e4569ba4621a74dc31a0f604262",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13503,8 +13023,8 @@
   },
   "infojobs_es_1a99bea5d2f24fdd": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico de Soporte",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico de Soporte",
    "company": "MALTHUS DARWIN",
    "url": "https://www.infojobs.net/palma-de-mallorca/tecnico-soporte/of-i51b8b685d3489b942a63ea785432a2",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13515,8 +13035,8 @@
   },
   "infojobs_es_d0c7b3e75067fdfa": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a Senior Endpoint – Microsoft Intune",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a Senior Endpoint \u2013 Microsoft Intune",
    "company": "MALTHUS DARWIN",
    "url": "https://www.infojobs.net/barcelona/tecnico-senior-endpoint-microsoft-intune/of-ib80036ea394fa8b4f2d300e241971d",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13527,8 +13047,8 @@
   },
   "infojobs_es_6a08d50f11250aa0": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de Telefonía IP y Comunicaciones Unificadas",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de Telefon\u00eda IP y Comunicaciones Unificadas",
    "company": "Ayesa Digital",
    "url": "https://www.infojobs.net/madrid/tecnico-telefonia-ip-comunicaciones-unificadas/of-ia21ab1dd804e6abeb5d83598ed2de1",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13539,8 +13059,8 @@
   },
   "infojobs_es_c4bab7f5474830ea": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico reparación de móviles",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico reparaci\u00f3n de m\u00f3viles",
    "company": "Chuchu Ye",
    "url": "https://www.infojobs.net/torremolinos/tecnico-reparacion-moviles/of-i1a3c64a4d242308388444b8dff8f31",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13551,8 +13071,8 @@
   },
   "infojobs_es_fe55d5f51ced2cbf": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de Campo en Zamora",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de Campo en Zamora",
    "company": "GRUPO SOLUTIA",
    "url": "https://www.infojobs.net/zamora/tecnico-campo-zamora/of-ic377b9006e451c8c759808f0377609",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13563,9 +13083,9 @@
   },
   "infojobs_es_93b27316ce36ff30": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Administrativo Premiun Soporte Telefonía Implant Mañanas con Inglés",
-   "company": "ABAI SERVICIOS TÉCNICOS Y CONSULTORÍA ",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Administrativo Premiun Soporte Telefon\u00eda Implant Ma\u00f1anas con Ingl\u00e9s",
+   "company": "ABAI SERVICIOS T\u00c9CNICOS Y CONSULTOR\u00cdA\u00a0",
    "url": "https://www.infojobs.net/barcelona/administrativo-premiun-soporte-telefonia-implant-mananas-con-ingles/of-i61f543630f44028609c5086117ce3a",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
    "pub_date": "2026-08-10T11:23:39Z",
@@ -13575,8 +13095,8 @@
   },
   "infojobs_es_0061968195b98381": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a Soporte a usuarios - Inglés alto",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a Soporte a usuarios - Ingl\u00e9s alto",
    "company": "MINSAIT (Indra Soluciones TI)",
    "url": "https://www.infojobs.net/sant-cugat-del-valles/tecnico-soporte-usuarios-ingles-alto/of-i94236d98284688956dc8ac2e594cb3",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13587,8 +13107,8 @@
   },
   "infojobs_es_25c651452043cdd3": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Especialista ASO ( App Store Optimización) Inglés Alto -Ref agm  (Teletrabajo)  -ref agm",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Especialista ASO ( App Store Optimizaci\u00f3n) Ingl\u00e9s Alto -Ref agm  (Teletrabajo)  -ref agm",
    "company": "Abalia",
    "url": "https://www.infojobs.net/madrid/especialista-aso-app-store-optimizacion-ingles-alto-agm-teletrabajo-agm/of-i27a422599a4ca49887c3ac8c332d4e",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13599,7 +13119,7 @@
   },
   "infojobs_es_7e70378966c2255f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Tecnico/a Soporte Helpdesk",
    "company": "Ayesa Digital",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte-helpdesk/of-ie230b055d74a59af0c2ff0e6d4b907",
@@ -13611,8 +13131,8 @@
   },
   "infojobs_es_369f77f41ad7735a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de Microinformática",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de Microinform\u00e1tica",
    "company": "GRUPO SOLUTIA",
    "url": "https://www.infojobs.net/sevilla/tecnico-microinformatica/of-ie46b30a2eb4252981c7ec7199202fd",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13623,7 +13143,7 @@
   },
   "infojobs_es_2d4386998f6e724f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a de software",
    "company": "VisionQuality Systems SL",
    "url": "https://www.infojobs.net/tudela/programador-software/of-ic18a612e1e4a5ebaa0e798def57c20",
@@ -13635,8 +13155,8 @@
   },
   "infojobs_es_665ac247a95d92aa": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a Helpdesk",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a Helpdesk",
    "company": "Semic",
    "url": "https://www.infojobs.net/madrid/tecnico-helpdesk/of-i1ed34c79944c7b8d8594b1846bbd3d",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13647,7 +13167,7 @@
   },
   "infojobs_es_d3b59217750fc913": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Technical Leader",
    "company": "SOFTTEK",
    "url": "https://www.infojobs.net/madrid/technical-leader/of-i8814887a5b4b8e9410fbed3d0577b9",
@@ -13659,7 +13179,7 @@
   },
   "infojobs_es_f7d68926cec45c15": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Frontend Senior Vue.js (Vue 3 + TypeScript)",
    "company": "SADE Consultoria Tecnica",
    "url": "https://www.infojobs.net/madrid/desarrollador-frontend-senior-vue.js-vue-3-typescript/of-ibd90c677cf4a12996be44393b819af",
@@ -13671,7 +13191,7 @@
   },
   "infojobs_es_d3a956ea3b55b83d": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Backend Developer / AI Engineer (Java/Kotlin & Angular) INGLES B2 100% remoto",
    "company": "EXIS-TI",
    "url": "https://www.infojobs.net/madrid/backend-developer-ai-engineer-java-kotlin-angular-ingles-b2-100-remoto/of-id12e4924824477b3c38080430964d2",
@@ -13683,7 +13203,7 @@
   },
   "infojobs_es_7f4408ef5be89178": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a backend Java 100% Teletrabajo",
    "company": "Vipirsa",
    "url": "https://www.infojobs.net/madrid/desarrollador-backend-java-100-teletrabajo/of-i9366bff18c44d18f1ff52c4ae259c4",
@@ -13695,7 +13215,7 @@
   },
   "infojobs_es_035ae2b06df7b58b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Full Stack developer",
    "company": "REWE digital Spain",
    "url": "https://www.infojobs.net/malaga/full-stack-developer/of-i18a58a8fd94c09839bfb9a6d4d1e53",
@@ -13707,7 +13227,7 @@
   },
   "infojobs_es_536d64c336b5392f": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Full Stack Developer React/PHP",
    "company": "BESIDE",
    "url": "https://www.infojobs.net/barcelona/full-stack-developer-react-php/of-i0ef2370ade42ad8fcf0207b8591120",
@@ -13719,8 +13239,8 @@
   },
   "infojobs_es_d081d28814f78bbc": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Fullstack Angular/Java. Inglés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Fullstack Angular/Java. Ingl\u00e9s",
    "company": "GRUPO NS",
    "url": "https://www.infojobs.net/barcelona/fullstack-angular-java.-ingles/of-ife196396f84b26a0ff6f04999f0f4f",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13731,7 +13251,7 @@
   },
   "infojobs_es_4902c91e0cf18b7b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Frontend Developer | React Native+Agentes IA",
    "company": "KRELL CONSULTING & TRAINING",
    "url": "https://www.infojobs.net/madrid/frontend-developer-react-native-agentes-ia/of-i2c3c89173347f7805b1d530223a953",
@@ -13743,7 +13263,7 @@
   },
   "infojobs_es_17bbdf5c64fbf871": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a Senior React Native | Presencial en Madrid",
    "company": "Rawson BPO",
    "url": "https://www.infojobs.net/madrid/programador-senior-react-native-presencial-madrid/of-i1361aab48341559b725ca71a8934eb",
@@ -13755,7 +13275,7 @@
   },
   "infojobs_es_c3016ed80a1943f2": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Beca Workplaces",
    "company": "SEIDOR",
    "url": "https://www.infojobs.net/bilbao/beca-workplaces/of-i9981855d5240c18cdf37f6b50304e1",
@@ -13767,8 +13287,8 @@
   },
   "infojobs_es_f07e3fcc0f8d162a": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "PRÁCTICAS EN DESARROLLO WEB",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "PR\u00c1CTICAS EN DESARROLLO WEB",
    "company": "NETT Digital School",
    "url": "https://www.infojobs.net/castellon-de-la-plana-castello-de-la-plana/practicas-desarrollo-web/of-ie8cc1d1f6f47d7b67ff4679f853c91",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13779,8 +13299,8 @@
   },
   "infojobs_es_ebf54c848c4af10e": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Desarrollador/a Frontend Cells (Híbrido en Madrid)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador/a Frontend Cells (H\u00edbrido en Madrid)",
    "company": "EXIS-TI",
    "url": "https://www.infojobs.net/madrid/desarrollador-frontend-cells-hibrido-madrid/of-i4d9daa85ef487caece75767fa3ae43",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13791,7 +13311,7 @@
   },
   "infojobs_es_ffcab33320eee2ac": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a FrontEnd Vue 3 (100% Teletrabajo)",
    "company": "Infortec Consultores, S.A.U-.Zona Centro",
    "url": "https://www.infojobs.net/madrid/desarrollador-frontend-vue-3-100-teletrabajo/of-iaa9213a23241a98b3550865913572a",
@@ -13803,7 +13323,7 @@
   },
   "infojobs_es_7f5dc1c222204a2e": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "DESARROLLADOR/A FRONTEND (VUE 3) (100% TELETRABAJO)",
    "company": "IRIUM SOLUCIONES Y SISTEMAS",
    "url": "https://www.infojobs.net/madrid/desarrollador-frontend-vue-3-100-teletrabajo/of-i237c9880ef4330b48ef1eb8473a62b",
@@ -13815,7 +13335,7 @@
   },
   "infojobs_es_e813617e7c50916b": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Frontend Svelte",
    "company": "QIMOB MOBILITY SL.",
    "url": "https://www.infojobs.net/murcia/desarrollador-frontend-svelte/of-i64c6c97491432bb7e7502301c58d44",
@@ -13827,8 +13347,8 @@
   },
   "infojobs_es_ebbeeb53e0f7d441": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Líder Técnico Moodle (Teletrabajo)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "L\u00edder T\u00e9cnico Moodle (Teletrabajo)",
    "company": "Rawson BPO",
    "url": "https://www.infojobs.net/madrid/lider-tecnico-moodle-teletrabajo/of-i1d79d91f3a422aaa1fa7d9e8e44a59",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13839,7 +13359,7 @@
   },
   "infojobs_es_1c6a3501f7b1ef01": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a Senior .NET/C#",
    "company": "AAREON PROPTECH SPAIN",
    "url": "https://www.infojobs.net/madrid/desarrollador-senior-.net-c/of-i253c4193804e7fb6f41fafe0ccd5ed",
@@ -13851,8 +13371,8 @@
   },
   "infojobs_es_7d9999f9cb3b7067": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador/a – Desarrollador/a Web",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador/a \u2013 Desarrollador/a Web",
    "company": "GRUPO IMAN",
    "url": "https://www.infojobs.net/terrassa/programador-desarrollador-web/of-i43d00a32444eb0aa10b25792b10766",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13863,7 +13383,7 @@
   },
   "infojobs_es_8edafdae20b17cd5": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a  FrontEnd especializado en Vue3 y Azure",
    "company": "M & GT Consulting",
    "url": "https://www.infojobs.net/madrid/desarrollador-frontend-especializado-vue3-azure/of-i4b81dd55e1480b961e745404927b79",
@@ -13875,7 +13395,7 @@
   },
   "infojobs_es_1322bd2e58dc1b07": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a web",
    "company": "SA MINUTBAND GESTIONS ARTISTIQUES SL.",
    "url": "https://www.infojobs.net/sa-pobla/programador-web/of-iff51f2f3784cdf8f09f509dbb61815",
@@ -13887,7 +13407,7 @@
   },
   "infojobs_es_e7cc491952713c1c": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador junior .Net",
    "company": "Reclut",
    "url": "https://www.infojobs.net/murcia/programador-junior-.net/of-i763e3aee00453ea5acf5e79daf24c5",
@@ -13899,7 +13419,7 @@
   },
   "infojobs_es_7824476d506ffd9e": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador/a web",
    "company": "NEXTPAND",
    "url": "https://www.infojobs.net/vigo/desarrollador-web/of-i61144b29cd46daa66d5362e7cfe3a2",
@@ -13911,7 +13431,7 @@
   },
   "infojobs_es_92336491752f94ac": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Desarrollador Frontend Engineer (Angular / React)",
    "company": "Aubay",
    "url": "https://www.infojobs.net/barcelona-cataluna-espana/desarrollador-frontend-engineer-angular-react/of-ib85d18ffeb4b55b1910000d9aaeb70",
@@ -13923,7 +13443,7 @@
   },
   "infojobs_es_c8763b9a427c3963": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Payment Specialist",
    "company": "AVAFIN SPAIN S.L.",
    "url": "https://www.infojobs.net/barcelona/payment-specialist/of-i7f1152ce3b4b49a02d98fb2bfd29e4",
@@ -13935,8 +13455,8 @@
   },
   "infojobs_es_f3200e8dda0c58a4": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programa Graduate: INGENIERO LÍNEA DE PRODUCCIÓN ROBOTIZADA (F/M)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programa Graduate: INGENIERO L\u00cdNEA DE PRODUCCI\u00d3N ROBOTIZADA (F/M)",
    "company": "NEWREST GROUP HOLDING SA",
    "url": "https://www.infojobs.net/san-fernando-de-henares/programa-graduate-ingeniero-linea-produccion-robotizada-f-m/of-i55e5d3b79c4a94aff3cc9151412271",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13947,7 +13467,7 @@
   },
   "infojobs_es_28d167421d4fa26e": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador BPM BAW",
    "company": "Azertium IT Global Services SL",
    "url": "https://www.infojobs.net/madrid/programador-bpm-baw/of-ib85a88af074ed6bb56dc40577dca3b",
@@ -13959,7 +13479,7 @@
   },
   "infojobs_es_dba61926b395a5c0": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a .NET y Adabas & Natural",
    "company": "Inycom",
    "url": "https://www.infojobs.net/bilbao/programador-.net-adabas-natural/of-ibd08469bcb441cb3659e66c2e50e61",
@@ -13971,8 +13491,8 @@
   },
   "infojobs_es_efeef60188315256": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador/a Java, J2EE y C++ – 100% Remoto",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador/a Java, J2EE y C++ \u2013 100% Remoto",
    "company": "EXIS-TI",
    "url": "https://www.infojobs.net/madrid/programador-java-j2ee-c-100-remoto/of-i9190dbdfc4499d88da09dd78ee4cef",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13983,8 +13503,8 @@
   },
   "infojobs_es_1d2c34186be92402": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Programador/a - Autómata",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador/a - Aut\u00f3mata",
    "company": "Aceitunas Cazorla S.L.",
    "url": "https://www.infojobs.net/arahal/programador-automata/of-if3bb78afcf4722bcef840a8f53cb25",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -13995,9 +13515,9 @@
   },
   "infojobs_es_79e1ca6d37d48bb5": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Programador/a PL/SQL, J2EE, API REST/SOA",
-   "company": "UNIVERSITAS XXI, Soluciones y Tecnología para la Universidad, S.A.",
+   "company": "UNIVERSITAS XXI, Soluciones y Tecnolog\u00eda para la Universidad, S.A.",
    "url": "https://www.infojobs.net/madrid/programador-pl-sql-j2ee-api-rest-soa/of-i644eaf884b4671bd533b1bfc3e8248",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
    "pub_date": "2026-08-12T06:43:02Z",
@@ -14007,8 +13527,8 @@
   },
   "infojobs_es_95d4e085e5bae055": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de Sistemas Wintel",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de Sistemas Wintel",
    "company": "R & C Associats",
    "url": "https://www.infojobs.net/andorra-la-vieja/tecnico-sistemas-wintel/of-ie03b9e6ded446089daf05878bd63cf",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -14019,8 +13539,8 @@
   },
   "infojobs_es_d4eb8841015a4114": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Beca - Máster en Comercio Internacional",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Beca - M\u00e1ster en Comercio Internacional",
    "company": "NTT DATA ofertas de empleo profesionales",
    "url": "https://www.infojobs.net/murcia/beca-master-comercio-internacional/of-ie6089ff6574c878c3c48bd2041775c",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -14031,8 +13551,8 @@
   },
   "infojobs_es_1c7c17a3170abe3e": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Beca - Máster en Comercio Internacional",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Beca - M\u00e1ster en Comercio Internacional",
    "company": "NTT DATA ofertas de empleo profesionales",
    "url": "https://www.infojobs.net/alicante-alacant/beca-master-comercio-internacional/of-i9e896b2784494eba55b00ee6fc2d53",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -14043,8 +13563,8 @@
   },
   "infojobs_es_d726261fb4c09f17": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Analista de Operaciones con Inglés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Analista de Operaciones con Ingl\u00e9s",
    "company": "NTT DATA ofertas de empleo profesionales",
    "url": "https://www.infojobs.net/santander/analista-operaciones-con-ingles/of-i9a458981c54f1a8b122ee13f9b86e7",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -14055,8 +13575,8 @@
   },
   "infojobs_es_800b6c89f692a2c2": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Analista de Operaciones con Inglés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Analista de Operaciones con Ingl\u00e9s",
    "company": "NTT DATA ofertas de empleo profesionales",
    "url": "https://www.infojobs.net/a-coruna/analista-operaciones-con-ingles/of-i75851e81cd47be90341942001f4f9b",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -14067,8 +13587,8 @@
   },
   "infojobs_es_837d3a60478cc7b0": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Analista de Operaciones con Inglés",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Analista de Operaciones con Ingl\u00e9s",
    "company": "NTT DATA ofertas de empleo profesionales",
    "url": "https://www.infojobs.net/madrid/analista-operaciones-con-ingles/of-i52ed98ab54442ba646de3b06daf6a6",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -14079,7 +13599,7 @@
   },
   "infojobs_es_8612bc46ba5ef1ae": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "ELECTRICISTA INDUSTRIAL / QUADRISTA",
    "company": "IOS BY MASALO",
    "url": "https://www.infojobs.net/polinya/electricista-industrial-quadrista/of-ic89580f27f41258973ed60f73ff266",
@@ -14091,7 +13611,7 @@
   },
   "infojobs_es_37bb7ddc24512e23": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "RESPONSABLE DEPARTAMENT ESTUDIS (INDUSTRIAL)",
    "company": "IOS BY MASALO",
    "url": "https://www.infojobs.net/polinya/responsable-departament-estudis-industrial/of-i42c023ddf740cd960b21db3e01c238",
@@ -14103,8 +13623,8 @@
   },
   "infojobs_es_d650eb2562792049": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a de soporte",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a de soporte",
    "company": "AKKODIS",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte/of-ia85a8d32e148f896974e5c1a7e53ca",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
@@ -14115,9 +13635,9 @@
   },
   "infojobs_es_41fd6a317db2583e": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Vendedor/a Apple Castelldefels 20h",
-   "company": "K-TUIN, SISTEMAS INFORMÁTICOS",
+   "company": "K-TUIN, SISTEMAS INFORM\u00c1TICOS",
    "url": "https://www.infojobs.net/castelldefels/vendedor-apple-castelldefels-20h/of-iaf8412c99248e8a7ae62dd52898bfb",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
    "pub_date": "2026-08-18T12:35:40Z",
@@ -14127,9 +13647,9 @@
   },
   "infojobs_es_1fd3e13c2276af92": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Vendedor/a Apple Zaragoza",
-   "company": "K-TUIN, SISTEMAS INFORMÁTICOS",
+   "company": "K-TUIN, SISTEMAS INFORM\u00c1TICOS",
    "url": "https://www.infojobs.net/zaragoza/vendedor-apple-zaragoza/of-ib9ae9290874a67b1040bca92e3a4dd",
    "first_seen": "2026-08-20T00:16:28.454429+00:00",
    "pub_date": "2026-08-11T09:33:12Z",
@@ -14296,8 +13816,8 @@
   "himalayas_analista-gestao-performance-iii-venda-direta": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Analista Gestão Performance III - Venda Direta",
-   "company": "Grupo Boticário",
+   "title": "Analista Gest\u00e3o Performance III - Venda Direta",
+   "company": "Grupo Botic\u00e1rio",
    "url": "https://himalayas.app/companies/grupo-boticario/jobs/analista-gestao-performance-iii-venda-direta",
    "first_seen": "2026-08-21T00:10:41.538067+00:00",
    "pub_date": "2026-08-20T23:49:05+00:00",
@@ -14307,7 +13827,7 @@
   },
   "infojobs_es_5e6bd27845482b92172321aad85882": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "iOS Developer",
    "company": "",
    "url": "https://www.infojobs.net/alcantarilla/ios-developer/of-i5e6bd27845482b92172321aad85882",
@@ -14319,8 +13839,8 @@
   },
   "infojobs_es_16b35a9f734231851878143affddf1": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
-   "title": "Técnico/a Soporte Vip Alta dirección ( Windows, MacOS, iOS y Office 365) (Inglés Alto)",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "T\u00e9cnico/a Soporte Vip Alta direcci\u00f3n ( Windows, MacOS, iOS y Office 365) (Ingl\u00e9s Alto)",
    "company": "",
    "url": "https://www.infojobs.net/madrid/tecnico-soporte-vip-alta-direccion-windows-macos-ios-office-365-ingles-alto/of-i16b35a9f734231851878143affddf1",
    "first_seen": "2026-08-21T00:10:41.538067+00:00",
@@ -15062,7 +14582,7 @@
    "site_id": "remoteok",
    "site_name": "RemoteOK",
    "title": "Bellboy",
-   "company": "The Chedi LuÅ¡tica Bay",
+   "company": "The Chedi Lu\u00c5\u00a1tica Bay",
    "url": "https://remoteOK.com/remote-jobs/remote-bellboy-the-chedi-lustica-bay-1137002",
    "first_seen": "2026-08-23T00:09:53.759193+00:00",
    "pub_date": "2026-08-18T18:26:17+00:00",
@@ -15422,7 +14942,7 @@
    "site_id": "remoteok",
    "site_name": "RemoteOK",
    "title": "Planner Cayman Islands",
-   "company": "Bouygues BÃ¢timent International",
+   "company": "Bouygues B\u00c3\u00a2timent International",
    "url": "https://remoteOK.com/remote-jobs/remote-planner-cayman-islands-bouygues-batiment-international-1136863",
    "first_seen": "2026-08-23T00:09:53.759193+00:00",
    "pub_date": "2026-08-17T14:34:11+00:00",
@@ -15973,7 +15493,7 @@
   "himalayas_d3bf35685fb8152aa50040b36d7ec201": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Investment Specialist – Freelance AI Trainer Project",
+   "title": "Investment Specialist \u2013 Freelance AI Trainer Project",
    "company": "Invisible Technologies",
    "url": "https://himalayas.app/companies/inv/jobs/investment-specialist-freelance-ai-trainer-project",
    "first_seen": "2026-08-23T00:09:53.759193+00:00",
@@ -16355,7 +15875,7 @@
   "himalayas_bd4af7a6374a479867a6ed493827ac64": {
    "site_id": "himalayas",
    "site_name": "Himalayas",
-   "title": "Field Application Engineer (m/w/d) -  Energietechnik - Remote - Bayern & Österre",
+   "title": "Field Application Engineer (m/w/d) -  Energietechnik - Remote - Bayern & \u00d6sterre",
    "company": "TE Connectivity",
    "url": "https://himalayas.app/companies/te-connectivity/jobs/field-application-engineer-m-w-d-energietechnik-remote-bayern-osterre-4930246537",
    "first_seen": "2026-08-23T00:09:53.759193+00:00",
@@ -16422,7 +15942,7 @@
    "pub_date": "2026-08-22T00:00:12+00:00",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "seniority_filter: description requires '5+ años de experiencia' — senior-level role"
+   "elimination_reason": "seniority_filter: description requires '5+ a\u00f1os de experiencia' \u2014 senior-level role"
   },
   "remoteok_1136987": {
    "site_id": "remoteok",
@@ -16482,7 +16002,7 @@
    "pub_date": "2026-08-13T21:09:06+00:00",
    "notified": false,
    "eliminated": true,
-   "elimination_reason": "seniority_filter: job description title is 'Senior Full-Stack Developer' — senior-level role"
+   "elimination_reason": "seniority_filter: job description title is 'Senior Full-Stack Developer' \u2014 senior-level role"
   },
   "himalayas_31214cc41a04ad45679615ce71ac1162": {
    "site_id": "himalayas",
@@ -16772,7 +16292,7 @@
   },
   "infojobs_es_a3d12000ae2aa1a438a2c68531373a14": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "(no title)",
    "company": "",
    "url": "https://www.infojobs.net/of-if23d02e5e64085b20bbfb9a963fac3",
@@ -16784,7 +16304,7 @@
   },
   "infojobs_es_9a9cfe8d04da29222ee2b7664cfdf465": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "(no title)",
    "company": "Indra",
    "url": "https://www.infojobs.net/of-i65cc1129bc4b1b99697327b0ab88e3",
@@ -16796,7 +16316,7 @@
   },
   "infojobs_es_0890c07fa5e188f18ef105f5dcdca39c": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "(no title)",
    "company": "Aceitunascazorla",
    "url": "https://www.infojobs.net/of-if3bb78afcf4722bcef840a8f53cb25",
@@ -16808,7 +16328,7 @@
   },
   "infojobs_es_f242abe92364b5566b1a9cd9e884a1eb": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "(no title)",
    "company": "Inycom",
    "url": "https://www.infojobs.net/of-ibd08469bcb441cb3659e66c2e50e61",
@@ -16832,7 +16352,7 @@
   },
   "infojobs_es_9d047577eab19f313d0e9b3c5deed24c": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "Selectra",
    "company": "Selectra",
    "url": "https://www.infojobs.net/of-iba17cbc2b446beab021c394765f5f9",
@@ -16844,7 +16364,7 @@
   },
   "infojobs_es_e83daf85f01e92246b03fc91a1e8d215": {
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "title": "DEVOTEAM",
    "company": "Devoteam",
    "url": "https://www.infojobs.net/of-ie0c4dc9bc94c2791910148c72768a5",
@@ -16856,7 +16376,7 @@
   },
   "himalayas_999873b0b045": {
    "title": "Cloud Platform Engineer ( 102-08SENG-01 )",
-   "company": "OpsBrasil Serviços Cloud LTDA",
+   "company": "OpsBrasil Servi\u00e7os Cloud LTDA",
    "url": "",
    "site": "himalayas",
    "first_seen": "2026-08-25T00:18:56.067501+00:00",
@@ -16865,7 +16385,7 @@
    "elimination_reason": "himalayas seniority=['Senior']"
   },
   "himalayas_d3d852e50fd4": {
-   "title": "Software Architect III – Train Architect",
+   "title": "Software Architect III \u2013 Train Architect",
    "company": "Mutual Of Omaha",
    "url": "",
    "site": "himalayas",
@@ -17025,7 +16545,7 @@
    "elimination_reason": "title contains \"senior\""
   },
   "arcdev_sr-full-stack-engineer-next-js-supabase-row-level-security-rls-ft-na": {
-   "title": "Sr Full-Stack Engineer — Next.js, Supabase & Row-Level Security (RLS) (FT-NA)",
+   "title": "Sr Full-Stack Engineer \u2014 Next.js, Supabase & Row-Level Security (RLS) (FT-NA)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/sr-full-stack-engineer-next-js-supabase-row-level-security-rls-ft-na",
    "site": "arcdev",
@@ -17055,14 +16575,14 @@
    "elimination_reason": "title contains \"lead\""
   },
   "infojobs_es_962af2660f4315aeb669a1bfd4cb36": {
-   "title": "Técnico/a de Automatización y Control",
+   "title": "T\u00e9cnico/a de Automatizaci\u00f3n y Control",
    "company": "",
    "url": "https://www.infojobs.net/merida/tecnico-automatizacion-control/of-i962af2660f4315aeb669a1bfd4cb36",
    "site": "infojobs_es",
    "first_seen": "2026-08-25T00:18:56.067501+00:00",
    "status": "eliminated",
    "eliminated": true,
-   "elimination_reason": "non-dev title: \"automatización\""
+   "elimination_reason": "non-dev title: \"automatizaci\u00f3n\""
   },
   "infojobs_es_1361aab48341559b725ca71a8934eb": {
    "title": "Programador/a Senior React Native | Presencial en Madrid",
@@ -17152,7 +16672,7 @@
    "first_seen": "2026-08-25T00:18:56.067501+00:00",
    "status": "eliminated",
    "eliminated": true,
-   "elimination_reason": "Híbrido (hybrid) + 36-39K€ annual gross RAL + 4+ years exp + Contrato indefinido"
+   "elimination_reason": "H\u00edbrido (hybrid) + 36-39K\u20ac annual gross RAL + 4+ years exp + Contrato indefinido"
   },
   "infojobs_es_a46a46b24a49a797d51229ef782388": {
    "title": "Android developer",
@@ -17162,17 +16682,17 @@
    "first_seen": "2026-08-25T00:18:56.067501+00:00",
    "status": "eliminated",
    "eliminated": true,
-   "elimination_reason": "Presencial (on-site) + 22-28K€ annual gross RAL + Contrato indefinido"
+   "elimination_reason": "Presencial (on-site) + 22-28K\u20ac annual gross RAL + Contrato indefinido"
   },
   "infojobs_es_f2621addc543f59aec0a6391135eaf": {
-   "title": "Analista / Programador/a Android / iOS – Sector Salud ¿",
+   "title": "Analista / Programador/a Android / iOS \u2013 Sector Salud \u00bf",
    "company": "",
    "url": "https://www.infojobs.net/barcelona/analista-programador-android-ios-sector-salud/of-if2621addc543f59aec0a6391135eaf",
    "site": "infojobs_es",
    "first_seen": "2026-08-25T00:18:56.067501+00:00",
    "status": "eliminated",
    "eliminated": true,
-   "elimination_reason": "Solo teletrabajo ✓ but 30-39K€ annual gross (RAL) + Contrato indefinido = employment position"
+   "elimination_reason": "Solo teletrabajo \u2713 but 30-39K\u20ac annual gross (RAL) + Contrato indefinido = employment position"
   },
   "arcdev_web-designer-developer-specializing-in-webflow": {
    "title": "Web Designer/Developer Specializing in Webflow",
@@ -17554,7 +17074,7 @@
    "company": "",
    "url": "https://www.infojobs.net/madrid/backend-developer-ai-engineer-java-kotlin-angular-ingles-b2-100-remoto/of-id12e4924824477b3c38080430964d2",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "freelance_reject (found: ['contrato indefinido', 'contrato laboral'])",
@@ -17565,7 +17085,7 @@
    "company": "",
    "url": "https://www.infojobs.net/malaga/engineer-android/of-iefaf1463ed4281add08ea49460b90e",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "freelance_reject (found: ['contrato indefinido'])",
@@ -17576,7 +17096,7 @@
    "company": "",
    "url": "https://www.infojobs.net/madrid/gestor-incidencias-aplicaciones/of-i0e1a35f54d4af993d4a7fb1cd232fd",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "not_remote (found: ['ibrido', 'presencial'])",
@@ -17587,29 +17107,29 @@
    "company": "",
    "url": "https://www.infojobs.net/madrid/technical-leader/of-i8814887a5b4b8e9410fbed3d0577b9",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
-   "eliminated_reason": "not_remote (found: ['presencial', 'híbrido'])",
+   "eliminated_reason": "not_remote (found: ['presencial', 'h\u00edbrido'])",
    "notified": false
   },
   "infojobs_es_25268b18409a4214cbcbb38051ccca38": {
-   "title": "Técnico/a de Automatización y Control",
+   "title": "T\u00e9cnico/a de Automatizaci\u00f3n y Control",
    "company": "",
    "url": "https://www.infojobs.net/merida/tecnico-automatizacion-control/of-i962af2660f4315aeb669a1bfd4cb36",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "not_remote (found: ['presencial'])",
    "notified": false
   },
   "infojobs_es_f6210b9afc7c52d5fe2e40c1d3e90939": {
-   "title": "Desarrollador/a Junior – IA & Software",
+   "title": "Desarrollador/a Junior \u2013 IA & Software",
    "company": "",
    "url": "https://www.infojobs.net/las-palmas-de-gran-canaria/desarrollador-junior-ia-software/of-i5527ca5d434877938ba3f84ed079a0",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "freelance_reject (found: ['contrato indefinido'])",
@@ -17620,18 +17140,18 @@
    "company": "",
    "url": "https://www.infojobs.net/barcelona/desarrollador-junior-erp-md365-f-power-bi/of-i0a3a8a660943a7970ee3afcbeed344",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "freelance_reject (found: ['contrato indefinido'])",
    "notified": false
   },
   "infojobs_es_dbf7d2929ab01025b30c9f370dc3f508": {
-   "title": "Desarrollador/a Junior de Aplicaciones Internas y Automatización",
+   "title": "Desarrollador/a Junior de Aplicaciones Internas y Automatizaci\u00f3n",
    "company": "",
    "url": "https://www.infojobs.net/vinaros/desarrollador-junior-aplicaciones-internas-automatizacion/of-i4c47bc86074c188bfff5ff53168f52",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "not_remote (found: ['presencial'])",
@@ -17642,7 +17162,7 @@
    "company": "",
    "url": "https://www.infojobs.net/sevilla/desarrollador-junior-.net-oracle/of-i33ac2159064d48bcbacc6aa86a61ae",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "not_remote (found: ['presencial'])",
@@ -17653,40 +17173,40 @@
    "company": "",
    "url": "https://www.infojobs.net/getafe/desarrollador-junior-sw-embebido-c-arm-getafe/of-i191a3736904524bfc9443fcc6298a8",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "not_remote (found: ['presencial'])",
    "notified": false
   },
   "infojobs_es_f3200e8dda0c58a4f60970fb3ccf985e": {
-   "title": "Programa Graduate: INGENIERO LÍNEA DE PRODUCCIÓN ROBOTIZADA (F/M)",
+   "title": "Programa Graduate: INGENIERO L\u00cdNEA DE PRODUCCI\u00d3N ROBOTIZADA (F/M)",
    "company": "",
    "url": "https://www.infojobs.net/san-fernando-de-henares/programa-graduate-ingeniero-linea-produccion-robotizada-f-m/of-i55e5d3b79c4a94aff3cc9151412271",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
-   "eliminated_reason": "not_remote (found: ['presencial', 'híbrido'])",
+   "eliminated_reason": "not_remote (found: ['presencial', 'h\u00edbrido'])",
    "notified": false
   },
   "infojobs_es_cd059db3f406f5e3aec97ec5fd58d600": {
-   "title": "Business Developer Junior – E-commerce y Proyectos Internacionales",
+   "title": "Business Developer Junior \u2013 E-commerce y Proyectos Internacionales",
    "company": "",
    "url": "https://www.infojobs.net/beniparrell/business-developer-junior-commerce-proyectos-internacionales/of-ic1a39d5fe94446ac644f4e31e3e506",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "not_remote (found: ['presencial'])",
    "notified": false
   },
   "infojobs_es_3ebe77ce4efaf9dd5c2f4c9a863d226e": {
-   "title": "Técnico/a de Reparación de Smartphones y Tablets – iServices Bilbao",
+   "title": "T\u00e9cnico/a de Reparaci\u00f3n de Smartphones y Tablets \u2013 iServices Bilbao",
    "company": "",
    "url": "https://www.infojobs.net/barakaldo/tecnico-reparacion-smartphones-tablets-iservices-bilbao/of-i9d9e4569ba4621a74dc31a0f604262",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "not_remote (found: ['presencial'])",
@@ -17697,10 +17217,10 @@
    "company": "",
    "url": "https://www.infojobs.net/barcelona/payment-specialist/of-i7f1152ce3b4b49a02d98fb2bfd29e4",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
-   "eliminated_reason": "not_remote (found: ['hybrid', 'híbrido'])",
+   "eliminated_reason": "not_remote (found: ['hybrid', 'h\u00edbrido'])",
    "notified": false
   },
   "infojobs_es_96c0eabeac528d3d4b500e03d2a9a05f": {
@@ -17708,7 +17228,7 @@
    "company": "",
    "url": "https://www.infojobs.net/madrid/programador-sisnet-100-remoto/of-i7a48a0252642018795f9323a9372f0",
    "site_id": "infojobs_es",
-   "site_name": "InfoJobs España",
+   "site_name": "InfoJobs Espa\u00f1a",
    "first_seen": "2026-08-26T00:23:25.409312+00:00",
    "eliminated": true,
    "eliminated_reason": "freelance_reject (found: ['contrato indefinido'])",
@@ -18067,7 +17587,7 @@
    "notified": false
   },
   "himalayas_https://himalayas.app/companies/photon-interactive-uk-limited/jobs/senior-backend-developer-lead-notification-hub-offshore-india-5230584879": {
-   "title": "Senior Backend Developer/Lead – Notification Hub (Offshore)  | India",
+   "title": "Senior Backend Developer/Lead \u2013 Notification Hub (Offshore)  | India",
    "company": "Photon Interactive UK Limited",
    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/senior-backend-developer-lead-notification-hub-offshore-india-5230584879",
    "site_id": "himalayas",
@@ -18188,7 +17708,7 @@
    "notified": false
   },
   "arcdev_pdy1dmq7h1": {
-   "title": "Senior Device Integration Engineer — Serial/Embedded Middleware (Cash Processing Hardware)",
+   "title": "Senior Device Integration Engineer \u2014 Serial/Embedded Middleware (Cash Processing Hardware)",
    "company": "",
    "url": "https://arc.dev/remote-jobs/senior-device-integration-engineer-serial-embedded-middleware-cash-processing-hardware",
    "site_id": "arcdev",
@@ -18266,7 +17786,7 @@
   },
   "arcdev_pf1xn8onmc": {
    "title": "Inbound Marketing Specialist",
-   "company": "Innovation Roundtable®",
+   "company": "Innovation Roundtable\u00ae",
    "url": "https://arc.dev/remote-jobs/innovation-roundtable-inbound-marketing-specialist",
    "site_id": "arcdev",
    "site_name": "Arc.dev",
@@ -18375,7 +17895,7 @@
    "notified": false
   },
   "arcdev_pf1v0kud0b": {
-   "title": "Software Engineer Technical Architect【年収1200万円 Remote 】Global Team / (SaaS / B2B Platform)",
+   "title": "Software Engineer Technical Architect\u3010\u5e74\u53ce1200\u4e07\u5186 Remote \u3011Global Team / (SaaS / B2B Platform)",
    "company": "GAIDOOR RECRUIT",
    "url": "https://arc.dev/remote-jobs/gaidoor-recruit-software-engineer-technical-architect-1200-remote-global-team-saas-b2b-platform",
    "site_id": "arcdev",
@@ -18397,7 +17917,7 @@
    "notified": false
   },
   "arcdev_pb8vqkc8du": {
-   "title": "Senior Product Engineer (£90k-£130k) at Nory",
+   "title": "Senior Product Engineer (\u00a390k-\u00a3130k) at Nory",
    "company": "Jack & Jill",
    "url": "https://arc.dev/remote-jobs/jack-jill-senior-product-engineer-90k-130k-at-nory",
    "site_id": "arcdev",
@@ -18452,7 +17972,7 @@
    "notified": false
   },
   "arcdev_pf1xpmbw75": {
-   "title": "Senior Measurement Strategist – Marketing Analytics & AdTech",
+   "title": "Senior Measurement Strategist \u2013 Marketing Analytics & AdTech",
    "company": "SARACA",
    "url": "https://arc.dev/remote-jobs/saraca-senior-measurement-strategist-marketing-analytics-adtech",
    "site_id": "arcdev",
@@ -18573,7 +18093,7 @@
    "pub_date": "2026-08-26T20:33:21+00:00"
   },
   "himalayas_b7049137d39fc8199b6e58fe3d41a439": {
-   "title": "Finanzbuchhalter (m/w/d) in Erftstadt - 100% remote möglich",
+   "title": "Finanzbuchhalter (m/w/d) in Erftstadt - 100% remote m\u00f6glich",
    "company": "PMPG",
    "url": "https://himalayas.app/companies/pmpg/jobs/finanzbuchhalter-m-w-d-in-erftstadt-100-remote-moglich",
    "site_id": "himalayas",
@@ -18690,7 +18210,7 @@
    "first_seen": "2026-08-27T00:13:13.912451+00:00",
    "eliminated": true,
    "eliminated_reason": "freelance_only",
-   "eliminated_detail": "Full-time employee — health/life insurance + comprehensive benefits",
+   "eliminated_detail": "Full-time employee \u2014 health/life insurance + comprehensive benefits",
    "pub_date": "2026-08-26T20:33:19+00:00"
   },
   "himalayas_28b7984018cf2e2be3d4683af20dfb13": {
@@ -18844,7 +18364,7 @@
    "first_seen": "2026-08-27T00:13:13.912451+00:00",
    "eliminated": true,
    "eliminated_reason": "non_tech_role",
-   "eliminated_detail": "Data verification gig — TELUS AI Community task",
+   "eliminated_detail": "Data verification gig \u2014 TELUS AI Community task",
    "pub_date": "2026-08-26T02:00:09+00:00"
   },
   "himalayas_3a7fa56dda6ee7205cf3fd533e0892d0": {
@@ -18881,7 +18401,7 @@
    "pub_date": "2026-08-26T02:00:03+00:00"
   },
   "himalayas_53f6466351fb582849cb5d6a480f8e6e": {
-   "title": "Parent Safety Contributor – Protect Teens Online (Australia)",
+   "title": "Parent Safety Contributor \u2013 Protect Teens Online (Australia)",
    "company": "TELUS Digital",
    "url": "https://himalayas.app/companies/telus-digital/jobs/parent-safety-contributor-protect-teens-online-australia",
    "site_id": "himalayas",
@@ -18892,7 +18412,7 @@
    "pub_date": "2026-08-26T02:00:02+00:00"
   },
   "himalayas_bb930fc93fa2591d1a9ac46a3247343c": {
-   "title": "AI Speech & Audio Specialist – ASR | TTS | Voice AI | Audio Data",
+   "title": "AI Speech & Audio Specialist \u2013 ASR | TTS | Voice AI | Audio Data",
    "company": "TELUS Digital",
    "url": "https://himalayas.app/companies/telus-digital/jobs/ai-speech-audio-specialist-asr-tts-voice-ai-audio-data",
    "site_id": "himalayas",
@@ -18990,7 +18510,7 @@
    "eliminated_detail": "Title indicates senior/lead/staff/principal position"
   },
   "arcdev_e15d8a0dbbb3ff17aeb2c222b7e171ef": {
-   "title": "Independent SaaS Architecture & Code Reviewer — Multi-Tenant Platform",
+   "title": "Independent SaaS Architecture & Code Reviewer \u2014 Multi-Tenant Platform",
    "company": "",
    "url": "https://arc.dev/remote-jobs/details/independent-saas-architecture-code-reviewer-multi-tenant-platform-pf5q7ystmw",
    "site_id": "arcdev",
@@ -19007,7 +18527,7 @@
    "first_seen": "2026-08-27T00:13:13.912451+00:00",
    "eliminated": true,
    "eliminated_reason": "remote_only",
-   "eliminated_detail": "Híbrido location — not 100% remote"
+   "eliminated_detail": "H\u00edbrido location \u2014 not 100% remote"
   },
   "infojobs_es_a5dfd63ab6d9bc3b60ff8aab4db45e87": {
    "title": "Programador/a Java",
@@ -19017,10 +18537,10 @@
    "first_seen": "2026-08-27T00:13:13.912451+00:00",
    "eliminated": true,
    "eliminated_reason": "freelance_only",
-   "eliminated_detail": "Contrato indefinido + 5+ years — permanent employment"
+   "eliminated_detail": "Contrato indefinido + 5+ years \u2014 permanent employment"
   },
   "infojobs_es_1f127fab742f0b70936f4d26e07aee5b": {
-   "title": "Técnico de soporte IT onsite",
+   "title": "T\u00e9cnico de soporte IT onsite",
    "company": "",
    "url": "https://www.infojobs.net/pozuelo-de-alarcon/tecnico-soporte-it-onsite/of-i15e29f986043f8affb589c2fe718e1",
    "site_id": "infojobs_es",
@@ -19048,6 +18568,380 @@
    "eliminated": true,
    "eliminated_reason": "non_tech_role",
    "eliminated_detail": "Title indicates non-technical role"
+  },
+  "remoteok_1137139": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Course Director UX UI and AI",
+   "company": "Interaction Design Foundation",
+   "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-26T12:44:41+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: course director"
+  },
+  "remoteok_1137138": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Education Designer UX UI and AI",
+   "company": "Interaction Design Foundation",
+   "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-26T12:41:23+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: education designer"
+  },
+  "remoteok_1137136": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Course Writer and Editor UX UI and AI",
+   "company": "Interaction Design Foundation",
+   "url": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-26T12:33:33+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: writer"
+  },
+  "remoteok_1137153": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Lead Estimator",
+   "company": "Complex Co.",
+   "url": "https://remoteOK.com/remote-jobs/remote-lead-estimator-complex-co-1137153",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-26T05:24:03+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: estimator"
+  },
+  "remoteok_1137154": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Earn more",
+   "company": "Nick Scali Limited",
+   "url": "https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-26T00:05:05+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: earn more"
+  },
+  "remoteok_1137126": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Rural and Suburban Mail Carrier Allan RR1",
+   "company": "Canada Post / Postes Canada",
+   "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-25T14:37:33+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: mail carrier"
+  },
+  "remoteok_1137158": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Video Editor",
+   "company": "Locals",
+   "url": "https://remoteOK.com/remote-jobs/remote-video-editor-locals-1137158",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-25T09:45:13+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: video editor"
+  },
+  "remoteok_1137102": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "GLUCOBAY TASK FORCE",
+   "company": "Bayer",
+   "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-24T07:17:43+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: glucobay"
+  },
+  "remoteok_1137072": {
+   "site_id": "remoteok",
+   "site_name": "RemoteOK",
+   "title": "Senior Specialist Global QMS",
+   "company": "Orca Bio",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-22T16:00:15+00:00",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: specialist global qms"
+  },
+  "remotive_2091099": {
+   "site_id": "remotive",
+   "site_name": "Remotive",
+   "title": "Senior DevOps Engineer",
+   "company": "Lemon.io",
+   "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "2026-08-25T13:57:53",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior/Lead in title: senior"
+  },
+  "himalayas_https://himalayas.app/companies/highmark-health/jobs/senior-data-engineer-1042639536": {
+   "site_id": "himalayas",
+   "site_name": "Himalayas",
+   "title": "Senior Data Engineer",
+   "company": "Highmark Health",
+   "url": "https://himalayas.app/companies/highmark-health/jobs/senior-data-engineer-1042639536",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "1787874725",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior/Lead in title: senior"
+  },
+  "himalayas_https://himalayas.app/companies/college-board/jobs/senior-director-ap-english-language-and-seminar-generalist-curriculum-and-asse": {
+   "site_id": "himalayas",
+   "site_name": "Himalayas",
+   "title": "Senior Director, AP English Language and Seminar Generalist, Curriculum and Asse",
+   "company": "College Board",
+   "url": "https://himalayas.app/companies/college-board/jobs/senior-director-ap-english-language-and-seminar-generalist-curriculum-and-asse",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "1787875114",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: ap english"
+  },
+  "himalayas_https://himalayas.app/companies/stefanini/jobs/analista-de-governanca-de-dados-sr-8489455069": {
+   "site_id": "himalayas",
+   "site_name": "Himalayas",
+   "title": "Analista de Governan\u00e7a de Dados SR",
+   "company": "Stefanini",
+   "url": "https://himalayas.app/companies/stefanini/jobs/analista-de-governanca-de-dados-sr-8489455069",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "1787874756",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-dev role: governan\u00e7a"
+  },
+  "himalayas_https://himalayas.app/companies/supportninja/jobs/senior-net-engineer-blazor-seasonal-7886854721": {
+   "site_id": "himalayas",
+   "site_name": "Himalayas",
+   "title": "Senior .NET Engineer (Blazor) | SEASONAL",
+   "company": "SupportNinja",
+   "url": "https://himalayas.app/companies/supportninja/jobs/senior-net-engineer-blazor-seasonal-7886854721",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "1787874839",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior/Lead in title: senior"
+  },
+  "arcdev_pfnnqig48j": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Senior Python Full Stack Developer Needed (Long-Term)",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pfnnqig48j",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior/Lead in title: senior"
+  },
+  "arcdev_pf7wnnpd0x": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Senior Full-Stack Product Engineer - Part-time - Worldwide",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pf7wnnpd0x",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior/Lead in title: senior"
+  },
+  "arcdev_pf5q7ystmw": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Independent SaaS Architecture & Code Reviewer \u2014 Multi-Tenant Platform",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pf5q7ystmw",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior/Lead in title: architect"
+  },
+  "infojobs_es_e0c4dc9bc94c2791910148c72768a5": {
+   "site_id": "infojobs_es",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Senior Mulesoft Developer",
+   "company": "",
+   "url": "https://www.infojobs.net/madrid/senior-mulesoft-developer/of-ie0c4dc9bc94c2791910148c72768a5",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior/Lead in title: senior"
+  },
+  "himalayas_https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/alokai-vue-storefront-frontend-lead-3392468173": {
+   "site_id": "himalayas",
+   "site_name": "Himalayas",
+   "title": "Alokai/ Vue Storefront Frontend Lead",
+   "company": "PradeepIT Consulting Services Pvt Ltd",
+   "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/alokai-vue-storefront-frontend-lead-3392468173",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "1787862941",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Lead in title"
+  },
+  "arcdev_pf3hkon1xc": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Site Reliability Engineer (Cloud) - Fulltime - LATAM",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pf3hkon1xc",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Geo-restricted (LATAM only, not Spain)"
+  },
+  "arcdev_pf0syq2a6z": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Python / Database Engineer - FT - NA/LATAM",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pf0syq2a6z",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior level"
+  },
+  "arcdev_pevav2jovp": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Full Stack AI Engineer (LLM-based products) - Full-time - Overlap CET",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pevav2jovp",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior level"
+  },
+  "arcdev_pe6v8pvwqs": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "DevOps / AWS Infrastructure Engineer (NA/LATAM-PT)",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pe6v8pvwqs",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Geo-restricted (NA/LATAM only)"
+  },
+  "arcdev_pdtsfdf2gs": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Php + Vue Full Stack Developer",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pdtsfdf2gs",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Senior level"
+  },
+  "infojobs_es_5366ff5e024f3b90f691a6978c5919": {
+   "site_id": "infojobs_es",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador Cobol Swift 100 Remoto",
+   "company": "",
+   "url": "https://www.infojobs.net/madrid/programador-cobol-swift-100-remoto/of-i5366ff5e024f3b90f691a6978c5919",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Contrato indefinido (permanent contract)"
+  },
+  "infojobs_es_50c0a50a8c4f559db4daded9cd28c2": {
+   "site_id": "infojobs_es",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador Automatizacion Control Building Bms",
+   "company": "",
+   "url": "https://www.infojobs.net/barcelona/programador-automatizacion-control-building-bms/of-i50c0a50a8c4f559db4daded9cd28c2",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-mobile tech / likely permanent (InfoJobs Spain typical pattern)"
+  },
+  "infojobs_es_33b6aa01ef451ca6f52f3cb8fb224e": {
+   "site_id": "infojobs_es",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Desarrollador Frontend",
+   "company": "",
+   "url": "https://www.infojobs.net/viladecans/desarrollador-frontend/of-i33b6aa01ef451ca6f52f3cb8fb224e",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Contrato indefinido + annual gross salary"
+  },
+  "infojobs_es_ef4fcac24d4e5a8a63b7e2d6dabbf2": {
+   "site_id": "infojobs_es",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador .Net Tecnico Sistemas",
+   "company": "",
+   "url": "https://www.infojobs.net/santa-cruz-de-tenerife/programador-.net-tecnico-sistemas/of-ief4fcac24d4e5a8a63b7e2d6dabbf2",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-mobile tech / likely permanent (InfoJobs Spain typical pattern)"
+  },
+  "infojobs_es_110c1ba41d42cf864a682ca5bd151b": {
+   "site_id": "infojobs_es",
+   "site_name": "InfoJobs Espa\u00f1a",
+   "title": "Programador Industrial Junior",
+   "company": "",
+   "url": "https://www.infojobs.net/marcilla/programador-industrial-junior/of-i110c1ba41d42cf864a682ca5bd151b",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "",
+   "notified": false,
+   "eliminated": true,
+   "elimination_reason": "Non-mobile tech / likely permanent (InfoJobs Spain typical pattern)"
+  },
+  "arcdev_pf4js223gz": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Backend Engineer - Cross-Chain Bridge (Web3) - Fulltime - Worldwide",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pf4js223gz",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "1787679373",
+   "notified": false,
+   "eliminated": false,
+   "score": 48,
+   "below_threshold": true
+  },
+  "arcdev_pe14sttygn": {
+   "site_id": "arcdev",
+   "site_name": "Arc.dev",
+   "title": "Freelance Developer",
+   "company": "",
+   "url": "https://arc.dev/remote-jobs/pe14sttygn",
+   "first_seen": "2026-08-28T00:16:32.295641+00:00",
+   "pub_date": "1787302321",
+   "notified": false,
+   "eliminated": false,
+   "score": 48,
+   "below_threshold": true
   }
  },
  "daily_stats": {
@@ -19106,7 +19000,7 @@
      "score": 100,
      "title": "Programador/a web de la landing de SPIDER-MAN: Bran New Day con InfoJobs",
      "company": "SPIDER-MAN",
-     "site": "InfoJobs España"
+     "site": "InfoJobs Espa\u00f1a"
     }
    ]
   },
@@ -19274,7 +19168,7 @@
      "score": 70,
      "title": "iOS Developer (Swift & BLE / IoT Devices)",
      "company": "SISTEMA AZUD, S.A.",
-     "site": "InfoJobs España"
+     "site": "InfoJobs Espa\u00f1a"
     }
    ],
    "last_run": "2026-07-16T06:12:57.638941+00:00",
@@ -19670,7 +19564,7 @@
     },
     {
      "id": "arcdev_pbia0qln31",
-     "title": "Frontend Developer – Website Migration - Astro (WW-FT)",
+     "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)",
      "company": "(unknown)",
      "site": "Arc.dev",
      "score": 68
@@ -19728,7 +19622,7 @@
     },
     {
      "id": "arcdev_ac1cae609746dcfa3235c986f6f5b1ec",
-     "title": "Frontend Developer – Website Migration - Astro (WW-FT)",
+     "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)",
      "score": 54.2,
      "site": "Arc.dev"
     }
@@ -19828,7 +19722,7 @@
    "total_below_threshold": 1,
    "top_scores": [
     {
-     "title": "Frontend Developer – Website Migration - Astro (WW-FT)",
+     "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)",
      "score": 44.75,
      "site": "Arc.dev"
     }
@@ -19896,21 +19790,28 @@
    "eliminated_freelance": 3,
    "eliminated_remote": 1,
    "runs": 1
+  },
+  "2026-08-28": {
+   "notified": 0,
+   "eliminated": 29,
+   "below_threshold": 2,
+   "runs": 1,
+   "total_new": 31
   }
  },
  "site_errors": {
   "remoteok": {
    "consecutive_failures": 0,
-   "last_success": "2026-08-27T00:13:13.912451+00:00",
+   "last_success": "2026-08-28T00:16:32.295641+00:00",
    "last_error": null
   },
   "remotive": {
    "consecutive_failures": 0,
-   "last_success": "2026-08-27T00:13:13.912451+00:00",
+   "last_success": "2026-08-28T00:16:32.295641+00:00",
    "last_error": null
   },
   "jobicy": {
-   "consecutive_failures": 94,
+   "consecutive_failures": 95,
    "last_error": "SPA/empty content (RSS returns HTML shell)",
    "last_success": "2026-04-25T05:50:00+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
@@ -19918,52 +19819,52 @@
   "infojobs_es": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-08-27T00:13:13.912451+00:00",
+   "last_success": "2026-08-28T00:16:32.295641+00:00",
    "last_warned": null
   },
   "welcometothejungle": {
-   "consecutive_failures": 20,
+   "consecutive_failures": 21,
    "last_error": "SPA no extractable job cards",
    "last_success": "2026-08-05T14:26:37.780500+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
   },
   "landingjobs": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "last_success": "2026-08-26T00:23:25.409312+00:00",
    "last_error": "SPA no extractable job cards"
   },
   "indeed_uk": {
-   "consecutive_failures": 44,
+   "consecutive_failures": 45,
    "last_error": "403 Additional Verification Required",
    "last_success": "2026-07-14T14:25:52.072047+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
   },
   "indeed_it": {
-   "consecutive_failures": 40,
+   "consecutive_failures": 41,
    "last_error": "403 Additional Verification Required",
    "last_success": "2026-07-15T20:10:00+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
   },
   "indeed_de": {
-   "consecutive_failures": 44,
+   "consecutive_failures": 45,
    "last_error": "403 Additional Verification Required",
    "last_success": "2026-07-14T14:25:52.072047+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
   },
   "indeed_es": {
-   "consecutive_failures": 44,
+   "consecutive_failures": 45,
    "last_error": "403 Additional Verification Required",
    "last_success": "2026-07-14T14:25:52.072047+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
   },
   "indeed_fr": {
-   "consecutive_failures": 44,
+   "consecutive_failures": 45,
    "last_error": "403 Additional Verification Required",
    "last_success": "2026-07-14T14:25:52.072047+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
   },
   "glassdoor": {
-   "consecutive_failures": 18,
+   "consecutive_failures": 19,
    "last_error": "Cloudflare challenge (Just a moment)",
    "last_success": "2026-08-06T14:19:21.136014+00:00",
    "last_warned": "2026-08-21T00:10:41.538067+00:00"
@@ -19978,16 +19879,16 @@
   },
   "himalayas": {
    "consecutive_failures": 0,
-   "last_success": "2026-08-27T00:13:13.912451+00:00",
+   "last_success": "2026-08-28T00:16:32.295641+00:00",
    "last_error": null
   },
   "arcdev": {
    "consecutive_failures": 0,
-   "last_success": "2026-08-27T00:13:13.912451+00:00",
+   "last_success": "2026-08-28T00:16:32.295641+00:00",
    "last_error": null
   },
   "justremote": {
-   "consecutive_failures": 3,
+   "consecutive_failures": 4,
    "last_success": "2026-08-24T00:18:12.673189+00:00",
    "last_error": "SPA no extractable job cards (proxy renders shell)"
   }

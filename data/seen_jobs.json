@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T00:16:30.693686+00:00",
+  "last_updated": "2026-09-07T00:12:11.451765+00:00",
   "jobs": {
     "arcdev_98bb73e691869388": {
       "site_id": "arcdev",
@@ -24766,6 +24766,450 @@
       "notified": false,
       "status": "eliminated",
       "elimination_reason": "non-dev role (title-based)"
+    },
+    "himalayas_https://himalayas.app/companies/pavago/jobs/sales-service-representative-english-korean-4641860981": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sales Service Representative (English & Korean)",
+      "company": "Pavago",
+      "url": "https://himalayas.app/companies/pavago/jobs/sales-service-representative-english-korean-4641860981",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739177,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/experian/jobs/crm-program-marketing-manager": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "CRM Program Marketing Manager",
+      "company": "Experian",
+      "url": "https://himalayas.app/companies/experian/jobs/crm-program-marketing-manager",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739333,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/mercor/jobs/commercial-analyst-fully-remote-upto-160-hr-8890783987": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Commercial Analyst - Fully Remote | Upto $160/hr",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/commercial-analyst-fully-remote-upto-160-hr-8890783987",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739117,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "remoteok_1137304": {
+      "site_id": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "Roupeiro Muro Alto PE",
+      "company": "GAV Resorts",
+      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-muro-alto-pe-gav-resorts-1137304",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": "2026-09-03T16:37:34+00:00",
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/inv/jobs/aws-trainium-nki-trn-ai-task-auditor-freelance-ai-trainer-project": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "AWS Trainium/NKI (TRN) AI Task Auditor - Freelance AI Trainer Project",
+      "company": "Invisible Technologies",
+      "url": "https://himalayas.app/companies/inv/jobs/aws-trainium-nki-trn-ai-task-auditor-freelance-ai-trainer-project",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739232,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/hinduja-global-solutions-ltd/jobs/nova-scotia-work-home-customer-service-representative-ca-8158510849": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Nova Scotia Work@Home Customer Service Representative (CA)",
+      "company": "Hinduja Global Solutions Ltd",
+      "url": "https://himalayas.app/companies/hinduja-global-solutions-ltd/jobs/nova-scotia-work-home-customer-service-representative-ca-8158510849",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739279,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/anavah-talent/jobs/client-operations-lead-direct-hire-7346519196": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Client Operations Lead - Direct Hire",
+      "company": "Anavah Talent",
+      "url": "https://himalayas.app/companies/anavah-talent/jobs/client-operations-lead-direct-hire-7346519196",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739139,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/toloka-ai/jobs/freelance-annotator-english-ai-trainer-4489488064": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Freelance Annotator (English) - AI Trainer",
+      "company": "Toloka AI",
+      "url": "https://himalayas.app/companies/toloka-ai/jobs/freelance-annotator-english-ai-trainer-4489488064",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738961,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/apollo/jobs/account-executive-new-business-mid-market": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Account Executive, New Business (Mid-Market)",
+      "company": "Apollo",
+      "url": "https://himalayas.app/companies/apollo/jobs/account-executive-new-business-mid-market",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738944,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/leidos/jobs/test-engineer": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Test Engineer",
+      "company": "Leidos",
+      "url": "https://himalayas.app/companies/leidos/jobs/test-engineer",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739369,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to united kingdom"
+    },
+    "himalayas_https://himalayas.app/companies/virtual7-gmbh/jobs/kubernetes-administrator-private-cloud-engineer-m-w-d-3174322439": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "url": "https://himalayas.app/companies/virtual7-gmbh/jobs/kubernetes-administrator-private-cloud-engineer-m-w-d-3174322439",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738976,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "language: posting entirely in German (7 indicators), no English confirmation"
+    },
+    "himalayas_https://himalayas.app/companies/labx-media-group/jobs/webinar-conference-producer": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Webinar & Conference Producer",
+      "company": "LabX Media Group",
+      "url": "https://himalayas.app/companies/labx-media-group/jobs/webinar-conference-producer",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738907,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/fullmind/jobs/remote-slp-speech-language-pathologist-minnesota-k-12-schools": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Remote SLP (Speech Language Pathologist) Minnesota K-12 Schools",
+      "company": "Fullmind",
+      "url": "https://himalayas.app/companies/fullmind/jobs/remote-slp-speech-language-pathologist-minnesota-k-12-schools",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738870,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/quality-digital/jobs/pessoa-estagiaria-de-dados-para-suporte-e-atendimento-ao-cliente-4868414888": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "PESSOA ESTAGIÁRIA DE DADOS PARA SUPORTE E ATENDIMENTO AO CLIENTE",
+      "company": "Quality Digital",
+      "url": "https://himalayas.app/companies/quality-digital/jobs/pessoa-estagiaria-de-dados-para-suporte-e-atendimento-ao-cliente-4868414888",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738803,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "himalayas_https://himalayas.app/companies/affirm/jobs/software-engineer-ii-backend-post-transaction": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Software Engineer II, Backend (Post-Transaction)",
+      "company": "Affirm",
+      "url": "https://himalayas.app/companies/affirm/jobs/software-engineer-ii-backend-post-transaction",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739024,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to united states"
+    },
+    "himalayas_https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-1104087507": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Creative Designer (DTC)",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-1104087507",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738731,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: title indicates non-dev role"
+    },
+    "arcdev_c8ee0b193714c41c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Supabase",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/supabase",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_8b76195979b8bbc0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Vercel",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/vercel",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_6c789d327e8fe1c8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "WebRTC",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/webrtc",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_7930b17ea95666bd": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ai agent",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/ai-agent",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_d40c78aa139404bd": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Automation",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/automation",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_c9a014f6442063d1": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Innovation",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/innovation",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_29e211544435dad1": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Content management",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/content-management",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_a56946f0f49993a0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Microsoft Power Platform",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/microsoft-power-platform",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_937b42a031b4653c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Workflow Automation",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/workflow-automation",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_1da1adf0b281f5b7": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Embedded Systems",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/embedded-systems",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_b003f913661d9180": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ux writing",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/ux-writing",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_944a07f3404d2315": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Storytelling",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/storytelling",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_ff5802a661500d4b": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Social Listening",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/social-listening",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_03aee6a73a488030": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Biotechnology",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/biotechnology",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_02c55bad9ec2d82f": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Medicinal Chemistry",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/medicinal-chemistry",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "arcdev_99bd98264517cc1c": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Digital marketing",
+      "company": null,
+      "url": "https://arc.dev/remote-jobs/digital-marketing",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": null,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "not_dev_role: category page"
+    },
+    "himalayas_https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/senior-net-developer": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior .NET Developer",
+      "company": "Sigma Software",
+      "url": "https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/senior-net-developer",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "seniority_filter: 'senior' in title"
+    },
+    "himalayas_https://himalayas.app/companies/yuno/jobs/partnerships-manager-north-america": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Partnerships Manager - North America",
+      "company": "Yuno",
+      "url": "https://himalayas.app/companies/yuno/jobs/partnerships-manager-north-america",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739087,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to united states"
+    },
+    "himalayas_https://himalayas.app/companies/bright-vision-technologies/jobs/ml-infrastructure-engineer-5436737839": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "ML Infrastructure Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/ml-infrastructure-engineer-5436737839",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788739087,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to united states"
+    },
+    "himalayas_https://himalayas.app/companies/ci-t/jobs/job-30817-senior-ai-engineer-brazil-7870583261": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "[Job-30817] Senior AI Engineer, Brazil",
+      "company": "CI&T",
+      "url": "https://himalayas.app/companies/ci-t/jobs/job-30817-senior-ai-engineer-brazil-7870583261",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738774,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to brazil"
+    },
+    "himalayas_https://himalayas.app/companies/m3-com/jobs/senior-data-engineer-postgresql-dba-547642546": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Data Engineer (PostgreSQL DBA)",
+      "company": "M3 USA",
+      "url": "https://himalayas.app/companies/m3-com/jobs/senior-data-engineer-postgresql-dba-547642546",
+      "first_seen": "2026-09-07T00:12:11.451765+00:00",
+      "pub_date": 1788738915,
+      "notified": false,
+      "eliminated": true,
+      "elimination_reason": "remote_only: location restricted to philippines"
     }
   },
   "daily_stats": {
@@ -25738,67 +26182,77 @@
       "processed": 51,
       "runs": 1,
       "last_run": "2026-09-06T00:16:30.693686+00:00"
+    },
+    "2026-09-07": {
+      "jobs_seen": 37,
+      "jobs_notified": 0,
+      "jobs_eliminated": 37,
+      "jobs_by_site": {
+        "himalayas": 20,
+        "remoteok": 1,
+        "arcdev": 16
+      }
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-06T00:16:30.693686+00:00"
+      "last_success": "2026-09-07T00:12:11.451765+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-06T00:16:30.693686+00:00"
+      "last_success": "2026-09-07T00:12:11.451765+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_error": "RSS returns SPA HTML (Akamai)",
       "last_success": "2026-08-31T00:15:44.625700+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
-      "last_error": null,
+      "consecutive_failures": 1,
+      "last_error": "No parseable listings",
       "last_success": "2026-09-06T00:16:30.693686+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_error": "Proxy returns HTML but no parseable job listings",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 0,
-      "last_error": null,
+      "consecutive_failures": 1,
+      "last_error": "No parseable listings",
       "last_success": "2026-09-06T00:16:30.693686+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_error": "HTTP 403 via proxy",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_error": "HTTP 403 via proxy",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_error": "HTTP 403 via proxy",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_error": "HTTP 403 via proxy",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "last_error": "HTTP 403 via proxy",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 0,
-      "last_error": null,
+      "consecutive_failures": 1,
+      "last_error": "No parseable listings",
       "last_success": "2026-09-06T00:16:30.693686+00:00"
     },
     "stepstone": {
@@ -25812,16 +26266,16 @@
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-06T00:16:30.693686+00:00"
+      "last_success": "2026-09-07T00:12:11.451765+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-06T00:16:30.693686+00:00"
+      "last_success": "2026-09-07T00:12:11.451765+00:00"
     },
     "justremote": {
-      "consecutive_failures": 4,
-      "last_error": "HTML has only navigation, no SSR listings",
+      "consecutive_failures": 5,
+      "last_error": "HTML has no parseable listings",
       "last_success": "2026-09-02T00:16:22.216585+00:00"
     }
   }

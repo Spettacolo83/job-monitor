@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T00:18:56.638433+00:00",
+  "last_updated": "2026-09-16T00:18:30.222160+00:00",
   "jobs": {
     "arcdev_senior-full-stack-engineer-multi-tenant-saas-architecture": {
       "title": "Senior Full-Stack Engineer \u2014 Multi-Tenant SaaS Architecture",
@@ -27628,6 +27628,556 @@
       "eliminated": true,
       "notified": false,
       "elimination_reason": "title: architect in title"
+    },
+    "jobicy_153330": {
+      "title": "Major Gifts Officer",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/153330-major-gifts-officer",
+      "site": "jobicy",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Major Gifts Officer'"
+    },
+    "jobicy_153321": {
+      "title": "Postgres Engineer",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/153321-postgres-engineer",
+      "site": "jobicy",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Postgres Engineer'"
+    },
+    "jobicy_153329": {
+      "title": "Customer Solution Architect, Team Lead",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/153329-customer-solution-architect-team-lead",
+      "site": "jobicy",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Customer Solution Architect, Team Lead'"
+    },
+    "jobicy_153326": {
+      "title": "Multigres Deployment Engineer",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
+      "site": "jobicy",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "remote ambiguous + not all_remote site (junior default eliminated)"
+    },
+    "jobicy_150758": {
+      "title": "Design Engineer, Brand",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/150758-design-engineer-brand",
+      "site": "jobicy",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Design Engineer, Brand'"
+    },
+    "jobicy_150760": {
+      "title": "Growth Marketing Manager",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/150760-growth-marketing-manager",
+      "site": "jobicy",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Growth Marketing Manager'"
+    },
+    "himalayas_https://himalayas.app/companies/airship/jobs/campaign-services-specialist-999264763": {
+      "title": "Campaign Services Specialist",
+      "company": "Airship",
+      "url": "https://himalayas.app/companies/airship/jobs/campaign-services-specialist-999264763",
+      "site": "himalayas",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Campaign Services Specialist'"
+    },
+    "himalayas_https://himalayas.app/companies/soludyne/jobs/soludyne-is-looking-for-a-full-stack-developer-5129802681": {
+      "title": "SoluDyne is looking for a Full-Stack Developer",
+      "company": "SoluDyne",
+      "url": "https://himalayas.app/companies/soludyne/jobs/soludyne-is-looking-for-a-full-stack-developer-5129802681",
+      "site": "himalayas",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: salaryPeriod=annual (employment)"
+    },
+    "himalayas_https://himalayas.app/companies/amanotes/jobs/motion-design-freelancer-mobile-music-game-6287524841": {
+      "title": "Motion Design Freelancer - Mobile Music Game",
+      "company": "Amanotes",
+      "url": "https://himalayas.app/companies/amanotes/jobs/motion-design-freelancer-mobile-music-game-6287524841",
+      "site": "himalayas",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Motion Design Freelancer - Mobile Music Game'"
+    },
+    "himalayas_https://himalayas.app/companies/prosidian-consulting-llc/jobs/downstream-oil-gas-reliability-engineer": {
+      "title": "Downstream Oil & Gas Reliability Engineer",
+      "company": "ProSidian Consulting, LLC",
+      "url": "https://himalayas.app/companies/prosidian-consulting-llc/jobs/downstream-oil-gas-reliability-engineer",
+      "site": "himalayas",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Downstream Oil & Gas Reliability Engineer'"
+    },
+    "himalayas_https://himalayas.app/companies/global-elite-empire-consultants/jobs/work-from-home-benefits-services-representative": {
+      "title": "Work From Home - Benefits Services Representative",
+      "company": "Global Elite Empire Consultants",
+      "url": "https://himalayas.app/companies/global-elite-empire-consultants/jobs/work-from-home-benefits-services-representative",
+      "site": "himalayas",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (text): senior"
+    },
+    "arcdev_pjrc562uha": {
+      "title": "UI/UX Developer \u2013 Banking Domain",
+      "company": "Intelliswift Software",
+      "url": "https://arc.dev/remote-jobs/intelliswift-an-ltts-company-ui-ux-developer-banking-domain",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_tailorflow-ai-ui-ux-designer-ai-applications": {
+      "title": "UI/UX Designer \u2013 AI Applications",
+      "company": "TailorFlow AI",
+      "url": "https://arc.dev/remote-jobs/tailorflow-ai-ui-ux-designer-ai-applications",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'UI/UX Designer \u2013 AI Applications'"
+    },
+    "arcdev_bp-data-scientist": {
+      "title": "Data Scientist",
+      "company": "bp",
+      "url": "https://arc.dev/remote-jobs/bp-data-scientist",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Data Scientist'"
+    },
+    "arcdev_pjrgggs7ap": {
+      "title": "EMEA Technical Marketing Specialist TSS - Remote in Germany",
+      "company": "The Chemours Company",
+      "url": "https://arc.dev/remote-jobs/the-chemours-company-emea-technical-marketing-specialist-tss-remote-in-germany",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'EMEA Technical Marketing Specialist TSS - Remote in Germany'"
+    },
+    "arcdev_rexhio-head-of-marketing-communications": {
+      "title": "Head of Marketing & Communications",
+      "company": "Rexhio",
+      "url": "https://arc.dev/remote-jobs/rexhio-head-of-marketing-communications",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Head of Marketing & Communications'"
+    },
+    "arcdev_pj2562819d": {
+      "title": "Software Development Engineer IV - Windows Instrumentation and Automation",
+      "company": "Bruker",
+      "url": "https://arc.dev/remote-jobs/bruker-software-development-engineer-iv-windows-instrumentation-and-automation",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Software Development Engineer IV - Windows Instrumentation and Automation'"
+    },
+    "arcdev_pj24ne10d8": {
+      "title": "Head of Engineering, POS Application Platform",
+      "company": "Moniepoint Group",
+      "url": "https://arc.dev/remote-jobs/moniepoint-group-head-of-engineering-pos-application-platform",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Head of Engineering, POS Application Platform'"
+    },
+    "arcdev_the-ai-training-company-ux-ui-designer-110-hr-remote": {
+      "title": "UX/UI Designer | $110/hr | Remote",
+      "company": "The Ai Training Company",
+      "url": "https://arc.dev/remote-jobs/the-ai-training-company-ux-ui-designer-110-hr-remote",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'UX/UI Designer | $110/hr | Remote'"
+    },
+    "arcdev_the-ai-training-company-ux-ui-designer-120-hr-remote": {
+      "title": "UX/UI Designer | $120/hr | Remote",
+      "company": "The Ai Training Company",
+      "url": "https://arc.dev/remote-jobs/the-ai-training-company-ux-ui-designer-120-hr-remote",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'UX/UI Designer | $120/hr | Remote'"
+    },
+    "arcdev_pj266bguso": {
+      "title": "Full Stack Software Engineer | Stealth Startup (Health)",
+      "company": "Welyk",
+      "url": "https://arc.dev/remote-jobs/welyk-full-stack-software-engineer-stealth-startup-health",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_talkspace-ux-designer": {
+      "title": "UX Designer",
+      "company": "Talkspace",
+      "url": "https://arc.dev/remote-jobs/talkspace-ux-designer",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'UX Designer'"
+    },
+    "arcdev_hightouch-software-engineer-native-delivery": {
+      "title": "Software Engineer, Native Delivery",
+      "company": "Hightouch",
+      "url": "https://arc.dev/remote-jobs/hightouch-software-engineer-native-delivery",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_sundayy-full-stack-engineer": {
+      "title": "Full Stack Engineer",
+      "company": "Sundayy",
+      "url": "https://arc.dev/remote-jobs/sundayy-full-stack-engineer",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_ingamejob-com-game-designer": {
+      "title": "Game Designer",
+      "company": "InGameJob.com",
+      "url": "https://arc.dev/remote-jobs/ingamejob-com-game-designer",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Game Designer'"
+    },
+    "arcdev_ingamejob-com-game-designer-level-balance": {
+      "title": "Game Designer (Level & Balance)",
+      "company": "InGameJob.com",
+      "url": "https://arc.dev/remote-jobs/ingamejob-com-game-designer-level-balance",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Game Designer (Level & Balance)'"
+    },
+    "arcdev_pjgdmnwukn": {
+      "title": "Mobile Product Designer (UI/UX, Family Calendar App) - Remote, Full Time",
+      "company": "Orca Brands",
+      "url": "https://arc.dev/remote-jobs/orca-brands-mobile-product-designer-ui-ux-family-calendar-app-remote-full-time",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Mobile Product Designer (UI/UX, Family Calendar App) - Remote, Full Time'"
+    },
+    "arcdev_spreetail-software-engineer-iii-fc-ops": {
+      "title": "Software Engineer III (FC Ops)",
+      "company": "Spreetail",
+      "url": "https://arc.dev/remote-jobs/spreetail-software-engineer-iii-fc-ops",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Software Engineer III (FC Ops)'"
+    },
+    "arcdev_pj263ymrj6": {
+      "title": "Fullstack Software Engineer (x/f/m) - Core Billing Platform",
+      "company": "alan",
+      "url": "https://arc.dev/remote-jobs/alan-fullstack-software-engineer-x-f-m-core-billing-platform",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_recro-full-stack-engineer": {
+      "title": "Full Stack Engineer",
+      "company": "Recro",
+      "url": "https://arc.dev/remote-jobs/recro-full-stack-engineer",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_sundayy-frontend-software-engineer-js-ui": {
+      "title": "Frontend Software Engineer (Js,  UI)",
+      "company": "Sundayy",
+      "url": "https://arc.dev/remote-jobs/sundayy-frontend-software-engineer-js-ui",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_orbit-product-engineer-m-w-d": {
+      "title": "Product Engineer (m/w/d)",
+      "company": "Orbit",
+      "url": "https://arc.dev/remote-jobs/orbit-product-engineer-m-w-d",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_frontdoor-inc-software-engineer-l4": {
+      "title": "Software Engineer L4",
+      "company": "Frontdoor, Inc.",
+      "url": "https://arc.dev/remote-jobs/frontdoor-inc-software-engineer-l4",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Software Engineer L4'"
+    },
+    "arcdev_kolsquare-b-corp-full-stack-developer-ror-react-native": {
+      "title": "Full Stack Developer (RoR & React Native)",
+      "company": "Kolsquare | B Corp\u2122",
+      "url": "https://arc.dev/remote-jobs/kolsquare-b-corp-full-stack-developer-ror-react-native",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_tenth-revolution-group-python-software-engineer": {
+      "title": "Python Software Engineer",
+      "company": "Tenth Revolution Group",
+      "url": "https://arc.dev/remote-jobs/tenth-revolution-group-python-software-engineer",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_oyax4ske7o": {
+      "title": "Data Scientist \u2013 Python & Cloud Data Platforms (f/m/x)",
+      "company": "Sii Poland",
+      "url": "https://arc.dev/remote-jobs/sii-poland-data-scientist-python-cloud-data-platforms-f-m-x",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Data Scientist \u2013 Python & Cloud Data Platforms (f/m/x)'"
+    },
+    "arcdev_pbytl7ggam": {
+      "title": "Backend Developer Node.js (Portugal, remote)",
+      "company": "Zero to One Search",
+      "url": "https://arc.dev/remote-jobs/zero-to-one-search-recruitment-agency-backend-developer-node-js-portugal-remote",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_recruiters-ai-software-engineer-python-aws": {
+      "title": "AI Software Engineer (Python & AWS)",
+      "company": "RECRUITERS",
+      "url": "https://arc.dev/remote-jobs/recruiters-ai-software-engineer-python-aws",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_pj2903lhsh": {
+      "title": "Frontend Developer - TrueNova Marketing",
+      "company": "Truenova Marketing",
+      "url": "https://arc.dev/remote-jobs/truenova-marketing-frontend-developer-truenova-marketing",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "notified",
+      "notified_at": "2026-09-16T00:18:30.222160+00:00",
+      "score": 53
+    },
+    "arcdev_sundayy-software-engineer-react-js-api": {
+      "title": "Software Engineer (React.js, API)",
+      "company": "Sundayy",
+      "url": "https://arc.dev/remote-jobs/sundayy-software-engineer-react-js-api",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_p4s3lx1kak": {
+      "title": "Digital Strategy, Sales & Marketing Consultant (M/W/D)",
+      "company": "moma: members of media alliance",
+      "url": "https://arc.dev/remote-jobs/moma-members-of-media-alliance-digital-strategy-sales-marketing-consultant-m-w-d",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Digital Strategy, Sales & Marketing Consultant (M/W/D)'"
+    },
+    "arcdev_agilegrid-solutions-full-stack-software-developer": {
+      "title": "Full Stack Software Developer",
+      "company": "AgileGrid Solutions",
+      "url": "https://arc.dev/remote-jobs/agilegrid-solutions-full-stack-software-developer",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance: job_type indicates employment: 'permanent'"
+    },
+    "arcdev_pfe0elhbcp": {
+      "title": "Product Designer & Frontend Developer \u2014 ShowcaseYourself",
+      "company": "Showcase Yourself",
+      "url": "https://arc.dev/remote-jobs/showcase-yourself-product-designer-frontend-developer-showcaseyourself",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Product Designer & Frontend Developer \u2014 ShowcaseYourself'"
+    },
+    "arcdev_dexcom-lithuania-ui-designer-design-system": {
+      "title": "UI Designer (Design System)",
+      "company": "Dexcom",
+      "url": "https://arc.dev/remote-jobs/dexcom-lithuania-ui-designer-design-system",
+      "site": "arcdev",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'UI Designer (Design System)'"
+    },
+    "remotive_2091097": {
+      "title": "Senior Data Engineer",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
+      "site": "remotive",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Senior Data Engineer'"
+    },
+    "infojobs_es_5dc60977a1423aaae52bc012b282f8": {
+      "title": "Android Software Developer with English (m/f/d)",
+      "company": "T-Systems",
+      "url": "https://www.infojobs.net/granada/android-software-developer-with-english-m-f-d/of-i5dc60977a1423aaae52bc012b282f8",
+      "site": "infojobs_es",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "remote ambiguous + not all_remote site (junior default eliminated)"
+    },
+    "infojobs_es_41a1eb6adb4bf2965160da03698f86": {
+      "title": "ANDORID MOBILE DEVELOPER",
+      "company": "Paul Marlex",
+      "url": "https://www.infojobs.net/lleida/andorid-mobile-developer/of-i41a1eb6adb4bf2965160da03698f86",
+      "site": "infojobs_es",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "remote ambiguous + not all_remote site (junior default eliminated)"
+    },
+    "infojobs_es_20d03b29fc470db893e5f7697ef787": {
+      "title": "Junior Java Developer | Spring Boot | Microservicios",
+      "company": "COBSER CONSULTING",
+      "url": "https://www.infojobs.net/madrid/junior-java-developer-spring-boot-microservicios/of-i20d03b29fc470db893e5f7697ef787",
+      "site": "infojobs_es",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "remote ambiguous + not all_remote site (junior default eliminated)"
+    },
+    "infojobs_es_5bce2443054f5e862bddb04678f7c3": {
+      "title": "Junior BI Developer",
+      "company": "ALTIA",
+      "url": "https://www.infojobs.net/barcelona/junior-bi-developer/of-i5bce2443054f5e862bddb04678f7c3",
+      "site": "infojobs_es",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "remote ambiguous + not all_remote site (junior default eliminated)"
+    },
+    "infojobs_es_99cc5cf224423c8c023822233cbcc6": {
+      "title": "Staff iOS Engineer Infojobs",
+      "company": "InfoJobs",
+      "url": "https://www.infojobs.net/barcelona/staff-ios-engineer-infojobs/of-i99cc5cf224423c8c023822233cbcc6",
+      "site": "infojobs_es",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Staff iOS Engineer Infojobs'"
+    },
+    "remoteok_1137390": {
+      "title": "Customer Experience Representative",
+      "company": "Prop Firm Match Global \u00e2\u0080\u0093 FZCO",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390",
+      "site": "remoteok",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Customer Experience Representative'"
+    },
+    "remoteok_1136569": {
+      "title": "Software Engineer II Golang",
+      "company": "Stone",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stone-1136569",
+      "site": "remoteok",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "remote ambiguous + not all_remote site (junior default eliminated)"
+    },
+    "remoteok_1136592": {
+      "title": "Surveyor I",
+      "company": "American Bureau of Shipping (ABS)",
+      "url": "https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592",
+      "site": "remoteok",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "non-tech role (title): 'Surveyor I'"
+    },
+    "remoteok_1136447": {
+      "title": "Staff Software Engineer",
+      "company": "Evolve",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
+      "site": "remoteok",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Staff Software Engineer'"
+    },
+    "justremote_27102": {
+      "title": "Staff Platform Engineer",
+      "company": "Huntress",
+      "url": "https://justremote.co/remote-devops-sysadmin-jobs/staff-platform-engineer-huntress",
+      "site": "justremote",
+      "first_seen": "2026-09-16T00:18:30.222160+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority (title): 'Staff Platform Engineer'"
     }
   },
   "daily_stats": {
@@ -28694,67 +29244,75 @@
       "notified": 5,
       "eliminated": 68,
       "seen": 73
+    },
+    "2026-09-16": {
+      "notified": 1,
+      "high_score": 0,
+      "medium_score": 1,
+      "ambiguous": 1,
+      "eliminated": 54,
+      "total_new": 55
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-15T00:18:56.638433+00:00"
+      "last_success": "2026-09-16T00:18:30.222160+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-15T00:18:56.638433+00:00"
+      "last_success": "2026-09-16T00:18:30.222160+00:00"
     },
     "jobicy": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-15T00:18:56.638433+00:00"
+      "last_success": "2026-09-16T00:18:30.222160+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 4,
-      "last_error": "no jobs found",
-      "last_success": "2026-09-11T00:11:21.726732+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-09-16T00:18:30.222160+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "last_error": "no jobs found",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_error": "no jobs found",
       "last_success": "2026-09-13T00:17:54.236385+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 16,
-      "last_error": "no jobs found",
+      "consecutive_failures": 17,
+      "last_error": "403 blocked",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 16,
-      "last_error": "no jobs found",
+      "consecutive_failures": 17,
+      "last_error": "403 blocked",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 16,
-      "last_error": "no jobs found",
+      "consecutive_failures": 17,
+      "last_error": "403 blocked",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 16,
-      "last_error": "no jobs found",
+      "consecutive_failures": 17,
+      "last_error": "403 blocked",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 16,
-      "last_error": "no jobs found",
+      "consecutive_failures": 17,
+      "last_error": "403 blocked",
       "last_success": "2026-08-30T00:14:36.353611+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 8,
-      "last_error": "no jobs found",
+      "consecutive_failures": 9,
+      "last_error": "403 blocked",
       "last_success": "2026-09-06T00:16:30.693686+00:00"
     },
     "stepstone": {
@@ -28768,17 +29326,17 @@
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-15T00:18:56.638433+00:00"
+      "last_success": "2026-09-16T00:18:30.222160+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-15T00:18:56.638433+00:00"
+      "last_success": "2026-09-16T00:18:30.222160+00:00"
     },
     "justremote": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-09-15T00:18:56.638433+00:00"
+      "last_success": "2026-09-16T00:18:30.222160+00:00"
     }
   }
 }

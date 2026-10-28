@@ -1,342 +1,6 @@
 {
-  "last_updated": "2026-10-27T00:10:37.750581+00:00",
+  "last_updated": "2026-10-28T00:10:45.670813+00:00",
   "jobs": {
-    "remoteok_1137114": {
-      "site_id": "remoteok",
-      "site_name": "RemoteOK",
-      "title": "Senior Backend Engineer Build AI Agents",
-      "company": "Salesforge",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-08-25T07:00:03+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "arcdev_c5c8c231976a54d93c5c30b577807a9b": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Senior GIS / Web-3D Developer",
-      "company": "Arc Exclusive",
-      "url": "https://arc.dev/remote-jobs/details/senior-gis-web-3d-developer-pmydlacrep",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "arcdev_4e5996e18b313c7178ce2dbf3ba39474": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Senior Full-Stack/Data-Platform Engineer",
-      "company": "Arc Exclusive",
-      "url": "https://arc.dev/remote-jobs/details/senior-full-stack-data-platform-engineer-pmmeqt8y26",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "arcdev_6b90b02dd8a0d63f9a79a07fe1a7fb57": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Senior Engineer",
-      "company": "Arc Exclusive",
-      "url": "https://arc.dev/remote-jobs/details/senior-engineer-pmmdx1z71m",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "arcdev_d3818dc45091b73f5d38cfa0e3742a41": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Mobile Developer, EV Charging App (iOS & Android) - PT - Worldwide",
-      "company": "Arc Exclusive",
-      "url": "https://arc.dev/remote-jobs/details/mobile-developer-ev-charging-app-ios-android-pt-worldwide-pmlby5o2yr",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (metadata Senior)"
-    },
-    "arcdev_c4c4703aa35ebace447bd7636578b36e": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Backend Engineer (Java/Spring Boot, AWS, EKS, Kubernetes) - FT - NA/LATAM (2)",
-      "company": "Arc Exclusive",
-      "url": "https://arc.dev/remote-jobs/details/backend-engineer-java-spring-boot-aws-eks-kubernetes-ft-na-latam-2-pmk6tff30h",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (metadata Senior)"
-    },
-    "arcdev_dc8826c9ea967b86546f2e49ca92b52d": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "AI Automation Engineer (n8n, AI Agents, Claude Code, Python, Github)",
-      "company": "Arc Exclusive",
-      "url": "https://arc.dev/remote-jobs/details/ai-automation-engineer-n8n-ai-agents-claude-code-python-github-pmg51x8hz3",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (metadata Senior)"
-    },
-    "arcdev_807b6bbab8a5114fa27e970bb49fbd87": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Senior Project Manager (Design & Construction)",
-      "company": "Cavu",
-      "url": "https://arc.dev/remote-jobs/j/cavu-senior-project-manager-design-construction-pmw3ptvvmy",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "arcdev_fa2167cf71dbf4f206c582c307e4c6ca": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "GTM Engineer (Go-to-market) | Regulated DTC Consumer Brand",
-      "company": "Atomic - Remote Jobs",
-      "url": "https://arc.dev/remote-jobs/j/atomic-remote-jobs-gtm-engineer-go-to-market-regulated-dtc-consumer-brand-pmvxw4ealg",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "not dev role"
-    },
-    "arcdev_5600c6e28337fb85914c7ac2b5c4960e": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Product Marketing & Campaign Manager (m/f/d)",
-      "company": "Smoobu - The Vacation Rental Software",
-      "url": "https://arc.dev/remote-jobs/j/smoobu-the-vacation-rental-software-product-marketing-campaign-manager-m-f-d-pmw6owe8r0",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (Manager metadata)"
-    },
-    "arcdev_ba24b3e78114657f9a1bb3483329b6b6": {
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Senior Analyst, Marketing Ops",
-      "company": "SiriusXM",
-      "url": "https://arc.dev/remote-jobs/j/siriusxm-senior-analyst-marketing-ops-pma2saib0m",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_1df49b95006823cb529959c94bd994d6": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Staff Software Engineer - Core Platform (Ruby/Rails)",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-developer-jobs/staff-software-engineer-core-platform-ruby-rails-huntress",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "26 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_807ad1e69745ed289ec40aef00090cb9": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Senior Software Engineer, Context Layer",
-      "company": "Starburst Data",
-      "url": "https://justremote.co/remote-developer-jobs/senior-software-engineer-context-layer-starburst-data",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "25 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_3616eb8b4ff8066a5e47be9db4962da3": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Senior Software Engineer, Control Plane",
-      "company": "Starburst Data",
-      "url": "https://justremote.co/remote-developer-jobs/senior-software-engineer-control-plane-starburst-data",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "24 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_08f458f310b8c7c61be823efed1dc0f5": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Sr. Backend Developer - e-commerce",
-      "company": "Nutrafol",
-      "url": "https://justremote.co/remote-developer-jobs/sr-backend-developer-e-commerce-nutrafol",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "24 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_d1c30c41b73c5d5d02370182d6b8c389": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Senior Manager, Detection Engineering & Threat Hunting",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-devops-sysadmin-jobs/senior-manager-detection-engineering-threat-hunting-huntress",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "23 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_a4b72a65c3088569c4bcd484c2eba277": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Senior Sales Engineer - Great Lakes",
-      "company": "Saviynt",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-sales-engineer-great-lakes-saviynt-9c743e2e-93f3-4327-8100-a59506828c1e",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "23 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_52528a46feea3996d0e873015577e92e": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Staff Software Engineer",
-      "company": "Foodsmart",
-      "url": "https://justremote.co/remote-developer-jobs/staff-software-engineer-foodsmart-ee0a5d80-1522-4f54-9de9-81cedf76af78",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "22 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_c1a873b186faa184931f81bd5f0225e7": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Senior Data Engineer",
-      "company": "Healthie",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-data-engineer-healthie",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "21 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "justremote_14bd31c243d29eb103d1337f56424656": {
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "title": "Senior Content Engineer",
-      "company": "Healthie",
-      "url": "https://justremote.co/remote-writing-jobs/senior-content-engineer-healthie",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "21 Sep",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "seniority (title senior/lead/staff/etc)"
-    },
-    "himalayas_24a47282b423640af8e482190b902f87": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Fullstack-Developer (100% Remote)",
-      "company": "Powerprozesse",
-      "url": "https://himalayas.app/companies/powerprozesse/jobs/fullstack-developer-100-remote",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:15+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "freelance_only (Permanent employment contract explicit + 2+ benefits)"
-    },
-    "himalayas_354133cdd132807e9941a14dce793ce7": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Software Engineer: Infrastructure",
-      "company": "Thatch",
-      "url": "https://himalayas.app/companies/thatch/jobs/software-engineer-infrastructure-9409287503",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:12+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "freelance_only (Permanent employment contract explicit + 2+ benefits)"
-    },
-    "himalayas_23e7e40350e1922527bdf60d088bbd83": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "We have an Urgent Opening For Sr ASP.Net Developer",
-      "company": "Karmick Solutions Pvt Ltd",
-      "url": "https://himalayas.app/companies/karmick-solutions-pvt-ltd/jobs/we-have-an-urgent-opening-for-sr-asp-net-developer",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:12+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "freelance_only (Permanent employment contract explicit + 2+ benefits)"
-    },
-    "himalayas_6d965a8fffa430e477a586126a18222e": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Urgent Opening For Project Manager (Web and Mobile application)1",
-      "company": "Karmick Solutions Pvt Ltd",
-      "url": "https://himalayas.app/companies/karmick-solutions-pvt-ltd/jobs/urgent-opening-for-project-manager-web-and-mobile-application-1",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:12+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "freelance_only (Permanent employment contract explicit + 2+ benefits)"
-    },
-    "himalayas_54bbe7a1bebce1cfae861b619e2e19c8": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Front-end Developer",
-      "company": "Ethereum Community Fund",
-      "url": "https://himalayas.app/companies/ethereum-community-fund/jobs/front-end-developer",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:11+00:00",
-      "notified": true,
-      "notified_at": "2026-09-27T00:20:36.544560+00:00",
-      "score": 78
-    },
-    "himalayas_a959c910865506b7747b7aff32ccdbfd": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "DevOps Engineer",
-      "company": "Infoplus Technologies",
-      "url": "https://himalayas.app/companies/infoplus-technologies/jobs/devops-engineer",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:11+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "freelance_only (Permanent employment contract explicit + 2+ benefits)"
-    },
-    "himalayas_7dd202c8fcdeedec1d4ccf1a795a3700": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Cloud Technical Consultant",
-      "company": "Infoplus Technologies",
-      "url": "https://himalayas.app/companies/infoplus-technologies/jobs/cloud-technical-consultant",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:11+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "freelance_only (Permanent employment contract explicit + 2+ benefits)"
-    },
-    "himalayas_191d0615f9e2cc1cb8ddc50f0da5f663": {
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Hiring Magento Developer - Urgently!!",
-      "company": "Karmick Solutions Pvt Ltd",
-      "url": "https://himalayas.app/companies/karmick-solutions-pvt-ltd/jobs/hiring-magento-developer-urgently",
-      "first_seen": "2026-09-27T00:20:36.544560+00:00",
-      "pub_date": "2026-09-26T20:33:10+00:00",
-      "notified": false,
-      "eliminated": true,
-      "elim_reason": "freelance_only (Permanent employment contract explicit + 2+ benefits)"
-    },
     "remoteok_1137429": {
       "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
       "company": "Workana",
@@ -30244,6 +29908,545 @@
       "eliminated": true,
       "eliminated_reason": "experienceLevel=senior + US-only (country=[\"US\"])",
       "notified": false
+    },
+    "himalayas_1e3f948d7879997bcb7f75bc7a8a8584": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Application Security Program Manager",
+      "company": "Knowledge Services",
+      "url": "https://himalayas.app/companies/knowledge-services/jobs/application-security-program-manager",
+      "location": "United States",
+      "posted_at": "2026-10-27T23:56:33+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:manager",
+        "non_dev:program manager"
+      ]
+    },
+    "himalayas_50a988dd2c1c5c1218ab0db28345ebdd": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Software Engineer",
+      "company": "BAE Systems OneArc USA, Inc",
+      "url": "https://himalayas.app/companies/bae-systems-onearc-usa-inc/jobs/senior-software-engineer",
+      "location": "United States",
+      "posted_at": "2026-10-27T23:53:34+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior"
+      ]
+    },
+    "himalayas_c0fabcb63d33fddf6b7292e6f92b8039": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Application Specialist VI",
+      "company": "Goldbelt",
+      "url": "https://himalayas.app/companies/goldbelt/jobs/application-specialist-vi",
+      "location": "Vietnam",
+      "posted_at": "2026-10-27T23:52:33+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:specialist"
+      ]
+    },
+    "himalayas_471cce02c29644c646c0809299352a31": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Product Manager",
+      "company": "Co–Star",
+      "url": "https://himalayas.app/companies/co-star/jobs/senior-product-manager",
+      "location": "United States",
+      "posted_at": "2026-10-27T23:51:38+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "non_dev:product manager"
+      ]
+    },
+    "himalayas_fc4fbc0f9fce0930a01cde6895f5d09a": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Account Manager, Client Development & Renewals (Chicago / Midwest)",
+      "company": "SentinelOne",
+      "url": "https://himalayas.app/companies/sentinelone/jobs/account-manager-client-development-renewals-chicago-midwest",
+      "location": "United States",
+      "posted_at": "2026-10-27T23:49:49+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:manager",
+        "non_dev:account manager"
+      ]
+    },
+    "himalayas_b6eaa81e7b073ebe48f56820f067ad6e": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Principal Account Executive",
+      "company": "Cloud Software Group",
+      "url": "https://himalayas.app/companies/cloud-software-group/jobs/principal-account-executive",
+      "location": "United States",
+      "posted_at": "2026-10-27T23:49:34+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:principal",
+        "non_dev:account executive"
+      ]
+    },
+    "arcdev_puwjmj375q": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Zoho One Developer (Franchise CRM Build) - PT - NA/LATAM",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-zoho-one-developer-franchise-crm-build-pt-na-latam",
+      "location": "Remote (overlap)",
+      "posted_at": "2026-10-27T14:53:05+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_puuljfe058": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Founding Engineer",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-founding-engineer",
+      "location": "Remote (overlap)",
+      "posted_at": "2026-10-27T09:42:41+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_pupfitmd2g": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Full-Stack Software Engineer - (Angular/Typescript, C#/.NET)",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-full-stack-software-engineer-angular-typescript-c-net",
+      "location": "Remote (overlap)",
+      "posted_at": "2026-10-26T19:58:53+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_pugy8dj8tg": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full Stack SLM Development with Advanced ML/DL and Optimization",
+      "company": "",
+      "url": "https://arc.dev/jobs/full-stack-slm-development-with-advanced-ml-dl-and-optimization",
+      "location": "Remote",
+      "posted_at": "2026-10-25T21:26:51+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_pu41koziko": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Java Developer - Fulltime - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-java-developer-fulltime-worldwide",
+      "location": "Remote (overlap)",
+      "posted_at": "2026-10-24T11:09:02+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_pswpl69yeb": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Offshore Full-Stack/DevSecOps Engineer",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-offshore-full-stack-devsecops-engineer",
+      "location": "Remote",
+      "posted_at": "2026-10-19T16:00:21+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_prhrzqa9aa": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Fractional CTO (Principal Geospatial & Data Architect) - PT - EMEA/APAC",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-fractional-cto-principal-geospatial-data-architect-pt-emea-apac",
+      "location": "Remote",
+      "posted_at": "2026-10-14T00:39:57+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_pre7jrge3k": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Sr/Staff Infrastructure Engineer - Perm - Relocate to SF",
+      "company": "",
+      "url": "https://arc.dev/jobs/sr-staff-infrastructure-engineer-perm-relocate-to-sf",
+      "location": "Remote",
+      "posted_at": "2026-10-13T15:11:07+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:staff",
+        "onsite_in_title:relocate to",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_pr88ybusyx": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full-stack Javascript/typescript (Node.js) Engineer - PT - NA/LATAM/EU",
+      "company": "",
+      "url": "https://arc.dev/jobs/full-stack-javascript-typescript-node-js-engineer-pt-na-latam-eu",
+      "location": "Remote (overlap)",
+      "posted_at": "2026-10-12T23:20:45+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_pr6urn18d0": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior SaaS and DevOps Engineer - Part-time - Worldwide",
+      "company": "",
+      "url": "https://arc.dev/jobs/senior-saas-and-devops-engineer-part-time-worldwide",
+      "location": "Remote (overlap)",
+      "posted_at": "2026-10-12T19:38:30+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "arcdev_senior"
+      ]
+    },
+    "arcdev_ptsx38acg8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Head of Growth Marketing",
+      "company": "",
+      "url": "https://arc.dev/jobs/lightning-ai-head-of-growth-marketing",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:45+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:head of",
+        "non_dev:marketing"
+      ]
+    },
+    "arcdev_ptsx3tnedl": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Global Marketing Leader, Contrast Media",
+      "company": "",
+      "url": "https://arc.dev/jobs/ge-healthcare-global-marketing-leader-contrast-media",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:44+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:leader",
+        "non_dev:marketing"
+      ]
+    },
+    "arcdev_ptst6z5qkq": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Game Designer / Indie Developer — Casual Games × Story",
+      "company": "",
+      "url": "https://arc.dev/jobs/taplot-ai-game-designer-indie-developer-casual-games-x-story",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:41+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:game designer"
+      ]
+    },
+    "arcdev_ptsviywch2": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Junior Puzzle Designer",
+      "company": "",
+      "url": "https://arc.dev/jobs/counterspell-games-studio-junior-puzzle-designer",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:39+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:puzzle designer"
+      ]
+    },
+    "arcdev_przdpxccp8": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Junior/Mid UI Animator (Game Development / Unity)",
+      "company": "",
+      "url": "https://arc.dev/jobs/joppy-junior-mid-ui-animator-game-development-unity",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:38+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:ui animator"
+      ]
+    },
+    "arcdev_ptst7i0jik": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Web Designer - Webflow Developer",
+      "company": "",
+      "url": "https://arc.dev/jobs/xrecruiter-senior-web-designer-webflow-developer",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:37+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "non_dev:web designer"
+      ]
+    },
+    "arcdev_o38w74rxia": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior UX Designer",
+      "company": "",
+      "url": "https://arc.dev/jobs/cvs-health-senior-ux-designer",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:36+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "non_dev:ux designer"
+      ]
+    },
+    "arcdev_pthqxijqll": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Product Designer - Growth/Website | Deel",
+      "company": "",
+      "url": "https://arc.dev/jobs/jobgether-senior-product-designer-growth-website-deel",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:35+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior",
+        "non_dev:product designer"
+      ]
+    },
+    "arcdev_pthr92x30o": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "UI/UX Researcher & Designer",
+      "company": "",
+      "url": "https://arc.dev/jobs/intelerad-ui-ux-researcher-designer",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:35+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:ux researcher"
+      ]
+    },
+    "arcdev_pthr4o6wsb": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Chercheur/Chercheuse et Designer UX/UI",
+      "company": "",
+      "url": "https://arc.dev/jobs/intelerad-chercheur-chercheuse-et-designer-ux-ui",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:35+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:designer ux"
+      ]
+    },
+    "arcdev_ptsvmv46jw": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Founding Growth Designer",
+      "company": "",
+      "url": "https://arc.dev/jobs/52-limited-founding-growth-designer",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:34+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:growth designer"
+      ]
+    },
+    "arcdev_ptst83df4d": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Machine Learning Engineer: Search Quality",
+      "company": "",
+      "url": "https://arc.dev/jobs/constructor-senior-machine-learning-engineer-search-quality",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:34+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "title_senior:senior"
+      ]
+    },
+    "arcdev_pj28he14p3": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Forward Deployed Data Scientist (On-site)",
+      "company": "",
+      "url": "https://arc.dev/jobs/translated-forward-deployed-data-scientist-on-site",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:33+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "non_dev:data scientist",
+        "onsite_in_title:on-site)"
+      ]
+    },
+    "himalayas_833be696aea8b57d014ea945a8f66495": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Product Lifecycle Developer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/product-lifecycle-developer-7713476816",
+      "location": "United States",
+      "posted_at": "2026-10-27T23:59:37+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "seniority:himalayas_senior_hint"
+      ]
+    },
+    "himalayas_dfe390981bae1359c326f4d0833131d7": {
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Backend Systems Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-systems-engineer-3728284430",
+      "location": "United States",
+      "posted_at": "2026-10-27T23:54:55+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "seniority:reject:architect"
+      ]
+    },
+    "arcdev_ptst7hvz63": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Engineer - Playable Ads (Creative Engineering)",
+      "company": "",
+      "url": "https://arc.dev/jobs/rzr-software-engineer-playable-ads-creative-engineering",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:39+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "freelance:arcdev_permanent"
+      ]
+    },
+    "arcdev_ptst8ztknk": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data & AI Engineer (m/w/d)",
+      "company": "",
+      "url": "https://arc.dev/jobs/atos-data-ai-engineer-m-w-d",
+      "location": "Remote",
+      "posted_at": "2026-10-22T16:23:33+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elim_reasons": [
+        "freelance:arcdev_permanent"
+      ]
+    },
+    "arcdev_prfaxu6uey": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full Stack Engineer (Node.js, React) - WW - FT",
+      "company": "",
+      "url": "https://arc.dev/jobs/full-stack-engineer-node-js-react-ww-ft",
+      "location": "Remote",
+      "posted_at": "2026-10-13T18:05:34+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "below_threshold",
+      "score": 44.75
+    },
+    "arcdev_przyb5c12p": {
+      "site_id": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Experienced Software Engineer - AI Coding Tasks",
+      "company": "",
+      "url": "https://arc.dev/jobs/experienced-software-engineer-ai-coding-tasks",
+      "location": "Remote",
+      "posted_at": "2026-10-16T00:57:43+00:00",
+      "first_seen": "2026-10-28T00:10:45.670813+00:00",
+      "status": "notified",
+      "score": 59.75,
+      "notified_at": "2026-10-28T00:10:45.670813+00:00"
     }
   },
   "daily_stats": {
@@ -31677,66 +31880,83 @@
       "last_run": "2026-10-27T00:10:37.750581+00:00",
       "sites_ok": 4,
       "sites_fail": 11
+    },
+    "2026-10-28": {
+      "total_found": 70,
+      "notified_high": 0,
+      "notified_medium": 1,
+      "eliminated": 33,
+      "ambiguous": 0,
+      "below_threshold": 1,
+      "by_site": {
+        "remoteok": 22,
+        "remotive": 3,
+        "himalayas": 8,
+        "arcdev": 37
+      },
+      "last_run": "2026-10-28T00:10:45.670813+00:00",
+      "sites_ok": 4,
+      "sites_fail": 11
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-27T00:10:37.750581+00:00"
+      "last_success": "2026-10-28T00:10:45.670813+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-27T00:10:37.750581+00:00"
+      "last_success": "2026-10-28T00:10:45.670813+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "last_error": "RSS endpoint returning Akamai HTML, feed not accessible",
       "last_success": "2026-10-21T00:10:20.364273+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-23T00:21:02.592038+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 13,
+      "consecutive_failures": 14,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-14T00:23:44.018224+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-23T00:21:02.592038+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 13,
+      "consecutive_failures": 14,
       "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
       "last_success": "2026-10-14T00:23:44.018224+00:00"
     },
@@ -31751,15 +31971,15 @@
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-27T00:10:37.750581+00:00"
+      "last_success": "2026-10-28T00:10:45.670813+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-27T00:10:37.750581+00:00"
+      "last_success": "2026-10-28T00:10:45.670813+00:00"
     },
     "justremote": {
-      "consecutive_failures": 15,
+      "consecutive_failures": 16,
       "last_error": "SPA-only, no server-rendered content",
       "last_success": "2026-10-13T00:22:20.970366+00:00"
     }

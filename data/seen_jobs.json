@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T00:06:47.475445+00:00",
+  "last_updated": "2026-10-30T00:10:25.653666+00:00",
   "jobs": {
     "arcdev_2b0589f89c0fe8190fbb31e771844929": {
       "title": "Backend Engineer (Java/Spring Boot, AWS, EKS, Kubernetes) - FT - NA/LATAM (2)",
@@ -10,163 +10,6 @@
       "status": "eliminated",
       "eliminated": true,
       "elimination_reason": "seniority:seniority_reject[experience_level=senior]"
-    },
-    "himalayas_https://himalayas.app/companies/bjak/jobs/mobile-application-developer-ai-neobank-app-7461560433": {
-      "title": "Mobile Application Developer - AI Neobank App",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/mobile-application-developer-ai-neobank-app-7461560433",
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "date_posted": 1790571697,
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": true,
-      "reason": "freelance: Full Time employment, hiring only in Ireland",
-      "score": 0,
-      "notified": false,
-      "location": "Ireland",
-      "tags": [
-        "Mobile-AI-Developer",
-        "AI-Application-Developer",
-        "Mobile-AI-Development",
-        "Mobile-Application-Developer",
-        "AI-Application-Development",
-        "AI-ML-Application-Developer",
-        "Mobile-Apps-Development"
-      ]
-    },
-    "himalayas_https://himalayas.app/companies/bjak/jobs/backend-software-engineer-ai-finance-agent-4971024681": {
-      "title": "Backend Software Engineer - AI Finance Agent",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/backend-software-engineer-ai-finance-agent-4971024681",
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "date_posted": 1790570861,
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": true,
-      "reason": "freelance: Full Time employment, hiring only in Poland",
-      "score": 0,
-      "notified": false,
-      "location": "Poland",
-      "tags": [
-        "Backend-AI-Engineer",
-        "AI-Backend-Engineer",
-        "Fintech-Backend-Developer",
-        "Backend-AI-Engineering",
-        "Software-Engineer",
-        "Developer"
-      ]
-    },
-    "himalayas_https://himalayas.app/companies/bjak/jobs/android-software-engineer-ai-neobank-app-763061279": {
-      "title": "Android Software Engineer - AI Neobank App",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/android-software-engineer-ai-neobank-app-763061279",
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "date_posted": 1790569542,
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": true,
-      "reason": "freelance: Full Time employment, hiring only in Austria",
-      "score": 0,
-      "notified": false,
-      "location": "Austria",
-      "tags": [
-        "Android-Software-Engineer",
-        "Android-Engineer",
-        "Mobile-Android-Engineer",
-        "Mobile-Software-Engineer-(IOS-Android)",
-        "Android-Developer-Jobs",
-        "Software-Engineer",
-        "Developer"
-      ]
-    },
-    "arcdev_630c886b84e6ebd12650ee7f7525149e": {
-      "title": "Ios/android Bluetooth (ble) Feasibility Study Developer",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/ios-android-bluetooth-ble-feasibility-study-developer",
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "date_posted": "2026-09-28T17:06:42+00:00",
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": false,
-      "reason": "",
-      "score": 79.5,
-      "notified": true,
-      "location": "Remote",
-      "tags": [
-        "iOS",
-        "Bluetooth"
-      ]
-    },
-    "arcdev_b03a0dd9f15589c26a756d9169cbd010": {
-      "title": "Linux DevOps & Backend Engineer",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/linux-devops-backend-engineer",
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "date_posted": "2026-09-25T00:09:40+00:00",
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": false,
-      "reason": "",
-      "score": 48.2,
-      "notified": false,
-      "location": "Remote",
-      "tags": [
-        "Linux",
-        "Back-End",
-        "DevOps"
-      ]
-    },
-    "arcdev_030f87d1a0546c51c1d227c760badbdc": {
-      "title": "Senior Product/UX Designer (Figma, Mobile) - PT - Worldwide",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/senior-product-ux-designer-figma-mobile-pt-worldwide",
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "date_posted": "2026-09-24T01:58:41+00:00",
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": true,
-      "reason": "seniority: senior via metadata",
-      "score": 0,
-      "notified": false,
-      "location": "Remote",
-      "tags": [
-        "Figma",
-        "Mobile UI"
-      ]
-    },
-    "justremote_27400": {
-      "title": "Senior Tactical Response Analyst",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-devops-sysadmin-jobs/senior-tactical-response-analyst-huntress",
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "date_posted": "22 Sep",
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": true,
-      "reason": "seniority: senior/lead in title",
-      "score": 0,
-      "notified": false,
-      "location": "Fully Remote",
-      "tags": [
-        "devopsandsysadmin"
-      ]
-    },
-    "justremote_26640": {
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Dave",
-      "url": "https://justremote.co/remote-developer-jobs/senior-full-stack-software-engineer-dave-ee595d95-7d2e-44ca-9d14-2bcd982fa9bb",
-      "site_id": "justremote",
-      "site_name": "JustRemote",
-      "date_posted": "01 Sep",
-      "first_seen": "2026-09-29T00:17:13.191647+00:00",
-      "eliminated": true,
-      "reason": "seniority: senior/lead in title",
-      "score": 0,
-      "notified": false,
-      "location": "Fully Remote",
-      "tags": [
-        "developer"
-      ]
     },
     "himalayas_b1ea15d049cfb8004410ab0bf840cbf9": {
       "title": "Remote Backend Django Engineer – AI & Algorithmic Systems",
@@ -29309,27 +29152,219 @@
       "first_seen": "2026-10-29T00:06:47.475445+00:00",
       "eliminated": true,
       "elim_reason": "seniority: contains \"specialist\""
+    },
+    "remoteok_1137597": {
+      "title": "Front End Developer",
+      "company": "Edconic",
+      "site_id": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance:reject_full_time_annual_salary_and_benefits"
+    },
+    "remoteok_1137572": {
+      "title": "Senior Software Engineer LATAM",
+      "company": "Wagmo",
+      "site_id": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "remoteok_1137559": {
+      "title": "Travel Support Specialist",
+      "company": "Aisles &amp; Abroad",
+      "site_id": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "tech_match:not_a_developer_role"
+    },
+    "remoteok_1137387": {
+      "title": "Software Engineer",
+      "company": "Mirantis",
+      "site_id": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance:reject_full_time_employmentType"
+    },
+    "remotive_2091135": {
+      "title": "Senior Back-end Developer",
+      "company": "Lemon.io",
+      "site_id": "remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "himalayas_https://himalayas.app/companies/dormakaba/jobs/product-manager-iv-usa-remote-us": {
+      "title": "Product Manager IV (USA Remote, US)",
+      "company": "dormakaba",
+      "site_id": "himalayas",
+      "url": "https://himalayas.app/companies/dormakaba/jobs/product-manager-iv-usa-remote-us?utm_source=api",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "himalayas_https://himalayas.app/companies/rush-street-interactive/jobs/senior-server-engineer": {
+      "title": "Senior Server Engineer",
+      "company": "Rush Street Interactive",
+      "site_id": "himalayas",
+      "url": "https://himalayas.app/companies/rush-street-interactive/jobs/senior-server-engineer?utm_source=api",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "himalayas_https://himalayas.app/companies/horizon-blue-cross-blue-shield-of-new-jersey/jobs/operations-support-specialist-ii": {
+      "title": "Operations Support Specialist II",
+      "company": "Horizon Blue Cross Blue Shield of New Jersey",
+      "site_id": "himalayas",
+      "url": "https://himalayas.app/companies/horizon-blue-cross-blue-shield-of-new-jersey/jobs/operations-support-specialist-ii?utm_source=api",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "tech_match:not_a_developer_role"
+    },
+    "himalayas_https://himalayas.app/companies/pigment/jobs/software-engineering-manager-hands-on-frontend": {
+      "title": "Software Engineering Manager (Hands-On, Frontend)",
+      "company": "Pigment",
+      "site_id": "himalayas",
+      "url": "https://himalayas.app/companies/pigment/jobs/software-engineering-manager-hands-on-frontend?utm_source=api",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:manager_lead"
+    },
+    "arcdev_senior-ai-engineering-lead-agentic-ai-engineer-full-time-gmt-3-overlap-preferred": {
+      "title": "Senior AI Engineering Lead / Agentic AI Engineer - Full Time - GMT +3 Overlap Preferred",
+      "company": "",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/senior-ai-engineering-lead-agentic-ai-engineer-full-time-gmt-3-overlap-preferred",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior_lead"
+    },
+    "arcdev_full-stack-developer-with-ai-integration": {
+      "title": "Full Stack Developer With AI Integration",
+      "company": "",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/full-stack-developer-with-ai-integration",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "arcdev_product-minded-frontend-engineer": {
+      "title": "Product-Minded Frontend Engineer",
+      "company": "",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/product-minded-frontend-engineer",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "arcdev_voice-ai-crm-automation-developer-fully-remote-project-based": {
+      "title": "Voice AI & CRM Automation Developer (Fully Remote, Project-Based)",
+      "company": "",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/voice-ai-crm-automation-developer-fully-remote-project-based",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "freelance:reject_permanent"
+    },
+    "arcdev_full-stack-developer-mcp-lambda-aws-latam-ft": {
+      "title": "Full-Stack Developer (MCP, Lambda, AWS) - LATAM-FT",
+      "company": "",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/full-stack-developer-mcp-lambda-aws-latam-ft",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "arcdev_web-developer-for-website-redesign": {
+      "title": "Web Developer for Website Redesign",
+      "company": "",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/web-developer-for-website-redesign",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "below_threshold",
+      "eliminated": false,
+      "note": "WordPress/JS/HTML-CSS, mid contract, score below 50"
+    },
+    "arcdev_kinaxis-senior-ai-software-engineer-agentic-systems-data-fabric": {
+      "title": "Senior AI Software Engineer, Agentic Systems & Data Fabric",
+      "company": "Kinaxis",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/kinaxis-senior-ai-software-engineer-agentic-systems-data-fabric",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "arcdev_affirm-staff-software-engineer-frontend-decisions-orechestration": {
+      "title": "Staff Software Engineer, Frontend (Decisions Orechestration)",
+      "company": "Affirm",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/affirm-staff-software-engineer-frontend-decisions-orechestration",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:staff"
+    },
+    "arcdev_digital-unicorn-agence-developpement-informatique-internationale-senior-growth-marketing-specialist-seo-performance-marketing-software-company-danang-hcm": {
+      "title": "Senior Growth Marketing Specialist ( SEO, Performance marketing, Software company) - Danang/HCM",
+      "company": "Digital Unicorn - Agence développement informatique internationale",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/digital-unicorn-agence-developpement-informatique-internationale-senior-growth-marketing-specialist-seo-performance-marketing-software-company-danang-hcm",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "arcdev_babel-profiles-senior-ux-ui-designer-retail": {
+      "title": "Senior UX/UI Designer (Retail)",
+      "company": "Babel Profiles",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/babel-profiles-senior-ux-ui-designer-retail",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "arcdev_blp-senior-fullstack-engineer": {
+      "title": "Senior Fullstack Engineer",
+      "company": "BLP",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/blp-senior-fullstack-engineer",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
+    },
+    "arcdev_megaport-senior-software-engineer-go": {
+      "title": "Senior Software Engineer (Go)",
+      "company": "Megaport",
+      "site_id": "arcdev",
+      "url": "https://arc.dev/remote-jobs/megaport-senior-software-engineer-go",
+      "first_seen": "2026-10-30T00:10:25.653666+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "elimination_reason": "seniority:senior"
     }
   },
   "daily_stats": {
-    "2026-07-31": {
-      "total_new": 3,
-      "notified": 1,
-      "eliminated": 2,
-      "below_threshold": 0,
-      "notified_jobs": [
-        {
-          "id": "remoteok_1135634",
-          "title": "Software Engineer GO",
-          "company": "Wakacje.pl",
-          "score": 62,
-          "site": "RemoteOK"
-        }
-      ],
-      "sites_ok": 6,
-      "sites_failed": 9,
-      "last_run": "2026-07-31T14:12:53.343056+00:00"
-    },
     "2026-08-01": {
       "total_notified": 6,
       "score_high": 0,
@@ -30757,67 +30792,84 @@
       "ambiguous": 0,
       "high_score": 0,
       "mid_score": 0
+    },
+    "2026-10-30": {
+      "total_found": 21,
+      "notified_high": 0,
+      "notified_medium": 0,
+      "eliminated": 20,
+      "ambiguous": 0,
+      "below_threshold": 1,
+      "by_site": {
+        "remoteok": 4,
+        "remotive": 1,
+        "himalayas": 4,
+        "arcdev": 12
+      },
+      "last_run": "2026-10-30T00:10:25.653666+00:00",
+      "sites_ok": 6,
+      "sites_fail": 9
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-29T00:06:47.475445+00:00"
+      "last_success": "2026-10-30T00:10:25.653666+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-29T00:06:47.475445+00:00"
+      "last_success": "2026-10-30T00:10:25.653666+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 8,
-      "last_error": "RSS endpoint returning Akamai HTML, feed not accessible",
+      "consecutive_failures": 9,
+      "last_error": "Akamai redirect, feed not accessible",
       "last_success": "2026-10-21T00:10:20.364273+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 6,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
-      "last_success": "2026-10-23T00:21:02.592038+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-10-30T00:10:25.653666+00:00"
     },
     "welcometothejungle": {
-      "consecutive_failures": 15,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
+      "consecutive_failures": 16,
+      "last_error": "Cloudflare challenge (HTTP 202)",
       "last_success": "2026-10-14T00:23:44.018224+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 6,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
-      "last_success": "2026-10-23T00:21:02.592038+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-10-30T00:10:25.653666+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 23,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
+      "consecutive_failures": 24,
+      "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 23,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
+      "consecutive_failures": 24,
+      "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 23,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
+      "consecutive_failures": 24,
+      "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 23,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
+      "consecutive_failures": 24,
+      "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 23,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
+      "consecutive_failures": 24,
+      "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-10-05T00:11:22.644756+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 15,
-      "last_error": "Proxy call blocked by sandbox (data exfiltration classifier)",
+      "consecutive_failures": 16,
+      "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-10-14T00:23:44.018224+00:00"
     },
     "stepstone": {
@@ -30831,15 +30883,15 @@
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-29T00:06:47.475445+00:00"
+      "last_success": "2026-10-30T00:10:25.653666+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-29T00:06:47.475445+00:00"
+      "last_success": "2026-10-30T00:10:25.653666+00:00"
     },
     "justremote": {
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "last_error": "SPA-only, no server-rendered content",
       "last_success": "2026-10-13T00:22:20.970366+00:00"
     }

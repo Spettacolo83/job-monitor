@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T00:09:46.367573+00:00",
+  "last_updated": "2026-11-05T00:10:49.031457+00:00",
   "jobs": {
     "arcdev_2b0589f89c0fe8190fbb31e771844929": {
       "title": "Backend Engineer (Java/Spring Boot, AWS, EKS, Kubernetes) - FT - NA/LATAM (2)",
@@ -1286,2059 +1286,6 @@
       "eliminated": true,
       "eliminated_by": "remote_only",
       "reason": "remote ambiguous and candidate requires 100% remote"
-    },
-    "arcdev_8199d7472666772ccff73dda70fbd6c6": {
-      "title": "Junior GIS / Web-3D Developer",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/junior-gis-web-3d-developer",
-      "site": "arcdev",
-      "seen_at": "2026-10-04T00:22:25.240185+00:00",
-      "score": 83.5,
-      "notified": true,
-      "notified_at": "2026-10-04T00:22:25.240185+00:00"
-    },
-    "arcdev_a01b046bd119984c2cfeeeb23dc7b0b9": {
-      "title": "Machine Learning Engineer (LLM Fine-Tuning & Inference) - FT - EMEA/APAC",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/machine-learning-engineer-llm-fine-tuning-inference-ft-emea-apac",
-      "site": "arcdev",
-      "seen_at": "2026-10-04T00:22:25.240185+00:00",
-      "score": 83.0,
-      "notified": true,
-      "notified_at": "2026-10-04T00:22:25.240185+00:00"
-    },
-    "arcdev_fd981276553461729372ec089b86e12d": {
-      "title": "Automation & Growth Engineer - Part-time - Worldwide ",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/automation-growth-engineer-part-time-worldwide",
-      "site": "arcdev",
-      "seen_at": "2026-10-04T00:22:25.240185+00:00",
-      "score": 79.2,
-      "notified": true,
-      "notified_at": "2026-10-04T00:22:25.240185+00:00"
-    },
-    "arcdev_5892da00536ff7fc099c5c2ae0541e0c": {
-      "title": "Intermediate Gis / Web-3D Developer",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/intermediate-gis-web-3d-developer",
-      "site": "arcdev",
-      "seen_at": "2026-10-04T00:22:25.240185+00:00",
-      "score": 73.5,
-      "notified": true,
-      "notified_at": "2026-10-04T00:22:25.240185+00:00"
-    },
-    "himalayas_https://himalayas.app/companies/nezasa/jobs/customer-operations-manager-german-speaking-remote": {
-      "title": "Customer Operations Manager (German speaking, Remote)",
-      "company": "Nezasa",
-      "url": "https://himalayas.app/companies/nezasa/jobs/customer-operations-manager-german-speaking-remote",
-      "url_normalized": "https://himalayas.app/companies/nezasa/jobs/customer-operations-manager-german-speaking-remote",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111819,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/uvation/jobs/research-outreach-specialist-b2b-partnerships-pr-8375553293": {
-      "title": "Research & Outreach Specialist (B2B Partnerships, PR)",
-      "company": "uvation",
-      "url": "https://himalayas.app/companies/uvation/jobs/research-outreach-specialist-b2b-partnerships-pr-8375553293",
-      "url_normalized": "https://himalayas.app/companies/uvation/jobs/research-outreach-specialist-b2b-partnerships-pr-8375553293",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111819,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/tierpoint/jobs/senior-client-executive": {
-      "title": "Senior Client Executive",
-      "company": "Tierpoint",
-      "url": "https://himalayas.app/companies/tierpoint/jobs/senior-client-executive",
-      "url_normalized": "https://himalayas.app/companies/tierpoint/jobs/senior-client-executive",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111805,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/personify-health/jobs/sr-high-risk-claims-specialist": {
-      "title": "Sr. High Risk Claims Specialist",
-      "company": "Personify Health",
-      "url": "https://himalayas.app/companies/personify-health/jobs/sr-high-risk-claims-specialist",
-      "url_normalized": "https://himalayas.app/companies/personify-health/jobs/sr-high-risk-claims-specialist",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111783,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/dell/jobs/product-and-solutions-sales-specialist-3": {
-      "title": "Product and Solutions Sales Specialist 3",
-      "company": "dell",
-      "url": "https://himalayas.app/companies/dell/jobs/product-and-solutions-sales-specialist-3",
-      "url_normalized": "https://himalayas.app/companies/dell/jobs/product-and-solutions-sales-specialist-3",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111764,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/scalejet/jobs/amazon-creative-designer-creative-manager-8668662770": {
-      "title": "Amazon Creative Designer / Creative Manager",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/amazon-creative-designer-creative-manager-8668662770",
-      "url_normalized": "https://himalayas.app/companies/scalejet/jobs/amazon-creative-designer-creative-manager-8668662770",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111730,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/nexoratalent/jobs/remote-customer-experience-coordinator": {
-      "title": "Remote Customer Experience Coordinator",
-      "company": "Nexoratalent",
-      "url": "https://himalayas.app/companies/nexoratalent/jobs/remote-customer-experience-coordinator",
-      "url_normalized": "https://himalayas.app/companies/nexoratalent/jobs/remote-customer-experience-coordinator",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111672,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-mandarin-work-from-home-vietnam": {
-      "title": "Interpreter - Mandarin - Work-From-Home (Vietnam)",
-      "company": "Teleperformance",
-      "url": "https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-mandarin-work-from-home-vietnam",
-      "url_normalized": "https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-mandarin-work-from-home-vietnam",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111656,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/icertis/jobs/industry-advisor-industrial-verticals": {
-      "title": "Industry Advisor, Industrial Verticals",
-      "company": "Icertis",
-      "url": "https://himalayas.app/companies/icertis/jobs/industry-advisor-industrial-verticals",
-      "url_normalized": "https://himalayas.app/companies/icertis/jobs/industry-advisor-industrial-verticals",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111639,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-bi-and-analytics-consultant-wfh": {
-      "title": "Lead BI and Analytics Consultant - WFH",
-      "company": "TASQ Staffing Solutions",
-      "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-bi-and-analytics-consultant-wfh",
-      "url_normalized": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-bi-and-analytics-consultant-wfh",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111589,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/ford/jobs/customer-service-representative-account-maintenance-early-stage-collections": {
-      "title": "Customer Service Representative - Account Maintenance (Early Stage Collections)",
-      "company": "Ford",
-      "url": "https://himalayas.app/companies/ford/jobs/customer-service-representative-account-maintenance-early-stage-collections",
-      "url_normalized": "https://himalayas.app/companies/ford/jobs/customer-service-representative-account-maintenance-early-stage-collections",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111579,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/exl/jobs/behavioral-health-quality-analyst-5148476572": {
-      "title": "Behavioral Health Quality Analyst",
-      "company": "EXL",
-      "url": "https://himalayas.app/companies/exl/jobs/behavioral-health-quality-analyst-5148476572",
-      "url_normalized": "https://himalayas.app/companies/exl/jobs/behavioral-health-quality-analyst-5148476572",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111498,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/leading-edge/jobs/virtual-construction-manager": {
-      "title": "Virtual Construction Manager",
-      "company": "Leading Edge",
-      "url": "https://himalayas.app/companies/leading-edge/jobs/virtual-construction-manager",
-      "url_normalized": "https://himalayas.app/companies/leading-edge/jobs/virtual-construction-manager",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111476,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-cloud-engineer-infrastructure-remote-wah": {
-      "title": "Lead Cloud Engineer - Infrastructure - Remote/WAH",
-      "company": "TASQ Staffing Solutions",
-      "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-cloud-engineer-infrastructure-remote-wah",
-      "url_normalized": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/lead-cloud-engineer-infrastructure-remote-wah",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111459,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/akamai-technologies/jobs/sales-manager": {
-      "title": "Sales Manager",
-      "company": "Akamai Technologies",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/sales-manager",
-      "url_normalized": "https://himalayas.app/companies/akamai-technologies/jobs/sales-manager",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111436,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/scalejet/jobs/customer-care-specialist-2318355028": {
-      "title": "Customer Care Specialist",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/customer-care-specialist-2318355028",
-      "url_normalized": "https://himalayas.app/companies/scalejet/jobs/customer-care-specialist-2318355028",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111417,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/akamai-technologies/jobs/senior-ii-public-sector-business-development-manager": {
-      "title": "Senior II Public Sector Business Development Manager",
-      "company": "Akamai Technologies",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-ii-public-sector-business-development-manager",
-      "url_normalized": "https://himalayas.app/companies/akamai-technologies/jobs/senior-ii-public-sector-business-development-manager",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111417,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/operationsarmy/jobs/offshore-talent-operations-remote": {
-      "title": "Offshore Talent Operations | Remote",
-      "company": "OperationsArmy",
-      "url": "https://himalayas.app/companies/operationsarmy/jobs/offshore-talent-operations-remote",
-      "url_normalized": "https://himalayas.app/companies/operationsarmy/jobs/offshore-talent-operations-remote",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111362,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/odyssey-systems-consulting-group-ltd/jobs/principal-platform-operations-data-ontology": {
-      "title": "Principal Platform Operations Data Ontology",
-      "company": "Odyssey Systems Consulting Group, Ltd.",
-      "url": "https://himalayas.app/companies/odyssey-systems-consulting-group-ltd/jobs/principal-platform-operations-data-ontology",
-      "url_normalized": "https://himalayas.app/companies/odyssey-systems-consulting-group-ltd/jobs/principal-platform-operations-data-ontology",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111303,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/aptive/jobs/coding-supervisor-coding-team-lead": {
-      "title": "Coding Supervisor / Coding Team Lead",
-      "company": "Aptive",
-      "url": "https://himalayas.app/companies/aptive/jobs/coding-supervisor-coding-team-lead",
-      "url_normalized": "https://himalayas.app/companies/aptive/jobs/coding-supervisor-coding-team-lead",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791111290,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/a-staffing-inc/jobs/senior-accountant-japanese-bilingual": {
-      "title": "Senior Accountant -Japanese Bilingual",
-      "company": "A-STAFFING, INC.",
-      "url": "https://himalayas.app/companies/a-staffing-inc/jobs/senior-accountant-japanese-bilingual",
-      "url_normalized": "https://himalayas.app/companies/a-staffing-inc/jobs/senior-accountant-japanese-bilingual",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107890,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/recruitnest-consulting/jobs/business-operations-head-offshore-accounting": {
-      "title": "Business Operations Head - Offshore Accounting",
-      "company": "RecruitNest Consulting",
-      "url": "https://himalayas.app/companies/recruitnest-consulting/jobs/business-operations-head-offshore-accounting",
-      "url_normalized": "https://himalayas.app/companies/recruitnest-consulting/jobs/business-operations-head-offshore-accounting",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107833,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/ford/jobs/visual-design-lead": {
-      "title": "Visual Design Lead",
-      "company": "Ford",
-      "url": "https://himalayas.app/companies/ford/jobs/visual-design-lead",
-      "url_normalized": "https://himalayas.app/companies/ford/jobs/visual-design-lead",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107807,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/carringtonms/jobs/analyst-default-fha-claims-qa-i": {
-      "title": "Analyst, Default FHA Claims QA, I",
-      "company": "Carrington",
-      "url": "https://himalayas.app/companies/carringtonms/jobs/analyst-default-fha-claims-qa-i",
-      "url_normalized": "https://himalayas.app/companies/carringtonms/jobs/analyst-default-fha-claims-qa-i",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107745,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/inizio-partners-corp/jobs/vp-new-business-sales-banking-capital-markets": {
-      "title": "VP New Business Sales - Banking Capital Markets",
-      "company": "Inizio Partners Corp",
-      "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/vp-new-business-sales-banking-capital-markets",
-      "url_normalized": "https://himalayas.app/companies/inizio-partners-corp/jobs/vp-new-business-sales-banking-capital-markets",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107715,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/empower-ai-inc/jobs/knowledge-center-tier-i-agent-junior": {
-      "title": "KNOWLEDGE CENTER TIER I AGENT (JUNIOR)",
-      "company": "Empower AI Inc.",
-      "url": "https://himalayas.app/companies/empower-ai-inc/jobs/knowledge-center-tier-i-agent-junior",
-      "url_normalized": "https://himalayas.app/companies/empower-ai-inc/jobs/knowledge-center-tier-i-agent-junior",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107715,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/akamai-technologies/jobs/marketing-program-specialist": {
-      "title": "Marketing Program Specialist",
-      "company": "Akamai Technologies",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/marketing-program-specialist",
-      "url_normalized": "https://himalayas.app/companies/akamai-technologies/jobs/marketing-program-specialist",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107609,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/akamai-technologies/jobs/senior-manager-engineering": {
-      "title": "Senior Manager Engineering",
-      "company": "Akamai Technologies",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-manager-engineering",
-      "url_normalized": "https://himalayas.app/companies/akamai-technologies/jobs/senior-manager-engineering",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107552,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/sinch/jobs/technical-account-manager-iii": {
-      "title": "Technical Account Manager III",
-      "company": "Sinch",
-      "url": "https://himalayas.app/companies/sinch/jobs/technical-account-manager-iii",
-      "url_normalized": "https://himalayas.app/companies/sinch/jobs/technical-account-manager-iii",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107398,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/staples-canada/jobs/key-account-executive-contract-furniture-remote": {
-      "title": "Key Account Executive, Contract Furniture - Remote",
-      "company": "Staples Canada",
-      "url": "https://himalayas.app/companies/staples-canada/jobs/key-account-executive-contract-furniture-remote",
-      "url_normalized": "https://himalayas.app/companies/staples-canada/jobs/key-account-executive-contract-furniture-remote",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107331,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/akamai-technologies/jobs/manager-engineering": {
-      "title": "Manager Engineering",
-      "company": "Akamai Technologies",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/manager-engineering",
-      "url_normalized": "https://himalayas.app/companies/akamai-technologies/jobs/manager-engineering",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107314,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/inizio-partners-corp/jobs/senior-generative-ai-engineer": {
-      "title": "Senior Generative AI Engineer",
-      "company": "Inizio Partners Corp",
-      "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/senior-generative-ai-engineer",
-      "url_normalized": "https://himalayas.app/companies/inizio-partners-corp/jobs/senior-generative-ai-engineer",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107282,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/inoapps/jobs/jd-edwards-senior-cnc-consultant": {
-      "title": "JD Edwards Senior CNC Consultant",
-      "company": "Inoapps",
-      "url": "https://himalayas.app/companies/inoapps/jobs/jd-edwards-senior-cnc-consultant",
-      "url_normalized": "https://himalayas.app/companies/inoapps/jobs/jd-edwards-senior-cnc-consultant",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107224,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/molina-healthcare/jobs/national-quality-performance-manager-9448631882": {
-      "title": "National Quality Performance Manager",
-      "company": "Molina Healthcare",
-      "url": "https://himalayas.app/companies/molina-healthcare/jobs/national-quality-performance-manager-9448631882",
-      "url_normalized": "https://himalayas.app/companies/molina-healthcare/jobs/national-quality-performance-manager-9448631882",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107211,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/crowdstrike/jobs/sr-software-engineer-ii-macos-sensor-ctio-hybrid": {
-      "title": "Sr. Software Engineer II, MacOS Sensor - CTIO (Hybrid)",
-      "company": "Crowdstrike",
-      "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-software-engineer-ii-macos-sensor-ctio-hybrid",
-      "url_normalized": "https://himalayas.app/companies/crowdstrike/jobs/sr-software-engineer-ii-macos-sensor-ctio-hybrid",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107204,
-      "eliminated": true,
-      "elim_reason": "hybrid_in_title"
-    },
-    "himalayas_https://himalayas.app/companies/tasq-staffing-solutions/jobs/technical-recruitment-consultant": {
-      "title": "Technical Recruitment Consultant",
-      "company": "TASQ Staffing Solutions",
-      "url": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/technical-recruitment-consultant",
-      "url_normalized": "https://himalayas.app/companies/tasq-staffing-solutions/jobs/technical-recruitment-consultant",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107167,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/exl/jobs/temp-part-time-skilled-nursing-facility-snf-patient-driven-payment-model": {
-      "title": "Temp. Part-time: Skilled Nursing Facility (SNF) / Patient-Driven Payment Model (",
-      "company": "EXL",
-      "url": "https://himalayas.app/companies/exl/jobs/temp-part-time-skilled-nursing-facility-snf-patient-driven-payment-model",
-      "url_normalized": "https://himalayas.app/companies/exl/jobs/temp-part-time-skilled-nursing-facility-snf-patient-driven-payment-model",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107167,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-vietnamese-work-from-home": {
-      "title": "Interpreter - Vietnamese - Work-From-Home",
-      "company": "Teleperformance",
-      "url": "https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-vietnamese-work-from-home",
-      "url_normalized": "https://himalayas.app/companies/teleperformanceusa/jobs/interpreter-vietnamese-work-from-home",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107166,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/the-wilkinson-firm/jobs/lead-generation-specialist-per-mql-contract-remote": {
-      "title": "Lead Generation Specialist (Per-MQL Contract) - Remote",
-      "company": "The Wilkinson Firm",
-      "url": "https://himalayas.app/companies/the-wilkinson-firm/jobs/lead-generation-specialist-per-mql-contract-remote",
-      "url_normalized": "https://himalayas.app/companies/the-wilkinson-firm/jobs/lead-generation-specialist-per-mql-contract-remote",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107101,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/fdb/jobs/strategic-sales-partner": {
-      "title": "Strategic Sales Partner",
-      "company": "FDB",
-      "url": "https://himalayas.app/companies/fdb/jobs/strategic-sales-partner",
-      "url_normalized": "https://himalayas.app/companies/fdb/jobs/strategic-sales-partner",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791107066,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/higharc/jobs/client-strategy-manager": {
-      "title": "Client Strategy Manager",
-      "company": "Higharc",
-      "url": "https://himalayas.app/companies/higharc/jobs/client-strategy-manager",
-      "url_normalized": "https://himalayas.app/companies/higharc/jobs/client-strategy-manager",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158987,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/american-structurepoint/jobs/vice-president-federal-practice": {
-      "title": "Vice President, Federal Practice",
-      "company": "American Structurepoint",
-      "url": "https://himalayas.app/companies/american-structurepoint/jobs/vice-president-federal-practice",
-      "url_normalized": "https://himalayas.app/companies/american-structurepoint/jobs/vice-president-federal-practice",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158955,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/sargent-lundy/jobs/project-manager-2-substation-transmission": {
-      "title": "Project Manager 2 - Substation & Transmission",
-      "company": "Sargent & Lundy",
-      "url": "https://himalayas.app/companies/sargent-lundy/jobs/project-manager-2-substation-transmission",
-      "url_normalized": "https://himalayas.app/companies/sargent-lundy/jobs/project-manager-2-substation-transmission",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158906,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/caliberly/jobs/ip-lawyer": {
-      "title": "IP Lawyer",
-      "company": "Caliberly",
-      "url": "https://himalayas.app/companies/caliberly/jobs/ip-lawyer",
-      "url_normalized": "https://himalayas.app/companies/caliberly/jobs/ip-lawyer",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158897,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/argano/jobs/client-executive-director-manufacturing-microsoft-practice": {
-      "title": "Client Executive Director - Manufacturing - Microsoft Practice",
-      "company": "Argano",
-      "url": "https://himalayas.app/companies/argano/jobs/client-executive-director-manufacturing-microsoft-practice",
-      "url_normalized": "https://himalayas.app/companies/argano/jobs/client-executive-director-manufacturing-microsoft-practice",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158757,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/elevate-calls-inc/jobs/us-attorney": {
-      "title": "US Attorney",
-      "company": "Elevate Calls Inc.",
-      "url": "https://himalayas.app/companies/elevate-calls-inc/jobs/us-attorney",
-      "url_normalized": "https://himalayas.app/companies/elevate-calls-inc/jobs/us-attorney",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158576,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/tyto-athene/jobs/cloud-security-engineer-aws-gcp": {
-      "title": "Cloud Security Engineer (AWS & GCP)",
-      "company": "Tyto Athene",
-      "url": "https://himalayas.app/companies/tyto-athene/jobs/cloud-security-engineer-aws-gcp",
-      "url_normalized": "https://himalayas.app/companies/tyto-athene/jobs/cloud-security-engineer-aws-gcp",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158559,
-      "eliminated": true,
-      "elim_reason": "fetch_failed_default_eliminate"
-    },
-    "himalayas_https://himalayas.app/companies/empower-ai-inc/jobs/tier-i-service-desk-agent-extended-hours": {
-      "title": "TIER I SERVICE DESK AGENT (EXTENDED HOURS)",
-      "company": "Empower AI Inc.",
-      "url": "https://himalayas.app/companies/empower-ai-inc/jobs/tier-i-service-desk-agent-extended-hours",
-      "url_normalized": "https://himalayas.app/companies/empower-ai-inc/jobs/tier-i-service-desk-agent-extended-hours",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158389,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/hercules/jobs/staff-software-engineer-billing-and-monetization": {
-      "title": "Staff Software Engineer, Billing and Monetization",
-      "company": "Hercules",
-      "url": "https://himalayas.app/companies/hercules/jobs/staff-software-engineer-billing-and-monetization",
-      "url_normalized": "https://himalayas.app/companies/hercules/jobs/staff-software-engineer-billing-and-monetization",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158291,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/engiflex/jobs/chef-de-projet-cybersecurite-iam-des-infrastructures-freelance-possible": {
-      "title": "Chef de projet cybersécurité IAM des infrastructures (Freelance possible)",
-      "company": "EngiFlex",
-      "url": "https://himalayas.app/companies/engiflex/jobs/chef-de-projet-cybersecurite-iam-des-infrastructures-freelance-possible",
-      "url_normalized": "https://himalayas.app/companies/engiflex/jobs/chef-de-projet-cybersecurite-iam-des-infrastructures-freelance-possible",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791158212,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/wsp-africa/jobs/project-manager-power-delivery-remote": {
-      "title": "Project Manager - Power Delivery - Remote",
-      "company": "WSP Africa",
-      "url": "https://himalayas.app/companies/wsp-africa/jobs/project-manager-power-delivery-remote",
-      "url_normalized": "https://himalayas.app/companies/wsp-africa/jobs/project-manager-power-delivery-remote",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157994,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/lumanity/jobs/scientific-director-oncology": {
-      "title": "Scientific Director - Oncology",
-      "company": "Lumanity",
-      "url": "https://himalayas.app/companies/lumanity/jobs/scientific-director-oncology",
-      "url_normalized": "https://himalayas.app/companies/lumanity/jobs/scientific-director-oncology",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157892,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/catholic-relief-services/jobs/program-manager-i-meal-continuity-of-integrated-health-services-cihs-projec": {
-      "title": "Program Manager I, – MEAL Continuity of Integrated Health Services (CIHS) Projec",
-      "company": "Catholic Relief Services",
-      "url": "https://himalayas.app/companies/catholic-relief-services/jobs/program-manager-i-meal-continuity-of-integrated-health-services-cihs-projec",
-      "url_normalized": "https://himalayas.app/companies/catholic-relief-services/jobs/program-manager-i-meal-continuity-of-integrated-health-services-cihs-projec",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157801,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/fujifilm/jobs/business-planning-analyst-es": {
-      "title": "Business Planning Analyst, ES",
-      "company": "Fujifilm",
-      "url": "https://himalayas.app/companies/fujifilm/jobs/business-planning-analyst-es",
-      "url_normalized": "https://himalayas.app/companies/fujifilm/jobs/business-planning-analyst-es",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157658,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/elevate-calls-inc/jobs/technical-support-representative-alarm-security-company": {
-      "title": "Technical Support Representative (Alarm Security Company)",
-      "company": "Elevate Calls Inc.",
-      "url": "https://himalayas.app/companies/elevate-calls-inc/jobs/technical-support-representative-alarm-security-company",
-      "url_normalized": "https://himalayas.app/companies/elevate-calls-inc/jobs/technical-support-representative-alarm-security-company",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157582,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/kfc-global-careers/jobs/staff-solutions-architect-4478865234": {
-      "title": "Staff Solutions Architect",
-      "company": "KFC Global Careers",
-      "url": "https://himalayas.app/companies/kfc-global-careers/jobs/staff-solutions-architect-4478865234",
-      "url_normalized": "https://himalayas.app/companies/kfc-global-careers/jobs/staff-solutions-architect-4478865234",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157269,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/itc-worldwide/jobs/advisory-accounting-audit-tax-payroll-8802416831": {
-      "title": "Advisory | Accounting | Audit | Tax | Payroll",
-      "company": "ITC WORLDWIDE",
-      "url": "https://himalayas.app/companies/itc-worldwide/jobs/advisory-accounting-audit-tax-payroll-8802416831",
-      "url_normalized": "https://himalayas.app/companies/itc-worldwide/jobs/advisory-accounting-audit-tax-payroll-8802416831",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157183,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/logistics-management-institute/jobs/machine-learning-engineer": {
-      "title": "Machine Learning Engineer",
-      "company": "Logistics Management Institute",
-      "url": "https://himalayas.app/companies/logistics-management-institute/jobs/machine-learning-engineer",
-      "url_normalized": "https://himalayas.app/companies/logistics-management-institute/jobs/machine-learning-engineer",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157137,
-      "eliminated": true,
-      "elim_reason": "fetch_failed_default_eliminate"
-    },
-    "himalayas_https://himalayas.app/companies/ataraxis-management/jobs/healthcare-virtual-assistant-mental-health-practice-remote-83536232": {
-      "title": "Healthcare Virtual Assistant (Mental Health Practice | Remote)",
-      "company": "Ataraxis Management",
-      "url": "https://himalayas.app/companies/ataraxis-management/jobs/healthcare-virtual-assistant-mental-health-practice-remote-83536232",
-      "url_normalized": "https://himalayas.app/companies/ataraxis-management/jobs/healthcare-virtual-assistant-mental-health-practice-remote-83536232",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791157086,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/fortive/jobs/senior-sales-manager-sled-capital-planning": {
-      "title": "Senior Sales Manager – SLED, Capital Planning",
-      "company": "Fortive",
-      "url": "https://himalayas.app/companies/fortive/jobs/senior-sales-manager-sled-capital-planning",
-      "url_normalized": "https://himalayas.app/companies/fortive/jobs/senior-sales-manager-sled-capital-planning",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156897,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/logix-federal-credit-union/jobs/fair-lending-officer-sr": {
-      "title": "Fair Lending Officer SR",
-      "company": "Logix Federal Credit Union",
-      "url": "https://himalayas.app/companies/logix-federal-credit-union/jobs/fair-lending-officer-sr",
-      "url_normalized": "https://himalayas.app/companies/logix-federal-credit-union/jobs/fair-lending-officer-sr",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156762,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/datavail/jobs/senior-database-engineer": {
-      "title": "Senior Database Engineer",
-      "company": "Datavail",
-      "url": "https://himalayas.app/companies/datavail/jobs/senior-database-engineer",
-      "url_normalized": "https://himalayas.app/companies/datavail/jobs/senior-database-engineer",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156740,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "himalayas_https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/automation-test-engineer": {
-      "title": "Automation Test Engineer",
-      "company": "H.W. Kaufman Financial Group",
-      "url": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/automation-test-engineer",
-      "url_normalized": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/automation-test-engineer",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156554,
-      "eliminated": true,
-      "elim_reason": "fetch_failed_default_eliminate"
-    },
-    "himalayas_https://himalayas.app/companies/empower-ai-inc/jobs/paralegal-iv": {
-      "title": "Paralegal IV",
-      "company": "Empower AI Inc.",
-      "url": "https://himalayas.app/companies/empower-ai-inc/jobs/paralegal-iv",
-      "url_normalized": "https://himalayas.app/companies/empower-ai-inc/jobs/paralegal-iv",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156535,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/caliberly/jobs/paralegal": {
-      "title": "Paralegal",
-      "company": "Caliberly",
-      "url": "https://himalayas.app/companies/caliberly/jobs/paralegal",
-      "url_normalized": "https://himalayas.app/companies/caliberly/jobs/paralegal",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156357,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/siemens-healthineers/jobs/regional-informatics-sales-executive-rise-8686598806": {
-      "title": "Regional Informatics Sales Executive (RISE)",
-      "company": "Siemens Healthineers",
-      "url": "https://himalayas.app/companies/siemens-healthineers/jobs/regional-informatics-sales-executive-rise-8686598806",
-      "url_normalized": "https://himalayas.app/companies/siemens-healthineers/jobs/regional-informatics-sales-executive-rise-8686598806",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156242,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/carenet-health/jobs/radiology-scheduler-remote": {
-      "title": "Radiology Scheduler | Remote",
-      "company": "Carenet Health",
-      "url": "https://himalayas.app/companies/carenet-health/jobs/radiology-scheduler-remote",
-      "url_normalized": "https://himalayas.app/companies/carenet-health/jobs/radiology-scheduler-remote",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156200,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "himalayas_https://himalayas.app/companies/the-church-of-jesus-christ-of-latter-day-saints/jobs/production-support-specialist-2-time-bound-12-2031": {
-      "title": "Production Support Specialist 2 - Time Bound 12/2031",
-      "company": "The Church of Jesus Christ of Latter-day Saints",
-      "url": "https://himalayas.app/companies/the-church-of-jesus-christ-of-latter-day-saints/jobs/production-support-specialist-2-time-bound-12-2031",
-      "url_normalized": "https://himalayas.app/companies/the-church-of-jesus-christ-of-latter-day-saints/jobs/production-support-specialist-2-time-bound-12-2031",
-      "site": "himalayas",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": 1791156157,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pnbwza8npq": {
-      "title": "Remote - Software Developer",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/remote-software-developer",
-      "url_normalized": "https://arc.dev/remote-jobs/remote-software-developer",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-27T10:27:12+00:00",
-      "eliminated": true,
-      "elim_reason": "arc_permanent_jobtype"
-    },
-    "arcdev_pmydlacrep": {
-      "title": "Senior GIS / Web-3D Developer",
-      "company": "",
-      "url": "https://arc.dev/remote-jobs/senior-gis-web-3d-developer",
-      "url_normalized": "https://arc.dev/remote-jobs/senior-gis-web-3d-developer",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-25T22:28:43+00:00",
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "arcdev_pp3a20a56r": {
-      "title": "Executive Assistant - Infrastructure Engineering",
-      "company": "F5",
-      "url": "https://arc.dev/remote-jobs/f5-executive-assistant-infrastructure-engineering",
-      "url_normalized": "https://arc.dev/remote-jobs/f5-executive-assistant-infrastructure-engineering",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:38+00:00",
-      "eliminated": true,
-      "elim_reason": "arc_permanent_jobtype"
-    },
-    "arcdev_pp3a20hio4": {
-      "title": "Senior Product Manager - Code Translation & Developer Tooling",
-      "company": "Jobgether",
-      "url": "https://arc.dev/remote-jobs/jobgether-senior-product-manager-code-translation-developer-tooling",
-      "url_normalized": "https://arc.dev/remote-jobs/jobgether-senior-product-manager-code-translation-developer-tooling",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:32+00:00",
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "arcdev_pp3bzw011n": {
-      "title": "Marketing Automation Project Specialist",
-      "company": "Ingersoll Rand Compressor Systems & Services",
-      "url": "https://arc.dev/remote-jobs/ingersoll-rand-compressor-systems-services-marketing-automation-project-specialist",
-      "url_normalized": "https://arc.dev/remote-jobs/ingersoll-rand-compressor-systems-services-marketing-automation-project-specialist",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:25+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c0a6ssu": {
-      "title": "Deputy Manager Sales Marketing",
-      "company": "Siddhanta Knowledge Foundation",
-      "url": "https://arc.dev/remote-jobs/siddhanta-knowledge-foundation-deputy-manager-sales-marketing",
-      "url_normalized": "https://arc.dev/remote-jobs/siddhanta-knowledge-foundation-deputy-manager-sales-marketing",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:24+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c0jq8nl": {
-      "title": "Product Marketing Manager AI",
-      "company": "Aiven",
-      "url": "https://arc.dev/remote-jobs/aiven-product-marketing-manager-ai",
-      "url_normalized": "https://arc.dev/remote-jobs/aiven-product-marketing-manager-ai",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:24+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c0uznte": {
-      "title": "Spécialiste Salesforce Marketing Cloud Next",
-      "company": "Onepoint",
-      "url": "https://arc.dev/remote-jobs/onepoint-specialiste-salesforce-marketing-cloud-next",
-      "url_normalized": "https://arc.dev/remote-jobs/onepoint-specialiste-salesforce-marketing-cloud-next",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:24+00:00",
-      "eliminated": true,
-      "elim_reason": "arc_permanent_jobtype"
-    },
-    "arcdev_pp3c1dv61h": {
-      "title": "GTM Marketing Manager",
-      "company": "Sundays For Dogs",
-      "url": "https://arc.dev/remote-jobs/sundays-for-dogs-gtm-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/sundays-for-dogs-gtm-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:24+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pjgeoot0zi": {
-      "title": "Associate Director, Global Product Marketing",
-      "company": "Lonza",
-      "url": "https://arc.dev/remote-jobs/lonza-associate-director-global-product-marketing",
-      "url_normalized": "https://arc.dev/remote-jobs/lonza-associate-director-global-product-marketing",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:23+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c2d7sk6": {
-      "title": "Associate Director, Marketing, Professional Promotion, Field Activation, (Head & Neck Oncology)",
-      "company": "Genmab",
-      "url": "https://arc.dev/remote-jobs/genmab-associate-director-marketing-professional-promotion-field-activation-head-neck-oncology",
-      "url_normalized": "https://arc.dev/remote-jobs/genmab-associate-director-marketing-professional-promotion-field-activation-head-neck-oncology",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:23+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c2wqnh3": {
-      "title": "Full-Time Digital Marketing Specialist",
-      "company": "Pelvic Soul Pelvic Rehab & Osteopathic Therapy",
-      "url": "https://arc.dev/remote-jobs/pelvic-soul-pelvic-rehab-osteopathic-therapy-full-time-digital-marketing-specialist",
-      "url_normalized": "https://arc.dev/remote-jobs/pelvic-soul-pelvic-rehab-osteopathic-therapy-full-time-digital-marketing-specialist",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:23+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c3jxwex": {
-      "title": "Senior Product Marketing Manager Interoperable Lakehouse",
-      "company": "Snowflake",
-      "url": "https://arc.dev/remote-jobs/snowflake-senior-product-marketing-manager-interoperable-lakehouse",
-      "url_normalized": "https://arc.dev/remote-jobs/snowflake-senior-product-marketing-manager-interoperable-lakehouse",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:23+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c438okb": {
-      "title": "Senior Director, Performance Marketing (Affiliate)",
-      "company": "Ovative Group",
-      "url": "https://arc.dev/remote-jobs/ovative-group-senior-director-performance-marketing-affiliate",
-      "url_normalized": "https://arc.dev/remote-jobs/ovative-group-senior-director-performance-marketing-affiliate",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:22+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c438okc": {
-      "title": "Marketing Operations Specialist - Demandbase & Salesforce",
-      "company": "Michael Page",
-      "url": "https://arc.dev/remote-jobs/michael-page-marketing-operations-specialist-demandbase-salesforce",
-      "url_normalized": "https://arc.dev/remote-jobs/michael-page-marketing-operations-specialist-demandbase-salesforce",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:22+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c4udsv3": {
-      "title": "VP, Product Marketing & Strategy",
-      "company": "Clearlink",
-      "url": "https://arc.dev/remote-jobs/clearlink-vp-product-marketing-strategy",
-      "url_normalized": "https://arc.dev/remote-jobs/clearlink-vp-product-marketing-strategy",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:22+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c4ueusg": {
-      "title": "Sr. Marketing Analyst",
-      "company": "Niche",
-      "url": "https://arc.dev/remote-jobs/niche-sr-marketing-analyst",
-      "url_normalized": "https://arc.dev/remote-jobs/niche-sr-marketing-analyst",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:22+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c5j99wj": {
-      "title": "Senior Growth Marketing Manager",
-      "company": "SmartPixel",
-      "url": "https://arc.dev/remote-jobs/smartpixel-senior-growth-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/smartpixel-senior-growth-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:22+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c5vvomh": {
-      "title": "Manager:in CRM und Marketing Automation",
-      "company": "MACH",
-      "url": "https://arc.dev/remote-jobs/mach-manager-in-crm-und-marketing-automation",
-      "url_normalized": "https://arc.dev/remote-jobs/mach-manager-in-crm-und-marketing-automation",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:21+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pelqddwhea": {
-      "title": "Product Marketing Manager",
-      "company": "ADDA.io",
-      "url": "https://arc.dev/remote-jobs/adda-io-product-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/adda-io-product-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:20+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_ohtsee9tf0": {
-      "title": "Social Media and Digital Marketing Manager",
-      "company": "SE10 PR",
-      "url": "https://arc.dev/remote-jobs/se10-pr-social-media-and-digital-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/se10-pr-social-media-and-digital-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:19+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_phqd15x8qw": {
-      "title": "Marketing Campaign Manager",
-      "company": "Eightfold AI",
-      "url": "https://arc.dev/remote-jobs/eightfold-ai-marketing-campaign-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/eightfold-ai-marketing-campaign-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:19+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c7mjxbq": {
-      "title": "Lead Marketing Manager (m/w/d) - Schwerpunkt Performance Marketing",
-      "company": "Jobgether",
-      "url": "https://arc.dev/remote-jobs/jobgether-lead-marketing-manager-m-w-d-schwerpunkt-performance-marketing",
-      "url_normalized": "https://arc.dev/remote-jobs/jobgether-lead-marketing-manager-m-w-d-schwerpunkt-performance-marketing",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:19+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pm36xy3bbd": {
-      "title": "Digital Marketing Manager",
-      "company": "Flexiple",
-      "url": "https://arc.dev/remote-jobs/flexiple-digital-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/flexiple-digital-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:19+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c7yhr3r": {
-      "title": "Senior Affiliate Marketing Specialist",
-      "company": "Learneo",
-      "url": "https://arc.dev/remote-jobs/learneo-senior-affiliate-marketing-specialist",
-      "url_normalized": "https://arc.dev/remote-jobs/learneo-senior-affiliate-marketing-specialist",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:19+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c8ek4fu": {
-      "title": "Marketing & Communication Manager",
-      "company": "Jobgether",
-      "url": "https://arc.dev/remote-jobs/jobgether-marketing-communication-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/jobgether-marketing-communication-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:18+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3c9ix2m5": {
-      "title": "CRM Manager, Salesforce Marketing Cloud Account Engagement",
-      "company": "Frontdoor, Inc.",
-      "url": "https://arc.dev/remote-jobs/frontdoor-inc-crm-manager-salesforce-marketing-cloud-account-engagement",
-      "url_normalized": "https://arc.dev/remote-jobs/frontdoor-inc-crm-manager-salesforce-marketing-cloud-account-engagement",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:18+00:00",
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "arcdev_pp3c9yy1dq": {
-      "title": "Content Marketing Manager - Gracenote",
-      "company": "Nielsen",
-      "url": "https://arc.dev/remote-jobs/nielsen-content-marketing-manager-gracenote",
-      "url_normalized": "https://arc.dev/remote-jobs/nielsen-content-marketing-manager-gracenote",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:17+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3caeqef5": {
-      "title": "Field Marketing Manager",
-      "company": "Way Security",
-      "url": "https://arc.dev/remote-jobs/way-security-field-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/way-security-field-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:17+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3casvlab": {
-      "title": "Content Marketing Manager",
-      "company": "Amwell",
-      "url": "https://arc.dev/remote-jobs/amwell-content-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/amwell-content-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:17+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pp3cbkwubq": {
-      "title": "Performance Marketing Manager SEA (m/w/d) (80-100%)",
-      "company": "ad agents",
-      "url": "https://arc.dev/remote-jobs/ad-agents-performance-marketing-manager-sea-m-w-d-80-100",
-      "url_normalized": "https://arc.dev/remote-jobs/ad-agents-performance-marketing-manager-sea-m-w-d-80-100",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:17+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "arcdev_pfe51zxf96": {
-      "title": "Email Marketing Manager",
-      "company": "GrowthPair",
-      "url": "https://arc.dev/remote-jobs/growthpair-email-marketing-manager",
-      "url_normalized": "https://arc.dev/remote-jobs/growthpair-email-marketing-manager",
-      "site": "arcdev",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-04T10:28:16+00:00",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27761": {
-      "title": "Business Development Manager - (KS\\u002FMO\\u002FIA\\u002FNE)",
-      "company": "Nutrafol",
-      "url": "https://justremote.co/remote-manager-exec-jobs/business-development-manager-ks-mo-ia-ne-nutrafol",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/business-development-manager-ks-mo-ia-ne-nutrafol",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "04 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27730": {
-      "title": "Virtual Care Advocacy, Tier 1 (January Cohort)",
-      "company": "Included Health",
-      "url": "https://justremote.co/remote-manager-exec-jobs/virtual-care-advocacy-tier-1-january-cohort-included-health",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/virtual-care-advocacy-tier-1-january-cohort-included-health",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "03 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27729": {
-      "title": "Vice President, FP&A",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-manager-exec-jobs/vice-president-fp-a-huntress",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/vice-president-fp-a-huntress",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "03 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27728": {
-      "title": "Director, Brand Marketing",
-      "company": "Nutrafol",
-      "url": "https://justremote.co/remote-marketing-jobs/director-brand-marketing-nutrafol",
-      "url_normalized": "https://justremote.co/remote-marketing-jobs/director-brand-marketing-nutrafol",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "03 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27697": {
-      "title": "Account Executive II, Mid-Market",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-manager-exec-jobs/account-executive-ii-mid-market-huntress-46def922-fc29-4cef-ae89-9df000aae98b",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/account-executive-ii-mid-market-huntress-46def922-fc29-4cef-ae89-9df000aae98b",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "02 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27696": {
-      "title": "Strategic Account Executive - Privileged Access Management (PAM)",
-      "company": "Saviynt",
-      "url": "https://justremote.co/remote-manager-exec-jobs/strategic-account-executive-privileged-access-management-pam-saviynt",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/strategic-account-executive-privileged-access-management-pam-saviynt",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "02 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27695": {
-      "title": "Product Commercialization Manager",
-      "company": "Nutrafol",
-      "url": "https://justremote.co/remote-manager-exec-jobs/product-commercialization-manager-nutrafol",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/product-commercialization-manager-nutrafol",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "02 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27664": {
-      "title": "Sr. Manager, Accounting",
-      "company": "Included Health",
-      "url": "https://justremote.co/remote-manager-exec-jobs/sr-manager-accounting-included-health",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/sr-manager-accounting-included-health",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "01 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27663": {
-      "title": "Client Success Principal",
-      "company": "Included Health",
-      "url": "https://justremote.co/remote-customer-service-jobs/client-success-principal-included-health",
-      "url_normalized": "https://justremote.co/remote-customer-service-jobs/client-success-principal-included-health",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "01 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27662": {
-      "title": "Director, Commercial Enablement",
-      "company": "Foodsmart",
-      "url": "https://justremote.co/remote-manager-exec-jobs/director-commercial-enablement-foodsmart",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/director-commercial-enablement-foodsmart",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "01 Oct",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27629": {
-      "title": "Copy of Sr Director, Assistant General Counsel, Product & Regulatory",
-      "company": "Dave",
-      "url": "https://justremote.co/remote-manager-exec-jobs/copy-of-sr-director-assistant-general-counsel-product-regulatory-dave",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/copy-of-sr-director-assistant-general-counsel-product-regulatory-dave",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "30 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27596": {
-      "title": "Senior Technical Consultant",
-      "company": "Outreach",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-technical-consultant-outreach-fb130fad-b0ad-4d7f-b89f-17ecef564dbd",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/senior-technical-consultant-outreach-fb130fad-b0ad-4d7f-b89f-17ecef564dbd",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "29 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27565": {
-      "title": "Mortgage Processor\\u002FUnderwriter - Remote",
-      "company": "Knock",
-      "url": "https://justremote.co/remote-writing-jobs/mortgage-processor-underwriter-remote-knock",
-      "url_normalized": "https://justremote.co/remote-writing-jobs/mortgage-processor-underwriter-remote-knock",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "28 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27564": {
-      "title": "Director, Internal Communications",
-      "company": "M+R",
-      "url": "https://justremote.co/remote-marketing-jobs/director-internal-communications-m-r",
-      "url_normalized": "https://justremote.co/remote-marketing-jobs/director-internal-communications-m-r",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "28 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27563": {
-      "title": "Food Operations Analyst",
-      "company": "Foodsmart",
-      "url": "https://justremote.co/remote-manager-exec-jobs/food-operations-analyst-foodsmart",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/food-operations-analyst-foodsmart",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "28 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27532": {
-      "title": "Staff Software Engineer - Core Platform (Ruby\\u002FRails)",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-developer-jobs/staff-software-engineer-core-platform-ruby-rails-huntress",
-      "url_normalized": "https://justremote.co/remote-developer-jobs/staff-software-engineer-core-platform-ruby-rails-huntress",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "26 Sep",
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "justremote_27531": {
-      "title": "Senior GTM Enablement Manager",
-      "company": "Outreach",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-gtm-enablement-manager-outreach",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/senior-gtm-enablement-manager-outreach",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "26 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27530": {
-      "title": "Senior Global Rewards Analyst",
-      "company": "Outreach",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-global-rewards-analyst-outreach",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/senior-global-rewards-analyst-outreach",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "26 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27499": {
-      "title": "Learning Operations Specialist",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-manager-exec-jobs/learning-operations-specialist-huntress",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/learning-operations-specialist-huntress",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "25 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27497": {
-      "title": "Research and Innovation Manager",
-      "company": "Nutrafol",
-      "url": "https://justremote.co/remote-manager-exec-jobs/research-and-innovation-manager-nutrafol",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/research-and-innovation-manager-nutrafol",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "25 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27465": {
-      "title": "Sr. Quality Assurance Analyst",
-      "company": "Nutrafol",
-      "url": "https://justremote.co/remote-manager-exec-jobs/sr-quality-assurance-analyst-nutrafol",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/sr-quality-assurance-analyst-nutrafol",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "24 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27432": {
-      "title": "Helpdesk Administrator",
-      "company": "Huntress",
-      "url": "https://justremote.co/remote-manager-exec-jobs/helpdesk-administrator-huntress",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/helpdesk-administrator-huntress",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "23 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27399": {
-      "title": "Senior Manager, Produce Quality",
-      "company": "Hungryroot",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-manager-produce-quality-hungryroot",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/senior-manager-produce-quality-hungryroot",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "22 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27367": {
-      "title": "Senior Staff Product Manager, Browser Control Platform",
-      "company": "Mozilla",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-staff-product-manager-browser-control-platform-mozilla",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/senior-staff-product-manager-browser-control-platform-mozilla",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "21 Sep",
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "justremote_27334": {
-      "title": "Head of Content & Media",
-      "company": "Alpaca",
-      "url": "https://justremote.co/remote-marketing-jobs/head-of-content-media-alpaca",
-      "url_normalized": "https://justremote.co/remote-marketing-jobs/head-of-content-media-alpaca",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "20 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27333": {
-      "title": "Staff Data Systems Architect",
-      "company": "MyFitnessPal",
-      "url": "https://justremote.co/remote-manager-exec-jobs/staff-data-systems-architect-myfitnesspal",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/staff-data-systems-architect-myfitnesspal",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "20 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27332": {
-      "title": "CRM Operations Manager",
-      "company": "MyFitnessPal",
-      "url": "https://justremote.co/remote-manager-exec-jobs/crm-operations-manager-myfitnesspal",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/crm-operations-manager-myfitnesspal",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "20 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27301": {
-      "title": "Member Support Representative (Part-Time)",
-      "company": "Foodsmart",
-      "url": "https://justremote.co/remote-customer-service-jobs/member-support-representative-part-time-foodsmart-f5d93bef-91eb-48f1-af93-129384cde425",
-      "url_normalized": "https://justremote.co/remote-customer-service-jobs/member-support-representative-part-time-foodsmart-f5d93bef-91eb-48f1-af93-129384cde425",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "19 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27300": {
-      "title": "Member Support Representative (Temporary Part-Time)",
-      "company": "Foodsmart",
-      "url": "https://justremote.co/remote-customer-service-jobs/member-support-representative-temporary-part-time-foodsmart",
-      "url_normalized": "https://justremote.co/remote-customer-service-jobs/member-support-representative-temporary-part-time-foodsmart",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "19 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27299": {
-      "title": "Global VP Marketing",
-      "company": "360Learning",
-      "url": "https://justremote.co/remote-marketing-jobs/global-vp-marketing-360learning",
-      "url_normalized": "https://justremote.co/remote-marketing-jobs/global-vp-marketing-360learning",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "19 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27268": {
-      "title": "Wholesale Sales Coordinator",
-      "company": "Bellroy",
-      "url": "https://justremote.co/remote-manager-exec-jobs/wholesale-sales-coordinator-bellroy",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/wholesale-sales-coordinator-bellroy",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "18 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27267": {
-      "title": "Senior Contracts and Legal Operations Manager",
-      "company": "Outreach",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-contracts-and-legal-operations-manager-outreach",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/senior-contracts-and-legal-operations-manager-outreach",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "18 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27266": {
-      "title": "Client Success Director",
-      "company": "Foodsmart",
-      "url": "https://justremote.co/remote-customer-service-jobs/client-success-director-foodsmart",
-      "url_normalized": "https://justremote.co/remote-customer-service-jobs/client-success-director-foodsmart",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "18 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27233": {
-      "title": "Senior Project Manager",
-      "company": "Lemon.io",
-      "url": "https://justremote.co/remote-manager-exec-jobs/senior-project-manager-lemon-io-4ead31da-8402-4754-9427-e7ad14a764be",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/senior-project-manager-lemon-io-4ead31da-8402-4754-9427-e7ad14a764be",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "17 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27202": {
-      "title": "Named Enterprise Account Executive - Ohio",
-      "company": "Saviynt",
-      "url": "https://justremote.co/remote-manager-exec-jobs/named-enterprise-account-executive-ohio-saviynt",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/named-enterprise-account-executive-ohio-saviynt",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "17 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27201": {
-      "title": "Senior Professional Services Consultant",
-      "company": "Outreach",
-      "url": "https://justremote.co/remote-customer-service-jobs/senior-professional-services-consultant-outreach",
-      "url_normalized": "https://justremote.co/remote-customer-service-jobs/senior-professional-services-consultant-outreach",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "17 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_27200": {
-      "title": "Account Executive",
-      "company": "Foodsmart",
-      "url": "https://justremote.co/remote-manager-exec-jobs/account-executive-foodsmart",
-      "url_normalized": "https://justremote.co/remote-manager-exec-jobs/account-executive-foodsmart",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "17 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "justremote_26937": {
-      "title": "Lead Technical Program Manager",
-      "company": "Dave",
-      "url": "https://justremote.co/remote-devops-sysadmin-jobs/lead-technical-program-manager-dave-d61125e0-f497-4a27-a7a0-df31a30f6d8d",
-      "url_normalized": "https://justremote.co/remote-devops-sysadmin-jobs/lead-technical-program-manager-dave-d61125e0-f497-4a27-a7a0-df31a30f6d8d",
-      "site": "justremote",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "10 Sep",
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_008fd1304936b0bbf326c83a16e3f9ab": {
-      "title": "Junior Customer Service Specialist (multilingual, fixed-term contract)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/150026-junior-customer-service-specialist-multilingual-fixed-term-contract",
-      "url_normalized": "https://jobicy.com/jobs/150026-junior-customer-service-specialist-multilingual-fixed-term-contract",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_1830043deda88a9ae4f018bdb782bec1": {
-      "title": "Junior SAP Integration Developer",
-      "company": "ManTech",
-      "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
-      "url_normalized": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-30T03:55:08+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_indirect: ['paid time off', 'health insurance', 'life insurance']"
-    },
-    "jobicy_f78e106995d8c2cae49e6aeee866fa71": {
-      "title": "Junior Linux Kernel Engineer – Ubuntu",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
-      "url_normalized": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-24T04:55:08+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_indirect: ['rsu', 'annual bonus', 'paternity leave']"
-    },
-    "jobicy_b6615ac337b591edf1d59b2fa2789d56": {
-      "title": "Scout Junior Quality Coordinator – Portuguese (Brazil)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
-      "url_normalized": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_07b01eed2d79a7df8fa6bb0e9146ac37": {
-      "title": "Scout Junior Quality Coordinator – Spanish (Mexico)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/151338-scout-junior-quality-coordinator-spanish-mexico",
-      "url_normalized": "https://jobicy.com/jobs/151338-scout-junior-quality-coordinator-spanish-mexico",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_bf13c60dba24c79ad7b7e0c1f47e37ef": {
-      "title": "Business Development Manager (Junior to Mid-Level) – Hong Kong",
-      "company": "",
-      "url": "https://jobicy.com/jobs/152991-business-development-manager-junior-to-mid-level-hong-kong",
-      "url_normalized": "https://jobicy.com/jobs/152991-business-development-manager-junior-to-mid-level-hong-kong",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_a91715d3b580e4d71361192f9aa6f260": {
-      "title": "Junior Project Manager",
-      "company": "",
-      "url": "https://jobicy.com/jobs/150369-junior-project-manager",
-      "url_normalized": "https://jobicy.com/jobs/150369-junior-project-manager",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_adec678d96bdf6add6baa7187fb1894d": {
-      "title": "Costpoint Cognos Report Writer and General Ledger Business Analyst",
-      "company": "",
-      "url": "https://jobicy.com/jobs/149012-costpoint-cognos-report-writer-and-general-ledger-business-analyst",
-      "url_normalized": "https://jobicy.com/jobs/149012-costpoint-cognos-report-writer-and-general-ledger-business-analyst",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_8be9ae6a8bbd1f156c9eaf961a6e03be": {
-      "title": "Audit Planning &amp; Risk Coverage Expert (Director/Analyst, Remote United States)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/144636-audit-planning-risk-coverage-expert-director-analyst-remote-united-states",
-      "url_normalized": "https://jobicy.com/jobs/144636-audit-planning-risk-coverage-expert-director-analyst-remote-united-states",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_b78f3ef2ef68dce9ad5da7b22a157a4b": {
-      "title": "Ubuntu Linux Kernel Engineer – BIOS/Firmware",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149940-ubuntu-linux-kernel-engineer-bios-firmware",
-      "url_normalized": "https://jobicy.com/jobs/149940-ubuntu-linux-kernel-engineer-bios-firmware",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-03T02:40:08+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_indirect: ['annual bonus', 'paternity leave', 'participation']"
-    },
-    "jobicy_5c7a561ca9a660306a584d54637daab0": {
-      "title": "Solutions Architect for Automotive",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
-      "url_normalized": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_4829a4a58f6af46c51455f7e334b8e55": {
-      "title": "Open Source Enterprise Sales Manager – North America",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154513-open-source-enterprise-sales-manager-north-america",
-      "url_normalized": "https://jobicy.com/jobs/154513-open-source-enterprise-sales-manager-north-america",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_b50fa55653bbfeffbc09eb7965937aaf": {
-      "title": "Client Full-Stack Engineer — IM Chat Platform, Android Focus",
-      "company": "Binance",
-      "url": "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus",
-      "url_normalized": "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-03T03:30:25+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_indirect: ['pto', 'company benefits']"
-    },
-    "jobicy_cefdba7899291fa356a5be613531d8ee": {
-      "title": "Lead Android Engineer",
-      "company": "",
-      "url": "https://jobicy.com/jobs/151697-lead-android-engineer",
-      "url_normalized": "https://jobicy.com/jobs/151697-lead-android-engineer",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_10b1bcce6bb892dd4af9e362eb704287": {
-      "title": "Staff Android Engineer",
-      "company": "",
-      "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
-      "url_normalized": "https://jobicy.com/jobs/147066-staff-android-engineer",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_f56be2ab8f22762ef77fec39de3182f6": {
-      "title": "Android Engineer (mid-level)",
-      "company": "Tripadvisor",
-      "url": "https://jobicy.com/jobs/153370-android-engineer-mid-level",
-      "url_normalized": "https://jobicy.com/jobs/153370-android-engineer-mid-level",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-16T12:37:04+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_salary: ['annual salary']"
-    },
-    "jobicy_529c0b5e664dcc7491bfc97903a48707": {
-      "title": "Android Mobile Engineer",
-      "company": "Tripadvisor",
-      "url": "https://jobicy.com/jobs/153372-android-mobile-engineer",
-      "url_normalized": "https://jobicy.com/jobs/153372-android-mobile-engineer",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-16T12:37:01+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_salary: ['annual salary']"
-    },
-    "jobicy_2793d743f36eba9c302ba0e3ca772773": {
-      "title": "Software Engineer II (Mobile Developer – Android/Kotlin) – Mobile App Growth",
-      "company": "",
-      "url": "https://jobicy.com/jobs/152750-software-engineer-ii-mobile-developer-android-kotlin-mobile-app-growth",
-      "url_normalized": "https://jobicy.com/jobs/152750-software-engineer-ii-mobile-developer-android-kotlin-mobile-app-growth",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_6a5b655a1c8a6d05b6c1b71de5d72ce0": {
-      "title": "Principal Product Manager (Omnichannel CX)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/152461-principal-product-manager-omnichannel-cx",
-      "url_normalized": "https://jobicy.com/jobs/152461-principal-product-manager-omnichannel-cx",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_1a28fe28f83948c5af8ae2f0b1b37101": {
-      "title": "Staff Product Engineer – Americas",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154458-staff-product-engineer-americas",
-      "url_normalized": "https://jobicy.com/jobs/154458-staff-product-engineer-americas",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_b2c7153ac13a9c93b342d204c9105060": {
-      "title": "Senior Backend Engineer – Payments",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154454-senior-backend-engineer-payments",
-      "url_normalized": "https://jobicy.com/jobs/154454-senior-backend-engineer-payments",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_13e562327872f9f49dde95e10af1a4cd": {
-      "title": "Solutions Consultant",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154430-solutions-consultant",
-      "url_normalized": "https://jobicy.com/jobs/154430-solutions-consultant",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_2fbd24819078ea718e10cd6e4b32c87d": {
-      "title": "AI Automation Engineer",
-      "company": "Airtm",
-      "url": "https://jobicy.com/jobs/154409-ai-automation-engineer-2",
-      "url_normalized": "https://jobicy.com/jobs/154409-ai-automation-engineer-2",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-02T15:15:27+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_salary: ['annual salary']"
-    },
-    "jobicy_3a9215ce5e7ddfa0c6f126d66272af1d": {
-      "title": "Senior Manager, Large Pro",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154374-senior-manager-large-pro",
-      "url_normalized": "https://jobicy.com/jobs/154374-senior-manager-large-pro",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_3c4d90af72e1a865c5400dc8ccf7f37c": {
-      "title": "Customer Recovery Team – Manager",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154334-customer-recovery-team-manager",
-      "url_normalized": "https://jobicy.com/jobs/154334-customer-recovery-team-manager",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "not_dev_title"
-    },
-    "jobicy_c9853fed57ca9099f3bb9fadc06d1431": {
-      "title": "Sr. Staff Engineer (Backend)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154215-sr-staff-engineer-backend",
-      "url_normalized": "https://jobicy.com/jobs/154215-sr-staff-engineer-backend",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_bad8fb7f5759705d52e0cc6f1219614f": {
-      "title": "Senior Software Engineer, Business Technology",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154198-senior-software-engineer-business-technology",
-      "url_normalized": "https://jobicy.com/jobs/154198-senior-software-engineer-business-technology",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_951a759359528c059d5f00bc8f5375f4": {
-      "title": "Principal Engineer (Payments)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/151924-principal-engineer-payments",
-      "url_normalized": "https://jobicy.com/jobs/151924-principal-engineer-payments",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_abe9337d49dde1b5a16e5255c0e772b3": {
-      "title": "Senior Software Engineer, Product Engineering, EU",
-      "company": "",
-      "url": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
-      "url_normalized": "https://jobicy.com/jobs/142468-senior-software-engineer-product-engineering-eu",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_f8052a99bba57e029f68faa3f5d133e3": {
-      "title": "Web Frontend Engineer – JS, CSS, React, Flutter",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-      "url_normalized": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-23T03:55:10+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_indirect: ['annual bonus', 'paternity leave']"
-    },
-    "jobicy_7f5a4450e66f1369a580b02b50a135c5": {
-      "title": "Engineering Manager – Web",
-      "company": "",
-      "url": "https://jobicy.com/jobs/149976-engineering-manager-web",
-      "url_normalized": "https://jobicy.com/jobs/149976-engineering-manager-web",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_53b084e610a934eb7bc013b5febfcd1e": {
-      "title": "Rust Engineering Lead – Linux and Open Source",
-      "company": "",
-      "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
-      "url_normalized": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_199afe9b5ee6cc639a682a0d7c3cbb64": {
-      "title": "Software Engineering Director",
-      "company": "",
-      "url": "https://jobicy.com/jobs/149571-software-engineering-director",
-      "url_normalized": "https://jobicy.com/jobs/149571-software-engineering-director",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_9cf1bcd158d3000ad77cff967788ddf7": {
-      "title": "Engineering Manager",
-      "company": "",
-      "url": "https://jobicy.com/jobs/149575-engineering-manager",
-      "url_normalized": "https://jobicy.com/jobs/149575-engineering-manager",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_2b99f094bc096550b57504e90b459bf1": {
-      "title": "Senior/Staff/Principal Engineer",
-      "company": "",
-      "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
-      "url_normalized": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_8abafb2e488dccb0c8a127271e460a80": {
-      "title": "Python Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149543-python-engineer",
-      "url_normalized": "https://jobicy.com/jobs/149543-python-engineer",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-23T03:50:28+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_indirect: ['annual bonus', 'paternity leave']"
-    },
-    "jobicy_11add14be6490aaf87652c3f79c36226": {
-      "title": "Ubuntu Engineering Lead",
-      "company": "",
-      "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
-      "url_normalized": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_3947a300f95ab5337afdea869315eded": {
-      "title": "Golang Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
-      "url_normalized": "https://jobicy.com/jobs/149538-golang-engineer-2",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-09-23T03:50:13+00:00",
-      "eliminated": true,
-      "elim_reason": "freelance_indirect: ['annual bonus', 'paternity leave']"
-    },
-    "jobicy_2a69f35ba8205a5ab8c05098feaa9545": {
-      "title": "PHP &amp; React Software Engineer",
-      "company": "Enumerate",
-      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
-      "url_normalized": "https://jobicy.com/jobs/154461-php-react-software-engineer",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": "2026-10-03T14:58:34+00:00",
-      "eliminated": true,
-      "elim_reason": "senior_in_text:'tech lead'"
-    },
-    "jobicy_1913b63a3743c9eb6f89426f7fb9b7db": {
-      "title": "Senior Full-stack Engineer (Python/React) – Advertising",
-      "company": "",
-      "url": "https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2",
-      "url_normalized": "https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_f1472c3ff9df472c4ee52344b871e875": {
-      "title": "Sr. Software Engineer (Backend)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/154210-sr-software-engineer-backend",
-      "url_normalized": "https://jobicy.com/jobs/154210-sr-software-engineer-backend",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_700afd1040782cc940355876eed97c33": {
-      "title": "Senior Software Engineer (Elixir)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/150933-senior-software-engineer-elixir",
-      "url_normalized": "https://jobicy.com/jobs/150933-senior-software-engineer-elixir",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_39a8c44e598ef5851cef01e83a27671c": {
-      "title": "Senior Full-stack Engineer",
-      "company": "",
-      "url": "https://jobicy.com/jobs/153380-senior-full-stack-engineer-2",
-      "url_normalized": "https://jobicy.com/jobs/153380-senior-full-stack-engineer-2",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_d8728afbc92725c5572a9b0e62230cc7": {
-      "title": "Senior Sales Engineer",
-      "company": "",
-      "url": "https://jobicy.com/jobs/153225-senior-sales-engineer-2",
-      "url_normalized": "https://jobicy.com/jobs/153225-senior-sales-engineer-2",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
-    },
-    "jobicy_49e39846f2810f21e5ec142ddc73884c": {
-      "title": "Staff DevOps Engineer (Platform)",
-      "company": "",
-      "url": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
-      "url_normalized": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
-      "site": "jobicy",
-      "first_seen": "2026-10-05T00:25:30.004167+00:00",
-      "publication_date": null,
-      "eliminated": true,
-      "elim_reason": "senior_by_title"
     },
     "himalayas_2dd2908131ba6db7243682eb79b6af96": {
       "title": "Databricks Platform and DevSecOps Engineer",
@@ -29431,22 +27378,958 @@
       "status": "eliminated",
       "eliminated": true,
       "elimination_reason": "not_mobile:kubernetes_virtualization"
+    },
+    "himalayas_36539a37fda0b14e27b42faa8a310fbf": {
+      "title": "LLM Fine-Tuning Engineer",
+      "company": "Blox Space",
+      "url": "https://himalayas.app/companies/blox-space/jobs/llm-fine-tuning-engineer?utm_source=api",
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "location": "Remote",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "notified": true,
+      "notified_at": "2026-11-05T00:10:49.031457+00:00",
+      "score": 88,
+      "date_posted": "2026-11-04T10:26:54+00:00",
+      "tags": [
+        "llm-engineer",
+        "machine-learning-engineer",
+        "ai-engineer",
+        "cybersecurity-engineer",
+        "generative-ai-engineer"
+      ]
+    },
+    "himalayas_679e1ed2b3b822024963b25090c9b157": {
+      "title": "Software Engineer",
+      "company": "xneelo",
+      "url": "https://himalayas.app/companies/xneelo-co/jobs/software-engineer?utm_source=api",
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "location": "Remote",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "notified": true,
+      "notified_at": "2026-11-05T00:10:49.031457+00:00",
+      "score": 83,
+      "date_posted": "2026-11-04T19:30:15+00:00",
+      "tags": [
+        "software-engineer",
+        "backend-development",
+        "fullstack-development",
+        "infrastructure-engineering",
+        "devops",
+        "software-engineer-developer",
+        "software-developer",
+        "it-software-engineer",
+        "software-engineer-jobs",
+        "engineering-software-developer"
+      ]
+    },
+    "himalayas_0026d54a9d5015313f09d00d471fb344": {
+      "title": "Full Stack Engineer ( Remote - Romania )",
+      "company": "Altametrics",
+      "url": "https://himalayas.app/companies/altametrics/jobs/full-stack-engineer-remote-romania?utm_source=api",
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "location": "Remote",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "notified": true,
+      "notified_at": "2026-11-05T00:10:49.031457+00:00",
+      "score": 74,
+      "date_posted": "2026-11-04T10:36:42+00:00",
+      "tags": [
+        "full-stack-engineer",
+        "full-stack-developer",
+        "software-engineer",
+        "backend-engineer",
+        "front-end-developer"
+      ]
+    },
+    "himalayas_e1d451d03f5e4d7450c1b0bd1485396e": {
+      "title": "C#.NET Developer",
+      "company": "People Profilers",
+      "url": "https://himalayas.app/companies/people-profilers/jobs/c-net-developer?utm_source=api",
+      "site_id": "himalayas",
+      "site_name": "Himalayas",
+      "location": "Remote",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "notified": true,
+      "notified_at": "2026-11-05T00:10:49.031457+00:00",
+      "score": 68,
+      "date_posted": "2026-11-04T02:45:37+00:00",
+      "tags": [
+        "c++-developer",
+        ".net-developer",
+        "asp-net-developer",
+        "software-developer",
+        "web-developer"
+      ]
+    },
+    "himalayas_87a0d3ea7af464508395d94f5418e7c7": {
+      "title": "Urgent Openings for Wordpress Developer",
+      "company": "MeeTaaN Business Solutions Pvt Ltd",
+      "url": "https://himalayas.app/companies/meetaan-business-solutions-pvt-ltd/jobs/urgent-openings-for-wordpress-developer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "remote:physical_required:walk-in"
+    },
+    "himalayas_d8b8fdef35ef994c07d6faeda76ea4f4": {
+      "title": "M01 - Senior AI Platform Engineer",
+      "company": "FPT Asia Pacific Pte Ltd",
+      "url": "https://himalayas.app/companies/fpt-asia-pacific-pte-ltd/jobs/m01-senior-ai-platform-engineer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_senior"
+    },
+    "himalayas_fb75dcb56e6ff78bf67f72fcfe9fe79b": {
+      "title": "Ingénieur Intégration Sécurité (H/F)",
+      "company": "Orange Business",
+      "url": "https://himalayas.app/companies/orange-business/jobs/ingenieur-integration-securite-h-f?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:reject_in_text"
+    },
+    "himalayas_6659e16de3b6d04f609c11e92372ffdc": {
+      "title": "Director, Controls, AMERS",
+      "company": "Nscale",
+      "url": "https://himalayas.app/companies/nscale/jobs/director-controls-amers?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:employment_phrase:base salary"
+    },
+    "himalayas_2a8d637cf865d60202d8d675632d8b79": {
+      "title": "Project Manager, Restaurants",
+      "company": "NORR",
+      "url": "https://himalayas.app/companies/norr/jobs/project-manager-restaurants?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:employment_phrase:base salary"
+    },
+    "himalayas_9e9cd018c13713fbb48cb8042e22f86a": {
+      "title": "Sr AI Architect - Conversational AI",
+      "company": "Twilio",
+      "url": "https://himalayas.app/companies/twilio/jobs/sr-ai-architect-conversational-ai?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:indirect_benefits_3"
+    },
+    "himalayas_eb9b22a29eded8aa15d0b5b2825b23d5": {
+      "title": "Principal AI Strategist & Solution Architect",
+      "company": "AI Technology Partners, Inc.",
+      "url": "https://himalayas.app/companies/ai-technology-partners-inc/jobs/principal-ai-strategist-solution-architect?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:employment_phrase:base salary"
+    },
+    "himalayas_88a92eeab638709cf76fe082d9c83b53": {
+      "title": "Senior Technical Support Engineer – XSOAR (m/f/d)",
+      "company": "Infotree Global Solutions",
+      "url": "https://himalayas.app/companies/infotree-global-solutions/jobs/senior-technical-support-engineer-xsoar-m-f-d?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_senior"
+    },
+    "himalayas_8da9e35043922251e8f832cfec04ab3a": {
+      "title": "Lead Backend Engineer - Fully Remote",
+      "company": "Sowelo Consulting sp. z o.o. sp. k.",
+      "url": "https://himalayas.app/companies/sowelo-consulting-sp-z-o-o-sp-k/jobs/lead-backend-engineer-fully-remote?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:employment_phrase:base salary"
+    },
+    "himalayas_bceb3054ccc49fb9c3c745f6efaefde6": {
+      "title": "Auditor Technical Trainer (Outpatient/Specialty Audits)",
+      "company": "Cotiviti",
+      "url": "https://himalayas.app/companies/cotiviti/jobs/auditor-technical-trainer-outpatient-specialty-audits-5971677294?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:indirect_benefits_4"
+    },
+    "himalayas_ccbfd923fb853bf0937d297855c338f6": {
+      "title": "Full Stack Developer Intern",
+      "company": "ASG Company",
+      "url": "https://himalayas.app/companies/asg-company/jobs/full-stack-developer-intern?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "remote:country_restricted:exclusive only to filipino"
+    },
+    "himalayas_dc5d5f29614716eb31c4e1c3ccf3abdc": {
+      "title": "Senior Software Engineer (.Net) - Remote LATAM",
+      "company": "Zarego",
+      "url": "https://himalayas.app/companies/zarego/jobs/senior-software-engineer-net-remote-latam?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:salary_annual_employment"
+    },
+    "himalayas_6a782cd24fc5cd62a944b2d87a4e58af": {
+      "title": "Senior Android Developer",
+      "company": "Elevus",
+      "url": "https://himalayas.app/companies/elevus/jobs/senior-android-developer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_senior"
+    },
+    "himalayas_9302b5b69bd389b2eb515bf5d0ee7727": {
+      "title": "Cloud Engineer",
+      "company": "TheHiveCareers",
+      "url": "https://himalayas.app/companies/thehivecareers/jobs/cloud-engineer-839687480?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:reject_in_text"
+    },
+    "himalayas_178f8ab618c5427f2eafbb6579c3a5be": {
+      "title": "Product Manager - Loyalty Platform",
+      "company": "NearSource Technologies",
+      "url": "https://himalayas.app/companies/nearsource-technologies/jobs/product-manager-loyalty-platform?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:reject_in_text"
+    },
+    "himalayas_3636efb9099da172d354a84546a0b271": {
+      "title": "QA MANUAL SENIOR - REMOTO",
+      "company": "XKTalent Inc. - Rimutee",
+      "url": "https://himalayas.app/companies/rekluti/jobs/qa-manual-senior-remoto?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_senior"
+    },
+    "himalayas_a119fb715000a8ee23f08dab509bb55e": {
+      "title": "OCI Architect",
+      "company": "Centroid Systems",
+      "url": "https://himalayas.app/companies/centroid-systems/jobs/oci-architect?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_architect"
+    },
+    "himalayas_1ba4ac44666a83592a059de3d30a8d33": {
+      "title": "Senior Manager, Software Engineering",
+      "company": "Foodsmart",
+      "url": "https://himalayas.app/companies/foodsmart/jobs/senior-manager-software-engineering?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:indirect_benefits_3"
+    },
+    "himalayas_b2572d4479dfd924586cd339e98574eb": {
+      "title": "Senior Specialist - Package Implementation",
+      "company": "Vivantify Technology Solutions India Pvt. Ltd.",
+      "url": "https://himalayas.app/companies/vivantify-technology-solutions-india-pvt-ltd/jobs/senior-specialist-package-implementation-5882917055?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_senior"
+    },
+    "himalayas_8171f6a0759aab4d9f8ef444bd559811": {
+      "title": "Fullstack Engineer - AgenticOps (100% Remote)",
+      "company": "Tether Operations Limited",
+      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/fullstack-engineer-agenticops-100-remote-3582897351?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:reject_in_text"
+    },
+    "himalayas_6de7b1f8db93b06c62e26331b0f2f582": {
+      "title": "AI Research Engineer (Agentic Reinforcement Learning) - 100% Remote Worldwide",
+      "company": "Tether Operations Limited",
+      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:reject_in_text"
+    },
+    "himalayas_b960a4b1516faef704cb79b25faf5a8c": {
+      "title": "Cloud & Identity Engineer",
+      "company": "LUZA Group",
+      "url": "https://himalayas.app/companies/luza-group/jobs/cloud-identity-engineer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:employment_phrase:beginning of the employment"
+    },
+    "himalayas_3edf6c7ce4c6978cee52515659216549": {
+      "title": "Project Engineer",
+      "company": "Anovia",
+      "url": "https://himalayas.app/companies/anovia/jobs/project-engineer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:indirect_benefits_4"
+    },
+    "himalayas_f472311fc6af888bbd30c2d97762f358": {
+      "title": "Senior Front-End Developer",
+      "company": "Human Power BG",
+      "url": "https://himalayas.app/companies/human-power-bg/jobs/senior-front-end-developer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_senior"
+    },
+    "himalayas_e68791003bc494715948cbccba7cfde2": {
+      "title": "Senior Drilling Engineer",
+      "company": "Mekdam Technical Services",
+      "url": "https://himalayas.app/companies/mekdam-technical-services/jobs/senior-drilling-engineer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "seniority:title_senior"
+    },
+    "himalayas_d9ec65e44ab235ffb583fe90b0c431d2": {
+      "title": "INGENIERO TECNICO COMERCIAL EQUIPOS INDUSTRIALES (Alimentos y Bebidas) (Remoto)",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/ingeniero-tecnico-comercial-equipos-industriales-alimentos-y-bebidas-remoto?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "freelance:direct_employment"
+    },
+    "remoteok_1137624": {
+      "title": "Senior Property Manager ENG",
+      "company": "StaffRight",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "site_id": "remoteok",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_de8ebfff168dff59e716e23c9a279366": {
+      "title": "ASISTENTE CONTABLE | TRABAJO REMOTO | QUICKBOOKS",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/asistente-contable-trabajo-remoto-quickbooks?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_2a25eed62074428df27f668c8bffa654": {
+      "title": "Accounting Specialist - Fully Remote | Up to $42/hr",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/accounting-specialist-fully-remote-up-to-42-hr-896568131?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_9c6a7bdc507977c1fd6585d6448a34ea": {
+      "title": "Ocean Freight Sales Manager (Global Total Logistics Company)",
+      "company": "MatchaTalent",
+      "url": "https://himalayas.app/companies/matchatalent/jobs/ocean-freight-sales-manager-global-total-logistics-company?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_133cc85bb0b00f0ac2cd4bab5706f14b": {
+      "title": "PROGRAMADOR/A CAM | MOLDES INDUSTRIALES Y CNC 5 EJES | REMOTO",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/programador-a-cam-moldes-industriales-y-cnc-5-ejes-remoto?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_259b021fc6e57279e64a9dcd231be784": {
+      "title": "Senior Product Strategy Manager - Payer (MedInsight)",
+      "company": "Milliman",
+      "url": "https://himalayas.app/companies/milliman-com/jobs/senior-product-strategy-manager-payer-medinsight?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_9da8d2d664797adbba3e9000f2c004a3": {
+      "title": "Remote Vacation Planning Specialist",
+      "company": "Hallford Travels",
+      "url": "https://himalayas.app/companies/hallford-travels/jobs/remote-vacation-planning-specialist-9566027996?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_36067eabf9e809f48d5b4adf4acb9a33": {
+      "title": "Senior Graphic Designer",
+      "company": "Nok Human Capital",
+      "url": "https://himalayas.app/companies/nok-human-capital/jobs/senior-graphic-designer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_538e4e316fa45de6bc22a80cc4f7d138": {
+      "title": "Senior Consultant, Marketing Automation",
+      "company": "People Story Ltd",
+      "url": "https://himalayas.app/companies/people-story-ltd/jobs/senior-consultant-marketing-automation?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_49020ce1f6126b1d436f59e9b6e737bc": {
+      "title": "Business Development Manager",
+      "company": "MindPlus (Pvt) Ltd",
+      "url": "https://himalayas.app/companies/mindplus-pvt-ltd/jobs/business-development-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_1de1e5b70d1971d9345069baa4cbf7b3": {
+      "title": "Audit Manager",
+      "company": "HRTx, Inc.",
+      "url": "https://himalayas.app/companies/hrtx-inc/jobs/audit-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_330e4d02c9f8a5341c1ac54de14a304a": {
+      "title": "Digital Marketing Executive",
+      "company": "RMA Group Company Limited",
+      "url": "https://himalayas.app/companies/rma-group-company-limited/jobs/digital-marketing-executive?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_d70267dfae898d62973d96d6d87d1d0f": {
+      "title": "Senior Accountant",
+      "company": "Caliberly",
+      "url": "https://himalayas.app/companies/caliberly/jobs/senior-accountant?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_8be1c293b6e24c3634e031a25fdd6044": {
+      "title": "Kinyarwanda Language Specialist - AI Trainer",
+      "company": "Invisible Technologies",
+      "url": "https://himalayas.app/companies/inv/jobs/kinyarwanda-language-specialist-ai-trainer-6997854565?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_c2467911086d67cde2a34e0322984543": {
+      "title": "Unreal Engine Cinematic Artist (Previz & Camera Work)",
+      "company": "Telos Media",
+      "url": "https://himalayas.app/companies/telos-media/jobs/unreal-engine-cinematic-artist-previz-camera-work?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_eb4c26d644fa0ad79c2895d3c30319f6": {
+      "title": "Remote Travel Service Coordinator",
+      "company": "Hallford Travels",
+      "url": "https://himalayas.app/companies/hallford-travels/jobs/remote-travel-service-coordinator-6623348618?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_fdfad31f5ff38c41dae38f1e312b44bb": {
+      "title": "Veeva Vault System Senior Specialist",
+      "company": "Kindeva Drug Delivery",
+      "url": "https://himalayas.app/companies/kindeva-drug-delivery/jobs/veeva-vault-system-senior-specialist?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_4c518157c0f4209e892df9608906ecfd": {
+      "title": "Senior Matter Mobility Specialist",
+      "company": "Nelson Mullins Riley & Scarborough LLP",
+      "url": "https://himalayas.app/companies/nelson-mullins-riley-scarborough-llp/jobs/senior-matter-mobility-specialist?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_c0f5e40643ef412a759668756d47cb58": {
+      "title": "Combat and Comms Technician",
+      "company": "Softtest pays pty ltd",
+      "url": "https://himalayas.app/companies/softtest-pays-pty-ltd/jobs/combat-and-comms-technician?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_fd7af3bd42ebdf395b487a671b095d71": {
+      "title": "Senior Accountant",
+      "company": "MicroSourcing",
+      "url": "https://himalayas.app/companies/microsourcing/jobs/senior-accountant?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_ecaf311fdff987ae7df41d03bc917b8b": {
+      "title": "Federal Grants Management Specialist",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/federal-grants-management-specialist?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_b7334b0de4ae863a32e742d7ec4b40c6": {
+      "title": "Graphic Designer",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/graphic-designer-1679543789?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_34ab8fd245ab6c740b5e2b3f0a162a7e": {
+      "title": "Digital Construction Coordinator - Remote",
+      "company": "Quanta Services",
+      "url": "https://himalayas.app/companies/quanta-services/jobs/digital-construction-coordinator-remote?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_9d5449a50205ee81212b9a3a6dea9e06": {
+      "title": "Agile Coach / Trainer Level IV",
+      "company": "Logistics Management Institute",
+      "url": "https://himalayas.app/companies/logistics-management-institute/jobs/agile-coach-trainer-level-iv?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_dc559d155b162d167a5f3ba65ad300c2": {
+      "title": "EPIC Certified Systems Analyst Sr (Resolute HB/PB)",
+      "company": "Inova Health",
+      "url": "https://himalayas.app/companies/inova-health/jobs/epic-certified-systems-analyst-sr-resolute-hb-pb?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_5f48890edb726c0f4a97f7f20b43ef41": {
+      "title": "Work from home as Arabic Tutor | Flexible Remote Job | £20–£40/hr",
+      "company": "FindTutors",
+      "url": "https://himalayas.app/companies/findtutors/jobs/work-from-home-as-arabic-tutor-flexible-remote-job-20-40-hr-2843746709?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_99091dafd1c5ef0c39258d45e5a044eb": {
+      "title": "Training Coordinator",
+      "company": "GardaWorld Federal Services",
+      "url": "https://himalayas.app/companies/gardaworld-federal-services/jobs/training-coordinator?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_bd34a453a8af4f29be363707da17d640": {
+      "title": "Supply Chain Coordinator",
+      "company": "hammerjack",
+      "url": "https://himalayas.app/companies/hammerjack/jobs/supply-chain-coordinator?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_c6c637bae2f8e5a259689efc748246bd": {
+      "title": "Sales Development Representative",
+      "company": "MicroSourcing",
+      "url": "https://himalayas.app/companies/microsourcing/jobs/sales-development-representative?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_735961a31d7c92585b35b26a9008056c": {
+      "title": "Adventure Travel Consultant  Remote",
+      "company": "Affinity Travels",
+      "url": "https://himalayas.app/companies/affinity-travels/jobs/adventure-travel-consultant-remote?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_c6841eb1ee056327c9aca37e7a6ddd0d": {
+      "title": "AD, Data Partnerships - Rare Disease",
+      "company": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/ad-data-partnerships-rare-disease?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_b95b42d3fceeb71084463dfae5e4ff57": {
+      "title": "CX Support Agent - Level 1",
+      "company": "Urrly",
+      "url": "https://himalayas.app/companies/urrly/jobs/cx-support-agent-level-1?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_01fa86c1c7d59042004a12f7568f7b9b": {
+      "title": "Sr Manager, Empaveli Publications - US Medical Affairs",
+      "company": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/sr-manager-empaveli-publications-us-medical-affairs?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_1f31fc6cb55c92cf4d586900417f18ec": {
+      "title": "GERENTE ADMINISTRATIVO & FINANZAS (EMPRESA OPERACIONES EN USA Y COL )",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/gerente-administrativo-finanzas-empresa-operaciones-en-usa-y-col?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_93edcdb414a9a1034494105743f3a2b9": {
+      "title": "UX Designer",
+      "company": "Rapinno Tech",
+      "url": "https://himalayas.app/companies/rapinno-tech/jobs/ux-designer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_26e87108e01c844e2a929c0c4cb1ab7f": {
+      "title": "DISEÑADOR/A DIGITAL & ESPECIALISTA EN PUBLICIDAD | MARKETING DIGITAL | REMOTO",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/disenador-a-digital-especialista-en-publicidad-marketing-digital-remoto?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_da72cdf1ef7ed50da7d2fffdf4d9f2f9": {
+      "title": "GERENTE OPERATIVO & ADMINISTRATIVO ( SECTOR TURISTICO) Remoto",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/gerente-operativo-administrativo-sector-turistico-remoto?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_f0c180d9e63872414062de49c99d8566": {
+      "title": "Partner ISV Alliances Manager",
+      "company": "WekaIO",
+      "url": "https://himalayas.app/companies/wekaio/jobs/partner-isv-alliances-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_c7273ddbad2cce36f172dcf466d27f89": {
+      "title": "Streaming News Writer",
+      "company": "ScreenRant",
+      "url": "https://himalayas.app/companies/screenrant/jobs/streaming-news-writer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_f79cfb81fba595cc82eb85fc9e02912d": {
+      "title": "Chief Impact Officer",
+      "company": "TheHiveCareers",
+      "url": "https://himalayas.app/companies/thehivecareers/jobs/chief-impact-officer-8344571051?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_f0d725e7effe9d8daed545e1107cec24": {
+      "title": "Security Operations Manager",
+      "company": "GetixHealth",
+      "url": "https://himalayas.app/companies/getixhealth/jobs/security-operations-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_f913c008d170ec8d88606fc011e59164": {
+      "title": "Associate Director, National & Regional Sales",
+      "company": "Kasa",
+      "url": "https://himalayas.app/companies/kasa/jobs/associate-director-national-regional-sales?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_cf86f850e5ee8d11f4e36a32c60d4ba4": {
+      "title": "Business Development Manager",
+      "company": "Future Group",
+      "url": "https://himalayas.app/companies/future-group/jobs/business-development-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_7c611dbaea558488c34bfacc507cf91c": {
+      "title": "Bilingual Insurance CSR (Mandarin/ Cantonese)",
+      "company": "Savvital",
+      "url": "https://himalayas.app/companies/savvital/jobs/bilingual-insurance-csr-mandarin-cantonese?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_00b6aea498588f8093aa5ecf40107b9d": {
+      "title": "Senior Associate - Program Management",
+      "company": "American Express Company",
+      "url": "https://himalayas.app/companies/american-express-company/jobs/senior-associate-program-management?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_c6f81765173794a32c28397fafa66b82": {
+      "title": "Remote Travel Advisor",
+      "company": "Affinity Travels",
+      "url": "https://himalayas.app/companies/affinity-travels/jobs/remote-travel-advisor-1413259464?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_0910574fc898ab624f4d50db1505cffc": {
+      "title": "SR Business Development Manager - Ground Transportation",
+      "company": "Quota Crushers Agency",
+      "url": "https://himalayas.app/companies/quota-crushers-agency/jobs/sr-business-development-manager-ground-transportation?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_e57edef9e779c15cc816602469edb537": {
+      "title": "Head of Innovation — Insurance & Investments",
+      "company": "TheHiveCareers",
+      "url": "https://himalayas.app/companies/thehivecareers/jobs/head-of-innovation-insurance-investments-6522102959?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_00cc84ed2188a676df980e4a37ac36bc": {
+      "title": "Quality Manager",
+      "company": "Future Group",
+      "url": "https://himalayas.app/companies/future-group/jobs/quality-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_900111655e94e4a4754ad7ec34bf57be": {
+      "title": "Cell Biologist",
+      "company": "Global Channel Management, Inc.",
+      "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/cell-biologist?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_5b10a6e0788b7dba27efc20197bddf5e": {
+      "title": "Travel Recruiter",
+      "company": "Cura Search",
+      "url": "https://himalayas.app/companies/cura-search/jobs/travel-recruiter?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_1f7ceb9d0d4dbf99825eda8b920e5489": {
+      "title": "Customer support representative",
+      "company": "Naples Jet Center",
+      "url": "https://himalayas.app/companies/naples-jet-center/jobs/customer-support-representative?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_aade0feb3421ee72c37c10df467e6168": {
+      "title": "Dream Destination Planner",
+      "company": "Affinity Travels",
+      "url": "https://himalayas.app/companies/affinity-travels/jobs/dream-destination-planner?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_6103270558cdcac30fae4a2dc08823a2": {
+      "title": "Talent Success Specialist",
+      "company": "Outsource Recruiter",
+      "url": "https://himalayas.app/companies/outsource-recruiter/jobs/talent-success-specialist?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_ecb30d67e268abd72d8589b2865dc5d5": {
+      "title": "Independent International Travel Specialist",
+      "company": "Affinity Travels",
+      "url": "https://himalayas.app/companies/affinity-travels/jobs/independent-international-travel-specialist?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_3729e946533ccc3b20bdd09487f52c66": {
+      "title": "Project Manager",
+      "company": "Padmore Global Connections LLC",
+      "url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/project-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_4ee444f2afb78b6f625f732031aeb35a": {
+      "title": "Specjalistka/Specjalista ds. klientów indywidualnych w zespole sprzedaży zdalnej",
+      "company": "PKO Bank Polski",
+      "url": "https://himalayas.app/companies/pko-bank-polski/jobs/specjalistka-specjalista-ds-klientow-indywidualnych-w-zespole-sprzedazy-zdalnej-9134908699?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_c23f4b190babd1e3026b59172fdd16bd": {
+      "title": "Business Development Executive",
+      "company": "BD SELECT",
+      "url": "https://himalayas.app/companies/bd-select/jobs/business-development-executive?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_42f7f639ef70cbde77dea674fb0b7c13": {
+      "title": "Work from Home Travel Advisor",
+      "company": "Affinity Travels",
+      "url": "https://himalayas.app/companies/affinity-travels/jobs/work-from-home-travel-advisor?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_e5d09c98a66fa4d9ca17f631312f33b0": {
+      "title": "ASISTENTE EJECUTIVO EN VENTAS B2B (REMOTO) INGLES B1",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/asistente-ejecutivo-en-ventas-b2b-remoto-ingles-b1?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_cb014952208fd5e9c7155109240c4b28": {
+      "title": "Staff Accountant (Remote - Philippines)",
+      "company": "Altametrics",
+      "url": "https://himalayas.app/companies/altametrics/jobs/staff-accountant-remote-philippines?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_42008e2b70c7b0e42ce2e14aea3711f5": {
+      "title": "Project Manager",
+      "company": "Softtest pays pty ltd",
+      "url": "https://himalayas.app/companies/softtest-pays-pty-ltd/jobs/project-manager?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_9c5c46c8676c7a94192c571d4ef4fdce": {
+      "title": "FINANCIAL ANALYST ( ANALISTA FINANCIERO)",
+      "company": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/financial-analyst-analista-financiero?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_df45c51caf17882244001883b9735056": {
+      "title": "Materials Scientist (Nanoparticle Sizing & Lot Release)",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/materials-scientist-nanoparticle-sizing-lot-release?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_5eed57c3818d36abda6beb10afdc5fee": {
+      "title": "Remote LTC Pharmacy Adjudication Technician",
+      "company": "Symbria",
+      "url": "https://himalayas.app/companies/symbria/jobs/remote-ltc-pharmacy-adjudication-technician?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_2b3f760c1b3ae94ad653c20eeb5b58e1": {
+      "title": "Mapping Admin Assistant",
+      "company": "Outsource Recruiter",
+      "url": "https://himalayas.app/companies/outsource-recruiter/jobs/mapping-admin-assistant?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_abb9eb0868633ea504ee1ee128449293": {
+      "title": "Technician (Marine)",
+      "company": "Focal Search Pte Ltd",
+      "url": "https://himalayas.app/companies/focal-search-pte-ltd/jobs/technician-marine?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_ab6d2fcea530c9f3f09b2ba3d478c417": {
+      "title": "Senior Recruitment Specialist",
+      "company": "Outsource Recruiter",
+      "url": "https://himalayas.app/companies/outsource-recruiter/jobs/senior-recruitment-specialist?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_3ad7c337b9666b78bc4f255e14f5c806": {
+      "title": "Remote Cultural Travel Advisor",
+      "company": "Affinity Travels",
+      "url": "https://himalayas.app/companies/affinity-travels/jobs/remote-cultural-travel-advisor?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
+    },
+    "himalayas_6f51426c38756068e0099b1ad679b90e": {
+      "title": "Docente de Maquillaje Virtual",
+      "company": "Aprende Institute",
+      "url": "https://himalayas.app/companies/aprende-institute/jobs/docente-de-maquillaje-virtual-4912480779?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-05T00:10:49.031457+00:00",
+      "eliminated": true,
+      "elimination_reason": "non_dev"
     }
   },
   "daily_stats": {
-    "2026-08-06": {
-      "total_found": 49,
-      "notified": 4,
-      "eliminated": 44,
-      "below_threshold": 1,
-      "by_site": {
-        "remoteok": 10,
-        "remotive": 2,
-        "himalayas": 3,
-        "arcdev": 22,
-        "glassdoor": 12
-      }
-    },
     "2026-08-08": {
       "total_new": 69,
       "notified": 1,
@@ -30870,22 +29753,54 @@
       "eliminated": 42,
       "below_threshold": 0,
       "ambiguous": 0
+    },
+    "2026-11-05": {
+      "date": "2026-11-05",
+      "total_candidates": 100,
+      "total_notified": 4,
+      "eliminated": 96,
+      "below_threshold": 0,
+      "ambiguous": 2,
+      "high_score": 2,
+      "medium_score": 2,
+      "by_site": {
+        "remoteok": 1,
+        "himalayas": 99
+      },
+      "last_run_at": "2026-11-05T00:10:49.031457+00:00",
+      "top_today": [
+        {
+          "score": 88,
+          "title": "LLM Fine-Tuning Engineer",
+          "site": "Himalayas"
+        },
+        {
+          "score": 83,
+          "title": "Software Engineer",
+          "site": "Himalayas"
+        },
+        {
+          "score": 74,
+          "title": "Full Stack Engineer ( Remote - Romania )",
+          "site": "Himalayas"
+        }
+      ]
     }
   },
   "site_errors": {
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-04T00:09:46.367573+00:00"
+      "last_success": "2026-11-05T00:10:49.031457+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-04T00:09:46.367573+00:00"
+      "last_success": "2026-11-05T00:10:49.031457+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 0,
-      "last_error": null,
+      "consecutive_failures": 1,
+      "last_error": "404 feed endpoint",
       "last_success": "2026-11-04T00:09:46.367573+00:00"
     },
     "infojobs_es": {
@@ -30944,17 +29859,17 @@
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-04T00:09:46.367573+00:00"
+      "last_success": "2026-11-05T00:10:49.031457+00:00"
     },
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-04T00:09:46.367573+00:00"
+      "last_success": "2026-11-05T00:10:49.031457+00:00"
     },
     "justremote": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-04T00:09:46.367573+00:00"
+      "last_success": "2026-11-05T00:10:49.031457+00:00"
     }
   },
   "_warnings_sent_on": "2026-11-01"

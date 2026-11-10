@@ -1469,6 +1469,18 @@
         60
       ],
       "total_candidates": 139
+    },
+    "2026-11-10": {
+      "ambiguous": 0,
+      "below_threshold": 0,
+      "date": "2026-11-10",
+      "eliminated": 162,
+      "last_run_at": "2026-11-10T00:07:50.896185+00:00",
+      "notified": 0,
+      "sites_failed": 10,
+      "sites_ok": 5,
+      "top_scores": [],
+      "total_candidates": 226
     }
   },
   "jobs": {
@@ -1480,6 +1492,16 @@
       "site_id": "arcdev",
       "title": "JavaScript",
       "url": "https://arc.dev/remote-jobs/javascript"
+    },
+    "arcdev_024d9ead5864ae512c42fc555dffb873": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_024d9ead5864ae512c42fc555dffb873",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Unreal Engine",
+      "url": "https://arc.dev/remote-jobs/unreal-engine"
     },
     "arcdev_028dbc2dce08": {
       "company": "",
@@ -1620,6 +1642,16 @@
       "title": "Freelance Social Media Manager / Short-Form Content Creator",
       "url": "https://arc.dev/remote-jobs/freelance-social-media-manager-short-form-content-creator"
     },
+    "arcdev_0ab9495739028fa61144c49765a9dde9": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_0ab9495739028fa61144c49765a9dde9",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Unity",
+      "url": "https://arc.dev/remote-jobs/unity"
+    },
     "arcdev_0b1203c37f1d63a98da13aa980bb76ac": {
       "company": "Unity Technologies",
       "eliminated": true,
@@ -1689,6 +1721,16 @@
       "title": "Senior Offshore Full-Stack/DevSecOps Engineer",
       "url": "https://arc.dev/remote-jobs/details/senior-offshore-full-stack-devsecops-engineer-pswpl69yeb"
     },
+    "arcdev_101b43c7bea21f8e8221b1823d31016a": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_101b43c7bea21f8e8221b1823d31016a",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Laravel",
+      "url": "https://arc.dev/remote-jobs/laravel"
+    },
     "arcdev_104b95d7dae0437ffa7f067e608b59a5": {
       "company": "The Anything Group",
       "eliminated": true,
@@ -1700,6 +1742,26 @@
       "title": "Motion Graphic Designer",
       "url": "https://arc.dev/remote-jobs/details/the-anything-group-motion-graphic-designer"
     },
+    "arcdev_10abf1892cc7a85b611944da7506deb2": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_10abf1892cc7a85b611944da7506deb2",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Deep Learning",
+      "url": "https://arc.dev/remote-jobs/deep-learning"
+    },
+    "arcdev_11b3a5126e5620e7dff36656b6df7dd8": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_11b3a5126e5620e7dff36656b6df7dd8",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Fintech Product Manager",
+      "url": "https://arc.dev/remote-jobs/fintech-product-manager"
+    },
     "arcdev_12d35b6de218a7fd50de1a5464ea2428": {
       "company": "",
       "elim_reason": "title:non_dev_generic",
@@ -1708,6 +1770,16 @@
       "site_id": "arcdev",
       "title": "Agentic frameworks",
       "url": "https://arc.dev/remote-jobs/agentic-frameworks"
+    },
+    "arcdev_1486f96bd2daa86990c6c741bdcf98ec": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_1486f96bd2daa86990c6c741bdcf98ec",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Machine Learning",
+      "url": "https://arc.dev/remote-jobs/machine-learning"
     },
     "arcdev_16764756b6b33c75fdeccb04216f3eab": {
       "company": "Velozient",
@@ -1749,6 +1821,16 @@
       "status": "eliminated",
       "title": "senior odoo developer ww pt",
       "url": "https://arc.dev/remote-jobs/details/senior-odoo-developer-ww-pt-pwgi9tjbpq"
+    },
+    "arcdev_17bbb267b524ddd923cab3e2b46b53af": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_17bbb267b524ddd923cab3e2b46b53af",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Databricks",
+      "url": "https://arc.dev/remote-jobs/databricks"
     },
     "arcdev_17ccbd37de0ea1c879094fd2a7176b65": {
       "company": "",
@@ -1850,6 +1932,16 @@
       "title": "Indexing",
       "url": "https://arc.dev/remote-jobs/indexing"
     },
+    "arcdev_2006b6285a6b32a2201c6a96f322955d": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_2006b6285a6b32a2201c6a96f322955d",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Performance Marketing",
+      "url": "https://arc.dev/remote-jobs/performance-marketing"
+    },
     "arcdev_2018692": {
       "company": "handshake",
       "eliminated": true,
@@ -1943,6 +2035,46 @@
       "title": "Senior SEO Specialist",
       "url": "https://arc.dev/remote-jobs/details/search-for-hire-senior-seo-specialist-pvhyuuii5i"
     },
+    "arcdev_20887bb70f708590e2299c2538f66376": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_20887bb70f708590e2299c2538f66376",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "It Project Manager",
+      "url": "https://arc.dev/remote-jobs/it-project-manager"
+    },
+    "arcdev_2096bdab11382c5e5d8a5e31980c083f": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_2096bdab11382c5e5d8a5e31980c083f",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ux Design",
+      "url": "https://arc.dev/remote-jobs/ux-design"
+    },
+    "arcdev_2181e7d0feaef4c534c7ea622f692ffb": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_2181e7d0feaef4c534c7ea622f692ffb",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Digital Design",
+      "url": "https://arc.dev/remote-jobs/digital-design"
+    },
+    "arcdev_22063c44dfe262d1181a5b9a8a54d043": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_22063c44dfe262d1181a5b9a8a54d043",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Influencer Marketing",
+      "url": "https://arc.dev/remote-jobs/influencer-marketing"
+    },
     "arcdev_2303d34f2f81": {
       "company": "",
       "eliminated": true,
@@ -1966,6 +2098,16 @@
       "status": "eliminated",
       "title": "Lead Engineer: Systems Architect, Backend Developer, DevOps Engineer - Overlap with EST",
       "url": "https://arc.dev/remote-jobs/details/lead-engineer-systems-architect-backend-developer-devops-engineer-overlap-with-est-pryrlmyzml"
+    },
+    "arcdev_25bb149ac6e4829a3e71169e2bb302eb": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_25bb149ac6e4829a3e71169e2bb302eb",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Public Relations And Communications",
+      "url": "https://arc.dev/remote-jobs/public-relations-and-communications"
     },
     "arcdev_2793031756cb7c66bbdae0c676448af9": {
       "company": "",
@@ -2061,6 +2203,26 @@
       "title": "Design Researcher II",
       "url": "https://arc.dev/remote-jobs/milwaukee-tool-design-researcher-ii"
     },
+    "arcdev_302fd8f90d3975b6de59c13d7ad8cf99": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_302fd8f90d3975b6de59c13d7ad8cf99",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Game Design",
+      "url": "https://arc.dev/remote-jobs/game-design"
+    },
+    "arcdev_30afb759dbe52bbaeeaaa60be825a7eb": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_30afb759dbe52bbaeeaaa60be825a7eb",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "E Commerce",
+      "url": "https://arc.dev/remote-jobs/e-commerce"
+    },
     "arcdev_30c9453eb33999851e0a4c0e50705cec": {
       "company": "Unknown",
       "eliminated": true,
@@ -2120,6 +2282,16 @@
       "title": "Senior Data Scientist",
       "url": "https://arc.dev/remote-jobs/epsilon-senior-data-scientist"
     },
+    "arcdev_348ba916bde128b55772865b35bf1dc9": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_348ba916bde128b55772865b35bf1dc9",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior React Native Supabase Engineer Py54Vx7Xgq",
+      "url": "https://arc.dev/remote-jobs/details/senior-react-native-supabase-engineer-py54vx7xgq"
+    },
     "arcdev_34c79a6f6f0a6b2b9b7cd608a955db05": {
       "company": "",
       "eliminated": true,
@@ -2166,6 +2338,16 @@
       "title": "Senior Platform Engineer (Java + GCP)",
       "url": "https://arc.dev/remote-jobs/details/anaqua-senior-platform-engineer-java-gcp-pvhyrmjubl"
     },
+    "arcdev_3688d3000fc2b3fc24ec66df093d60a0": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_3688d3000fc2b3fc24ec66df093d60a0",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Motion Graphics",
+      "url": "https://arc.dev/remote-jobs/motion-graphics"
+    },
     "arcdev_36db6fce08a155143c6ed3654ef50339": {
       "company": "",
       "elim_reason": "title:non_dev_generic",
@@ -2195,6 +2377,16 @@
       "site_id": "arcdev",
       "title": "Next.js",
       "url": "https://arc.dev/remote-jobs/nextjs"
+    },
+    "arcdev_396de8863e190b70622e28b1e245775f": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_396de8863e190b70622e28b1e245775f",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Iam Role Management",
+      "url": "https://arc.dev/remote-jobs/iam-role-management"
     },
     "arcdev_39995f643051ee2a5dad2d8791f80406": {
       "company": "ABB",
@@ -2262,6 +2454,16 @@
       "title": "Sr/Staff Backend Engineer - Perm - Relocation to SF",
       "url": "https://arc.dev/remote-jobs/sr-staff-backend-engineer-perm-relocation-to-sf"
     },
+    "arcdev_3ce97f096e9fd8b051fe547ad59a86ea": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_3ce97f096e9fd8b051fe547ad59a86ea",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Slack",
+      "url": "https://arc.dev/remote-jobs/slack"
+    },
     "arcdev_3e71fe74fd79044da32ace153b1c1381": {
       "company": "Unknown",
       "eliminated": true,
@@ -2273,6 +2475,46 @@
       "site_name": "Arc.dev",
       "title": "Senior Full-Stack TypeScript Engineer — AI/Agent Systems (PT-LATAM)",
       "url": "https://arc.dev/remote-jobs/senior-full-stack-typescript-engineer-ai-agent-systems-pt-latam"
+    },
+    "arcdev_4089964a4925fd675240fe803fda4e08": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_4089964a4925fd675240fe803fda4e08",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Aerospike Sr Executive Assistant For Product Engineering And Marketing Py04Wx2T7K",
+      "url": "https://arc.dev/remote-jobs/j/aerospike-sr-executive-assistant-for-product-engineering-and-marketing-py04wx2t7k"
+    },
+    "arcdev_42232f625f0294ebfb9731301e59f321": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_42232f625f0294ebfb9731301e59f321",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Mobile Hybrid",
+      "url": "https://arc.dev/remote-jobs/mobile-hybrid"
+    },
+    "arcdev_4262a6aec605c27b4a8780bf4a5ce8f7": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_4262a6aec605c27b4a8780bf4a5ce8f7",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Mcp",
+      "url": "https://arc.dev/remote-jobs/mcp"
+    },
+    "arcdev_465a44d9cf5592be5d1ac551ea7aa002": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_465a44d9cf5592be5d1ac551ea7aa002",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "React Native",
+      "url": "https://arc.dev/remote-jobs/react-native"
     },
     "arcdev_4688bba7c1682937655e7f444f8e14b7": {
       "company": null,
@@ -2309,6 +2551,16 @@
       "title": "Director, Integrated Marketing (USA)",
       "url": "https://arc.dev/remote-jobs/details/creyos-director-integrated-marketing-usa-pvbv4pemg3"
     },
+    "arcdev_4815a34cd4d9223815489b6d327cc263": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_4815a34cd4d9223815489b6d327cc263",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Figma",
+      "url": "https://arc.dev/remote-jobs/figma"
+    },
     "arcdev_49350b2a08497fbfb21da92657b52f71": {
       "company": "",
       "elim_reason": "location:location:required(ph)",
@@ -2323,6 +2575,16 @@
       "title": "Voice AI & CRM Automation Developer (Fully Remote, Project-Based)",
       "url": "https://arc.dev/remote-jobs/details/voice-ai-crm-automation-developer-fully-remote-project-based-pv7cly6dt1"
     },
+    "arcdev_495655675484e8134f6449ef77b1b0b1": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_495655675484e8134f6449ef77b1b0b1",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Social Media And Community",
+      "url": "https://arc.dev/remote-jobs/social-media-and-community"
+    },
     "arcdev_49dc1bfaab4ef333e97cbf5865c6a143": {
       "company": "",
       "elim_reason": "pre_filter:seniority_in_title",
@@ -2336,6 +2598,16 @@
       "status": "eliminated_prefilter",
       "title": "Senior AI Engineering Lead / Agentic AI Engineer - Full Time - GMT +3 Overlap Preferred",
       "url": "https://arc.dev/remote-jobs/details/senior-ai-engineering-lead-agentic-ai-engineer-full-time-gmt-3-overlap-preferred-pvgt78w0tt"
+    },
+    "arcdev_4aaaf807f527a1580266c9052819fdc1": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_4aaaf807f527a1580266c9052819fdc1",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Planning Engineer",
+      "url": "https://arc.dev/remote-jobs/planning-engineer"
     },
     "arcdev_4c4f67177895aed6a12cfb68bc333a37": {
       "company": null,
@@ -2385,6 +2657,16 @@
       "title": "Senior Agentic AI Developer",
       "url": "https://arc.dev/remote-jobs/coderio-senior-agentic-ai-developer"
     },
+    "arcdev_505d952bdc4b8de3928574198e45e534": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_505d952bdc4b8de3928574198e45e534",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Progress Database",
+      "url": "https://arc.dev/remote-jobs/progress-database"
+    },
     "arcdev_50e194b9c039": {
       "company": "",
       "eliminated": true,
@@ -2418,6 +2700,16 @@
       "status": "eliminated_prefilter",
       "title": "Senior Manager, Data Analytics - Marketing - Overlap with EST",
       "url": "https://arc.dev/remote-jobs/details/senior-manager-data-analytics-marketing-overlap-with-est-ptp74efwy7"
+    },
+    "arcdev_53991c0ceccec5265f8a747c34709d5e": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_53991c0ceccec5265f8a747c34709d5e",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Logo Design",
+      "url": "https://arc.dev/remote-jobs/logo-design"
     },
     "arcdev_5536e9e6e27f7ae89d3be458d3eaf5af": {
       "company": "Unknown",
@@ -2460,6 +2752,26 @@
       "site_name": "Arc.dev",
       "title": "Senior Python Developer (f/m/x)",
       "url": "https://arc.dev/remote-jobs/sii-poland-senior-python-developer-f-m-x"
+    },
+    "arcdev_57a817410dd42cd0ee76c2bab2b04cdc": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_57a817410dd42cd0ee76c2bab2b04cdc",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Database",
+      "url": "https://arc.dev/remote-jobs/database"
+    },
+    "arcdev_586d1aacfcfc1d814220c52cd0192235": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_586d1aacfcfc1d814220c52cd0192235",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Full Stack",
+      "url": "https://arc.dev/remote-jobs/full-stack"
     },
     "arcdev_58fa48cb3127ccf7f7d769f75d425b77": {
       "company": null,
@@ -2522,6 +2834,16 @@
       "status": "eliminated_prefilter",
       "title": "Senior Human Factors Engineer",
       "url": "https://arc.dev/remote-jobs/details/precision-neuroscience-senior-human-factors-engineer-pvbgarb8ac"
+    },
+    "arcdev_5ba93653545e239cdfaec3b988284d09": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_5ba93653545e239cdfaec3b988284d09",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Reactjs",
+      "url": "https://arc.dev/remote-jobs/reactjs"
     },
     "arcdev_5bfdf29d19d4151bff26caf9e644a326": {
       "company": "National Grid",
@@ -2647,6 +2969,16 @@
       "title": "Junior Puzzle Designer",
       "url": "counterspell-games-studio-junior-puzzle-designer"
     },
+    "arcdev_66cbb5b48399eb2a6836cdbbfb50ef38": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_66cbb5b48399eb2a6836cdbbfb50ef38",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Power Bi",
+      "url": "https://arc.dev/remote-jobs/power-bi"
+    },
     "arcdev_67875a6d180f": {
       "company": "",
       "eliminated": true,
@@ -2657,6 +2989,16 @@
       "status": "eliminated",
       "title": "Growth Marketer (m/w/d) Meta Ads für E-Commerce | Boutique-Agentur, Online Marketing",
       "url": "https://arc.dev/remote-jobs/j/divinely-hq-gmbh-growth-marketer-m-w-d-meta-ads-fur-e-commerce-boutique-agentur-online-marketing-pecuogrhpo"
+    },
+    "arcdev_68033b7aad4f01121408e470416e39ac": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_68033b7aad4f01121408e470416e39ac",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Llm",
+      "url": "https://arc.dev/remote-jobs/llm"
     },
     "arcdev_68631620e660df020b4fc7dd8b693d8b": {
       "company": "N/A",
@@ -2691,6 +3033,16 @@
       "title": "Google Cloud Platform",
       "url": "https://arc.dev/remote-jobs/google-cloud-platform"
     },
+    "arcdev_6cec3647ed276fc4795c9817f22444c9": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_6cec3647ed276fc4795c9817f22444c9",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Dashboards",
+      "url": "https://arc.dev/remote-jobs/dashboards"
+    },
     "arcdev_6dc3f0754e5803ce03ddac246761e51b": {
       "company": null,
       "eliminated": false,
@@ -2711,6 +3063,16 @@
       "status": "below_threshold",
       "title": "Full Stack Engineer (Node.js, React) - WW - FT",
       "url": "https://arc.dev/remote-jobs/details/full-stack-engineer-node-js-react-ww-ft-prfaxu6uey"
+    },
+    "arcdev_6e5bfffb058966744e7c72fd635db6d4": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_6e5bfffb058966744e7c72fd635db6d4",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Drupal",
+      "url": "https://arc.dev/remote-jobs/drupal"
     },
     "arcdev_6e8003728fa6": {
       "company": "",
@@ -2734,6 +3096,16 @@
       "site_name": "Arc.dev",
       "title": "Senior Frontend Engineer (UI/UX) - PT - Worldwide",
       "url": "https://arc.dev/remote-jobs/senior-frontend-engineer-ui-ux-pt-worldwide"
+    },
+    "arcdev_70312d0f44c62052e8040f8023e6d594": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_70312d0f44c62052e8040f8023e6d594",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Marketing",
+      "url": "https://arc.dev/remote-jobs/product-marketing"
     },
     "arcdev_71fc7f5987352b693f8a9c89f95d2ebd": {
       "company": "",
@@ -2817,6 +3189,16 @@
       "title": "Code Review",
       "url": "https://arc.dev/remote-jobs/code-review"
     },
+    "arcdev_746f02e09c825c4037feb6df0f5a26c4": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_746f02e09c825c4037feb6df0f5a26c4",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Code Review",
+      "url": "https://arc.dev/remote-jobs/code-review"
+    },
     "arcdev_74a7aea056cddeb3d743ee3d1babe51b": {
       "company": "Forage AI",
       "eliminated": true,
@@ -2852,6 +3234,56 @@
       "status": "eliminated",
       "title": "AI Engineer｜Fully Remote",
       "url": "https://arc.dev/remote-jobs/details/bloomtech-inc-ai-engineer-fully-remote"
+    },
+    "arcdev_7565601286f111d092cfec5d89df9eee": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_7565601286f111d092cfec5d89df9eee",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Playwright",
+      "url": "https://arc.dev/remote-jobs/playwright"
+    },
+    "arcdev_763b6570c6285366854228ad2422aeab": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_763b6570c6285366854228ad2422aeab",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Design",
+      "url": "https://arc.dev/remote-jobs/product-design"
+    },
+    "arcdev_77fa44e92d2cd6e3a35941392cf14762": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_77fa44e92d2cd6e3a35941392cf14762",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Visualization",
+      "url": "https://arc.dev/remote-jobs/data-visualization"
+    },
+    "arcdev_7930b17ea95666bd643f9d97fd80cf78": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_7930b17ea95666bd643f9d97fd80cf78",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ai Agent",
+      "url": "https://arc.dev/remote-jobs/ai-agent"
+    },
+    "arcdev_7ae29a92deba934b2ddfe704211d57f7": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_7ae29a92deba934b2ddfe704211d57f7",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Agile",
+      "url": "https://arc.dev/remote-jobs/agile"
     },
     "arcdev_7c0b9116c2fb2c044bcc6f4daf8faf20": {
       "company": "Unknown",
@@ -2903,6 +3335,16 @@
       "title": "Marketing Data Analyst (Reporting & Analytics, B2B and B2C) - PT - Overlap EST",
       "url": "https://arc.dev/remote-jobs/details/marketing-data-analyst-reporting-analytics-b2b-and-b2c-pt-overlap-est-pvcthc4khg"
     },
+    "arcdev_7fb10e535d588c9461fa71245a620be2": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_7fb10e535d588c9461fa71245a620be2",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Blockchain",
+      "url": "https://arc.dev/remote-jobs/blockchain"
+    },
     "arcdev_8018bb1faf45570bb6f07d5413f83b06": {
       "company": "Nearmap",
       "elim_reason": "pre_filter:seniority_in_title",
@@ -2917,6 +3359,16 @@
       "title": "Senior Creative Designer - 12 mth FTH",
       "url": "https://arc.dev/remote-jobs/details/nearmap-senior-creative-designer-12-mth-fth-pvxsgaz94x"
     },
+    "arcdev_809aa101cddbcecae850858afbb8b1bb": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_809aa101cddbcecae850858afbb8b1bb",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Software Product Manager",
+      "url": "https://arc.dev/remote-jobs/software-product-manager"
+    },
     "arcdev_80e64e94b5c5ad555b5a95458887b099": {
       "company": "American Arbitration Association",
       "eliminated": true,
@@ -2928,6 +3380,16 @@
       "site_name": "Arc.dev",
       "title": "Data Scientist",
       "url": "https://arc.dev/remote-jobs/american-arbitration-association-data-scientist"
+    },
+    "arcdev_83aa909cc33e08a4aca6a44855eb0d2f": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_83aa909cc33e08a4aca6a44855eb0d2f",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Email Marketing",
+      "url": "https://arc.dev/remote-jobs/email-marketing"
     },
     "arcdev_84028921563b87c15631797c08d8c5a4": {
       "company": "",
@@ -2992,6 +3454,36 @@
       "title": "Growth Marketing Specialist (Google Ads, Lead Gen) WW-PT",
       "url": "https://arc.dev/remote-jobs/details/growth-marketing-specialist-google-ads-lead-gen-ww-pt-ptegv56ogg"
     },
+    "arcdev_86776211e301e691f37db9e6a5589240": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_86776211e301e691f37db9e6a5589240",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Technical Product Manager",
+      "url": "https://arc.dev/remote-jobs/technical-product-manager"
+    },
+    "arcdev_8928c21a15886a2b14f10d1f5dcf8afc": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_8928c21a15886a2b14f10d1f5dcf8afc",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Shopify",
+      "url": "https://arc.dev/remote-jobs/shopify"
+    },
+    "arcdev_8961e7fc0b595373ec674a91b461472c": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_8961e7fc0b595373ec674a91b461472c",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Technip Energies Planning Scheduling Engineer Py04Xjlnj7",
+      "url": "https://arc.dev/remote-jobs/j/technip-energies-planning-scheduling-engineer-py04xjlnj7"
+    },
     "arcdev_89ec04f0352b": {
       "company": "",
       "first_seen": "2026-10-19T00:23:43.650831+00:00",
@@ -3016,6 +3508,16 @@
       "title": "Full-Stack Developer (MCP, Lambda, AWS) - LATAM-FT",
       "url": "https://arc.dev/remote-jobs/details/full-stack-developer-mcp-lambda-aws-latam-ft-puncabht5s"
     },
+    "arcdev_8b76195979b8bbc0241e7560675c4186": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_8b76195979b8bbc0241e7560675c4186",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Vercel",
+      "url": "https://arc.dev/remote-jobs/vercel"
+    },
     "arcdev_8c8639ca3936990db73e6858c0f504d3": {
       "company": "EPAM Systems",
       "eliminated": true,
@@ -3027,6 +3529,16 @@
       "site_name": "Arc.dev",
       "title": "Senior Full Stack Developer (JS)",
       "url": "https://arc.dev/remote-jobs/epam-systems-senior-full-stack-developer-js"
+    },
+    "arcdev_8cc5ea988aa7d4f7d70cf684ebde65de": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_8cc5ea988aa7d4f7d70cf684ebde65de",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Financial Project Manager",
+      "url": "https://arc.dev/remote-jobs/financial-project-manager"
     },
     "arcdev_8cd0ea9a573f8c5977961f1a9b96265a": {
       "company": "Unknown",
@@ -3063,6 +3575,16 @@
       "title": "Functional Programming",
       "url": "https://arc.dev/remote-jobs/functional-programming"
     },
+    "arcdev_90ee7e1c6fdcdfff3bae209e85d07e95": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_90ee7e1c6fdcdfff3bae209e85d07e95",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Growth Marketing",
+      "url": "https://arc.dev/remote-jobs/growth-marketing"
+    },
     "arcdev_916855939b267be9a1856d99ef87c205": {
       "company": "Intelerad",
       "eliminated": true,
@@ -3072,6 +3594,26 @@
       "status": "eliminated",
       "title": "UI/UX Researcher & Designer",
       "url": "intelerad-ui-ux-researcher-designer"
+    },
+    "arcdev_918c4c507093de618e164edb703472e4": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_918c4c507093de618e164edb703472e4",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Cms",
+      "url": "https://arc.dev/remote-jobs/cms"
+    },
+    "arcdev_9235e8167f67f74c99ff84ebe8157480": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_9235e8167f67f74c99ff84ebe8157480",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "R",
+      "url": "https://arc.dev/remote-jobs/r"
     },
     "arcdev_92eaa414b0ff": {
       "company": "",
@@ -3083,6 +3625,26 @@
       "status": "eliminated",
       "title": "Algorithm",
       "url": "https://arc.dev/remote-jobs/algorithm"
+    },
+    "arcdev_937b42a031b4653c44203f02ca915560": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_937b42a031b4653c44203f02ca915560",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Workflow Automation",
+      "url": "https://arc.dev/remote-jobs/workflow-automation"
+    },
+    "arcdev_93830854bfacb78b7b2fe71a5f1505a4": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_93830854bfacb78b7b2fe71a5f1505a4",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Python Fast Api",
+      "url": "https://arc.dev/remote-jobs/python-fast-api"
     },
     "arcdev_93b9215e3c78de111124f5afbe49d206": {
       "company": "INDIO INC",
@@ -3120,6 +3682,16 @@
       "title": "Experienced Software Engineer - AI Coding Tasks",
       "url": "https://arc.dev/remote-jobs/experienced-software-engineer-ai-coding-tasks-przyb5c1"
     },
+    "arcdev_952b3caf7eef8d5058ee105514fa9c7c": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_952b3caf7eef8d5058ee105514fa9c7c",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Seo%2Fsem",
+      "url": "https://arc.dev/remote-jobs/seo%2Fsem"
+    },
     "arcdev_953b2278059ba4fef6086b6ebb74296c": {
       "company": "Quo",
       "eliminated": true,
@@ -3131,6 +3703,36 @@
       "site_name": "Arc.dev",
       "title": "Senior Product Designer, Mobile",
       "url": "https://arc.dev/remote-jobs/quo-senior-product-designer-mobile"
+    },
+    "arcdev_95b563231f81725db7d2f304afb8a167": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_95b563231f81725db7d2f304afb8a167",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Paid Acquisition",
+      "url": "https://arc.dev/remote-jobs/paid-acquisition"
+    },
+    "arcdev_95fd78d6c41c1fda715bbe93deb80992": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_95fd78d6c41c1fda715bbe93deb80992",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Product Manager",
+      "url": "https://arc.dev/remote-jobs/data-product-manager"
+    },
+    "arcdev_9612bb038cf50af7f31bb6674f9143b1": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_9612bb038cf50af7f31bb6674f9143b1",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Web Development",
+      "url": "https://arc.dev/remote-jobs/web-development"
     },
     "arcdev_9703b4ab2f1b1af968e1726a0df9d66f": {
       "company": "",
@@ -3147,6 +3749,16 @@
       "site_name": "Arc.dev",
       "title": "iOS/Android Bluetooth (BLE, iOS, Android) - PT - WW",
       "url": "https://arc.dev/remote-jobs/details/ios-android-bluetooth-ble-ios-android-pt-ww-pnngcchreu"
+    },
+    "arcdev_97c183407daf313a566f44d908a994ff": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_97c183407daf313a566f44d908a994ff",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Hubspot",
+      "url": "https://arc.dev/remote-jobs/hubspot"
     },
     "arcdev_981b207f1e33150006810603a8730502": {
       "company": "",
@@ -3212,6 +3824,16 @@
       "title": "Social Media Manager & Content Creator - PT - Worldwide",
       "url": "https://arc.dev/remote-jobs/details/social-media-manager-content-creator-pt-worldwide-puoibjhemu"
     },
+    "arcdev_9b7563a6ae5ee2be989ce228dec00635": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_9b7563a6ae5ee2be989ce228dec00635",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Instaffo Senior Product Design Engineer M F D Py04Xjiuea",
+      "url": "https://arc.dev/remote-jobs/j/instaffo-senior-product-design-engineer-m-f-d-py04xjiuea"
+    },
     "arcdev_9d16cd95a9324414c3bb23d2e1c1ce48": {
       "company": "Unknown",
       "eliminated": true,
@@ -3223,6 +3845,26 @@
       "site_name": "Arc.dev",
       "title": "Senior SaaS and DevOps Engineer - Part-time - Worldwide",
       "url": "https://arc.dev/remote-jobs/senior-saas-and-devops-engineer-part-time-worldwide"
+    },
+    "arcdev_9ded8705ba1668a621c7b1035d2f66f5": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_9ded8705ba1668a621c7b1035d2f66f5",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Social Media Management",
+      "url": "https://arc.dev/remote-jobs/social-media-management"
+    },
+    "arcdev_9fdb7b922a00cb6673703f6b84da5eed": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_9fdb7b922a00cb6673703f6b84da5eed",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Front End",
+      "url": "https://arc.dev/remote-jobs/front-end"
     },
     "arcdev_a09a9ea806914d0ada9878f7710669c1": {
       "company": "Unknown",
@@ -3248,6 +3890,16 @@
       "title": "Advanced Specialist, Experience Design",
       "url": "https://arc.dev/remote-jobs/pearson-advanced-specialist-experience-design"
     },
+    "arcdev_a157eb624a2981ce2d3e78a1ef588585": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_a157eb624a2981ce2d3e78a1ef588585",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Visual Graphic Design",
+      "url": "https://arc.dev/remote-jobs/visual-graphic-design"
+    },
     "arcdev_a19a58376ee9": {
       "company": "",
       "eliminated": true,
@@ -3271,6 +3923,16 @@
       "status": "eliminated",
       "title": "Senior Mobile Engineer (iOS, Android) - Overlap with EST",
       "url": "https://arc.dev/remote-jobs/details/senior-mobile-engineer-ios-android-overlap-with-est-pryspv2zfo"
+    },
+    "arcdev_a450e846a23389ed2a429f50770b5faa": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_a450e846a23389ed2a429f50770b5faa",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Python Engineer Ai Agents Browser Automation Ft Pt Emea Latam Na Py56Ij5B1T",
+      "url": "https://arc.dev/remote-jobs/details/senior-python-engineer-ai-agents-browser-automation-ft-pt-emea-latam-na-py56ij5b1t"
     },
     "arcdev_a4fd11e8e3a02e753cb3d07f58cdfd63": {
       "company": "Figma",
@@ -3379,6 +4041,16 @@
       "title": "Principal Software Engineer - Python",
       "url": "https://arc.dev/remote-jobs/veeva-systems-principal-software-engineer-python"
     },
+    "arcdev_afcb17d75860575df0482d0ea55c859a": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_afcb17d75860575df0482d0ea55c859a",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ui Design",
+      "url": "https://arc.dev/remote-jobs/ui-design"
+    },
     "arcdev_affirm-staff-software-engineer-frontend-decisions-orechestration": {
       "company": "Affirm",
       "eliminated": true,
@@ -3437,6 +4109,16 @@
       "title": "AI/ML Engineer",
       "url": "https://arc.dev/remote-jobs/altia-ai-ml-engineer"
     },
+    "arcdev_b003f913661d918039283352f4861940": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b003f913661d918039283352f4861940",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ux Writing",
+      "url": "https://arc.dev/remote-jobs/ux-writing"
+    },
     "arcdev_b35ac644fe315a93333d3a0b88b27fb3": {
       "company": "",
       "eliminated": true,
@@ -3448,6 +4130,16 @@
       "title": "Full Stack And Ai Engineer",
       "url": "https://arc.dev/remote-jobs/details/full-stack-and-ai-engineer-px222hy48t"
     },
+    "arcdev_b3c65d24c69e03213119a9db39fccdc1": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b3c65d24c69e03213119a9db39fccdc1",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Senior Backend And Data Engineer Pt Emea Latam Na Py58Cu1Iue",
+      "url": "https://arc.dev/remote-jobs/details/senior-backend-and-data-engineer-pt-emea-latam-na-py58cu1iue"
+    },
     "arcdev_b42fb25afef9f7308c12ea75346a0b62": {
       "company": "Shield AI",
       "eliminated": true,
@@ -3457,6 +4149,16 @@
       "status": "eliminated",
       "title": "Junior/Mid UI Animator (Game Development / Unity)",
       "url": "joppy-junior-mid-ui-animator-game-development-unity"
+    },
+    "arcdev_b4a13f771a1be23d5160e44a28f2252d": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b4a13f771a1be23d5160e44a28f2252d",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Personal Assistant",
+      "url": "https://arc.dev/remote-jobs/personal-assistant"
     },
     "arcdev_b4c5e1e99a7f1f993d905fd8f4195c82": {
       "company": "Catapult Solutions Group",
@@ -3472,6 +4174,16 @@
       "title": "Senior Design Researcher (Product Quality)",
       "url": "https://arc.dev/remote-jobs/details/catapult-solutions-group-senior-design-researcher-product-quality-pvhys1i05e"
     },
+    "arcdev_b617ce84e47d0a26be2de767c2788d6a": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b617ce84e47d0a26be2de767c2788d6a",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "C_Sharp",
+      "url": "https://arc.dev/remote-jobs/c_sharp"
+    },
     "arcdev_b6ee0f9c7686064d313e94a4d9452096": {
       "company": "",
       "elim_reason": "pre_filter:seniority_in_title",
@@ -3485,6 +4197,26 @@
       "status": "eliminated_prefilter",
       "title": "Senior AI Solutions Engineer (GCP, LLMs & Data Engineering) - US - FT",
       "url": "https://arc.dev/remote-jobs/details/senior-ai-solutions-engineer-gcp-llms-data-engineering-us-ft-pverff3dkr"
+    },
+    "arcdev_b70725f9608a2b9f8ef1dc3138c09efe": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b70725f9608a2b9f8ef1dc3138c09efe",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Animation",
+      "url": "https://arc.dev/remote-jobs/animation"
+    },
+    "arcdev_b7379f1abe0655398c58b7a4a7a8bb5f": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b7379f1abe0655398c58b7a4a7a8bb5f",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Construction Project Manager",
+      "url": "https://arc.dev/remote-jobs/construction-project-manager"
     },
     "arcdev_b768c86de3e179ca66286c135bacf4d2": {
       "company": "Evolve Digital GmbH",
@@ -3508,6 +4240,26 @@
       "site_id": "arcdev",
       "title": "Enrollment Marketing Consultant",
       "url": "https://arc.dev/remote-jobs/j/encoura-enrollment-marketing-consultant-prgqeluug9"
+    },
+    "arcdev_b89e4183d9a08e9dd46162fd40e2fa70": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b89e4183d9a08e9dd46162fd40e2fa70",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Oracle",
+      "url": "https://arc.dev/remote-jobs/oracle"
+    },
+    "arcdev_b9502efa9dc95b8453e154baea8f7bb7": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_b9502efa9dc95b8453e154baea8f7bb7",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ai",
+      "url": "https://arc.dev/remote-jobs/ai"
     },
     "arcdev_b9b560107fbeccbdb078c696dd36e439": {
       "company": "N/A",
@@ -3580,6 +4332,46 @@
       "title": "WordPress Site Maintenance Specialist",
       "url": "https://arc.dev/remote-jobs/wordpress-site-maintenance-specialist"
     },
+    "arcdev_bb8fa1f58e08f1ef4cbedd05339dcdf7": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_bb8fa1f58e08f1ef4cbedd05339dcdf7",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Administrative Assistant",
+      "url": "https://arc.dev/remote-jobs/administrative-assistant"
+    },
+    "arcdev_bbb2ab6c901b91e1a621c7659d06ddb4": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_bbb2ab6c901b91e1a621c7659d06ddb4",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Adobe After Effects",
+      "url": "https://arc.dev/remote-jobs/adobe-after-effects"
+    },
+    "arcdev_bcd48795e81e8bf00b9131d8515d4675": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_bcd48795e81e8bf00b9131d8515d4675",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Akkodis Project Engineer Wind Energy Ms Planner Ms Project Py04Wx3C69",
+      "url": "https://arc.dev/remote-jobs/j/akkodis-project-engineer-wind-energy-ms-planner-ms-project-py04wx3c69"
+    },
+    "arcdev_bd578ef351967dd4bcd35b507a72e11a": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_bd578ef351967dd4bcd35b507a72e11a",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Back End",
+      "url": "https://arc.dev/remote-jobs/back-end"
+    },
     "arcdev_bdad7793ee61c14792cba309bc70a2c8": {
       "company": "Arc Exclusive",
       "first_seen": "2026-10-21T00:10:20.364273+00:00",
@@ -3592,6 +4384,16 @@
       "status": "notified",
       "title": "Freelance React Native Developer",
       "url": "https://arc.dev/remote-jobs/details/freelance-react-native-developer-pstzrawmr6"
+    },
+    "arcdev_bf3184ee372ee6da4171a4556229c6a9": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_bf3184ee372ee6da4171a4556229c6a9",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ui Web Design",
+      "url": "https://arc.dev/remote-jobs/ui-web-design"
     },
     "arcdev_bfd1af1fce6422b9b32958bbca8298e2": {
       "company": "Høyre",
@@ -3688,6 +4490,16 @@
       "title": "Graphic Designer – Marketing Agency",
       "url": "https://arc.dev/remote-jobs/details/virtustant-graphic-designer-marketing-agency-pvxsgnuyv7"
     },
+    "arcdev_c535e3dbd31133c3d39168e9c91b10ff": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_c535e3dbd31133c3d39168e9c91b10ff",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Html_Css",
+      "url": "https://arc.dev/remote-jobs/html_css"
+    },
     "arcdev_c56a5161e74dd35b319f0bd7d7b6db66": {
       "company": "",
       "elim_reason": "location:location:title_india-only",
@@ -3711,6 +4523,26 @@
       "title": "Market research",
       "url": "https://arc.dev/remote-jobs/market-research"
     },
+    "arcdev_c60fb9fc47908b2522e81521c37a79c3": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_c60fb9fc47908b2522e81521c37a79c3",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Sql",
+      "url": "https://arc.dev/remote-jobs/sql"
+    },
+    "arcdev_c672eba64bf7b30ba1062cedc2fcc6aa": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_c672eba64bf7b30ba1062cedc2fcc6aa",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Vue",
+      "url": "https://arc.dev/remote-jobs/vue"
+    },
     "arcdev_c6781fc33e586dcfb8d830af07f9e0b3": {
       "company": "Unknown",
       "eliminated": true,
@@ -3722,6 +4554,26 @@
       "site_name": "Arc.dev",
       "title": "Senior Full-Stack Engineer – Next.js, Supabase & Strip (WW)",
       "url": "https://arc.dev/remote-jobs/senior-full-stack-engineer-next-js-supabase-strip-ww"
+    },
+    "arcdev_c6dad7cc9ee545811c73af56d1dc4d4c": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_c6dad7cc9ee545811c73af56d1dc4d4c",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Product Ux Design",
+      "url": "https://arc.dev/remote-jobs/product-ux-design"
+    },
+    "arcdev_c7f820c0b92cba2fcaa6b85ecfc929b7": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_c7f820c0b92cba2fcaa6b85ecfc929b7",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Postgresql",
+      "url": "https://arc.dev/remote-jobs/postgresql"
     },
     "arcdev_c7fe693d4af84c2833b926ca8965f30c": {
       "company": "Arc Exclusive",
@@ -3884,6 +4736,16 @@
       "title": "Client success management",
       "url": "https://arc.dev/remote-jobs/client-success-management"
     },
+    "arcdev_d1bd1cff6727f136544786279b4410a7": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_d1bd1cff6727f136544786279b4410a7",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Engineer",
+      "url": "https://arc.dev/remote-jobs/data-engineer"
+    },
     "arcdev_d1de72be3387": {
       "company": "",
       "eliminated": true,
@@ -3913,6 +4775,16 @@
       "title": "Anthropic",
       "url": "https://arc.dev/remote-jobs/anthropic"
     },
+    "arcdev_d31864709075219f3e5dedb71cd43e10": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_d31864709075219f3e5dedb71cd43e10",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Digital Content Creation",
+      "url": "https://arc.dev/remote-jobs/digital-content-creation"
+    },
     "arcdev_d3d608facae4": {
       "company": "",
       "eliminated": true,
@@ -3936,6 +4808,16 @@
       "status": "eliminated",
       "title": "Security Specialist - Part-time - Overlap with EST",
       "url": "https://arc.dev/remote-jobs/details/security-specialist-part-time-overlap-with-est-prytr6smi2"
+    },
+    "arcdev_d40c78aa139404bd34867f36164001ac": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_d40c78aa139404bd34867f36164001ac",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Automation",
+      "url": "https://arc.dev/remote-jobs/automation"
     },
     "arcdev_d6564a40b7de373f5e6b981166936714": {
       "company": "",
@@ -3964,6 +4846,36 @@
       "status": "eliminated_prefilter",
       "title": "Senior Java Developer - Fulltime - Worldwide",
       "url": "https://arc.dev/remote-jobs/details/senior-java-developer-fulltime-worldwide-pu41koziko"
+    },
+    "arcdev_d67e92c0824377ece8d31bbc91c8f5e5": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_d67e92c0824377ece8d31bbc91c8f5e5",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Program Manager",
+      "url": "https://arc.dev/remote-jobs/program-manager"
+    },
+    "arcdev_d680aa8c7dd2711704cb3e0072dac623": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_d680aa8c7dd2711704cb3e0072dac623",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Dot Net",
+      "url": "https://arc.dev/remote-jobs/dot-net"
+    },
+    "arcdev_d6c0d61fb68ca0ce1b15a465d0c6ff89": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_d6c0d61fb68ca0ce1b15a465d0c6ff89",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Founding Ai Platform Engineer Agents Rag Fulltime Emea Latam Na Py4Titn2Gv",
+      "url": "https://arc.dev/remote-jobs/details/founding-ai-platform-engineer-agents-rag-fulltime-emea-latam-na-py4titn2gv"
     },
     "arcdev_d6fbbc62657fc630d7b7de9818d4fe21": {
       "company": "",
@@ -4063,6 +4975,36 @@
       "title": "Voice AI Solutions Engineer (Fullly Remote, Project-Based)",
       "url": "https://arc.dev/remote-jobs/details/voice-ai-solutions-engineer-fullly-remote-project-based-pvgicik78q"
     },
+    "arcdev_db0aaf8e2214934d4bc611ac04fd453d": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_db0aaf8e2214934d4bc611ac04fd453d",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Engineering Project Manager",
+      "url": "https://arc.dev/remote-jobs/engineering-project-manager"
+    },
+    "arcdev_db85935cf6fd3c5de554728ef57b2926": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_db85935cf6fd3c5de554728ef57b2926",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Game",
+      "url": "https://arc.dev/remote-jobs/game"
+    },
+    "arcdev_dbdbca3f66d6c2867926cbc9a117ee57": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_dbdbca3f66d6c2867926cbc9a117ee57",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Fastapi",
+      "url": "https://arc.dev/remote-jobs/fastapi"
+    },
     "arcdev_dc1b243846c9893e8c6636cec99b6b38": {
       "company": "",
       "eliminated": true,
@@ -4087,6 +5029,16 @@
       "status": "eliminated_prefilter",
       "title": "User Experience Designer Analyst",
       "url": "https://arc.dev/remote-jobs/details/optomi-user-experience-designer-analyst-pvhys1i6gz"
+    },
+    "arcdev_dc5d520a1fd594314a5fc31841440585": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_dc5d520a1fd594314a5fc31841440585",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Mlops",
+      "url": "https://arc.dev/remote-jobs/mlops"
     },
     "arcdev_dcb2e64e4b896161c16fab621b3c37cb": {
       "company": "Unknown",
@@ -4120,6 +5072,16 @@
       "title": "Software Engineer - Playable Ads (Creative Engineering)",
       "url": "https://arc.dev/remote-jobs/rzr-software-engineer-playable-ads-creative-engineering"
     },
+    "arcdev_dddd87f40852f74f14c8e54656dccedf": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_dddd87f40852f74f14c8e54656dccedf",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Perl",
+      "url": "https://arc.dev/remote-jobs/perl"
+    },
     "arcdev_de7d54b822db68b15f21b4d590181930": {
       "company": "",
       "elim_reason": "title:non_dev_generic",
@@ -4128,6 +5090,26 @@
       "site_id": "arcdev",
       "title": "Node.js",
       "url": "https://arc.dev/remote-jobs/nodejs"
+    },
+    "arcdev_de83486c3bfb60d287f5be55ba93ce78": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_de83486c3bfb60d287f5be55ba93ce78",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Branding",
+      "url": "https://arc.dev/remote-jobs/branding"
+    },
+    "arcdev_deb521142afe6602e690c9f6195f5be8": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_deb521142afe6602e690c9f6195f5be8",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Tableau",
+      "url": "https://arc.dev/remote-jobs/tableau"
     },
     "arcdev_devgrid-data-scientist-engineer": {
       "company": "DevGrid",
@@ -4159,6 +5141,36 @@
       "status": "eliminated",
       "title": "Senior Growth Marketing Specialist ( SEO, Performance marketing, Software company) - Danang/HCM",
       "url": "https://arc.dev/remote-jobs/digital-unicorn-agence-developpement-informatique-internationale-senior-growth-marketing-specialist-seo-performance-marketing-software-company-danang-hcm"
+    },
+    "arcdev_e03b1a13c6f6338312136c1e2338dd68": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_e03b1a13c6f6338312136c1e2338dd68",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Hardware Product Manager",
+      "url": "https://arc.dev/remote-jobs/hardware-product-manager"
+    },
+    "arcdev_e1084789c6ffe21e937b2e69c188eaf9": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_e1084789c6ffe21e937b2e69c188eaf9",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Django",
+      "url": "https://arc.dev/remote-jobs/django"
+    },
+    "arcdev_e1718e40474ba57853ccd79dc5f353ed": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_e1718e40474ba57853ccd79dc5f353ed",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Growth Product Manager",
+      "url": "https://arc.dev/remote-jobs/growth-product-manager"
     },
     "arcdev_e211346533d61347e38f019231d72647": {
       "company": "",
@@ -4357,6 +5369,26 @@
       "title": "Clinical AI Data Scientist",
       "url": "https://arc.dev/remote-jobs/details/ascension-clinical-ai-data-scientist-pvxsfo0flp"
     },
+    "arcdev_ec81c582e4c2d4c8455a8f258c4b9b5e": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_ec81c582e4c2d4c8455a8f258c4b9b5e",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Marketing Operations",
+      "url": "https://arc.dev/remote-jobs/marketing-operations"
+    },
+    "arcdev_edff39302cad67081673272b706ba1b1": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_edff39302cad67081673272b706ba1b1",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Content Marketing",
+      "url": "https://arc.dev/remote-jobs/content-marketing"
+    },
     "arcdev_eeae499c94b9": {
       "company": "",
       "eliminated": true,
@@ -4399,6 +5431,26 @@
       "status": "notified",
       "title": "Experienced Software Engineer - AI Coding Tasks",
       "url": "https://arc.dev/remote-jobs/experienced-software-engineer-ai-coding-tasks"
+    },
+    "arcdev_f010583c32d7499013264767f15bc693": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_f010583c32d7499013264767f15bc693",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Video Animation Design",
+      "url": "https://arc.dev/remote-jobs/video-animation-design"
+    },
+    "arcdev_f10532fd859e06ab82cc1be60b58530b": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_f10532fd859e06ab82cc1be60b58530b",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "User Testing",
+      "url": "https://arc.dev/remote-jobs/user-testing"
     },
     "arcdev_f14b99e6cd61cb1e3cb344eea9b6f4a1": {
       "company": "",
@@ -4446,6 +5498,46 @@
       "title": "Sr/Staff Fullstack Engineer (Node, React, RAG) - Perm - Relocation to SF",
       "url": "https://arc.dev/remote-jobs/sr-staff-fullstack-engineer-node-react-rag-perm-relocation-to-sf"
     },
+    "arcdev_f62e27c524b6a753f6f5ea08eab2a1fe": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_f62e27c524b6a753f6f5ea08eab2a1fe",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "User Research",
+      "url": "https://arc.dev/remote-jobs/user-research"
+    },
+    "arcdev_f69ed0cb463fddf24ace7315084b28d9": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_f69ed0cb463fddf24ace7315084b28d9",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Data Science",
+      "url": "https://arc.dev/remote-jobs/data-science"
+    },
+    "arcdev_f7efc23b21a735414013449bfc15b27f": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_f7efc23b21a735414013449bfc15b27f",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Rd Project Manager",
+      "url": "https://arc.dev/remote-jobs/rd-project-manager"
+    },
+    "arcdev_f8c142234e5727a5104e41647271d63d": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_f8c142234e5727a5104e41647271d63d",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Executive Assistant",
+      "url": "https://arc.dev/remote-jobs/executive-assistant"
+    },
     "arcdev_f8fa819933f2b8f57d027b1ca3586fc3": {
       "company": "",
       "elim_reason": "title:non_dev_generic",
@@ -4466,6 +5558,26 @@
       "site_name": "Arc.dev",
       "title": "Principal Software Engineer - Search Infra - Elasticsearch",
       "url": "https://arc.dev/remote-jobs/elastic-principal-software-engineer-search-infra-elasticsearch"
+    },
+    "arcdev_fa77f46a0fa315122731e46f65feed68": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_fa77f46a0fa315122731e46f65feed68",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Operations Manager",
+      "url": "https://arc.dev/remote-jobs/operations-manager"
+    },
+    "arcdev_faf84fc69ae752f9da0fd9fd08210f8b": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_faf84fc69ae752f9da0fd9fd08210f8b",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Ruby On Rails",
+      "url": "https://arc.dev/remote-jobs/ruby-on-rails"
     },
     "arcdev_fb6e7c2cb578364752b7e7811938e8af": {
       "company": "",
@@ -4524,6 +5636,16 @@
       "title": "Full-Stack Developer WW-PT",
       "url": "https://arc.dev/remote-jobs/details/full-stack-developer-ww-pt-pvo41a1usz"
     },
+    "arcdev_fdef0fa017764816e36f8d8dbc3793fb": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_fdef0fa017764816e36f8d8dbc3793fb",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Design Systems",
+      "url": "https://arc.dev/remote-jobs/design-systems"
+    },
     "arcdev_fed44ad2541ba4415ac45cf18da36904": {
       "company": "",
       "eliminated": true,
@@ -4535,6 +5657,16 @@
       "site_name": "Arc.dev",
       "title": "Machine Learning Engineer (LLM Fine-Tuning & Inference) - FT - EMEA/APAC",
       "url": "https://arc.dev/remote-jobs/details/machine-learning-engineer-llm-fine-tuning-inference-ft-emea-apac-pomihw17k7"
+    },
+    "arcdev_ff98fab6120aea083eb1586d2b66fbd3": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "arcdev_ff98fab6120aea083eb1586d2b66fbd3",
+      "site": "arcdev",
+      "site_name": "Arc.dev",
+      "title": "Blockchain Product Manager",
+      "url": "https://arc.dev/remote-jobs/blockchain-product-manager"
     },
     "arcdev_fps-innovation-labs-sde-iii-conversational-ai-developer": {
       "company": "Full Potential Solutions",
@@ -6383,6 +7515,16 @@
       "title": "Full Stack Engineer ( Remote - Romania )",
       "url": "https://himalayas.app/companies/altametrics/jobs/full-stack-engineer-remote-romania?utm_source=api"
     },
+    "himalayas_0030e83f0cbf551c0f11bc85913b3485": {
+      "company": "Everience Benelux",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_0030e83f0cbf551c0f11bc85913b3485",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Chef de Projet Senior – Migration IAM / MyAccess (H/F) - FREELANCE",
+      "url": "https://himalayas.app/companies/everience-benelux/jobs/chef-de-projet-senior-migration-iam-myaccess-h-f-freelance"
+    },
     "himalayas_005f845d364f04129d24755640ac98a8": {
       "company": "Kulture Talent",
       "eliminated": true,
@@ -6433,6 +7575,16 @@
       "site_id": "himalayas",
       "title": "Quality Manager",
       "url": "https://himalayas.app/companies/future-group/jobs/quality-manager?utm_source=api"
+    },
+    "himalayas_00dbdad6d99c5fa54f9ef858a9394090": {
+      "company": "JM Hunter Group, LLC",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_00dbdad6d99c5fa54f9ef858a9394090",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Remote Truss Designer",
+      "url": "https://himalayas.app/companies/jm-hunter-group-llc/jobs/remote-truss-designer"
     },
     "himalayas_0114be28789c51b18a7dc188f058699d": {
       "company": "Docusign",
@@ -7112,6 +8264,16 @@
       "title": "Senior Manager, Software Engineering",
       "url": "https://himalayas.app/companies/foodsmart/jobs/senior-manager-software-engineering?utm_source=api"
     },
+    "himalayas_1c61c558583deadc7dd78eb71e3ff2f4": {
+      "company": "Orange Business",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_1c61c558583deadc7dd78eb71e3ff2f4",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Manager Smart Building H/F",
+      "url": "https://himalayas.app/companies/orange-business/jobs/senior-manager-smart-building-h-f"
+    },
     "himalayas_1c75b4ce9328a4a3ebf3cf4c75775e08": {
       "company": "Securonix",
       "eliminated": true,
@@ -7246,6 +8408,16 @@
       "status": "eliminated",
       "title": "Government Contracts Pricing Specialist",
       "url": "https://himalayas.app/companies/prometheus-federal-services/jobs/government-contracts-pricing-specialist?utm_source=api"
+    },
+    "himalayas_2086ca1d0489c24cc832c9433da5876b": {
+      "company": "micro1",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_2086ca1d0489c24cc832c9433da5876b",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Music & Sound Annotation Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045"
     },
     "himalayas_209f362232a0d5c09fce68789025e934": {
       "company": "Mercer Advisors",
@@ -7541,6 +8713,16 @@
       "title": "Accounting Specialist - Fully Remote | Up to $42/hr",
       "url": "https://himalayas.app/companies/mercor/jobs/accounting-specialist-fully-remote-up-to-42-hr-896568131?utm_source=api"
     },
+    "himalayas_2a37966eeea8a6177aeede4415d24235": {
+      "company": "Worldwide Clinical Trials",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_2a37966eeea8a6177aeede4415d24235",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Clinical Trial Manager - Internal Medicine (U.S.)",
+      "url": "https://himalayas.app/companies/worldwide-clinical-trials/jobs/senior-clinical-trial-manager-internal-medicine-u-s"
+    },
     "himalayas_2a6750a31549f42d7d3a6a5f92700c09": {
       "company": "National Insurance Crime Bureau",
       "eliminated": true,
@@ -7569,6 +8751,16 @@
       "title": "Mapping Admin Assistant",
       "url": "https://himalayas.app/companies/outsource-recruiter/jobs/mapping-admin-assistant?utm_source=api"
     },
+    "himalayas_2d13c47fa60bc042e1440478447cfc4c": {
+      "company": "micro1",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_2d13c47fa60bc042e1440478447cfc4c",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Principal / Lead Systems Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/principal-lead-systems-engineer"
+    },
     "himalayas_2d47c0f0e35adbbc4865b1f0a33e050a": {
       "company": "General Dynamics Information Technology",
       "elim_reason": "pre_filter:non_dev_role",
@@ -7582,6 +8774,16 @@
       "status": "eliminated_prefilter",
       "title": "Information Systems Security Engineer",
       "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/information-systems-security-engineer"
+    },
+    "himalayas_2e1beca2369c45ab26c78af022e3611a": {
+      "company": "YiYiEnglish",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_2e1beca2369c45ab26c78af022e3611a",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Teach English From Home with YiYi",
+      "url": "https://himalayas.app/companies/yiyienglish/jobs/teach-english-from-home-with-yiyi-83916206"
     },
     "himalayas_2e1f93c311e8dd234a0e09e9d620c1cb": {
       "company": "Sagan Recruitment",
@@ -7658,6 +8860,16 @@
       "status": "eliminated",
       "title": "Technical Co-founder",
       "url": "https://himalayas.app/companies/futuresight/jobs/technical-co-founder?utm_source=api"
+    },
+    "himalayas_30abe251a180d9dba3b0eb796eea7961": {
+      "company": "micro1",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_30abe251a180d9dba3b0eb796eea7961",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Chief Engineer / Senior Mechanical Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/chief-engineer-senior-mechanical-engineer"
     },
     "himalayas_30d034be3d551e05": {
       "company": "2Com Consulting",
@@ -7774,6 +8986,16 @@
       "title": "Graphic Designer - REMOTE",
       "url": "https://himalayas.app/companies/elitebrain/jobs/graphic-designer-remote?utm_source=api"
     },
+    "himalayas_3459cac5a36d4d130e852512e9237b2b": {
+      "company": "Remote Talent LATAM",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_3459cac5a36d4d130e852512e9237b2b",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Graphic Designer | Remote | LATAM Only | 82005",
+      "url": "https://himalayas.app/companies/remote-talent-latam/jobs/senior-graphic-designer-remote-latam-only-82005"
+    },
     "himalayas_3496770ce74dc540a1e325f1f1e57f52": {
       "company": "Atomic HR",
       "eliminated": true,
@@ -7871,6 +9093,16 @@
       "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
       "url": "https://himalayas.app/companies/evolve-digital-gmbh/jobs/marketing-manager-google-ads-ai-first-performance-marketing-m-w-d-remote?utm_source=api"
     },
+    "himalayas_36bd1d98d262133ac0e7afda3e69a071": {
+      "company": "Bertelsmann-Jobs",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_36bd1d98d262133ac0e7afda3e69a071",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Infrastructure Engineer, AI & ML, Penguin Random House (Open to Remote)",
+      "url": "https://himalayas.app/companies/bertelsmann-jobs/jobs/senior-infrastructure-engineer-ai-ml-penguin-random-house-open-to-remote"
+    },
     "himalayas_3729e946533ccc3b20bdd09487f52c66": {
       "company": "Padmore Global Connections LLC",
       "eliminated": true,
@@ -7951,6 +9183,16 @@
       "title": "Oracle Application Systems Analyst (Mid-Level)",
       "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/oracle-application-systems-analyst-mid-level"
     },
+    "himalayas_3ab3a4bfaa74ef60cb84e2e385d720e9": {
+      "company": "RealAdvisor S.A.",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_3ab3a4bfaa74ef60cb84e2e385d720e9",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sales Development Representative - Marché Français (Remote Asie)",
+      "url": "https://himalayas.app/companies/realadvisor-s-a/jobs/sales-development-representative-marche-francais-remote-asie"
+    },
     "himalayas_3ad7c337b9666b78bc4f255e14f5c806": {
       "company": "Affinity Travels",
       "eliminated": true,
@@ -8030,6 +9272,16 @@
       "title": "Quality Assurance Officer - Medical Devices (m/f)",
       "url": "https://himalayas.app/companies/critical-catalyst/jobs/quality-assurance-officer-medical-devices-m-f?utm_source=api"
     },
+    "himalayas_3e7faecbd0ff6e79493ca741f859e771": {
+      "company": "ProArch",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_3e7faecbd0ff6e79493ca741f859e771",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "BA/Technical Product Manager",
+      "url": "https://himalayas.app/companies/proarch/jobs/ba-technical-product-manager"
+    },
     "himalayas_3ea2b53e085a4483e7febabab0f08a4d": {
       "company": "Red Amigo DAL S.A.P.I. de C.V. S.O.F.O.M. E.N.R",
       "eliminated": true,
@@ -8048,6 +9300,16 @@
       "site_id": "himalayas",
       "title": "Project Engineer",
       "url": "https://himalayas.app/companies/anovia/jobs/project-engineer?utm_source=api"
+    },
+    "himalayas_3f6a911f0d8f3c202d0799d6c3b39d93": {
+      "company": "Lifted (an Upwork Company)",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_3f6a911f0d8f3c202d0799d6c3b39d93",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Web Designer",
+      "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/senior-web-designer"
     },
     "himalayas_3fa85e152676e8f5d4b4a17f1f167efb": {
       "company": "AetherCore",
@@ -8211,6 +9473,16 @@
       "status": "eliminated",
       "title": "Generalist - Remote",
       "url": "https://himalayas.app/companies/yo-ai-labs/jobs/generalist-remote?utm_source=api"
+    },
+    "himalayas_4543c5c91bddc2f3151ed269f7c2da43": {
+      "company": "OperationsArmy",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_4543c5c91bddc2f3151ed269f7c2da43",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Customer Service Manager | Remote (U.S. based only) | Full-time",
+      "url": "https://himalayas.app/companies/operationsarmy/jobs/customer-service-manager-remote-u-s-based-only-full-time"
     },
     "himalayas_45abefba1772ad7ca0adab9474f27c89": {
       "company": "JPM Unternehmensgruppe",
@@ -8501,6 +9773,26 @@
       "title": "Engagement Manager, AI Implementations",
       "url": "https://himalayas.app/companies/tether-operations-limited/jobs/engagement-manager-ai-implementations-16439154?utm_source=api"
     },
+    "himalayas_517055278b4e5c17ab33e4f529a4e383": {
+      "company": "YiYiEnglish",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_517055278b4e5c17ab33e4f529a4e383",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Teach English From Home !",
+      "url": "https://himalayas.app/companies/yiyienglish/jobs/teach-english-from-home-5991928300"
+    },
+    "himalayas_52291acd168ce763feef05fdb9da8fba": {
+      "company": "We Think App",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_52291acd168ce763feef05fdb9da8fba",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "OKR Coach Consultant",
+      "url": "https://himalayas.app/companies/wethinkapp/jobs/okr-coach-consultant"
+    },
     "himalayas_52ac8c217e13e0716fe3043cc68a2007": {
       "company": "Vizient, Inc",
       "eliminated": true,
@@ -8693,6 +9985,16 @@
       "title": "Senior Solutions Architect, NVIDIA Cloud Partner Operations",
       "url": "https://himalayas.app/companies/nvidia/jobs/senior-solutions-architect-nvidia-cloud-partner-operations"
     },
+    "himalayas_59ea8c6ef63d11bb2dfe1b5fc12bfb43": {
+      "company": "Ingeus",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_59ea8c6ef63d11bb2dfe1b5fc12bfb43",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Clinical Performance Manager- PIP",
+      "url": "https://himalayas.app/companies/ingeus/jobs/senior-clinical-performance-manager-pip"
+    },
     "himalayas_59eecd190c61e131179e1d80ba1a7145": {
       "company": "Aker Systems",
       "eliminated": true,
@@ -8702,6 +10004,16 @@
       "site_name": "Himalayas",
       "title": "Lead Data Engineer",
       "url": "https://himalayas.app/companies/aker-systems/jobs/lead-data-engineer"
+    },
+    "himalayas_5ae879d1f62ee40861817a19d7ed8c05": {
+      "company": "YiYiEnglish",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_5ae879d1f62ee40861817a19d7ed8c05",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Teach English From Home with YiYi !",
+      "url": "https://himalayas.app/companies/yiyienglish/jobs/teach-english-from-home-with-yiyi-759927092"
     },
     "himalayas_5af6e3d235abc824077793ef994dba85": {
       "company": "Altisource",
@@ -9174,6 +10486,16 @@
       "title": "Developer Productivity Engineer (100% Remote)",
       "url": "https://himalayas.app/companies/tether-operations-limited/jobs/developer-productivity-engineer-100-remote-9169716742?utm_source=api"
     },
+    "himalayas_6d20a5ce5f443ebeb8394f7ba33e911b": {
+      "company": "YozmaTech",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_6d20a5ce5f443ebeb8394f7ba33e911b",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Java Developer (hold)",
+      "url": "https://himalayas.app/companies/yozmatech/jobs/senior-java-developer-hold"
+    },
     "himalayas_6de7b1f8db93b06c62e26331b0f2f582": {
       "company": "Tether Operations Limited",
       "eliminated": true,
@@ -9458,6 +10780,26 @@
       "title": "Senior Content & Copy Editor",
       "url": "https://himalayas.app/companies/agencyanalytics/jobs/senior-content-copy-editor"
     },
+    "himalayas_76f8cf8b3be3bab7c9132e345ca008ce": {
+      "company": "Hunt St",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_76f8cf8b3be3bab7c9132e345ca008ce",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Intermediate Accountant (016 -1424)",
+      "url": "https://himalayas.app/companies/hunt-st/jobs/intermediate-accountant-016-1424"
+    },
+    "himalayas_7761fdb60b99ea4119241f1bf4b243b8": {
+      "company": "ITC2",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_7761fdb60b99ea4119241f1bf4b243b8",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior PHP Developer (Wordpress, Drupal)",
+      "url": "https://himalayas.app/companies/itc2/jobs/senior-php-developer-wordpress-drupal"
+    },
     "himalayas_77fba874475c22f2ce147a2437b1d599": {
       "company": "OnPay Insurance Agency, LLC",
       "eliminated": true,
@@ -9612,6 +10954,16 @@
       "title": "Bilingual Insurance CSR (Mandarin/ Cantonese)",
       "url": "https://himalayas.app/companies/savvital/jobs/bilingual-insurance-csr-mandarin-cantonese?utm_source=api"
     },
+    "himalayas_7cd59b2b8b87eb1971bfc29a4f5fc51d": {
+      "company": "YozmaTech",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_7cd59b2b8b87eb1971bfc29a4f5fc51d",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Python Developer",
+      "url": "https://himalayas.app/companies/yozmatech/jobs/senior-python-developer"
+    },
     "himalayas_7d0a3491ac0d6d7f0a3b15958ade3431": {
       "company": "Airspace",
       "eliminated": true,
@@ -9622,6 +10974,16 @@
       "title": "Senior Payroll Analyst",
       "url": "https://himalayas.app/companies/airspace/jobs/senior-payroll-analyst?utm_source=api"
     },
+    "himalayas_7d6a8b0921a17efa2c5c900633d6ca9a": {
+      "company": "HelloKindred",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_7d6a8b0921a17efa2c5c900633d6ca9a",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Mainframe Datacom Engineer",
+      "url": "https://himalayas.app/companies/hellokindred/jobs/mainframe-datacom-engineer"
+    },
     "himalayas_7d7de5bb1cbde84ad74a803689b0a20b": {
       "company": "Inizio Engage (formerly Ashfield Engage)",
       "eliminated": true,
@@ -9631,6 +10993,16 @@
       "status": "eliminated",
       "title": "Bilingual Licensed Team Lead",
       "url": "https://himalayas.app/companies/inizio-engage-formerly-ashfield-engage/jobs/bilingual-licensed-team-lead?utm_source=api"
+    },
+    "himalayas_7de6bacec3b84d4aa8d05aba98d8c8a7": {
+      "company": "Valatam",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_7de6bacec3b84d4aa8d05aba98d8c8a7",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Remote B2B Account Executive - US Market (Outbound Sales) - LATAM",
+      "url": "https://himalayas.app/companies/valatam/jobs/remote-b2b-account-executive-us-market-outbound-sales-latam-3119042539"
     },
     "himalayas_7e6d9dada2b583082e6e8b67b6142320": {
       "company": "AutoScale Ventures",
@@ -9663,6 +11035,16 @@
       "status": "eliminated",
       "title": "Cold Calling & Warm Transfer Specialist VA",
       "url": "https://himalayas.app/companies/strategic-assistant-staffing/jobs/cold-calling-warm-transfer-specialist-va?utm_source=api"
+    },
+    "himalayas_80fc8ca69d225a03f507844f9cb6753c": {
+      "company": "RealAdvisor S.A.",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_80fc8ca69d225a03f507844f9cb6753c",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Sales Partner - Polish Market | RealAdvisor",
+      "url": "https://himalayas.app/companies/realadvisor-s-a/jobs/sales-partner-polish-market-realadvisor"
     },
     "himalayas_81163d02b0c8a0cbcabb51cc496dda6f": {
       "company": "TMEIC",
@@ -9822,6 +11204,16 @@
       "site_id": "himalayas",
       "title": "Salesforce Marketing Cloud (SFMC) Developer",
       "url": "https://himalayas.app/companies/altus-digital/jobs/salesforce-marketing-cloud-sfmc-developer"
+    },
+    "himalayas_83e7ce7865f10c2cca72b6895fc619af": {
+      "company": "OperationsArmy",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_83e7ce7865f10c2cca72b6895fc619af",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Medical Billing Specialist (Philippines | Remote)",
+      "url": "https://himalayas.app/companies/operationsarmy/jobs/medical-billing-specialist-philippines-remote-7963493672"
     },
     "himalayas_83fdeff34098": {
       "company": "Deephaven Mortgage LLC",
@@ -10270,6 +11662,16 @@
       "title": "Senior Payroll Implementation Consultant",
       "url": "https://himalayas.app/companies/wipfli/jobs/senior-payroll-implementation-consultant?utm_source=api"
     },
+    "himalayas_93d416a0dac0c5c13a850f3c43eef84e": {
+      "company": "Justice Democrats",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_93d416a0dac0c5c13a850f3c43eef84e",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "National Campaigns Director",
+      "url": "https://himalayas.app/companies/justice-democrats/jobs/national-campaigns-director"
+    },
     "himalayas_93edcdb414a9a1034494105743f3a2b9": {
       "company": "Rapinno Tech",
       "eliminated": true,
@@ -10289,6 +11691,16 @@
       "status": "eliminated",
       "title": "ML Engineer (MSc. or PhD)",
       "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd"
+    },
+    "himalayas_942501064c07f13510ecbb8287221402": {
+      "company": "JLL",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_942501064c07f13510ecbb8287221402",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Senior Analyst Information Security Operations",
+      "url": "https://himalayas.app/companies/jll/jobs/senior-analyst-information-security-operations"
     },
     "himalayas_960537ff71f70f8b0cdfe929bf4c0da8": {
       "company": "Insomniac Games",
@@ -10325,6 +11737,16 @@
       "status": "eliminated",
       "title": "Ejecutivo(a) de Ventas (Sales Executive)",
       "url": "https://himalayas.app/companies/2com-consulting/jobs/ejecutivo-a-de-ventas-sales-executive?utm_source=api"
+    },
+    "himalayas_986c85a72a94c3881a443dc527a4c00b": {
+      "company": "Menlo",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_986c85a72a94c3881a443dc527a4c00b",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Researcher, World Models",
+      "url": "https://himalayas.app/companies/menlo-ai/jobs/researcher-world-models"
     },
     "himalayas_986d5dec283b48042ecd1728281ef4f0": {
       "company": "EvolutionIQ",
@@ -10614,6 +12036,16 @@
       "title": "DESARROLLADOR GO",
       "url": "https://himalayas.app/companies/knowmad-mood/jobs/desarrollador-go"
     },
+    "himalayas_a3fbe1f37fcc813e7f02cd9a50a001ff": {
+      "company": "Nulogy",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_a3fbe1f37fcc813e7f02cd9a50a001ff",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Business Development Representative",
+      "url": "https://himalayas.app/companies/nulogy/jobs/business-development-representative"
+    },
     "himalayas_a42a6aabed05ee3cec4944c133367188": {
       "company": "CDW",
       "elim_reason": "pre_filter:non_dev_role",
@@ -10784,6 +12216,16 @@
       "status": "eliminated",
       "title": "Enterprise Account Executive",
       "url": "https://himalayas.app/companies/wiser-solutions/jobs/enterprise-account-executive-2372224432?utm_source=api"
+    },
+    "himalayas_a911dae0f19d460efa10dce2d3cc6bff": {
+      "company": "Rackner",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_a911dae0f19d460efa10dce2d3cc6bff",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Clinical Workflow Analyst — Federal Health IT",
+      "url": "https://himalayas.app/companies/rackner/jobs/clinical-workflow-analyst-federal-health-it"
     },
     "himalayas_a95f52ef1936": {
       "company": "DMI",
@@ -11162,6 +12604,16 @@
       "title": "Head of Market Risk",
       "url": "https://himalayas.app/companies/hacksaw-gaming/jobs/head-of-market-risk"
     },
+    "himalayas_b91843f62f15bbdcd872490a67a4a3a0": {
+      "company": "YiYiEnglish",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_b91843f62f15bbdcd872490a67a4a3a0",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Teach English From Home with YiYi !",
+      "url": "https://himalayas.app/companies/yiyienglish/jobs/teach-english-from-home-with-yiyi-289433520"
+    },
     "himalayas_b95b42d3fceeb71084463dfae5e4ff57": {
       "company": "Urrly",
       "eliminated": true,
@@ -11199,6 +12651,16 @@
       "status": "eliminated",
       "title": "Ecosystem Growth Leader",
       "url": "https://himalayas.app/companies/acxiom/jobs/ecosystem-growth-leader?utm_source=api"
+    },
+    "himalayas_ba51e93e7bf9692ea616724ef31d0095": {
+      "company": "CXG",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_ba51e93e7bf9692ea616724ef31d0095",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Translators: English → Italian | English → German | English → Russian",
+      "url": "https://himalayas.app/companies/cxg/jobs/translators-english-italian-english-german-english-russian"
     },
     "himalayas_ba54e84f918ba0dc504ea8ef58d8bcac": {
       "company": "Pharmavise Corporation",
@@ -11266,6 +12728,16 @@
       "title": "Lavoro Da Casa Tutor Online - Part Time",
       "url": "https://himalayas.app/companies/letuelezioni/jobs/lavoro-da-casa-tutor-online-part-time?utm_source=api"
     },
+    "himalayas_bb883a3eff05714ff2e4a035cb94b3ea": {
+      "company": "Select Source Solutions",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_bb883a3eff05714ff2e4a035cb94b3ea",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Lead AWS Platform Architect",
+      "url": "https://himalayas.app/companies/select-source-solutions/jobs/lead-aws-platform-architect"
+    },
     "himalayas_bbcdb7e1cdeeaeffc37125963378a7b5": {
       "company": "Lifelancer",
       "eliminated": true,
@@ -11310,6 +12782,16 @@
       "status": "eliminated",
       "title": "Sr Technical Sourcing Manager",
       "url": "https://himalayas.app/companies/jabil/jobs/sr-technical-sourcing-manager?utm_source=api"
+    },
+    "himalayas_bc20603f2d1e47606596050cb3a02f91": {
+      "company": "Hunt St",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_bc20603f2d1e47606596050cb3a02f91",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Irrigation Designer (020-1286)",
+      "url": "https://himalayas.app/companies/hunt-st/jobs/irrigation-designer-020-1286"
     },
     "himalayas_bca94ec391b872e087250a499de67507": {
       "company": "First Media",
@@ -11376,6 +12858,16 @@
       "title": "Sr. UI/UX Designer",
       "url": "https://himalayas.app/companies/riseup-labs/jobs/sr-ui-ux-designer?utm_source=api"
     },
+    "himalayas_bdb08523ed13cee6d610d55c450b1db8": {
+      "company": "Valatam",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_bdb08523ed13cee6d610d55c450b1db8",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Remote Inside Sales Specialist / Outbound B2B Specialist (US Clients) - LATAM",
+      "url": "https://himalayas.app/companies/valatam/jobs/remote-inside-sales-specialist-outbound-b2b-specialist-us-clients-latam-5497381130"
+    },
     "himalayas_bed190bdd30b0eb7c45a04faf37f391d": {
       "company": "Getlabs",
       "eliminated": true,
@@ -11385,6 +12877,16 @@
       "status": "eliminated",
       "title": "Recruiter",
       "url": "https://himalayas.app/companies/getlabs/jobs/recruiter?utm_source=api"
+    },
+    "himalayas_bed2331eb33d4ecee82eab7bb516ce8d": {
+      "company": "The Lawyering Project",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_bed2331eb33d4ecee82eab7bb516ce8d",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Strategic Planning Consultant",
+      "url": "https://himalayas.app/companies/the-lawyering-project/jobs/strategic-planning-consultant"
     },
     "himalayas_bf623076fa636977eb9c5011a43abb81": {
       "company": "Recom",
@@ -11621,6 +13123,16 @@
       "title": "QA Engineer - Ostro",
       "url": "https://himalayas.app/companies/veeva-systems/jobs/qa-engineer-ostro?utm_source=api"
     },
+    "himalayas_c944be32831860590ecc18d7aa7bbca6": {
+      "company": "OperationsArmy",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_c944be32831860590ecc18d7aa7bbca6",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Accounting AI Analyst | Mexico | Remote",
+      "url": "https://himalayas.app/companies/operationsarmy/jobs/accounting-ai-analyst-mexico-remote"
+    },
     "himalayas_c99fa84736a44b01405c4c459d0d438e": {
       "company": "Launch Potato",
       "eliminated": true,
@@ -11826,6 +13338,16 @@
       "status": "eliminated",
       "title": "Co-Founder & CEO - AI Content Intelligence for Professional Services",
       "url": "https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-content-intelligence-for-professional-services-4116413184?utm_source=api"
+    },
+    "himalayas_d21abdb29f707c013cd536a7adb49a88": {
+      "company": "AJAIA",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_d21abdb29f707c013cd536a7adb49a88",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Junior AI Engineer",
+      "url": "https://himalayas.app/companies/ajaia/jobs/junior-ai-engineer"
     },
     "himalayas_d3aec7544d2a6e7198a48d0e97a95ab4": {
       "company": "Gartner",
@@ -12157,6 +13679,16 @@
       "title": "Materials Scientist (Nanoparticle Sizing & Lot Release)",
       "url": "https://himalayas.app/companies/micro1/jobs/materials-scientist-nanoparticle-sizing-lot-release?utm_source=api"
     },
+    "himalayas_df98ece2e2e834f47f943dd33034e6b6": {
+      "company": "YiYiEnglish",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_df98ece2e2e834f47f943dd33034e6b6",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Teach English From Home With YiYi English !",
+      "url": "https://himalayas.app/companies/yiyienglish/jobs/teach-english-from-home-with-yiyi-english"
+    },
     "himalayas_dfe390981bae1359c326f4d0833131d7": {
       "company": "Bright Vision Technologies",
       "elim_reasons": [
@@ -12404,6 +13936,16 @@
       "title": "Learning Developer - UK/US",
       "url": "https://himalayas.app/companies/ontarget-communications/jobs/learning-developer-uk-us"
     },
+    "himalayas_e7fac1cb227ea04599430aa6df4898c4": {
+      "company": "IT.HR Recruitment Agency",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_e7fac1cb227ea04599430aa6df4898c4",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Microsoft Dynamics 365 Customer Engagement (CE) Consultant",
+      "url": "https://himalayas.app/companies/it-hr-recruitment-agency/jobs/microsoft-dynamics-365-customer-engagement-ce-consultant"
+    },
     "himalayas_e81eac437e0f502571b88d7aeb8f6e71": {
       "company": "IVX Health",
       "eliminated": true,
@@ -12617,6 +14159,16 @@
       "title": "Independent International Travel Specialist",
       "url": "https://himalayas.app/companies/affinity-travels/jobs/independent-international-travel-specialist?utm_source=api"
     },
+    "himalayas_ecf9566f5ef3844dc96c113b88a6967c": {
+      "company": "Monterail",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_ecf9566f5ef3844dc96c113b88a6967c",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "AI-assisted Junior Project Manager",
+      "url": "https://himalayas.app/companies/monterail/jobs/ai-assisted-junior-project-manager"
+    },
     "himalayas_ed2111fd443f01a26bc5fda402e51205": {
       "company": "Reddit",
       "eliminated": true,
@@ -12775,6 +14327,16 @@
       "site_name": "Himalayas",
       "title": "UI/UX Designer [Stage PFE]",
       "url": "https://himalayas.app/companies/tuniboat/jobs/ui-ux-designer-stage-pfe"
+    },
+    "himalayas_f25c344a32b00bd277e6858b94b772d5": {
+      "company": "micro1",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_f25c344a32b00bd277e6858b94b772d5",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Life Sciences Research Expert (Python)",
+      "url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python"
     },
     "himalayas_f282a79750bf1aa587a0fd521d1c7471": {
       "company": "Madiff",
@@ -13045,6 +14607,16 @@
       "title": "Ingénieur Intégration Sécurité (H/F)",
       "url": "https://himalayas.app/companies/orange-business/jobs/ingenieur-integration-securite-h-f?utm_source=api"
     },
+    "himalayas_fb79b27a4acd15ecd289024da0d5cc68": {
+      "company": "Peraton",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_fb79b27a4acd15ecd289024da0d5cc68",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Testing Strategy Manager",
+      "url": "https://himalayas.app/companies/peraton/jobs/testing-strategy-manager"
+    },
     "himalayas_fc489b056f8a": {
       "company": "Brandcoven",
       "eliminated": true,
@@ -13071,6 +14643,16 @@
       "status": "eliminated",
       "title": "Account Manager, Client Development & Renewals (Chicago / Midwest)",
       "url": "https://himalayas.app/companies/sentinelone/jobs/account-manager-client-development-renewals-chicago-midwest"
+    },
+    "himalayas_fcdfcfe85b6f57264681113b1d3d504a": {
+      "company": "PSI CRO",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_fcdfcfe85b6f57264681113b1d3d504a",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Operations Manager, Clinical Research",
+      "url": "https://himalayas.app/companies/psi-cro/jobs/operations-manager-clinical-research"
     },
     "himalayas_fd1e18e23849a88b75d85880cf72121b": {
       "company": "Humana",
@@ -13122,6 +14704,16 @@
       "title": "Business Development Representative - Commercial",
       "url": "https://himalayas.app/companies/minio/jobs/business-development-representative-commercial-3421457246?utm_source=api"
     },
+    "himalayas_fea655ae8ed88b4ed7347e8ab71e2da5": {
+      "company": "AfterShip",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_fea655ae8ed88b4ed7347e8ab71e2da5",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Marketing Designer",
+      "url": "https://himalayas.app/companies/aftership/jobs/marketing-designer"
+    },
     "himalayas_feded54da0738a12e1d8a6d89407e724": {
       "company": "Defense Maritime Solutions",
       "eliminated": true,
@@ -13131,6 +14723,16 @@
       "status": "eliminated",
       "title": "Contracts Administrator",
       "url": "https://himalayas.app/companies/defense-maritime-solutions/jobs/contracts-administrator?utm_source=api"
+    },
+    "himalayas_ff88eded8458770d9c0c21eea5f6061b": {
+      "company": "micro1",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "himalayas_ff88eded8458770d9c0c21eea5f6061b",
+      "site": "himalayas",
+      "site_name": "Himalayas",
+      "title": "Systems Architect / Chief Systems Architect",
+      "url": "https://himalayas.app/companies/micro1/jobs/systems-architect-chief-systems-architect"
     },
     "himalayas_ff9448c765f8e6af6a937c9a2d1d1588": {
       "company": "Alkira, Inc.",
@@ -27076,6 +28678,16 @@
       "title": "Senior Backend Engineer, Experimentation",
       "url": "https://jobicy.com/jobs/158285-senior-backend-engineer-experimentation"
     },
+    "justremote_b0a446c4b3f6d553fa58c5779b993d82": {
+      "company": null,
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "justremote_b0a446c4b3f6d553fa58c5779b993d82",
+      "site": "justremote",
+      "site_name": "JustRemote",
+      "title": "New",
+      "url": "https://justremote.co/remote-jobs/new"
+    },
     "justremote_b9ae041b675876301bb502cf7c912df7": {
       "company": "Foodsmart",
       "eliminated": true,
@@ -28588,6 +30200,16 @@
       "title": "AI Developer",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701"
     },
+    "remoteok_1137704": {
+      "company": "RainFocus",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "remoteok_1137704",
+      "site": "remoteok",
+      "site_name": "RemoteOK",
+      "title": "UI Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704"
+    },
     "remoteok_145fddffa3e6": {
       "company": "Pivotal Health",
       "eliminated": true,
@@ -28630,6 +30252,16 @@
       "status": "eliminated",
       "title": "Remote Office Assistant",
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
+    },
+    "remotive_1749306": {
+      "company": "Coalition Technologies ",
+      "eliminated": true,
+      "first_seen": "2026-11-10T00:07:50.896185+00:00",
+      "id": "remotive_1749306",
+      "site": "remotive",
+      "site_name": "Remotive",
+      "title": "Freelance Copywriter",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306"
     },
     "remotive_1919266": {
       "company": "A.Team",
@@ -28739,85 +30371,85 @@
       "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166"
     }
   },
-  "last_updated": "2026-11-09T00:25:46+00:00",
+  "last_updated": "2026-11-10T00:07:50.896185+00:00",
   "site_errors": {
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-09T00:25:46+00:00"
+      "last_success": "2026-11-10T00:07:50.896185+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 7,
-      "last_error": "Captcha (403)",
+      "consecutive_failures": 8,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-09T00:25:46+00:00"
+      "last_success": "2026-11-10T00:07:50.896185+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 7,
-      "last_error": "Captcha (403)",
+      "consecutive_failures": 8,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 7,
-      "last_error": "Captcha (403)",
+      "consecutive_failures": 8,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 7,
-      "last_error": "Captcha (403)",
+      "consecutive_failures": 8,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 7,
-      "last_error": "Captcha (403)",
+      "consecutive_failures": 8,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 7,
-      "last_error": "Captcha (403)",
+      "consecutive_failures": 8,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 0,
-      "last_error": null,
+      "consecutive_failures": 1,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-09T00:25:46+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 2,
+      "consecutive_failures": 3,
       "last_error": "Akamai HTML wall / RSS blocked",
       "last_success": "2026-11-07T00:23:48.088093+00:00"
     },
     "justremote": {
-      "consecutive_failures": 2,
-      "last_error": "JS-rendered, no job links in HTML",
-      "last_success": "2026-11-07T00:23:48.088093+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-11-10T00:07:50.896185+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 2,
-      "last_error": "No job listings in HTML (category pages only)",
+      "consecutive_failures": 3,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-07T00:23:48.088093+00:00"
     },
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-09T00:25:46+00:00"
+      "last_success": "2026-11-10T00:07:50.896185+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-09T00:25:46+00:00"
+      "last_success": "2026-11-10T00:07:50.896185+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
       "last_success": "2026-04-18T15:49:51.335223Z"
     },
     "welcometothejungle": {
-      "consecutive_failures": 7,
-      "last_error": "JS-rendered skeleton, no job data without client-side JS",
+      "consecutive_failures": 8,
+      "last_error": "Proxy call blocked by auto-mode classifier",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "weworkremotely": {

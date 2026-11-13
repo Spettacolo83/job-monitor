@@ -1,28 +1,6 @@
 {
  "_warnings_sent_on": "2026-11-01",
  "daily_stats": {
-  "2026-08-14": {
-   "ambiguous": 0,
-   "below_threshold": 0,
-   "eliminated": 27,
-   "high_score": 1,
-   "medium_score": 1,
-   "notifications": [
-    {
-     "id": "arcdev_aff2fe54ffad9cb1db3ddf56ee276f94",
-     "score": 86.8,
-     "site": "Arc.dev",
-     "title": "Ios Developer - PT/FT - LATAM/EU"
-    },
-    {
-     "id": "arcdev_ac1cae609746dcfa3235c986f6f5b1ec",
-     "score": 54.2,
-     "site": "Arc.dev",
-     "title": "Frontend Developer \u2013 Website Migration - Astro (WW-FT)"
-    }
-   ],
-   "notified": 2
-  },
   "2026-08-15": {
    "ambiguous": 0,
    "below_threshold": 0,
@@ -1449,6 +1427,40 @@
    ],
    "notified": 1,
    "total_new": 99
+  },
+  "2026-11-13": {
+   "ambiguous": 0,
+   "below_threshold": 0,
+   "eliminated": 72,
+   "high_score": 2,
+   "medium_score": 2,
+   "notifications": [
+    {
+     "id": "himalayas_dca8d704af2b075fa15c4f548b0e4154",
+     "score": 100.0,
+     "site": "Himalayas",
+     "title": "Frontend Engineer (all genders) - Part-time (50%)"
+    },
+    {
+     "id": "himalayas_468f2287ae641fcbe0dfe6355b92fb49",
+     "score": 89.0,
+     "site": "Himalayas",
+     "title": "Desarrollador/a Frontend \u2013 React Native"
+    },
+    {
+     "id": "remoteok_1137427",
+     "score": 70.0,
+     "site": "RemoteOK",
+     "title": "Software Engineer"
+    },
+    {
+     "id": "remoteok_1137714",
+     "score": 68.0,
+     "site": "RemoteOK",
+     "title": "Data Engineer"
+    }
+   ],
+   "notified": 4
   }
  },
  "jobs": {
@@ -3333,6 +3345,16 @@
    "title": "Project Engineer \u2013 Wind Energy | MS Planner / MS Project",
    "url": "https://arc.dev/remote-jobs/akkodis-project-engineer-wind-energy-ms-planner-ms-project"
   },
+  "arcdev_71b189ed31d3d0b636309e945a45a1e7": {
+   "company": "Unknown",
+   "elim_reason": "seniority: Senior",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "arcdev_71b189ed31d3d0b636309e945a45a1e7",
+   "site_id": "arcdev",
+   "title": "Python Developer (Website Completion) - PT - Worldwide",
+   "url": "https://arc.dev/remote-jobs/python-developer-website-completion-pt-worldwide"
+  },
   "arcdev_71fc7f5987352b693f8a9c89f95d2ebd": {
    "company": "",
    "elim_reason": "pre_filter:seniority_in_title",
@@ -3694,16 +3716,6 @@
    "site_name": "Arc.dev",
    "title": "Senior Python/Django Backend Engineer (Health Tech / Lead Technical Owner) WW-FT",
    "url": "https://arc.dev/remote-jobs/senior-python-django-backend-engineer-health-tech-lead-technical-owner-ww-ft"
-  },
-  "arcdev_8459bd5c97d22d2ba8cacf124e2a1075": {
-   "company": "Arc Exclusive",
-   "eliminated": true,
-   "elimination_reason": "seniority_reject:5+ years",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "arcdev_8459bd5c97d22d2ba8cacf124e2a1075",
-   "site_id": "arcdev",
-   "title": "Marketing Data Analyst - Part-time - Overlap EST (2)",
-   "url": "https://arc.dev/remote-jobs/details/marketing-data-analyst-part-time-overlap-est-2-pr2mwe0zr5"
   },
   "arcdev_849f7a5fe849b708cd913405000859da": {
    "company": null,
@@ -4866,6 +4878,16 @@
    "title": "Ui Web Design",
    "url": "https://arc.dev/remote-jobs/ui-web-design"
   },
+  "arcdev_bf9d26492dc6520d730c919547720fcd": {
+   "company": "Zing Coach",
+   "elim_reason": "detail unreachable (arc.dev URL redirects to listing); permanent employment type",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "arcdev_bf9d26492dc6520d730c919547720fcd",
+   "site_id": "arcdev",
+   "title": "Design Engineer",
+   "url": "https://arc.dev/remote-jobs/zing-coach-design-engineer"
+  },
   "arcdev_bfd1af1fce6422b9b32958bbca8298e2": {
    "company": "H\u00f8yre",
    "elim_reason": "pre_filter:seniority_in_title",
@@ -5056,40 +5078,6 @@
    "site_name": "Arc.dev",
    "title": "Postgresql",
    "url": "https://arc.dev/remote-jobs/postgresql"
-  },
-  "arcdev_c7fe693d4af84c2833b926ca8965f30c": {
-   "company": "Arc Exclusive",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "arcdev_c7fe693d4af84c2833b926ca8965f30c",
-   "notified": true,
-   "score": 69.5,
-   "score_breakdown": {
-    "bonus_malus": {
-     "adjustment": 0,
-     "reasons": []
-    },
-    "freshness": {
-     "reason": "date_unknown",
-     "score": 30
-    },
-    "language": {
-     "reason": "english_assumed",
-     "score": 100
-    },
-    "seniority": {
-     "reason": "junior",
-     "score": 100
-    },
-    "tech": {
-     "reason": [
-      "aws"
-     ],
-     "score": 80
-    }
-   },
-   "site_id": "arcdev",
-   "title": "Audit of Ml and Econometric Models on Financial Time Series",
-   "url": "https://arc.dev/remote-jobs/details/audit-of-ml-and-econometric-models-on-financial-time-series-pr3cp26te4"
   },
   "arcdev_c8ee0b193714c41cf0349e50f0958192": {
    "company": "",
@@ -8378,6 +8366,16 @@
    "title": "Senior Technical Support Engineer",
    "url": "https://himalayas.app/companies/stellar-cyber/jobs/senior-technical-support-engineer-6160301864"
   },
+  "himalayas_081fc650a5344eb9496572c4b1f4140b": {
+   "company": "Michael Baker International",
+   "elim_reason": "title-reject: matched \"Telecom Designer\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_081fc650a5344eb9496572c4b1f4140b",
+   "site_id": "himalayas",
+   "title": "Telecom Designer (Buildings Engineering)",
+   "url": "https://himalayas.app/companies/michael-baker-international/jobs/400fe97d53a1"
+  },
   "himalayas_0883f8484b81dcbc4306a57e0a0132b1": {
    "company": "Oscar",
    "eliminated": true,
@@ -8504,6 +8502,16 @@
    "title": "Senior Data Engineer | Remote LATAM Only",
    "url": "https://himalayas.app/companies/agentic-dream/jobs/senior-data-engineer-remote-latam-only?utm_source=api"
   },
+  "himalayas_0dde6f20a5d82fab8802cffc7cb13bbb": {
+   "company": "Navistar, Inc.",
+   "elim_reason": "title-reject: matched \"Field Service\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_0dde6f20a5d82fab8802cffc7cb13bbb",
+   "site_id": "himalayas",
+   "title": "Field Service Consultant Senior",
+   "url": "https://himalayas.app/companies/navistar-inc/jobs/21bf94f26c44"
+  },
   "himalayas_0e5da24c8da26f0430da3c0f6074bbd5": {
    "company": "Spark Climate Solutions",
    "eliminated": true,
@@ -8516,6 +8524,16 @@
    "status": "eliminated",
    "title": "Operations Coordinator",
    "url": "https://himalayas.app/companies/spark-climate-solutions/jobs/operations-coordinator?utm_source=api"
+  },
+  "himalayas_0ea11b22d2c8e36b21f30b9e112b292e": {
+   "company": "JCTM",
+   "elim_reason": "title-reject: matched \"Automation Specialist\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_0ea11b22d2c8e36b21f30b9e112b292e",
+   "site_id": "himalayas",
+   "title": "Reports/Automation Specialist",
+   "url": "https://himalayas.app/companies/jctm/jobs/20f18f813a40"
   },
   "himalayas_0f486b681ea59c065746d4512cb843a7": {
    "company": "Dscout",
@@ -8570,6 +8588,16 @@
    "title": "Backend Developer \u2013 Go",
    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-developer-go-352103458?utm_source=api"
   },
+  "himalayas_10bc2acf0fd613e6cb2cb1551c338f89": {
+   "company": "MAG Aerospace",
+   "elim_reason": "title-reject: matched \"Senior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_10bc2acf0fd613e6cb2cb1551c338f89",
+   "site_id": "himalayas",
+   "title": "Senior Network Engineer",
+   "url": "https://himalayas.app/companies/mag-aerospace/jobs/2a5368f66458"
+  },
   "himalayas_10d74bab8b1acd28b980678996125fb7": {
    "company": "Sinergia Talents Sdn Bhd",
    "eliminated": true,
@@ -8607,6 +8635,16 @@
    "title": "Sr. Director, IT Architecture and Strategy",
    "url": "https://himalayas.app/companies/rentokil/jobs/sr-director-it-architecture-and-strategy?utm_source=api"
   },
+  "himalayas_11366ef8491ed2812ee718e8ccd7f954": {
+   "company": "Scale-X Solutions",
+   "elim_reason": "title-reject: matched \"Admin\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_11366ef8491ed2812ee718e8ccd7f954",
+   "site_id": "himalayas",
+   "title": "Part time Remote Admin and Marketing Outreach Support (Permanent AU Dayshift, Re",
+   "url": "https://himalayas.app/companies/scale-x-solutions/jobs/6dabc6b2b660"
+  },
   "himalayas_1151e814795a66ef1aa505cccf007a46": {
    "company": "Koottu Inc.",
    "eliminated": true,
@@ -8639,16 +8677,6 @@
    "status": "eliminated",
    "title": "Call Center Clinical Nurse",
    "url": "https://himalayas.app/companies/podimetrics/jobs/call-center-clinical-nurse?utm_source=api"
-  },
-  "himalayas_127199b5e2fe10bd8a18b2c2051010b4": {
-   "company": "Toplent",
-   "eliminated": true,
-   "elimination_reason": "location_restricted:philippines",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_127199b5e2fe10bd8a18b2c2051010b4",
-   "site_id": "himalayas",
-   "title": "Back End Developer",
-   "url": "https://himalayas.app/companies/toplent/jobs/back-end-developer"
   },
   "himalayas_1336aa66e903f8492375a1947767a3bb": {
    "company": "Partner One Capital",
@@ -8711,6 +8739,16 @@
    "status": "eliminated",
    "title": "Senior Manager, Program Management",
    "url": "https://himalayas.app/companies/walmart-com/jobs/senior-manager-program-management-3870977121?utm_source=api"
+  },
+  "himalayas_15763e9393d42c4b5c6cecff79d12b0c": {
+   "company": "Montreal | Tecnologia e Inova\u00e7\u00e3o",
+   "elim_reason": "location: India/US only",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_15763e9393d42c4b5c6cecff79d12b0c",
+   "site_id": "himalayas",
+   "title": "Desenvolvedor de Software - Junior",
+   "url": "https://himalayas.app/companies/montreal-tecnologia-e-inovacao/jobs/88d0a028e649"
   },
   "himalayas_1609c3d9f582cee9a50db9aa62ab9758": {
    "company": "Trase Systems",
@@ -9085,6 +9123,16 @@
    "title": "Senior Genesys Cloud Engineer",
    "url": "https://himalayas.app/companies/miratech/jobs/senior-genesys-cloud-engineer-950981757"
   },
+  "himalayas_241a281f312087445b53e29971a057d0": {
+   "company": "Stefanini",
+   "elim_reason": "location: Brazil only, non-dev role (QA Test)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_241a281f312087445b53e29971a057d0",
+   "site_id": "himalayas",
+   "title": "Desenvolvedor Full Stack Pleno | Java e Angular",
+   "url": "https://himalayas.app/companies/stefanini/jobs/2219139b71db"
+  },
   "himalayas_2431efdc3a4fcd50874f2227ebe48727": {
    "company": "Penn Interactive",
    "eliminated": true,
@@ -9143,16 +9191,6 @@
    "title": "Full-stack Developer",
    "url": "https://himalayas.app/companies/adomik/jobs/full-stack-developer?utm_source=api"
   },
-  "himalayas_25776d4e7a3f89a95b0dc0a86024d277": {
-   "company": "Fask",
-   "eliminated": true,
-   "elimination_reason": "location_restricted:india",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_25776d4e7a3f89a95b0dc0a86024d277",
-   "site_id": "himalayas",
-   "title": "Software Engineer Intern",
-   "url": "https://himalayas.app/companies/fask/jobs/software-engineer-intern"
-  },
   "himalayas_259b021fc6e57279e64a9dcd231be784": {
    "company": "Milliman",
    "eliminated": true,
@@ -9193,16 +9231,6 @@
    "status": "notified",
    "title": "Security Engineer, Incident Response",
    "url": "https://himalayas.app/companies/twilio/jobs/security-engineer-incident-response?utm_source=api"
-  },
-  "himalayas_26b341834acdb1f88956128799679264": {
-   "company": "Hivex",
-   "eliminated": true,
-   "elimination_reason": "location_restricted:united states",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_26b341834acdb1f88956128799679264",
-   "site_id": "himalayas",
-   "title": "Data Engineer",
-   "url": "https://himalayas.app/companies/hivex/jobs/data-engineer-2315119875"
   },
   "himalayas_26e87108e01c844e2a929c0c4cb1ab7f": {
    "company": "ACIERTA HEADHUNTER",
@@ -9339,6 +9367,16 @@
    "title": "Project Manager, Restaurants",
    "url": "https://himalayas.app/companies/norr/jobs/project-manager-restaurants?utm_source=api"
   },
+  "himalayas_2ab3dbc98c40d2a0dad82a9e2b296afd": {
+   "company": "Bluprintx",
+   "elim_reason": "title-reject: matched \"Salesforce Solutions\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_2ab3dbc98c40d2a0dad82a9e2b296afd",
+   "site_id": "himalayas",
+   "title": "Salesforce Solutions Consultant",
+   "url": "https://himalayas.app/companies/bluprintx/jobs/7b99bcbecb4b"
+  },
   "himalayas_2b3f760c1b3ae94ad653c20eeb5b58e1": {
    "company": "Outsource Recruiter",
    "eliminated": true,
@@ -9347,6 +9385,26 @@
    "site_id": "himalayas",
    "title": "Mapping Admin Assistant",
    "url": "https://himalayas.app/companies/outsource-recruiter/jobs/mapping-admin-assistant?utm_source=api"
+  },
+  "himalayas_2d01587b0c997b1c51550036c07b9274": {
+   "company": "Together Light Inc",
+   "elim_reason": "non-dev role (Freight Dispatcher)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_2d01587b0c997b1c51550036c07b9274",
+   "site_id": "himalayas",
+   "title": "TLI Mobile Engineer (AI-First / React Native)",
+   "url": "https://himalayas.app/companies/together-light-inc/jobs/e18d5dfffed0"
+  },
+  "himalayas_2d01f93ad9326c2aa0d0bb410d2265a8": {
+   "company": "Stefanini",
+   "elim_reason": "title-reject: matched \"DBA\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_2d01f93ad9326c2aa0d0bb410d2265a8",
+   "site_id": "himalayas",
+   "title": "Analista DBA DB2",
+   "url": "https://himalayas.app/companies/stefanini/jobs/d78ffb84557a"
   },
   "himalayas_2d13c47fa60bc042e1440478447cfc4c": {
    "company": "micro1",
@@ -9563,6 +9621,16 @@
    "title": "Work From Home  Italian-Speaking Support & Sales Expert",
    "url": "https://himalayas.app/companies/aethercore/jobs/work-from-home-italian-speaking-support-sales-expert?utm_source=api"
   },
+  "himalayas_33d893a502cb15fdfbe61921203f5bcd": {
+   "company": "micro1",
+   "elim_reason": "title-reject: matched \"Staff\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_33d893a502cb15fdfbe61921203f5bcd",
+   "site_id": "himalayas",
+   "title": "Software Engineer (Staff), Platform Engineering",
+   "url": "https://himalayas.app/companies/micro1/jobs/4e776051815b"
+  },
   "himalayas_341779c472aba5043dd0e5fa30261b40": {
    "company": "Talent Map Global BPO",
    "eliminated": true,
@@ -9621,6 +9689,16 @@
    "status": "eliminated",
    "title": "Clinical Validation Audit (CVA) Trainer",
    "url": "https://himalayas.app/companies/exl/jobs/clinical-validation-audit-cva-trainer-5545112001?utm_source=api"
+  },
+  "himalayas_34d088a61e0d4037fe8296d303d72724": {
+   "company": "Truck Driver Nation",
+   "elim_reason": "location: Brazil only, non-dev role (Testing)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_34d088a61e0d4037fe8296d303d72724",
+   "site_id": "himalayas",
+   "title": "Entry-Level Freight Dispatcher \u2014 Freight Evaluation",
+   "url": "https://himalayas.app/companies/truck-driver-nation/jobs/d6e64c0b95c3"
   },
   "himalayas_3565ebb43c9099f85a3f006ca38287bb": {
    "company": "Trimble",
@@ -9844,6 +9922,16 @@
    "title": "[Job-32372] Mid level Angular Developer, vaga para pessoas PCD, Brazil",
    "url": "https://himalayas.app/companies/ci-t/jobs/job-32372-mid-level-angular-developer-vaga-para-pessoas-pcd-brazil"
   },
+  "himalayas_3c96b6565e94a41dc4403acd833894ea": {
+   "company": "Costain Group",
+   "elim_reason": "location: Brazil only",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_3c96b6565e94a41dc4403acd833894ea",
+   "site_id": "himalayas",
+   "title": "Temporary Works Designated Individual",
+   "url": "https://himalayas.app/companies/costain-group/jobs/d202182fb412"
+  },
   "himalayas_3cbe135a66dc7912d94bcd7ab87f4197": {
    "company": "Epistemix",
    "eliminated": true,
@@ -9920,6 +10008,16 @@
    "title": "Project Engineer",
    "url": "https://himalayas.app/companies/anovia/jobs/project-engineer?utm_source=api"
   },
+  "himalayas_3eee3825945fda60665098d0f54b88a2": {
+   "company": "Valce Talent Solutions",
+   "elim_reason": "non-dev role (QA Tester)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_3eee3825945fda60665098d0f54b88a2",
+   "site_id": "himalayas",
+   "title": "38880 - DevOps/SRE Engineer",
+   "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/3bd4d8144fa2"
+  },
   "himalayas_3f6a911f0d8f3c202d0799d6c3b39d93": {
    "company": "Lifted (an Upwork Company)",
    "eliminated": true,
@@ -9986,6 +10084,16 @@
    "title": "Defending Defenders Law Intern",
    "url": "https://himalayas.app/companies/environmental-law-alliance-worldwide/jobs/defending-defenders-law-intern-9425391522?utm_source=api"
   },
+  "himalayas_415eb4f09514984dd966666de657b2ea": {
+   "company": "Smart Tech Contracting",
+   "elim_reason": "title-reject: matched \"Lead\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_415eb4f09514984dd966666de657b2ea",
+   "site_id": "himalayas",
+   "title": "Lead Systems Engineer - Design",
+   "url": "https://himalayas.app/companies/smart-tech-contracting/jobs/ecc16ef2128f"
+  },
   "himalayas_41ed6b6ce3b15534c0639ffb8d6f65f4": {
    "company": "Gcore",
    "eliminated": true,
@@ -10039,6 +10147,16 @@
    "status": "eliminated",
    "title": "ASC Billing Specialist",
    "url": "https://himalayas.app/companies/at-c-revenue-services/jobs/asc-billing-specialist-7712431080?utm_source=api"
+  },
+  "himalayas_42bb04322dbe646ebabcf2b8ca7a1c86": {
+   "company": "WSP Africa",
+   "elim_reason": "title-reject: matched \"Senior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_42bb04322dbe646ebabcf2b8ca7a1c86",
+   "site_id": "himalayas",
+   "title": "Data Center ICT/Telecom Engineer, Senior Consultant",
+   "url": "https://himalayas.app/companies/wsp-africa/jobs/5e361bcc9c32"
   },
   "himalayas_42f7f639ef70cbde77dea674fb0b7c13": {
    "company": "Affinity Travels",
@@ -10165,6 +10283,17 @@
    "title": "Regional Sales Manager, Western Region (Virtual, US, 99999)",
    "url": "https://himalayas.app/companies/ametek-inc/jobs/regional-sales-manager-western-region-virtual-us-99999?utm_source=api"
   },
+  "himalayas_468f2287ae641fcbe0dfe6355b92fb49": {
+   "company": "knowmad mood",
+   "country": "Spagna",
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_468f2287ae641fcbe0dfe6355b92fb49",
+   "notified": true,
+   "score": 89.0,
+   "site_id": "himalayas",
+   "title": "Desarrollador/a Frontend \u2013 React Native",
+   "url": "https://himalayas.app/companies/buzzmn/jobs/800a9cc9a3ab"
+  },
   "himalayas_469289ec6255529f9cdb31a912da90eb": {
    "company": "Nordic Talent",
    "eliminated": true,
@@ -10176,6 +10305,16 @@
    "site_name": "Himalayas",
    "title": "M\u00f6tesbokare p\u00e5 distans!",
    "url": "https://himalayas.app/companies/nordic-talent/jobs/motesbokare-pa-distans"
+  },
+  "himalayas_469dd415acf7e1fa591510e29048427f": {
+   "company": "micro1",
+   "elim_reason": "title-reject: matched \"Principal\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_469dd415acf7e1fa591510e29048427f",
+   "site_id": "himalayas",
+   "title": "Software Engineer (Principal), Eng-wide Architecture",
+   "url": "https://himalayas.app/companies/micro1/jobs/cc9c93610429"
   },
   "himalayas_46ec69a3af16d07acc703b82ff7a673f": {
    "company": "Concentrix",
@@ -10238,6 +10377,16 @@
    "site_id": "himalayas",
    "title": "Business Development Manager",
    "url": "https://himalayas.app/companies/mindplus-pvt-ltd/jobs/business-development-manager?utm_source=api"
+  },
+  "himalayas_49fb4062e26e4551a1ab7dc3fc8f2e5a": {
+   "company": "Tusclasesparticulares",
+   "elim_reason": "title-reject: matched \"Monitor/a\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_49fb4062e26e4551a1ab7dc3fc8f2e5a",
+   "site_id": "himalayas",
+   "title": "Monitor/a Infantil - Con o Sin Experiencia Docente",
+   "url": "https://himalayas.app/companies/tusclasesparticulares/jobs/806abfa81b91"
   },
   "himalayas_4a09f3de891c61cfaf2b82a130824419": {
    "company": "FICO",
@@ -10312,6 +10461,26 @@
    "status": "eliminated",
    "title": "Senior Software Engineer (C++/C#)",
    "url": "https://himalayas.app/companies/nutrient/jobs/senior-software-engineer-c-c?utm_source=api"
+  },
+  "himalayas_4cc84efceab69e166eb0dde39154b9c8": {
+   "company": "Vagas Instituto de Pesquisas Eldorado",
+   "elim_reason": "seniority: Senior + location: US only",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_4cc84efceab69e166eb0dde39154b9c8",
+   "site_id": "himalayas",
+   "title": "Analista de Teste de Software",
+   "url": "https://himalayas.app/companies/vagas-instituto-de-pesquisas-eldorado/jobs/4a043c1a91c3"
+  },
+  "himalayas_4cd5ab20eb5e4d242aff7a8a0730692b": {
+   "company": "Wanzek",
+   "elim_reason": "title-reject: matched \"Manager\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_4cd5ab20eb5e4d242aff7a8a0730692b",
+   "site_id": "himalayas",
+   "title": "Engineering Project Manager",
+   "url": "https://himalayas.app/companies/wanzek/jobs/152efeda15dd"
   },
   "himalayas_4dfcf9de050c06cc0b1240335ea86dc7": {
    "company": "Invisible Technologies",
@@ -10393,6 +10562,16 @@
    "title": "Senior Software Engineer",
    "url": "https://himalayas.app/companies/bae-systems-onearc-usa-inc/jobs/senior-software-engineer"
   },
+  "himalayas_50edd0647c660162e30db1b2ad2ae5db": {
+   "company": "#VemPraSaipos",
+   "elim_reason": "title-reject: matched \"S\u00eanior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_50edd0647c660162e30db1b2ad2ae5db",
+   "site_id": "himalayas",
+   "title": "Dev. Fullstack S\u00eanior - CRM",
+   "url": "https://himalayas.app/companies/vemprasaipos/jobs/4868a72351ee"
+  },
   "himalayas_50fb8230ba795af61220e61419a892e0": {
    "company": "Analyst1",
    "eliminated": true,
@@ -10415,16 +10594,6 @@
    "status": "eliminated",
    "title": "Mid-Level Grid Interconnection Consultant",
    "url": "https://himalayas.app/companies/sargent-lundy/jobs/mid-level-grid-interconnection-consultant-8572323828?utm_source=api"
-  },
-  "himalayas_513eed0a9f8a5591700c509d619130bd": {
-   "company": "Vinova",
-   "eliminated": true,
-   "elimination_reason": "location_restricted:singapore",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_513eed0a9f8a5591700c509d619130bd",
-   "site_id": "himalayas",
-   "title": "Frontend Engineer",
-   "url": "https://himalayas.app/companies/vinova/jobs/frontend-engineer"
   },
   "himalayas_516f90ca989f52053e48c9dcc86ce77b": {
    "company": "Tether Operations Limited",
@@ -10512,6 +10681,16 @@
    "status": "eliminated",
    "title": "Manager, Sales - SMB",
    "url": "https://himalayas.app/companies/emburse/jobs/manager-sales-smb"
+  },
+  "himalayas_5358ac89fa6b3f74ab0ed358bfe284a2": {
+   "company": "Create Music Group",
+   "elim_reason": "title-reject: matched \"M&A\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_5358ac89fa6b3f74ab0ed358bfe284a2",
+   "site_id": "himalayas",
+   "title": "M&A Legal Intern - Spring 2027",
+   "url": "https://himalayas.app/companies/create-music-group/jobs/964be17ad6c3"
   },
   "himalayas_538e4e316fa45de6bc22a80cc4f7d138": {
    "company": "People Story Ltd",
@@ -10625,6 +10804,16 @@
    "status": "eliminated",
    "title": "GZ-psycholoog // online",
    "url": "https://himalayas.app/companies/lmcare/jobs/gz-psycholoog-online?utm_source=api"
+  },
+  "himalayas_5770b5fa60475a9049b8dc8a55d846d1": {
+   "company": "Chess.com",
+   "elim_reason": "location: Mexico only",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_5770b5fa60475a9049b8dc8a55d846d1",
+   "site_id": "himalayas",
+   "title": "Cloud Engineer",
+   "url": "https://himalayas.app/companies/chess-com/jobs/2e281b2f9cd1"
   },
   "himalayas_57843f940b810b116ce9138b73e3769f": {
    "company": "DysrupIT",
@@ -10784,6 +10973,16 @@
    "title": "Freelance mogelijk - Security Consultant - Container Security (Senior)",
    "url": "https://himalayas.app/companies/engiflex/jobs/freelance-mogelijk-security-consultant-container-security-senior"
   },
+  "himalayas_5eb930c82970ed2ca868371fb4e47051": {
+   "company": "Scalian Germany AG",
+   "elim_reason": "title-reject: matched \"Scrum Master\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_5eb930c82970ed2ca868371fb4e47051",
+   "site_id": "himalayas",
+   "title": "Scrum Master / Release Train Engineer (m/w/d)*",
+   "url": "https://himalayas.app/companies/scalian-germany-ag/jobs/e06386c40002"
+  },
   "himalayas_5eed57c3818d36abda6beb10afdc5fee": {
    "company": "Symbria",
    "eliminated": true,
@@ -10880,6 +11079,16 @@
    "title": "Customer Service Specialist-Enrollment - Remote Opportunity",
    "url": "https://himalayas.app/companies/kindercare-education-llc/jobs/customer-service-specialist-enrollment-remote-opportunity?utm_source=api"
   },
+  "himalayas_626243bb2de4ba1cd3eccd796001efd7": {
+   "company": "TECDATA ENGINEERING",
+   "elim_reason": "title-reject: matched \"Senior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_626243bb2de4ba1cd3eccd796001efd7",
+   "site_id": "himalayas",
+   "title": "Senior Data engineer",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/9d4c8dcec3e3"
+  },
   "himalayas_63643d30bedb2995b188a6d046b314fa": {
    "company": "AmeriSave Mortgage Corp.",
    "eliminated": true,
@@ -10924,6 +11133,16 @@
    "site_id": "himalayas",
    "title": "Director, Controls, AMERS",
    "url": "https://himalayas.app/companies/nscale/jobs/director-controls-amers?utm_source=api"
+  },
+  "himalayas_6664c3fd3d30a42a50f1185ebdc10d29": {
+   "company": "TECDATA ENGINEERING",
+   "elim_reason": "seniority: Senior",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_6664c3fd3d30a42a50f1185ebdc10d29",
+   "site_id": "himalayas",
+   "title": "Business Analyst junior-medio especializado en Riesgos/GRC.",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/136d8c25b3c8"
   },
   "himalayas_66770c175492d914a304d391a93f5a6e": {
    "company": "ServiceNow",
@@ -11074,43 +11293,6 @@
    "title": "Graphic Design Course Editor  (Contract)",
    "url": "https://himalayas.app/companies/study-com/jobs/graphic-design-course-editor-contract"
   },
-  "himalayas_6a6c34a40adfdb8e3f5881e7a5873785": {
-   "company": "Sidekick Network GmbH & Co. KG",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_6a6c34a40adfdb8e3f5881e7a5873785",
-   "notified": true,
-   "score": 94.0,
-   "score_breakdown": {
-    "bonus_malus": {
-     "adjustment": 10,
-     "reasons": [
-      "specific_tech:+10"
-     ]
-    },
-    "freshness": {
-     "reason": "2.8h",
-     "score": 100
-    },
-    "language": {
-     "reason": "english_assumed",
-     "score": 100
-    },
-    "seniority": {
-     "reason": "mid",
-     "score": 50
-    },
-    "tech": {
-     "reason": [
-      "aws",
-      "azure"
-     ],
-     "score": 80
-    }
-   },
-   "site_id": "himalayas",
-   "title": "DevOps Engineer \u2013 Nexus / Artifact Repository Migration (Freelance, Remote)",
-   "url": "https://himalayas.app/companies/sidekick-network-gmbh-co-kg/jobs/devops-engineer-nexus-artifact-repository-migration-freelance-remote"
-  },
   "himalayas_6a782cd24fc5cd62a944b2d87a4e58af": {
    "company": "Elevus",
    "eliminated": true,
@@ -11119,6 +11301,16 @@
    "site_id": "himalayas",
    "title": "Senior Android Developer",
    "url": "https://himalayas.app/companies/elevus/jobs/senior-android-developer?utm_source=api"
+  },
+  "himalayas_6a9cb14ff98fbe696ca8267fbf8b34fd": {
+   "company": "Third and Grove",
+   "elim_reason": "title-reject: matched \"Lead\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_6a9cb14ff98fbe696ca8267fbf8b34fd",
+   "site_id": "himalayas",
+   "title": "Lead Drupal Developer",
+   "url": "https://himalayas.app/companies/third-and-grove/jobs/4a4503681001"
   },
   "himalayas_6ae501e07dc6994d49a8cb35c7736be8": {
    "company": "SafelyYou",
@@ -11203,6 +11395,16 @@
    "title": "Senior Java Developer (hold)",
    "url": "https://himalayas.app/companies/yozmatech/jobs/senior-java-developer-hold"
   },
+  "himalayas_6d518a5616986795cb99575a542cb887": {
+   "company": "Aerospike",
+   "elim_reason": "title-reject: matched \"Principal\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_6d518a5616986795cb99575a542cb887",
+   "site_id": "himalayas",
+   "title": "Principal Forward Deployed Engineer, Operational AI",
+   "url": "https://himalayas.app/companies/aerospike/jobs/22bc4f890181"
+  },
   "himalayas_6de7b1f8db93b06c62e26331b0f2f582": {
    "company": "Tether Operations Limited",
    "eliminated": true,
@@ -11224,16 +11426,6 @@
    "status": "eliminated",
    "title": "Senior Data & Analytics Engineer",
    "url": "https://himalayas.app/companies/oneclick-data-inc/jobs/senior-data-analytics-engineer?utm_source=api"
-  },
-  "himalayas_6e4af16e198bd0e542b77bdf347768a4": {
-   "company": "A5 Talent Finders",
-   "eliminated": true,
-   "elimination_reason": "employment_type_full_time",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_6e4af16e198bd0e542b77bdf347768a4",
-   "site_id": "himalayas",
-   "title": "Backend Engineer LATAM",
-   "url": "https://himalayas.app/companies/a5-talent-finders/jobs/backend-engineer-latam-6204533411"
   },
   "himalayas_6e4c9d7ab140dafcec0f95430326ff13": {
    "company": "NetPartners International",
@@ -11330,16 +11522,6 @@
    "title": "Customer Success Executive-Mid West",
    "url": "https://himalayas.app/companies/ebsco-information-services/jobs/customer-success-executive-mid-west?utm_source=api"
   },
-  "himalayas_7025ab818a55b34614f21db63d584993": {
-   "company": "Toplent",
-   "eliminated": true,
-   "elimination_reason": "employment_type_full_time",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_7025ab818a55b34614f21db63d584993",
-   "site_id": "himalayas",
-   "title": "QA Engineer",
-   "url": "https://himalayas.app/companies/toplent/jobs/qa-engineer"
-  },
   "himalayas_703449e3d6deea5dcda6db5e12525111": {
    "company": "New York Life Insurance Co",
    "eliminated": true,
@@ -11398,6 +11580,16 @@
    "site_id": "himalayas",
    "title": "Adventure Travel Consultant  Remote",
    "url": "https://himalayas.app/companies/affinity-travels/jobs/adventure-travel-consultant-remote?utm_source=api"
+  },
+  "himalayas_7394fe3753bebc0831cf58cb1dfbbd7e": {
+   "company": "FYUL",
+   "elim_reason": "title-reject: matched \"Data and BI Lead\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_7394fe3753bebc0831cf58cb1dfbbd7e",
+   "site_id": "himalayas",
+   "title": "Data and BI Lead",
+   "url": "https://himalayas.app/companies/fyul/jobs/390f8e27bb20"
   },
   "himalayas_743093459fdbe995c8e3ae7f73a8d269": {
    "company": "We Are Rosie",
@@ -11901,6 +12093,16 @@
    "title": "Senior Relationship Manager, Healthcare",
    "url": "https://himalayas.app/companies/flagstar-bank/jobs/senior-relationship-manager-healthcare?utm_source=api"
   },
+  "himalayas_837d12b3fa06668fa54d84cf372b0d35": {
+   "company": "Pythian",
+   "elim_reason": "title-reject: matched \"Site Reliability Consultant\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_837d12b3fa06668fa54d84cf372b0d35",
+   "site_id": "himalayas",
+   "title": "Site Reliability Consultant",
+   "url": "https://himalayas.app/companies/pythian/jobs/9760cb40ff22"
+  },
   "himalayas_837f83ede25f3c9074e34ed85a78ea4b": {
    "company": "Excyl, Inc.",
    "eliminated": true,
@@ -11934,16 +12136,6 @@
    "status": "eliminated",
    "title": "05_Contador(a) General Biling\u00fce (Full-Charge Bookkeeper)",
    "url": "https://himalayas.app/companies/cobalto-talent/jobs/05_contador-a-general-bilingue-full-charge-bookkeeper?utm_source=api"
-  },
-  "himalayas_83dc628ca4dc3bc38b101cd21ffb5b58": {
-   "company": "Altus Digital",
-   "eliminated": true,
-   "elimination_reason": "employment_type_full_time",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_83dc628ca4dc3bc38b101cd21ffb5b58",
-   "site_id": "himalayas",
-   "title": "Salesforce Marketing Cloud (SFMC) Developer",
-   "url": "https://himalayas.app/companies/altus-digital/jobs/salesforce-marketing-cloud-sfmc-developer"
   },
   "himalayas_83e7ce7865f10c2cca72b6895fc619af": {
    "company": "OperationsArmy",
@@ -12054,6 +12246,16 @@
    "status": "eliminated",
    "title": "AWS Al / IoT Architect",
    "url": "https://himalayas.app/companies/redapt-inc/jobs/aws-al-iot-architect?utm_source=api"
+  },
+  "himalayas_89b95cdd67eb7f9a4155fc1a52909aa5": {
+   "company": "TECDATA ENGINEERING",
+   "elim_reason": "title-reject: matched \"DBA\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_89b95cdd67eb7f9a4155fc1a52909aa5",
+   "site_id": "himalayas",
+   "title": "Oracle DBA \u2013 Linux / Windows Server",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/08858c177230"
   },
   "himalayas_89f72cce9c39bb4b6ea14e3af327aca4": {
    "company": "Tether Operations Limited",
@@ -12360,6 +12562,16 @@
    "title": "Senior Full Stack Software Developer - CRM",
    "url": "https://himalayas.app/companies/gaiia/jobs/senior-full-stack-software-developer-crm?utm_source=api"
   },
+  "himalayas_92843765e8c6eade605f87d18618c7ab": {
+   "company": "Conduent",
+   "elim_reason": "location: Brazil only",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_92843765e8c6eade605f87d18618c7ab",
+   "site_id": "himalayas",
+   "title": "Remote Data Entry",
+   "url": "https://himalayas.app/companies/conduent/jobs/670b7529048f"
+  },
   "himalayas_9302b5b69bd389b2eb515bf5d0ee7727": {
    "company": "TheHiveCareers",
    "eliminated": true,
@@ -12368,40 +12580,6 @@
    "site_id": "himalayas",
    "title": "Cloud Engineer",
    "url": "https://himalayas.app/companies/thehivecareers/jobs/cloud-engineer-839687480?utm_source=api"
-  },
-  "himalayas_93297959f21400bc28523cf1bfd346b1": {
-   "company": "The Agile Monkeys",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_93297959f21400bc28523cf1bfd346b1",
-   "notified": true,
-   "score": 78.0,
-   "score_breakdown": {
-    "bonus_malus": {
-     "adjustment": 0,
-     "reasons": []
-    },
-    "freshness": {
-     "reason": "1.5h",
-     "score": 100
-    },
-    "language": {
-     "reason": "english_assumed",
-     "score": 100
-    },
-    "seniority": {
-     "reason": "mid",
-     "score": 50
-    },
-    "tech": {
-     "reason": [
-      "generic_dev"
-     ],
-     "score": 60
-    }
-   },
-   "site_id": "himalayas",
-   "title": "Data & Analytics Engineer (freelancer)",
-   "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer"
   },
   "himalayas_93872931d090ca68d2a4a820c0484e07": {
    "company": "Wipfli",
@@ -12579,6 +12757,16 @@
    "title": "Associate Counsel \u2013 Pharmacy Benefit Management",
    "url": "https://himalayas.app/companies/blue-cross-nc/jobs/associate-counsel-pharmacy-benefit-management"
   },
+  "himalayas_9b40463c0084cfd609292c760ed097e2": {
+   "company": "TECDATA ENGINEERING",
+   "elim_reason": "title-reject: matched \"Programador/a Senior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_9b40463c0084cfd609292c760ed097e2",
+   "site_id": "himalayas",
+   "title": "Programador/a Senior Drupal",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/f584ade4c8f4"
+  },
   "himalayas_9ba93a4c05ccf2e6736a90eb7d71e73b": {
    "company": "U.S. Bank",
    "elim_reason": "pre_filter:non_dev_role",
@@ -12692,6 +12880,16 @@
    "status": "eliminated",
    "title": "Platform Reliability Engineer",
    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/platform-reliability-engineer-9573709162?utm_source=api"
+  },
+  "himalayas_9d8e0a3bfdebee60a6dc327247f34b8a": {
+   "company": "Keepgo",
+   "elim_reason": "title-reject: matched \"Manager\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_9d8e0a3bfdebee60a6dc327247f34b8a",
+   "site_id": "himalayas",
+   "title": "Middle Product Manager (Fluent Russian + English)",
+   "url": "https://himalayas.app/companies/keepgo/jobs/c50d06b324eb"
   },
   "himalayas_9da8d2d664797adbba3e9000f2c004a3": {
    "company": "Hallford Travels",
@@ -12919,6 +13117,16 @@
    "title": "Senior Full Stack Developer - Deepdesk",
    "url": "https://himalayas.app/companies/anywhere-now/jobs/senior-full-stack-developer-deepdesk?utm_source=api"
   },
+  "himalayas_a6603c99f925ffb4754259d38fac4231": {
+   "company": "Montreal | Tecnologia e Inova\u00e7\u00e3o",
+   "elim_reason": "title-reject: matched \"Cientista de Dados S\u00eanior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_a6603c99f925ffb4754259d38fac4231",
+   "site_id": "himalayas",
+   "title": "Cientista de Dados S\u00eanior",
+   "url": "https://himalayas.app/companies/montreal-tecnologia-e-inovacao/jobs/0d133c8dd9bf"
+  },
   "himalayas_a66653faa0dbf753acb0705e960542a6": {
    "company": "Lockheed Martin Corporation",
    "eliminated": true,
@@ -12985,6 +13193,16 @@
    "site_name": "Himalayas",
    "title": "Project Manager - Pharmacovigilance",
    "url": "https://himalayas.app/companies/united-biosource-corporation/jobs/project-manager-pharmacovigilance"
+  },
+  "himalayas_a7ae9543be750e1106affe2f37d51f45": {
+   "company": "TECDATA ENGINEERING",
+   "elim_reason": "non-dev role (Business Analyst)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_a7ae9543be750e1106affe2f37d51f45",
+   "site_id": "himalayas",
+   "title": "T\u00e9cnico de soluciones de control de acceso / Okta",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/8a50a77c4155"
   },
   "himalayas_a7f61af73d9b": {
    "company": "Labcorp",
@@ -13492,6 +13710,16 @@
    "title": "MarTech Manager",
    "url": "https://himalayas.app/companies/welcomepickups/jobs/martech-manager?utm_source=api"
   },
+  "himalayas_b98c844694e1170ef0dc683f2ff3158a": {
+   "company": "1KOMMA5\u02da",
+   "elim_reason": "title-reject: matched \"Werkstudent\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_b98c844694e1170ef0dc683f2ff3158a",
+   "site_id": "himalayas",
+   "title": "Werkstudent:in Community Management (m/w/d)",
+   "url": "https://himalayas.app/companies/1komma5/jobs/1f94a22464ab"
+  },
   "himalayas_b99d4d91f182979bd22c2e0b76076588": {
    "company": "Acxiom",
    "eliminated": true,
@@ -13599,6 +13827,16 @@
    "status": "eliminated",
    "title": "Lavoro Da Casa Tutor Online - Part Time",
    "url": "https://himalayas.app/companies/letuelezioni/jobs/lavoro-da-casa-tutor-online-part-time?utm_source=api"
+  },
+  "himalayas_bb5dace43a02774c65e3635d4aa50c1f": {
+   "company": "TECDATA ENGINEERING",
+   "elim_reason": "non-dev role (Data Entry)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_bb5dace43a02774c65e3635d4aa50c1f",
+   "site_id": "himalayas",
+   "title": "QA Tester / Analista Funcional",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/ce758c6589b2"
   },
   "himalayas_bb883a3eff05714ff2e4a035cb94b3ea": {
    "company": "Select Source Solutions",
@@ -14007,6 +14245,16 @@
    "title": "Programme Manager",
    "url": "https://himalayas.app/companies/bluprintx/jobs/programme-manager?utm_source=api"
   },
+  "himalayas_c7ea73b310fa371b0b2e08a68563ad38": {
+   "company": "BlackBelt Technology",
+   "elim_reason": "freelance_only: 2+ employee benefits (WOW, trainings, diversity, flexibility)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_c7ea73b310fa371b0b2e08a68563ad38",
+   "site_id": "himalayas",
+   "title": "Java Software Developer",
+   "url": "https://himalayas.app/companies/blackbelt/jobs/2d5deccce96f"
+  },
   "himalayas_c80a07c06ef51193d9c701561b59ae31": {
    "company": "Veeva Systems",
    "eliminated": true,
@@ -14149,6 +14397,16 @@
    "title": "Director of Sales, Sales Development",
    "url": "https://himalayas.app/companies/eve/jobs/director-of-sales-sales-development"
   },
+  "himalayas_ccf85742df8233f44c0376e0f2bd23ef": {
+   "company": "Constellation Energy",
+   "elim_reason": "title-reject: matched \"Intern\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_ccf85742df8233f44c0376e0f2bd23ef",
+   "site_id": "himalayas",
+   "title": "2027 Summer Intern to the Chief of Staff, External Affairs & Growth (Washington,",
+   "url": "https://himalayas.app/companies/constellation-energy/jobs/c045935c1a96"
+  },
   "himalayas_cd82631b389071fc809d76ac4f25776d": {
    "company": "I-2-I Solutions, Inc.",
    "eliminated": true,
@@ -14170,6 +14428,16 @@
    "status": "eliminated",
    "title": "AI Engineer IV",
    "url": "https://himalayas.app/companies/premera-blue-cross/jobs/ai-engineer-iv?utm_source=api"
+  },
+  "himalayas_ce191a7e03110d1a7bc4e109f5b878e6": {
+   "company": "Ellucian Company LLC",
+   "elim_reason": "non-dev role (Access Control Tech)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_ce191a7e03110d1a7bc4e109f5b878e6",
+   "site_id": "himalayas",
+   "title": "Full Stack Developer (JavaScript, ReactJS, REST APIs) -Mexico Remote",
+   "url": "https://himalayas.app/companies/ellucian-company-llc/jobs/28267ef98bbc"
   },
   "himalayas_ce4619d59096c86f3f7f28ae948b223e": {
    "company": "Anchor QEA",
@@ -14288,6 +14556,16 @@
    "title": "Psychiatric Nurse Practitioner (PMHNP-BC) - Plymouth, MA",
    "url": "https://himalayas.app/companies/optimindhealth/jobs/psychiatric-nurse-practitioner-pmhnp-bc-plymouth-ma-9115812061?utm_source=api"
   },
+  "himalayas_d5ed27960dddb8eb826b3ed70c24ab7d": {
+   "company": "Compass UOL",
+   "elim_reason": "seniority: Senior tag from API",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_d5ed27960dddb8eb826b3ed70c24ab7d",
+   "site_id": "himalayas",
+   "title": "QA Test Automation | Mid",
+   "url": "https://himalayas.app/companies/compass-uol/jobs/3d18a10f1817"
+  },
   "himalayas_d6cf159be7d5": {
    "company": "Filevine",
    "eliminated": true,
@@ -14349,6 +14627,16 @@
    "status": "eliminated",
    "title": "LEAD MATERIALS & CORROSION",
    "url": "https://himalayas.app/companies/duncan-ross/jobs/lead-materials-corrosion?utm_source=api"
+  },
+  "himalayas_d8558ab23e6ffd65bdf7e6d2db689f3e": {
+   "company": "Tester Work",
+   "elim_reason": "location: Brazil only",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_d8558ab23e6ffd65bdf7e6d2db689f3e",
+   "site_id": "himalayas",
+   "title": "App Testers wanted in Chile!",
+   "url": "https://himalayas.app/companies/tester-work/jobs/daf44cea1377"
   },
   "himalayas_d866fe34dafca4075c26e79e687b1164": {
    "company": "Lifelancer",
@@ -14522,6 +14810,17 @@
    "title": "Senior Software Engineer (.Net) - Remote LATAM",
    "url": "https://himalayas.app/companies/zarego/jobs/senior-software-engineer-net-remote-latam?utm_source=api"
   },
+  "himalayas_dca8d704af2b075fa15c4f548b0e4154": {
+   "company": "Chargecloud GmbH",
+   "country": "Germania/Spagna",
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_dca8d704af2b075fa15c4f548b0e4154",
+   "notified": true,
+   "score": 100.0,
+   "site_id": "himalayas",
+   "title": "Frontend Engineer (all genders) - Part-time (50%)",
+   "url": "https://himalayas.app/companies/chargecloud-gmbh/jobs/e0926814b5b6"
+  },
   "himalayas_dcfcb00998db": {
    "company": "MSD",
    "eliminated": true,
@@ -14542,6 +14841,16 @@
    "status": "eliminated",
    "title": "Software Engineer II, Integration",
    "url": "https://himalayas.app/companies/mastercam/jobs/software-engineer-ii-integration?utm_source=api"
+  },
+  "himalayas_dd27ee3b039a40ebc590c3914347a6b6": {
+   "company": "Keepgo",
+   "elim_reason": "title-reject: matched \"Manager\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_dd27ee3b039a40ebc590c3914347a6b6",
+   "site_id": "himalayas",
+   "title": "Product Manager (Fluent English + Russian)",
+   "url": "https://himalayas.app/companies/keepgo/jobs/627dcc32448f"
   },
   "himalayas_ddf2c07aadeef7b0255178c2e166891b": {
    "company": "TheHiveCareers",
@@ -14804,6 +15113,16 @@
    "status": "eliminated",
    "title": "CONTR\u00d4LEUR(SE) DE GESTION JUNIOR \u2013 H/F \u2013 DAKAR / CASABLANCA / MARRAKECH",
    "url": "https://himalayas.app/companies/l3m-holding/jobs/controleur-se-de-gestion-junior-h-f-dakar-casablanca-marrakech?utm_source=api"
+  },
+  "himalayas_e4753f5bf4bfd66623a4bb8bde3f510d": {
+   "company": "Keep Simple",
+   "elim_reason": "title-reject: matched \"Sr\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_e4753f5bf4bfd66623a4bb8bde3f510d",
+   "site_id": "himalayas",
+   "title": "Analista BI Sr/Especialista (4831)",
+   "url": "https://himalayas.app/companies/keep-simple/jobs/70011fd56a69"
   },
   "himalayas_e48accfd829656e00d863e3d390b0ee4": {
    "company": "eClerx",
@@ -15108,6 +15427,16 @@
    "title": "Independent International Travel Specialist",
    "url": "https://himalayas.app/companies/affinity-travels/jobs/independent-international-travel-specialist?utm_source=api"
   },
+  "himalayas_ecea742749f029f83f5c1fda9330fa84": {
+   "company": "CData Software",
+   "elim_reason": "location: Chile only, non-dev (App Tester)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_ecea742749f029f83f5c1fda9330fa84",
+   "site_id": "himalayas",
+   "title": "Software Engineer III",
+   "url": "https://himalayas.app/companies/cdata-software/jobs/e1da0368ff88"
+  },
   "himalayas_ecf9566f5ef3844dc96c113b88a6967c": {
    "company": "Monterail",
    "eliminated": true,
@@ -15161,16 +15490,6 @@
    "status": "eliminated",
    "title": "Business Development Executive \u2013 Atlanta / Miami (Freelance Contractor) (m/f)",
    "url": "https://himalayas.app/companies/decode/jobs/business-development-executive-atlanta-miami-freelance-contractor-m-f-9061708896?utm_source=api"
-  },
-  "himalayas_ee6dc1d3fb86874228766a6291e1c3b4": {
-   "company": "Everglade Works",
-   "eliminated": true,
-   "elimination_reason": "location_restricted:united states",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "himalayas_ee6dc1d3fb86874228766a6291e1c3b4",
-   "site_id": "himalayas",
-   "title": "Software Engineer",
-   "url": "https://himalayas.app/companies/everglade-works/jobs/software-engineer"
   },
   "himalayas_ee94af929f261dcb": {
    "company": "Claritev",
@@ -15239,6 +15558,16 @@
    "title": "Senior Quality Engineer",
    "url": "https://himalayas.app/companies/veeva-systems/jobs/senior-quality-engineer-8421508823?utm_source=api"
   },
+  "himalayas_f07b660b56ea5940c2722c77e36d4315": {
+   "company": "CodiLime",
+   "elim_reason": "title-reject: matched \"Senior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_f07b660b56ea5940c2722c77e36d4315",
+   "site_id": "himalayas",
+   "title": "Senior DevOps Engineer",
+   "url": "https://himalayas.app/companies/codilime/jobs/04cfba2144da"
+  },
   "himalayas_f0c180d9e63872414062de49c99d8566": {
    "company": "WekaIO",
    "eliminated": true,
@@ -15266,6 +15595,16 @@
    "status": "eliminated",
    "title": "Field Engineer",
    "url": "https://himalayas.app/companies/danaher/jobs/field-engineer-8544120?utm_source=api"
+  },
+  "himalayas_f1d7fe23650cd26622d9952057375870": {
+   "company": "Aurum",
+   "elim_reason": "location: Brazil only (not EU-accessible)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_f1d7fe23650cd26622d9952057375870",
+   "site_id": "himalayas",
+   "title": "Pessoa Desenvolvedora Full Stack Pleno | Remoto",
+   "url": "https://himalayas.app/companies/aurum/jobs/25f73afac11c"
   },
   "himalayas_f1da06bdcafc8f2fd29aec10d3cb96a9": {
    "company": "Tuniboat",
@@ -15329,6 +15668,16 @@
    "title": "Publishing Manager \u2013 Market & Concepts",
    "url": "https://himalayas.app/companies/crazylabs/jobs/publishing-manager-market-concepts?utm_source=api"
   },
+  "himalayas_f5962367084c4a72e01fc39cdeaeed3a": {
+   "company": "Leega Consultoria",
+   "elim_reason": "title-reject: matched \"Engenheiro de Dados e Plataforma de Agentes S\u00eanior\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_f5962367084c4a72e01fc39cdeaeed3a",
+   "site_id": "himalayas",
+   "title": "Engenheiro de Dados e Plataforma de Agentes S\u00eanior (GCP)",
+   "url": "https://himalayas.app/companies/leega-consultoria/jobs/8de50ab295c0"
+  },
   "himalayas_f596470a473eedd3b31248d090c2ac89": {
    "company": "Global Systems Engineering",
    "eliminated": true,
@@ -15339,6 +15688,16 @@
    "title": "Contractor WMD Subject Matter Expert and Trainer",
    "url": "https://himalayas.app/companies/global-systems-engineering/jobs/contractor-wmd-subject-matter-expert-and-trainer-7103386153?utm_source=api"
   },
+  "himalayas_f5b3b07ecedc5e05b0201b5ce71eabf7": {
+   "company": "International Rescue Committee",
+   "elim_reason": "title-reject: matched \"Intern\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_f5b3b07ecedc5e05b0201b5ce71eabf7",
+   "site_id": "himalayas",
+   "title": "Virtual Services Intern",
+   "url": "https://himalayas.app/companies/international-rescue-committee/jobs/963b351df44c"
+  },
   "himalayas_f643d3fa0e6983e8b5b6a984833b0627": {
    "company": "Chainguard",
    "eliminated": true,
@@ -15348,6 +15707,16 @@
    "status": "eliminated",
    "title": "Security Engineer",
    "url": "https://himalayas.app/companies/chainguard/jobs/security-engineer?utm_source=api"
+  },
+  "himalayas_f6478c0ef9d9e95463e6f11d6921065f": {
+   "company": "Ambev",
+   "elim_reason": "non-dev role (Temporary Works)",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "himalayas_f6478c0ef9d9e95463e6f11d6921065f",
+   "site_id": "himalayas",
+   "title": "[Vaga Afirmativa PCD] Desenvolvedor Pleno",
+   "url": "https://himalayas.app/companies/ambev/jobs/1ea1a20beba4"
   },
   "himalayas_f676d051ceb40c08e9033fef7fcf06bc": {
    "company": "TECDATA ENGINEERING",
@@ -23023,6 +23392,26 @@
    "title": "T\u00e9cnico/a inform\u00e1tico/a",
    "url": "https://www.infojobs.net/petrer/tecnico-informatico/of-i1c5f71f7b04d3c92a5d98d23e1431e?applicationOrigin=search-new&page=1&sortBy=RELEVANCE"
   },
+  "infojobs_es_2130379e007e0300b2b8767c62730a53": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_2130379e007e0300b2b8767c62730a53",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Backend Java Senior",
+   "url": "https://www.infojobs.net/madrid/desarrollador-backend-java-senior/of-icd99bd5b8e4fd6b3f30700a7570dee"
+  },
+  "infojobs_es_2465c9e120d784fb4e79d8c45cd15de5": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_2465c9e120d784fb4e79d8c45cd15de5",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Frontend Beca Practicas Contrato Formativo",
+   "url": "https://www.infojobs.net/madrid/desarrollador-frontend-beca-practicas-contrato-formativo/of-i2c964f7f3a45c7b7838e154342a88f"
+  },
   "infojobs_es_24a37b8ed74460800818080c1416c9": {
    "company": "NURRAMA DI SL.",
    "eliminated": true,
@@ -23082,6 +23471,16 @@
    "title": "T\u00e9cnico/a de Telefon\u00eda IP / VoIP",
    "url": "https://www.infojobs.net/madrid/tecnico-telefonia-ip-voip/of-i307f3ea8e04ea49bcca67e626cbf89?applicationOrigin=search-new&page=1&sortBy=RELEVANCE"
   },
+  "infojobs_es_31142ed7a6012f25e9872be2197eda44": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_31142ed7a6012f25e9872be2197eda44",
+   "site_id": "infojobs_es",
+   "title": "Front End Developer Angular 100 Remoto Espana",
+   "url": "https://www.infojobs.net/madrid/front-end-developer-angular-100-remoto-espana/of-ia2ee58a4f54663a3504a2bf4acae19"
+  },
   "infojobs_es_33028d31dd405ea4f3b7bae0aa196f": {
    "company": "EQUIPO TIC XXI",
    "eliminated": true,
@@ -23136,6 +23535,16 @@
    "status": "eliminated",
    "title": "Administrativo Premiun Soporte Telefon\u00eda Implant jornada completa",
    "url": "https://www.infojobs.net/alcobendas/administrativo-premiun-soporte-telefonia-implant-jornada-completa/of-i3ff0b5759a4a369b8cdf1c8bcae180?applicationOrigin=search-new&page=1&sortBy=RELEVANCE"
+  },
+  "infojobs_es_4312c3e4415bbaef9dbb89a4913f5803": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_4312c3e4415bbaef9dbb89a4913f5803",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Junior C Sist. Comunicaciones Cadiz",
+   "url": "https://www.infojobs.net/san-fernando/desarrollador-junior-c-sist.-comunicaciones-cadiz/of-i3a32f5e9cd44988a1bc9aa90349c21"
   },
   "infojobs_es_449e63dae346b8af005b464703a754": {
    "company": "METRICA CONSULTING",
@@ -23254,6 +23663,16 @@
    "title": "Programador/a Java/Python \u2013 Teletrabajo",
    "url": "https://www.infojobs.net/madrid/programador-java-python-teletrabajo/of-i50698012d840dfb205866c49a5c8cd?applicationOrigin=search-new&page=1&sortBy=RELEVANCE"
   },
+  "infojobs_es_514124650e540d3542241c921611379e": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_514124650e540d3542241c921611379e",
+   "site_id": "infojobs_es",
+   "title": "Invitado Vip Velada Vii",
+   "url": "https://www.infojobs.net/sevilla/invitado-vip-velada-vii/of-if23d02e5e64085b20bbfb9a963fac3"
+  },
   "infojobs_es_51f06c88b843799f8fa1ad431a454d": {
    "company": "ALTEN IT",
    "eliminated": true,
@@ -23265,6 +23684,16 @@
    "status": "eliminated",
    "title": "QA Automatizador/a Mobile",
    "url": "https://www.infojobs.net/madrid/qa-automatizador-mobile/of-i51f06c88b843799f8fa1ad431a454d?applicationOrigin=search-new&page=1&sortBy=RELEVANCE"
+  },
+  "infojobs_es_548c153523c871df9a8b4bcba08dab0b": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_548c153523c871df9a8b4bcba08dab0b",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Junior Powerapps Power Platform",
+   "url": "https://www.infojobs.net/madrid/desarrollador-junior-powerapps-power-platform/of-i1195a81c264300bdae26f1f54692ff"
   },
   "infojobs_es_55cca555c1568fc86902ba750c6e25ab": {
    "company": "InfoJobs",
@@ -23321,6 +23750,16 @@
    "title": "Senior iOS Developer",
    "url": "https://www.infojobs.net/madrid/senior-ios-developer/of-i48f79272e84ba9923e1d19b1cd16ab"
   },
+  "infojobs_es_736ea3b42811ef036305334e4603fcf3": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_736ea3b42811ef036305334e4603fcf3",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Software",
+   "url": "https://www.infojobs.net/palma-de-mallorca/desarrollador-software/of-i8f701cf134418cbc40c73c747a5e3d"
+  },
   "infojobs_es_769d4576e243eca95eea3bd128d42e": {
    "company": "P&PD Ingenieros",
    "eliminated": true,
@@ -23344,6 +23783,16 @@
    "status": "eliminated",
    "title": "Ingeniero/a Junior",
    "url": "https://www.infojobs.net/huelva/ingeniero-junior/of-i78a971a90b4459bac3dd3b0915879c?applicationOrigin=search-new&page=1&sortBy=RELEVANCE"
+  },
+  "infojobs_es_7aa937565b9f249d2609e5da91d706bd": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_7aa937565b9f249d2609e5da91d706bd",
+   "site_id": "infojobs_es",
+   "title": "Programador Front Con Al Menos 2 Anos Experiencia Angular Typescript. Ingles B2. 100 Remoto.",
+   "url": "https://www.infojobs.net/las-rozas-de-madrid/programador-front-con-al-menos-2-anos-experiencia-angular-typescript.-ingles-b2.-100-remoto./of-ie84fdff9f443059b95a811fd21de99"
   },
   "infojobs_es_7f8a41ab3c4229a08ba7cd28a3c3b2": {
    "company": "ABAI BUSINESS SOLUTIONS",
@@ -23381,6 +23830,16 @@
    "title": "Project Manager IT \u2013 Desarrollo Mobile (iOS/Android) y Backend",
    "url": "https://www.infojobs.net/barcelona/project-manager-it-desarrollo-mobile-ios-android-backend/of-i80b90766b240fb992424e06b90f7fb"
   },
+  "infojobs_es_81f01b223442a49a264570f09a0d0509": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_81f01b223442a49a264570f09a0d0509",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Sap Junior Soporte It",
+   "url": "https://www.infojobs.net/alginet/desarrollador-sap-junior-soporte-it/of-i883764fde04f2b8d53b8dfb1514f59"
+  },
   "infojobs_es_849fd60793b88cfe82793fd554d74b43": {
    "company": "Organizaci\u00f3n Nacional de ciegos Espa\u00f1oles (ONCE)",
    "eliminated": true,
@@ -23390,6 +23849,16 @@
    "status": "eliminated",
    "title": "DESARROLLADOR/A DE SOFTWARE MULTIPLATAFORMA",
    "url": "https://www.infojobs.net/madrid/desarrollador-software-multiplataforma/of-i275e6b4a724f4f9fb4555cb8ad95ec"
+  },
+  "infojobs_es_84b77711bc18179e4a3159a95795775f": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_84b77711bc18179e4a3159a95795775f",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Web",
+   "url": "https://www.infojobs.net/valencia/desarrollador-web/of-i315ed187b14475b2c7cc035328d1fd"
   },
   "infojobs_es_85eee9365c3894c745f9a9e5fc83cb32": {
    "company": "GRUPO ADDED VALUE",
@@ -23663,6 +24132,16 @@
    "title": "SWIFT Operations Engineer",
    "url": "https://www.infojobs.net/madrid/swift-operations-engineer/of-ib64983e830431d827a86c154284d4b?applicationOrigin=search-new&page=1&sortBy=RELEVANCE"
   },
+  "infojobs_es_b6d80dc10c8b9100fa9fbab2c6efee42": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_b6d80dc10c8b9100fa9fbab2c6efee42",
+   "site_id": "infojobs_es",
+   "title": "Programador Junior .Net Core Angular 100 Remoto H M X",
+   "url": "https://www.infojobs.net/madrid/programador-junior-.net-core-angular-100-remoto-h-m-x/of-i7aeaa101cc49629db4623589e5008a"
+  },
   "infojobs_es_b78c0939f34214959c61b1b6284915": {
    "company": "InfoJobs",
    "eliminated": true,
@@ -23721,6 +24200,16 @@
    "status": "eliminated",
    "title": "Desarrollador Ios Senior",
    "url": "https://www.infojobs.net/madrid/desarrollador-ios-senior/of-icc46f2855249ebb6fbb3f0289157ad"
+  },
+  "infojobs_es_c34e26b852ada11abf64ca00a97ee806": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_c34e26b852ada11abf64ca00a97ee806",
+   "site_id": "infojobs_es",
+   "title": "Fullstack Junior",
+   "url": "https://www.infojobs.net/palma-de-mallorca./fullstack-junior/of-iafd703715648bcb977831e8210e710"
   },
   "infojobs_es_c42ceabb2f4cd6ab67a96e81484655": {
    "company": "BETWEEN Technology",
@@ -23811,6 +24300,16 @@
    "title": "Desarrollador/a Junior - Sotogrande",
    "url": "https://www.infojobs.net/san-roque/desarrollador-junior-sotogrande/of-i511a518bc445ebbfd3f405a725226e"
   },
+  "infojobs_es_daf12076904657fdd14b4b55eb2c475b": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_daf12076904657fdd14b4b55eb2c475b",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Full Stack",
+   "url": "https://www.infojobs.net/salamanca/desarrollador-full-stack/of-i354e7234664598b7c967264fd5d461"
+  },
   "infojobs_es_db5499ad4546c58971776a11028d7b": {
    "company": "SYRTRANS LOGISTICA",
    "eliminated": true,
@@ -23831,6 +24330,16 @@
    "site_id": "infojobs_es",
    "title": "Android Developer",
    "url": "https://www.infojobs.net/lleida/android-developer/of-ic9a576e3164a119c2a73d1595fb224"
+  },
+  "infojobs_es_e39c366e59eb5e67e89817a69286ed3b": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_e39c366e59eb5e67e89817a69286ed3b",
+   "site_id": "infojobs_es",
+   "title": "Consultor Ibm As400",
+   "url": "https://www.infojobs.net/madrid/consultor-ibm-as400/of-i84bc1ee740424f8d048a89fe31f323"
   },
   "infojobs_es_e4c8fe2a3541369502603e305d10a9": {
    "company": "Luca TIC",
@@ -23923,6 +24432,26 @@
    "title": "Junior M365 Developer Sharepoint Spfx React",
    "url": "https://www.infojobs.net/madrid/junior-m365-developer-sharepoint-spfx-react/of-i83342be9ea4e659836a744e794abe9"
   },
+  "infojobs_es_eed7941f080edbd68c916d88335c551a": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_eed7941f080edbd68c916d88335c551a",
+   "site_id": "infojobs_es",
+   "title": "Ai Specialist Junior Developer",
+   "url": "https://www.infojobs.net/barcelona/ai-specialist-junior-developer/of-i96c02bdd5f4dfe870f874647d6c156"
+  },
+  "infojobs_es_f204742f881210901467bf09178782af": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_f204742f881210901467bf09178782af",
+   "site_id": "infojobs_es",
+   "title": "Desarrollador Software Java Paroyectos Internacionales",
+   "url": "https://www.infojobs.net/murcia/desarrollador-software-java-paroyectos-internacionales/of-i8124a706a744b68ffd78a8ef7f054f"
+  },
   "infojobs_es_f2fe5f3c174f38bfa676e954581be4": {
    "company": "Randstad",
    "eliminated": true,
@@ -23992,6 +24521,16 @@
    "status": "eliminated",
    "title": "Desarrollador Con Al Menos 2 3 Anos Experiencia Desarrollo Nativo Ios Con Swift. Remoto 100",
    "url": "https://www.infojobs.net/madrid/desarrollador-con-al-menos-2-3-anos-experiencia-desarrollo-nativo-ios-con-swift.-remoto-100/of-i906a9ba1914f66bfcb5c98933037bf"
+  },
+  "infojobs_es_fe519c297bed0a94b797a0f2ce52534f": {
+   "company": "?",
+   "elim_reason": "InfoJobs detail blocked by anti-bot; cannot verify remote/freelance/seniority per routine requirements",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "infojobs_es_fe519c297bed0a94b797a0f2ce52534f",
+   "site_id": "infojobs_es",
+   "title": "Tecnico Junior Soporte Mantenimiento Bi Etl Oracle Obi Odi Madrid Presencial",
+   "url": "https://www.infojobs.net/madrid/tecnico-junior-soporte-mantenimiento-bi-etl-oracle-obi-odi-madrid-presencial/of-i803945a91c4f138847af44556db65e"
   },
   "infojobs_es_i0d1aa4166a491d82309455d47c2b1a": {
    "company": "",
@@ -29097,16 +29636,6 @@
    "title": "Senior QA Engineer",
    "url": "https://justremote.coremote-devops-sysadmin-jobs/senior-qa-engineer-foodsmart"
   },
-  "justremote_edad70e7d5e9a7f00bd767b7503c2ff2": {
-   "company": "",
-   "eliminated": true,
-   "elimination_reason": "freelance_reject_direct:permanent contract",
-   "first_seen": "2026-10-13T00:22:20.970366+00:00",
-   "id": "justremote_edad70e7d5e9a7f00bd767b7503c2ff2",
-   "site_id": "justremote",
-   "title": "",
-   "url": "https://justremote.co/remote-developer-jobs"
-  },
   "landingjobs_16af1fd96c9b6bc60ceff4efa6e086e2": {
    "company": "We Are Meta",
    "eliminated": true,
@@ -29719,6 +30248,17 @@
    "site_name": "RemoteOK",
    "title": "Technical Product Manager AI Stockbroking App",
    "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+  },
+  "remoteok_1137427": {
+   "company": "Prenosis",
+   "country": "Remote (worldwide)",
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "remoteok_1137427",
+   "notified": true,
+   "score": 70.0,
+   "site_id": "remoteok",
+   "title": "Software Engineer",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
   },
   "remoteok_1137428": {
    "company": "iMerit Technology",
@@ -30484,6 +31024,16 @@
    "title": "Senior Full Stack Engineer People Products",
    "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693"
   },
+  "remoteok_1137695": {
+   "company": "Caringhand Home Health Solutions, Inc.",
+   "elim_reason": "title-reject: matched \"Registered\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "remoteok_1137695",
+   "site_id": "remoteok",
+   "title": "Registered Nurse",
+   "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695"
+  },
   "remoteok_1137700": {
    "company": "MEYA HOLDINGS",
    "eliminated": true,
@@ -30573,6 +31123,27 @@
    "site_id": "remoteok",
    "title": "Senior Software Engineer \u00e2\u0080\u0094 Kubernetes Control Plane",
    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713"
+  },
+  "remoteok_1137714": {
+   "company": "Addepto",
+   "country": "Remote (worldwide)",
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "remoteok_1137714",
+   "notified": true,
+   "score": 68.0,
+   "site_id": "remoteok",
+   "title": "Data Engineer",
+   "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714"
+  },
+  "remoteok_1137717": {
+   "company": "Mento",
+   "elim_reason": "title-reject: matched \"Strategy & Operations Coach\"",
+   "eliminated": true,
+   "first_seen": "2026-11-13T00:21:35.932911+00:00",
+   "id": "remoteok_1137717",
+   "site_id": "remoteok",
+   "title": "Strategy & Operations Coach APAC",
+   "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717"
   },
   "remoteok_145fddffa3e6": {
    "company": "Pivotal Health",
@@ -30723,12 +31294,12 @@
    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166"
   }
  },
- "last_updated": "2026-11-12T00:16:43.083474+00:00",
+ "last_updated": "2026-11-13T00:21:35.932911+00:00",
  "site_errors": {
   "arcdev": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-11-12T00:16:43.083474+00:00"
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "glassdoor": {
    "consecutive_failures": 10,
@@ -30738,7 +31309,7 @@
   "himalayas": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-11-12T00:16:43.083474+00:00"
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "indeed_de": {
    "consecutive_failures": 10,
@@ -30768,41 +31339,41 @@
   "infojobs_es": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-11-12T00:16:43.083474+00:00"
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "jobicy": {
-   "consecutive_failures": 1,
-   "last_error": "RSS endpoint returns HTML, no items parseable",
+   "consecutive_failures": 2,
+   "last_error": "RSS endpoint returns HTML (SPA shell), no parseable items",
    "last_success": "2026-11-11T00:14:36.794727+00:00"
   },
   "justremote": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-11-12T00:16:43.083474+00:00"
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "landingjobs": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-11-12T00:16:43.083474+00:00"
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "remoteok": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-11-12T00:16:43.083474+00:00"
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "remotive": {
    "consecutive_failures": 0,
    "last_error": null,
-   "last_success": "2026-11-12T00:16:43.083474+00:00"
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "stepstone": {
    "consecutive_failures": 0,
    "last_success": "2026-04-18T15:49:51.335223Z"
   },
   "welcometothejungle": {
-   "consecutive_failures": 10,
-   "last_error": "no parseable jobs (page needs JS)",
-   "last_success": "2026-11-01T00:24:44.118088+00:00"
+   "consecutive_failures": 0,
+   "last_error": null,
+   "last_success": "2026-11-13T00:21:35.932911+00:00"
   },
   "weworkremotely": {
    "consecutive_failures": 0,

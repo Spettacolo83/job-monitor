@@ -1,16 +1,6 @@
 {
   "_warnings_sent_on": "2026-11-01",
   "daily_stats": {
-    "2026-08-27": {
-      "eliminated_freelance": 3,
-      "eliminated_non_tech": 41,
-      "eliminated_remote": 1,
-      "eliminated_senior": 5,
-      "notified_high": 0,
-      "notified_medium": 0,
-      "runs": 1,
-      "total_new": 50
-    },
     "2026-08-28": {
       "below_threshold": 2,
       "eliminated": 29,
@@ -1434,6 +1424,17 @@
       "notified_medium": 0,
       "runs": 1,
       "total_new": 25
+    },
+    "2026-11-26": {
+      "runs": 1,
+      "last_run": "2026-11-26T00:20:19.869325+00:00",
+      "total_new": 10,
+      "notified": 2,
+      "notified_high": 1,
+      "notified_medium": 1,
+      "eliminated": 8,
+      "sites_ok": 9,
+      "sites_failed": 6
     }
   },
   "jobs": {
@@ -5259,17 +5260,6 @@
       "title": "Full-stack Javascript/typescript (Node.js) Engineer - PT - NA/LATAM/EU",
       "url": "https://arc.dev/jobs/full-stack-javascript-typescript-node-js-engineer-pt-na-latam-eu"
     },
-    "arcdev_pr9k5u3lh1": {
-      "company": null,
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "arcdev",
-      "title": "Senior Full-Stack Developer WW-FT ",
-      "url": "https://arc.dev/remote-jobs/details/senior-full-stack-developer-ww-ft-pr9k5u3lh1"
-    },
     "arcdev_pre7jrge3k": {
       "company": "",
       "elim_reasons": [
@@ -5387,39 +5377,6 @@
       "title": "Senior AI Solutions Architect \u2014 Government AI Projects",
       "url": "https://arc.dev/jobs/senior-ai-solutions-architect-government-ai-projects"
     },
-    "arcdev_pryrlmyzml": {
-      "company": null,
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\blead\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "arcdev",
-      "title": "Lead Engineer: Systems Architect, Backend Developer, DevOps Engineer - Overlap with EST",
-      "url": "https://arc.dev/remote-jobs/details/lead-engineer-systems-architect-backend-developer-devops-engineer-overlap-with-est-pryrlmyzml"
-    },
-    "arcdev_pryspv2zfo": {
-      "company": null,
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "arcdev",
-      "title": "Senior Mobile Engineer (iOS, Android) - Overlap with EST",
-      "url": "https://arc.dev/remote-jobs/details/senior-mobile-engineer-ios-android-overlap-with-est-pryspv2zfo"
-    },
-    "arcdev_prytr6smi2": {
-      "company": null,
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bsecurity specialist\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "arcdev",
-      "title": "Security Specialist - Part-time - Overlap with EST",
-      "url": "https://arc.dev/remote-jobs/details/security-specialist-part-time-overlap-with-est-prytr6smi2"
-    },
     "arcdev_przdpxccp8": {
       "company": "",
       "elim_reasons": [
@@ -5447,18 +5404,6 @@
       "status": "notified",
       "title": "Experienced Software Engineer - AI Coding Tasks",
       "url": "https://arc.dev/jobs/experienced-software-engineer-ai-coding-tasks"
-    },
-    "arcdev_pstzrawmr6": {
-      "company": "AI Startup (Singapore)",
-      "eliminated": false,
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": true,
-      "notified_at": "2026-10-27T00:10:37.750581+00:00",
-      "score": 57,
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Freelance React Native Developer",
-      "url": "https://arc.dev/remote-jobs/details/freelance-react-native-developer-pstzrawmr6"
     },
     "arcdev_psw3ntb7eh": {
       "company": "",
@@ -5496,17 +5441,6 @@
       "title": "Growth Marketing Manager (Lead Generation, SaaS) - WW-PT",
       "url": "https://arc.dev/jobs/growth-marketing-manager-lead-generation-saas-ww-pt"
     },
-    "arcdev_pt72fbno85": {
-      "company": null,
-      "eliminated": true,
-      "eliminated_reason": "experienceLevel=senior + US-only (country=[\"US\"])",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "arcdev",
-      "title": "MuleSoft Developer (Mulesoft, DataWeave) - US-FT ",
-      "url": "https://arc.dev/remote-jobs/details/mulesoft-developer-mulesoft-dataweave-us-ft-pt72fbno85"
-    },
     "arcdev_ptegv56ogg": {
       "company": "",
       "elim_reason": "seniority: contains \"lead\"",
@@ -5516,17 +5450,6 @@
       "site_id": "arcdev",
       "title": "Growth Marketing Specialist (Google Ads, Lead Gen) WW-PT",
       "url": "https://arc.dev/jobs/growth-marketing-specialist-google-ads-lead-gen-ww-pt"
-    },
-    "arcdev_ptf98h8fw7": {
-      "company": "Unknown (Arc.dev)",
-      "eliminated": true,
-      "eliminated_reason": "Jobtype=fulltime + annual salary $40-60K => employment not freelance",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Mid-level Full-Stack Developer",
-      "url": "https://arc.dev/remote-jobs/details/mid-level-full-stack-developer-ptf98h8fw7"
     },
     "arcdev_pthqxijqll": {
       "company": "",
@@ -5584,18 +5507,6 @@
       "title": "Senior Creative Lead (CPG brand experience) - Fulltime - LATAM/NA/EMEA",
       "url": "https://arc.dev/jobs/senior-creative-lead-cpg-brand-experience-fulltime-latam-na-emea"
     },
-    "arcdev_ptnbfv3t7l": {
-      "below_threshold_reason": "Below score threshold (WordPress tech, partial match only)",
-      "company": "Unknown (Arc.dev)",
-      "eliminated": false,
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "score": 42,
-      "site_id": "arcdev",
-      "site_name": "Arc.dev",
-      "title": "Web Developer for Website Redesign",
-      "url": "https://arc.dev/remote-jobs/details/web-developer-for-website-redesign-ptnbfv3t7l"
-    },
     "arcdev_ptp74efwy7": {
       "company": "",
       "elim_reason": "seniority: contains \"senior\"",
@@ -5605,17 +5516,6 @@
       "site_id": "arcdev",
       "title": "Senior Manager, Data Analytics - Marketing - Overlap with MST",
       "url": "https://arc.dev/jobs/senior-manager-data-analytics-marketing-overlap-with-mst"
-    },
-    "arcdev_ptp8lc4kuu": {
-      "company": null,
-      "eliminated": true,
-      "eliminated_reason": "experienceLevel=senior (contract WW-FT)",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "arcdev",
-      "title": "Full-Stack Developer WW-FT ",
-      "url": "https://arc.dev/remote-jobs/details/full-stack-developer-ww-ft-ptp8lc4kuu"
     },
     "arcdev_ptst6z5qkq": {
       "company": "",
@@ -5785,17 +5685,6 @@
       "status": "eliminated",
       "title": "Full Stack SLM Development with Advanced ML/DL and Optimization",
       "url": "https://arc.dev/jobs/full-stack-slm-development-with-advanced-ml-dl-and-optimization"
-    },
-    "arcdev_puncabht5s": {
-      "company": null,
-      "eliminated": true,
-      "eliminated_reason": "experienceLevel=senior + LATAM-only countries list",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "arcdev",
-      "site_name": "arcdev",
-      "title": "Full-Stack Developer LATAM-FT",
-      "url": "https://arc.dev/remote-jobs/details/full-stack-developer-latam-ft-puncabht5s"
     },
     "arcdev_puoibjhemu": {
       "company": "",
@@ -12419,28 +12308,6 @@
       "title": "Lead Paid Search Strategist",
       "url": "https://himalayas.app/companies/accelerated-digital-media-an-outerbox-company/jobs/lead-paid-search-strategist-5187956533?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/acciona-it/jobs/it-process-and-automation-lead": {
-      "company": "Acciona IT",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\blead\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "IT Process and Automation Lead",
-      "url": "https://himalayas.app/companies/acciona-it/jobs/it-process-and-automation-lead?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/acclaro/jobs/business-development-director-1759155761": {
-      "company": "Acclaro",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bdirector\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Business Development Director",
-      "url": "https://himalayas.app/companies/acclaro/jobs/business-development-director-1759155761?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/ace-digital-group/jobs/senior-digital-strategist-paid-search-and-social": {
       "company": "Ace Digital Group",
       "elim_reason": "location_eu_only",
@@ -12670,17 +12537,6 @@
       "title": "Engineer, Technical Sales",
       "url": "https://himalayas.app/companies/analog-devices-inc/jobs/engineer-technical-sales-4980667245?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/aprende-institute/jobs/docente-de-finanzas-personales-y-para-emprendedores-remoto-9713361835": {
-      "company": "Aprende Institute",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bdocente\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Docente de Finanzas Personales y para Emprendedores Remoto",
-      "url": "https://himalayas.app/companies/aprende-institute/jobs/docente-de-finanzas-personales-y-para-emprendedores-remoto-9713361835?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/artemis-connection/jobs/partner-payments-lead": {
       "company": "Artemis Connection",
       "eliminated": true,
@@ -12689,28 +12545,6 @@
       "site": "himalayas",
       "title": "Partner Payments Lead",
       "url": "https://himalayas.app/companies/artemis-connection/jobs/partner-payments-lead?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/autodesk/jobs/ai-research-scientist": {
-      "company": "Autodesk",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bresearch scientist\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "AI Research Scientist",
-      "url": "https://himalayas.app/companies/autodesk/jobs/ai-research-scientist?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/autodesk/jobs/principal-developer-advocate-ai-2529897013": {
-      "company": "Autodesk",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bprincipal\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Principal Developer Advocate - AI",
-      "url": "https://himalayas.app/companies/autodesk/jobs/principal-developer-advocate-ai-2529897013?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/avantor/jobs/indirect-sourcing-manager-europe-m-f-d": {
       "company": "Avantor",
@@ -12907,28 +12741,6 @@
       "title": "Cloud Systems Engineer",
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-systems-engineer-5363574574?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/bright-vision-technologies/jobs/dell-boomi-developer-8693782499": {
-      "company": "Bright Vision Technologies",
-      "eliminated": true,
-      "eliminated_reason": "US-only + W2 + 10+ years senior",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Dell Boomi Developer",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/dell-boomi-developer-8693782499?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/bright-vision-technologies/jobs/hadoop-solutions-developer-9761256033": {
-      "company": "Bright Vision Technologies",
-      "eliminated": true,
-      "eliminated_reason": "US-only + W2 + senior (5+ years)",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Hadoop Solutions Developer",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/hadoop-solutions-developer-9761256033?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/bright-vision-technologies/jobs/net-technical-lead-4863517455": {
       "company": "Bright Vision Technologies",
       "eliminated": true,
@@ -12937,39 +12749,6 @@
       "site": "himalayas",
       "title": ".NET Technical Lead",
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/net-technical-lead-4863517455?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/bright-vision-technologies/jobs/sap-hana-consultant-3702092982": {
-      "company": "Bright Vision Technologies",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bconsultant\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "SAP HANA Consultant",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/sap-hana-consultant-3702092982?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/bright-vision-technologies/jobs/sitecore-application-developer": {
-      "company": "Bright Vision Technologies",
-      "eliminated": true,
-      "eliminated_reason": "US-only location + W2 employment + senior (6+ years required)",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Sitecore Application Developer",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/sitecore-application-developer?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/bright-vision-technologies/jobs/windchill-integration-developer-1392130701": {
-      "company": "Bright Vision Technologies",
-      "eliminated": true,
-      "eliminated_reason": "US-only + W2 + 10+ years senior",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Windchill Integration Developer",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/windchill-integration-developer-1392130701?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/brightspring-health-services/jobs/medicare-d-billing-representative": {
       "company": "BrightSpring Health Services",
@@ -13181,17 +12960,6 @@
       "title": "Executive Director, Project Management",
       "url": "https://himalayas.app/companies/civia-health/jobs/executive-director-project-management?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/clearesult/jobs/senior-energy-engineer": {
-      "company": "CLEAResult",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Energy Engineer",
-      "url": "https://himalayas.app/companies/clearesult/jobs/senior-energy-engineer?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/clearway-health/jobs/contract-recruiter": {
       "company": "Clearway Health",
       "elim_reason": "location_eu_only",
@@ -13209,17 +12977,6 @@
       "site": "himalayas",
       "title": "Member of Technical Staff / Fullstack Engineer",
       "url": "https://himalayas.app/companies/clera/jobs/member-of-technical-staff-fullstack-engineer-1218768897?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/cloudspot-gmbh/jobs/senior-consultant-anaplan-pigment-m-f-d-pu": {
-      "company": "CloudSpot GmbH",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Consultant | Anaplan & Pigment (m/f/d) Pu",
-      "url": "https://himalayas.app/companies/cloudspot-gmbh/jobs/senior-consultant-anaplan-pigment-m-f-d-pu?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/coca-colacompany/jobs/senior-director-revenue-growth-management-execution-cr-planning-northeast-co": {
       "company": "Coca-Cola Company",
@@ -13260,17 +13017,6 @@
       "site_id": "himalayas",
       "title": "Workday, Senior Engagement Manager",
       "url": "https://himalayas.app/companies/collaborative-solutions/jobs/workday-senior-engagement-manager?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/college-board/jobs/engineer-i": {
-      "company": "College Board",
-      "eliminated": true,
-      "eliminated_reason": "US-only location",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Engineer I",
-      "url": "https://himalayas.app/companies/college-board/jobs/engineer-i?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/column-software-pbc/jobs/senior-software-engineer": {
       "company": "Column Software, PBC",
@@ -13409,28 +13155,6 @@
       "site_id": "himalayas",
       "title": "Marketing Engineer (AI Agents)",
       "url": "https://himalayas.app/companies/cresta/jobs/marketing-engineer-ai-agents?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/crowdstrike/jobs/sr-mobile-qa-analyst": {
-      "company": "Crowdstrike",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsr\\.?\\s",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Sr. Mobile QA Analyst",
-      "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-mobile-qa-analyst?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/crown-bioscience/jobs/director-business-development-us-west": {
-      "company": "Crown Bioscience",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bdirector\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Director, Business Development, US West",
-      "url": "https://himalayas.app/companies/crown-bioscience/jobs/director-business-development-us-west?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/darkroom/jobs/retention-lead-talent-pool": {
       "company": "Darkroom",
@@ -13607,17 +13331,6 @@
       "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
       "url": "https://himalayas.app/companies/dropbox/jobs/senior-client-platform-engineer-endpoint-platform-automation-3460658168?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/dynamicweb-solution-asia-pte-ltd/jobs/dynamicweb-internship-remote-5409356234": {
-      "company": "Dynamicweb Solution Asia Pte Ltd",
-      "eliminated": true,
-      "eliminated_reason": "US-only location + consultant role (ERP/CRM) not developer",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "DynamicWeb (Internship - Remote )",
-      "url": "https://himalayas.app/companies/dynamicweb-solution-asia-pte-ltd/jobs/dynamicweb-internship-remote-5409356234?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/ecpi-university/jobs/online-masters-electronics-engineering-technology-adjunct-faculty": {
       "company": "ECPI University",
       "elim_reason": "non-dev role: contains \"faculty\"",
@@ -13662,17 +13375,6 @@
       "site_name": "Himalayas",
       "title": "Proposal Solution Manager \u2013 Ellucian Student Flex (Prior Experience with Antholo",
       "url": "https://himalayas.app/companies/ellucian-company-llc/jobs/proposal-solution-manager-ellucian-student-flex-prior-experience-with-antholo?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/elp-consult-ltd/jobs/eu-amazon-account-director": {
-      "company": "ELP Consult Ltd.",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bdirector\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "EU Amazon Account Director",
-      "url": "https://himalayas.app/companies/elp-consult-ltd/jobs/eu-amazon-account-director?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/elsevier/jobs/allied-health-dental-hygienist-clinical-content-reviewer-part-time-remote-pr": {
       "company": "Elsevier",
@@ -13897,17 +13599,6 @@
       "title": "SailPoint Operations Engineer II (Remote - NC, AZ, TX)",
       "url": "https://himalayas.app/companies/first-citizens/jobs/sailpoint-operations-engineer-ii-remote-nc-az-tx?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/fiserv/jobs/commercial-mid-market-sales-executive": {
-      "company": "Fiserv",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bsales\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Commercial Mid-Market Sales Executive",
-      "url": "https://himalayas.app/companies/fiserv/jobs/commercial-mid-market-sales-executive?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/flex-capital/jobs/3c-product-owner-m-w-d": {
       "company": "FLEX Capital",
       "elim_reason": "not_dev (3c - product owner (m/w/d))",
@@ -14059,17 +13750,6 @@
       "site_id": "himalayas",
       "title": "Senior Manager - Data Analytics",
       "url": "https://himalayas.app/companies/geico/jobs/senior-manager-data-analytics?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/general-dynamics-information-technology/jobs/salesforce-developer-cloud-developer": {
-      "company": "General Dynamics Information Technology",
-      "eliminated": true,
-      "eliminated_reason": "US government contractor (General Dynamics IT)",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Salesforce Developer (Cloud Developer)",
-      "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/salesforce-developer-cloud-developer?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/gitlab-com/jobs/senior-manager-enterprise-application-development-engineering": {
       "company": "GitLab",
@@ -14225,17 +13905,6 @@
       "title": "Senior Software Engineer",
       "url": "https://himalayas.app/companies/healthedge/jobs/senior-software-engineer?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/helixos/jobs/senior-strategy-commercialisation-consultant": {
-      "company": "Helixos",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Strategy & Commercialisation Consultant",
-      "url": "https://himalayas.app/companies/helixos/jobs/senior-strategy-commercialisation-consultant?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/henryscheins/jobs/equipment-coordination-specialist-dental": {
       "company": "Henry Schein",
       "eliminated": true,
@@ -14244,17 +13913,6 @@
       "site_id": "himalayas",
       "title": "Equipment Coordination Specialist, Dental",
       "url": "https://himalayas.app/companies/henryscheins/jobs/equipment-coordination-specialist-dental?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/hhhub-uab/jobs/it-project-manager-messaging-platform": {
-      "company": "HHHUB, UAB",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bmanager\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "IT Project Manager \u2013 Messaging Platform",
-      "url": "https://himalayas.app/companies/hhhub-uab/jobs/it-project-manager-messaging-platform?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/highmark-health/jobs/technical-engineer-4909194353": {
       "company": "Highmark Health",
@@ -14298,17 +13956,6 @@
       "title": "Lead PreSales Engineer - German Speaking",
       "url": "https://himalayas.app/companies/hubspot/jobs/lead-presales-engineer-german-speaking?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/humanit-digital-consulting/jobs/data-architect-databricks-lakehouse-data-modeling-portugal-or-spain-full-rem": {
-      "company": "HumanIT Digital Consulting",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\barchitect\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Data Architect (Databricks/Lakehouse/Data Modeling) - Portugal or Spain Full Rem",
-      "url": "https://himalayas.app/companies/humanit-digital-consulting/jobs/data-architect-databricks-lakehouse-data-modeling-portugal-or-spain-full-rem?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/hunt-st/jobs/lead-generation-outbound-prospecting-specialist-021-1-449": {
       "company": "Hunt St",
       "elim_reason": "seniority: contains \"lead\"",
@@ -14348,17 +13995,6 @@
       "site": "himalayas",
       "title": "Manager-Revenue Management & Distribution Analytics (Remote Opportunity)",
       "url": "https://himalayas.app/companies/hyatt/jobs/manager-revenue-management-distribution-analytics-remote-opportunity?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/hypori/jobs/customer-success-manager": {
-      "company": "Hypori",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bmanager\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Customer Success Manager",
-      "url": "https://himalayas.app/companies/hypori/jobs/customer-success-manager?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/impact-advisors/jobs/cybersecurity-data-scientist": {
       "company": "Impact Advisors",
@@ -14404,17 +14040,6 @@
       "status": "eliminated",
       "title": "Account Executive - Influencer Marketing Specialist",
       "url": "https://himalayas.app/companies/indahash/jobs/account-executive-influencer-marketing-specialist-3440005987?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/info-resume-edge/jobs/full-stack-software-engineer-new-graduates-united-states-3547250624": {
-      "company": "Info Resume Edge",
-      "eliminated": true,
-      "eliminated_reason": "US-only (new graduates: United States)",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Full-Stack Software Engineer (New graduates: United States)",
-      "url": "https://himalayas.app/companies/info-resume-edge/jobs/full-stack-software-engineer-new-graduates-united-states-3547250624?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/initium-software/jobs/pega-business-analyst": {
       "company": "Initium Software",
@@ -14466,17 +14091,6 @@
       "site_id": "himalayas",
       "title": "Commercial Operations Specialist\u200b\u200b",
       "url": "https://himalayas.app/companies/irhythm/jobs/commercial-operations-specialist?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/irium/jobs/tecnico-a-devsecops": {
-      "company": "IRIUM",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bt\u00e9cnico/a devsecops\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "T\u00e9cnico/a DevSecOps",
-      "url": "https://himalayas.app/companies/irium/jobs/tecnico-a-devsecops?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/j-s-held/jobs/senior-project-manager-project-director-industrial-hygiene": {
       "company": "J.S. Held",
@@ -14665,17 +14279,6 @@
       "title": "Croatian Freelance Telephone Interpreters UK (Apply Here)",
       "url": "https://himalayas.app/companies/languageline-solutions/jobs/croatian-freelance-telephone-interpreters-uk-apply-here?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/lanteris-space-llc/jobs/simulations-software-developer": {
-      "company": "Lanteris Space LLC",
-      "eliminated": true,
-      "eliminated_reason": "US-only (space/defense sector)",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Simulations Software Developer",
-      "url": "https://himalayas.app/companies/lanteris-space-llc/jobs/simulations-software-developer?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/lbca-lee-brock-camargo-advogados/jobs/vaga-exclusiva-pcd-analista-juridico-contencioso-trabalhista": {
       "company": "LBCA - Lee, Brock, Camargo Advogados",
       "elim_reason": "location_eu_only",
@@ -14769,17 +14372,6 @@
       "title": "Python Backend Engineer (m/f/x)",
       "url": "https://himalayas.app/companies/makersite/jobs/python-backend-engineer-m-f-x?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/maleda-tech/jobs/regional-associate-growth-competition-northeast-atlantic-canada-region": {
-      "company": "Maleda Tech",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bgrowth\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Regional Associate, Growth & Competition (Northeast Atlantic & Canada Region)",
-      "url": "https://himalayas.app/companies/maleda-tech/jobs/regional-associate-growth-competition-northeast-atlantic-canada-region?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/medusind/jobs/credentialing-enrollment-representative": {
       "company": "Medusind",
       "elim_reason": "location_eu_only",
@@ -14864,17 +14456,6 @@
       "site_id": "himalayas",
       "title": "Freelance Mechanical CFD Engineer - AI Trainer",
       "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cfd-engineer-ai-trainer-3108397268?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/miratech/jobs/full-stack-engineer-react-and-go-4426284046": {
-      "company": "Miratech",
-      "eliminated": true,
-      "eliminated_reason": "Seniority: Senior + US healthcare client",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "Himalayas",
-      "title": "Full Stack Engineer(React and GO)",
-      "url": "https://himalayas.app/companies/miratech/jobs/full-stack-engineer-react-and-go-4426284046?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/mmdsmart-ltd/jobs/product-owner": {
       "company": "MMDSmart Ltd",
@@ -15089,17 +14670,6 @@
       "title": "Account Executive - Midwest",
       "url": "https://himalayas.app/companies/notraffic/jobs/account-executive-midwest?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/nvidia/jobs/senior-software-engineer-real-time-data-platform": {
-      "company": "NVIDIA",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Software Engineer, Real-Time Data Platform",
-      "url": "https://himalayas.app/companies/nvidia/jobs/senior-software-engineer-real-time-data-platform?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/omnissa/jobs/solutions-consultant-federal-system-integrators-fsi-s": {
       "company": "Omnissa",
       "elim_reason": "location_eu_only",
@@ -15265,17 +14835,6 @@
       "title": "Business Operations Manager",
       "url": "https://himalayas.app/companies/peraton/jobs/business-operations-manager?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/peraton/jobs/test-engineering-associate": {
-      "company": "Peraton",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\btest engineering\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Test Engineering, Associate",
-      "url": "https://himalayas.app/companies/peraton/jobs/test-engineering-associate?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/philips/jobs/remote-application-specialist": {
       "company": "Philips",
       "eliminated": true,
@@ -15306,28 +14865,6 @@
       "status": "eliminated",
       "title": "Software Engineering Manager (Hands-On, Frontend)",
       "url": "https://himalayas.app/companies/pigment/jobs/software-engineering-manager-hands-on-frontend?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/pm-consulting/jobs/principal-tech-lead-fullstack-7774777837": {
-      "company": "PM Consulting",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\blead\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Principal Tech Lead - Fullstack",
-      "url": "https://himalayas.app/companies/pm-consulting/jobs/principal-tech-lead-fullstack-7774777837?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/pm-consulting/jobs/senior-front-end-engineer-3347591739": {
-      "company": "PM Consulting",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Front-end Engineer",
-      "url": "https://himalayas.app/companies/pm-consulting/jobs/senior-front-end-engineer-3347591739?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/prescient/jobs/principal-competitive-strategy": {
       "company": "Prescient",
@@ -15420,17 +14957,6 @@
       "title": "General Radiology/Nuclear Medicine - Fully Remote - Empire State Radiology - New",
       "url": "https://himalayas.app/companies/radpartners-avature/jobs/general-radiology-nuclear-medicine-fully-remote-empire-state-radiology-new?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/raizen-argentina-s-a-u/jobs/representante-de-ventas-b2b-aviacion": {
-      "company": "Ra\u00edzen Argentina S.A.U.",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\brepresentante\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Representante de ventas B2B (Aviaci\u00f3n)",
-      "url": "https://himalayas.app/companies/raizen-argentina-s-a-u/jobs/representante-de-ventas-b2b-aviacion?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/rapid7/jobs/staff-software-engineer": {
       "company": "Rapid7",
       "eliminated": true,
@@ -15439,17 +14965,6 @@
       "site_id": "himalayas",
       "title": "Staff Software Engineer",
       "url": "https://himalayas.app/companies/rapid7/jobs/staff-software-engineer?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/rdt/jobs/tecnico-a-sistemas-control-m": {
-      "company": "RDT",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bt\u00e9cnico/a sistemas\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "T\u00e9cnico/a Sistemas Control-M",
-      "url": "https://himalayas.app/companies/rdt/jobs/tecnico-a-sistemas-control-m?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/reactive-markets/jobs/senior-software-engineer-typescript-rust": {
       "company": "Reactive Markets",
@@ -15551,17 +15066,6 @@
       "title": "Underwriter - Long Haul Trucking (Automobile)",
       "url": "https://himalayas.app/companies/revau/jobs/underwriter-long-haul-trucking-automobile?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/revizto/jobs/product-manager-workspace-identity-platform-scalability-1834882444": {
-      "company": "Revizto",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bmanager\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Product Manager \u2014 Workspace, Identity & Platform Scalability",
-      "url": "https://himalayas.app/companies/revizto/jobs/product-manager-workspace-identity-platform-scalability-1834882444?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/rolling-arrays/jobs/sap-sf-compensation-lead-consultant-423157416": {
       "company": "Rolling Arrays",
       "elim_reason": "location_eu_only",
@@ -15641,17 +15145,6 @@
       "title": "Senior Enterprise Implementation Consultant",
       "url": "https://himalayas.app/companies/samsara/jobs/senior-enterprise-implementation-consultant-6013286043?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/samsung-electronics/jobs/senior-account-executive-enterprise-remote-illinois": {
-      "company": "Samsung Electronics",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Account Executive - Enterprise (Remote - Illinois)",
-      "url": "https://himalayas.app/companies/samsung-electronics/jobs/senior-account-executive-enterprise-remote-illinois?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/sandoz-international-gmbh/jobs/global-marketing-automation-manager": {
       "company": "Sandoz International GmbH",
       "eliminated": true,
@@ -15697,17 +15190,6 @@
       "site_id": "himalayas",
       "title": "Legal Copyeditor and PCTeX Typesetter",
       "url": "https://himalayas.app/companies/sc-a/jobs/legal-copyeditor-and-pctex-typesetter?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/sca-health/jobs/associate-director-applied-informatics": {
-      "company": "SCA Health",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bdirector\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Associate Director Applied Informatics",
-      "url": "https://himalayas.app/companies/sca-health/jobs/associate-director-applied-informatics?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/scale-virtually/jobs/commercial-property-manager-remote": {
       "company": "Scale Virtually",
@@ -15824,17 +15306,6 @@
       "title": "Senior Paid Media Manager",
       "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-paid-media-manager?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/siqueiracastro-advogados/jobs/advogado-contencioso-civel-bancario": {
-      "company": "SiqueiraCastro Advogados",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\badvogado\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Advogado Contencioso C\u00edvel - Banc\u00e1rio",
-      "url": "https://himalayas.app/companies/siqueiracastro-advogados/jobs/advogado-contencioso-civel-bancario?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/smart-working/jobs/ai-search-analyst-remote-full-time-hr224-pk": {
       "company": "Smart Working",
       "eliminated": true,
@@ -15903,17 +15374,6 @@
       "title": "Bilingual Medical Receptionist - Primary Care",
       "url": "https://himalayas.app/companies/staffing-for-doctors/jobs/bilingual-medical-receptionist-primary-care?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/star-autism-support/jobs/training-specialist-801784331": {
-      "company": "STAR Autism Support",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\btraining specialist\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Training Specialist",
-      "url": "https://himalayas.app/companies/star-autism-support/jobs/training-specialist-801784331?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/stewart/jobs/title-examiner-ii-1572511838": {
       "company": "Stewart",
       "elim_reason": "non-dev role: contains \"examiner\"",
@@ -15942,17 +15402,6 @@
       "site_id": "himalayas",
       "title": "School Operations Supervisor",
       "url": "https://himalayas.app/companies/stride-inc/jobs/school-operations-supervisor?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/summa-linguae-technologies/jobs/senior-software-engineer": {
-      "company": "Summa Linguae Technologies",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Software Engineer",
-      "url": "https://himalayas.app/companies/summa-linguae-technologies/jobs/senior-software-engineer?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/sumsub/jobs/solutions-engineer-emea": {
       "company": "Sumsub",
@@ -16040,17 +15489,6 @@
       "site_id": "himalayas",
       "title": "Senior Agentic AI Developer \u2013 Microsoft Copilot Studio",
       "url": "https://himalayas.app/companies/talan/jobs/senior-agentic-ai-developer-microsoft-copilot-studio-8898541879?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/team-blue/jobs/senior-java-backend-developer-categorie-protette-l-68-99": {
-      "company": "team.blue",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Senior Java Backend Developer - Categorie Protette (L.68/99)",
-      "url": "https://himalayas.app/companies/team-blue/jobs/senior-java-backend-developer-categorie-protette-l-68-99?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/teamified/jobs/animators": {
       "company": "Teamified",
@@ -16365,17 +15803,6 @@
       "title": "Donor Database Manager",
       "url": "https://himalayas.app/companies/unitarian-universalist-association/jobs/donor-database-manager?utm_source=api"
     },
-    "himalayas_https://himalayas.app/companies/united-biosource-corporation/jobs/pharma-support-rn-remote-11am-8pm-or-12pm-9pm-et": {
-      "company": "United-Biosource-Corporation",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bpharma support rn\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "Pharma Support RN (Remote 11AM-8PM or 12PM-9PM ET)",
-      "url": "https://himalayas.app/companies/united-biosource-corporation/jobs/pharma-support-rn-remote-11am-8pm-or-12pm-9pm-et?utm_source=api"
-    },
     "himalayas_https://himalayas.app/companies/urban-ridge-supplies/jobs/freelance-creative-designer-graphic-design-video-animation-7198476163": {
       "company": "Urban Ridge Supplies",
       "elim_reason": "non-dev role: contains \"designer\"",
@@ -16607,17 +16034,6 @@
       "status": "eliminated",
       "title": "Transmission Line Project Engineer (Southeast) -Remote",
       "url": "https://himalayas.app/companies/wsp-africa/jobs/transmission-line-project-engineer-southeast-remote-3156722684?utm_source=api"
-    },
-    "himalayas_https://himalayas.app/companies/xperteez-technology/jobs/data-science-analytic-methodology-sme-remote-contract": {
-      "company": "Xperteez Technology",
-      "eliminated": true,
-      "eliminated_reason": "non_dev_title: \\bsme\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "himalayas",
-      "site_name": "himalayas",
-      "title": "\ud83c\udf0eData Science & Analytic Methodology SME, Remote- Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/data-science-analytic-methodology-sme-remote-contract?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/yo-ai-labs/jobs/national-security-technology-expert-remote": {
       "company": "YO AI Labs",
@@ -20182,17 +19598,6 @@
       "title": "Solutions Engineer",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568"
     },
-    "remoteok_1137571": {
-      "company": "Klardaten",
-      "eliminated": true,
-      "eliminated_reason": "seniority_title: \\bsenior\\b",
-      "first_seen": "2026-10-27T00:10:37.750581+00:00",
-      "notified": false,
-      "site_id": "remoteok",
-      "site_name": "remoteok",
-      "title": "Senior Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571"
-    },
     "remoteok_1137572": {
       "company": "Wagmo",
       "eliminated": true,
@@ -22075,88 +21480,198 @@
       "site_id": "welcometothejungle",
       "title": "We're hiring",
       "url": "https://www.welcometothejungle.com/en/companies/wttj"
+    },
+    "remotive_2091179": {
+      "title": "WordPress Theme & Plugin Developer",
+      "company": "Steward Web Development",
+      "url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179",
+      "site_id": "remotive",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "notified",
+      "score": 63,
+      "band": "medium",
+      "notified_at": "2026-11-26T00:20:19.869325+00:00"
+    },
+    "remotive_2091165": {
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "site_id": "remotive",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "notified",
+      "score": 76,
+      "band": "high",
+      "notified_at": "2026-11-26T00:20:19.869325+00:00"
+    },
+    "remoteok_1138090": {
+      "title": "Associate, Payment Integrity",
+      "company": "Oscar Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
+      "site_id": "remoteok",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Non \u00e8 un ruolo di sviluppo (Payment Integrity/finance) e include benefit da dipendente (401k, medical, dental, PTO)",
+      "eliminated_by": "not_dev_role_and_employee_benefits"
+    },
+    "himalayas_052be176072a1f0ac0c06531c37fcecb": {
+      "title": "Netsuite",
+      "company": "Valce Talent Solutions",
+      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/netsuite?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Location restrittiva al LATAM/Americhe; candidato \u00e8 in EU",
+      "eliminated_by": "location_restricted_latam"
+    },
+    "himalayas_aea6d38c8c050555b67c77adcabdf04a": {
+      "title": "HPC Network Engineer",
+      "company": "Mirantis",
+      "url": "https://himalayas.app/companies/mirantis/jobs/hpc-network-engineer-9294068864?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Network Engineer (non software dev) + Full Time in Polonia",
+      "eliminated_by": "wrong_domain_and_employment"
+    },
+    "himalayas_eddab3ec68b3fa2e12b9cfdddbf4ee8e": {
+      "title": "Java Backend Developer | Spring Boot, Kafka & Microservicios | Remoto",
+      "company": "knowmad mood",
+      "url": "https://himalayas.app/companies/buzzmn/jobs/java-backend-developer-spring-boot-kafka-microservicios-remoto?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Employment Type \"Full Time\" (contratto dipendente), candidato cerca solo freelance",
+      "eliminated_by": "employment_not_freelance"
+    },
+    "himalayas_42da6af7f6ac8a06842c32121626bec8": {
+      "title": "Analytics Engineer",
+      "company": "Jane Technologies",
+      "url": "https://himalayas.app/companies/jane-technologies/jobs/analytics-engineer?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Full Time + Canada/USA only; candidato \u00e8 in Spagna cercando freelance",
+      "eliminated_by": "employment_us_canada_only"
+    },
+    "himalayas_1e720c5c2428a1d45039a643864421a7": {
+      "title": "Data Engineer Trainee",
+      "company": "Miratech",
+      "url": "https://himalayas.app/companies/miratech/jobs/data-engineer-trainee-7737400462?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Internship (non freelance) + Romania-only; non adatto",
+      "eliminated_by": "intern_romania_only"
+    },
+    "himalayas_0e0faf7f2af9ae9e17c460b5769cde93": {
+      "title": "Azure Cloud Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/azure-cloud-engineer-7643893457?utm_source=api",
+      "site_id": "himalayas",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Full Time + US-only; employment non compatibile",
+      "eliminated_by": "employment_us_only"
+    },
+    "arcdev_d94c4b448ffe135a04d02eb1edb5081f": {
+      "title": "Full-Stack Voice AI Engineer",
+      "company": "",
+      "url": "https://arc.dev/remote-jobs/j/full-stack-voice-ai-engineer",
+      "site_id": "arcdev",
+      "first_seen": "2026-11-26T00:20:19.869325+00:00",
+      "status": "eliminated",
+      "eliminated": true,
+      "reason": "Arc Exclusive: nessuna pagina pubblica, nome azienda non visibile",
+      "eliminated_by": "arc_exclusive_no_url"
     }
   },
-  "last_updated": "2026-11-25T00:14:36.082570+00:00",
+  "last_updated": "2026-11-26T00:20:19.869325+00:00",
   "site_errors": {
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-25T00:14:36.082570+00:00"
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 20,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
-      "last_success": "2026-11-01T00:24:44.118088+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-25T00:14:36.082570+00:00"
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 20,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
+      "consecutive_failures": 21,
+      "last_error": "XML parse error on RSS",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 20,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
+      "consecutive_failures": 21,
+      "last_error": "XML parse error on RSS",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 20,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
+      "consecutive_failures": 21,
+      "last_error": "XML parse error on RSS",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 20,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
+      "consecutive_failures": 21,
+      "last_error": "XML parse error on RSS",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 20,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
+      "consecutive_failures": 21,
+      "last_error": "XML parse error on RSS",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "infojobs_es": {
-      "consecutive_failures": 2,
-      "last_error": "Android: IncompleteRead: IncompleteRead(1132774 bytes read, 504303 more expected)",
-      "last_success": "2026-11-23T00:16:54.337998+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 7,
-      "last_error": "fetch: HTTP Error 404: Not Found",
+      "consecutive_failures": 8,
+      "last_error": "HTTP 404 Not Found",
       "last_success": "2026-11-18T00:13:28.158858+00:00"
     },
     "justremote": {
-      "consecutive_failures": 3,
-      "last_error": "SPA HTML, no job data visible in direct fetch",
-      "last_success": "2026-11-22T00:14:17.581672+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "landingjobs": {
-      "consecutive_failures": 3,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
-      "last_success": "2026-11-22T00:14:17.581672+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-25T00:14:36.082570+00:00"
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-11-25T00:14:36.082570+00:00"
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
       "last_success": "2026-04-18T15:49:51.335223Z"
     },
     "welcometothejungle": {
-      "consecutive_failures": 11,
-      "last_error": "no content extractable (proxy returned HTML without parseable job cards)",
-      "last_success": "2026-11-14T00:16:11.524943+00:00"
+      "consecutive_failures": 0,
+      "last_error": null,
+      "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "weworkremotely": {
       "consecutive_failures": 0,

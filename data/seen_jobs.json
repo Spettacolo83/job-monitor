@@ -1430,6 +1430,23 @@
       "sites_failed": 7,
       "sites_ok": 8,
       "total_new": 23
+    },
+    "2026-11-28": {
+      "below_threshold": 0,
+      "eliminated": 78,
+      "eliminated_freelance": 4,
+      "eliminated_language": 0,
+      "eliminated_non_tech": 62,
+      "eliminated_remote": 0,
+      "eliminated_senior": 12,
+      "last_run": "2026-11-28T00:12:49.015193+00:00",
+      "notified": 0,
+      "notified_high": 0,
+      "notified_medium": 0,
+      "runs": 1,
+      "sites_failed": 8,
+      "sites_ok": 7,
+      "total_new": 78
     }
   },
   "jobs": {
@@ -11983,6 +12000,25 @@
       "title": "Senior Software Engineer",
       "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-2441944187?utm_source=api"
     },
+    "himalayas_https://himalayas.app/companies/almaviva/jobs/backend-developer-python-remote-from-eu-deadline-30-11-26": {
+      "company": "AlmavivA de Belgique",
+      "eliminated": true,
+      "elimination_reason": "seniority_ai",
+      "employment_type": "Contractor",
+      "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, \u00c5land Islands",
+      "notes": "description explicitly says 'Level: Senior'",
+      "pub_date": 1795822329,
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "tags": [
+        "Backend-Engineer",
+        "Python-Developer",
+        "Cloud-Software-Engineer",
+        "API-Engineer"
+      ],
+      "title": "Backend Developer Python - (remote from EU) - Deadline 30/11/26",
+      "url": "https://himalayas.app/companies/almaviva/jobs/backend-developer-python-remote-from-eu-deadline-30-11-26?utm_source=api"
+    },
     "himalayas_https://himalayas.app/companies/alten/jobs/project-lead-us": {
       "company": "ALTEN",
       "elim_reason": "seniority: contains \"lead\"",
@@ -12139,6 +12175,15 @@
       "site_id": "himalayas",
       "title": "Associate Director, Field Incentive Compensation",
       "url": "https://himalayas.app/companies/beonemedicines/jobs/associate-director-field-incentive-compensation?utm_source=api"
+    },
+    "himalayas_https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/senior-full-stack-ai-engineer-marketing-applications-integrations": {
+      "company": "Berry Virtual | MedVirtual | AI Virtual",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Senior Full-Stack AI Engineer - Marketing Applications & Integrations",
+      "url": "https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/senior-full-stack-ai-engineer-marketing-applications-integrations?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/bertelsmann-se-co-kgaa/jobs/manager-online-and-digital-business-development-open-to-remote-new-york-1": {
       "company": "Bertelsmann SE & Co. KGaA",
@@ -12883,6 +12928,15 @@
       "title": "Senior Software Engineer",
       "url": "https://himalayas.app/companies/elements/jobs/senior-software-engineer?utm_source=api"
     },
+    "himalayas_https://himalayas.app/companies/elevate-teams/jobs/client-success-manager-us-based-lid1": {
+      "company": "Elevate Teams",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Client Success Manager - US Based #LID1",
+      "url": "https://himalayas.app/companies/elevate-teams/jobs/client-success-manager-us-based-lid1?utm_source=api"
+    },
     "himalayas_https://himalayas.app/companies/elite-escapes-travel-agency-llc/jobs/adventure-travel-planner-2973655215": {
       "company": "Elite Escapes Travel Agency, LLC",
       "elim_reason": "non_developer_role",
@@ -13306,6 +13360,15 @@
       "title": "Senior Manager - Data Analytics",
       "url": "https://himalayas.app/companies/geico/jobs/senior-manager-data-analytics?utm_source=api"
     },
+    "himalayas_https://himalayas.app/companies/genus-plc/jobs/principal-product-lead": {
+      "company": "Genus PLC",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Principal Product Lead",
+      "url": "https://himalayas.app/companies/genus-plc/jobs/principal-product-lead?utm_source=api"
+    },
     "himalayas_https://himalayas.app/companies/gitlab-com/jobs/senior-manager-enterprise-application-development-engineering": {
       "company": "GitLab",
       "eliminated": true,
@@ -13425,6 +13488,25 @@
       "site_id": "himalayas",
       "title": "Data Scientist, Consultant (Utilities)",
       "url": "https://himalayas.app/companies/guidehouse/jobs/data-scientist-consultant-utilities?utm_source=api"
+    },
+    "himalayas_https://himalayas.app/companies/hack-the-box/jobs/senior-elixir-engineer-2192834549": {
+      "company": "Hack The Box",
+      "eliminated": true,
+      "elimination_reason": "freelance",
+      "employment_type": "Full Time",
+      "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, \u00c5land Islands",
+      "pub_date": 1795822619,
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "tags": [
+        "Elixir-Engineer",
+        "Backend-Engineer",
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Phoenix-Developer"
+      ],
+      "title": "Senior Elixir Engineer",
+      "url": "https://himalayas.app/companies/hack-the-box/jobs/senior-elixir-engineer-2192834549?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/headquarters/jobs/ai-solutions-engineer-agents-automation-north-macedonia": {
       "company": "HeadQuarters",
@@ -13796,6 +13878,15 @@
       "site": "himalayas",
       "title": "Senior SRE, Managed Gateways",
       "url": "https://himalayas.app/companies/kong/jobs/senior-sre-managed-gateways?utm_source=api"
+    },
+    "himalayas_https://himalayas.app/companies/kostal-group/jobs/sales-manager-retail-parking-dach-e-mobility-m-d-d-k-a": {
+      "company": "KOSTAL Group",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Sales Manager - Retail & Parking DACH - E-Mobility (m/d/d/k.A.)",
+      "url": "https://himalayas.app/companies/kostal-group/jobs/sales-manager-retail-parking-dach-e-mobility-m-d-d-k-a?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/kreative-media/jobs/ai-automation-expert-n8n-make-zapier-ai-agents": {
       "company": "Kreative Media",
@@ -14362,6 +14453,26 @@
       "title": "DevOps Automation Specialist",
       "url": "https://himalayas.app/companies/partner-one-capital/jobs/devops-automation-specialist-8418038009?utm_source=api"
     },
+    "himalayas_https://himalayas.app/companies/pavago/jobs/full-stack-ai-developer-9180076411": {
+      "company": "Pavago",
+      "eliminated": true,
+      "elimination_reason": "seniority_ai",
+      "employment_type": "Full Time",
+      "location": "Pakistan",
+      "notes": "description says 'senior Full Stack AI Developer' and '5+ years'",
+      "pub_date": 1795822457,
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "tags": [
+        "Full-Stack-Developer",
+        "AI-Developer",
+        "Data-Engineer",
+        "Machine-Learning-Engineer",
+        "Software-Engineer"
+      ],
+      "title": "Full Stack AI Developer",
+      "url": "https://himalayas.app/companies/pavago/jobs/full-stack-ai-developer-9180076411?utm_source=api"
+    },
     "himalayas_https://himalayas.app/companies/pax8/jobs/director-automation-and-enablement": {
       "company": "Pax8",
       "eliminated": true,
@@ -14489,6 +14600,15 @@
       "site_id": "himalayas",
       "title": "SEO Supervisor",
       "url": "https://himalayas.app/companies/publicis-groupe/jobs/seo-supervisor?utm_source=api"
+    },
+    "himalayas_https://himalayas.app/companies/qbench/jobs/implementation-manager": {
+      "company": "QBench",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Implementation Manager",
+      "url": "https://himalayas.app/companies/qbench/jobs/implementation-manager?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/quince/jobs/account-executive-enterprise-merchandise": {
       "company": "Quince",
@@ -14872,6 +14992,15 @@
       "title": "Senior Paid Media Manager",
       "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-paid-media-manager?utm_source=api"
     },
+    "himalayas_https://himalayas.app/companies/smadex/jobs/senior-manager-programmatic-strategy-ad-operations-gcr": {
+      "company": "Smadex",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Senior Manager - Programmatic Strategy & Ad Operations (GCR)",
+      "url": "https://himalayas.app/companies/smadex/jobs/senior-manager-programmatic-strategy-ad-operations-gcr?utm_source=api"
+    },
     "himalayas_https://himalayas.app/companies/smart-working/jobs/ai-search-analyst-remote-full-time-hr224-pk": {
       "company": "Smart Working",
       "eliminated": true,
@@ -15076,6 +15205,15 @@
       "status": "eliminated",
       "title": "Content Production Assistant",
       "url": "https://himalayas.app/companies/technologyadvice/jobs/content-production-assistant?utm_source=api"
+    },
+    "himalayas_https://himalayas.app/companies/technosylva/jobs/senior-product-manager": {
+      "company": "Technosylva",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Senior Product Manager",
+      "url": "https://himalayas.app/companies/technosylva/jobs/senior-product-manager?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/teton/jobs/business-development-representative": {
       "company": "Teton",
@@ -15336,6 +15474,34 @@
       "site_id": "himalayas",
       "title": "Inside Sales Associate",
       "url": "https://himalayas.app/companies/turf-casa/jobs/inside-sales-associate?utm_source=api"
+    },
+    "himalayas_https://himalayas.app/companies/turner-townsend/jobs/strategic-market-management-opportunities-all-levels": {
+      "company": "Turner & Townsend",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "title": "Strategic Market Management Opportunities (All Levels)",
+      "url": "https://himalayas.app/companies/turner-townsend/jobs/strategic-market-management-opportunities-all-levels?utm_source=api"
+    },
+    "himalayas_https://himalayas.app/companies/twilio/jobs/staff-data-engineer": {
+      "company": "Twilio",
+      "eliminated": true,
+      "elimination_reason": "seniority_ai",
+      "employment_type": "Full Time",
+      "location": "Ireland",
+      "notes": "Staff title + 8+ years",
+      "pub_date": 1795822597,
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "himalayas",
+      "tags": [
+        "Data-Engineer",
+        "Data-Platform-Engineer",
+        "Analytics-Engineer",
+        "Cloud-Data-Engineer"
+      ],
+      "title": "Staff Data Engineer",
+      "url": "https://himalayas.app/companies/twilio/jobs/staff-data-engineer?utm_source=api"
     },
     "himalayas_https://himalayas.app/companies/twtspain/jobs/analista-programador-a-senior-java-remoto-madrid": {
       "company": "Twtspain",
@@ -21090,6 +21256,24 @@
       "title": "Senior Tax Associate",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077"
     },
+    "remoteok_1138088": {
+      "company": "Salsify",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Account Executive - SaaS Industrials",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-saas-industrials-salsify-1138088"
+    },
+    "remoteok_1138089": {
+      "company": "Everpure",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "District Manager, Enterprise - Healthcare (Southeast)",
+      "url": "https://remoteOK.com/remote-jobs/remote-district-manager-enterprise-healthcare-southeast-everpure-1138089"
+    },
     "remoteok_1138090": {
       "company": "Oscar Health",
       "eliminated": true,
@@ -21101,6 +21285,66 @@
       "title": "Associate, Payment Integrity",
       "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090"
     },
+    "remoteok_1138091": {
+      "company": "Airbnb",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-24T10:40:05+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "programming"
+      ],
+      "title": "Senior Web Engineer, Profile & Community",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-web-engineer-profile-community-airbnb-1138091"
+    },
+    "remoteok_1138092": {
+      "company": "Cribl",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-24T10:52:17+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "programming"
+      ],
+      "title": "Staff Software Engineer, Control Plane",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092"
+    },
+    "remoteok_1138093": {
+      "company": "Reddit",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-24T10:52:19+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "programming"
+      ],
+      "title": "Senior Software Engineer, AI & Science Platform",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093"
+    },
+    "remoteok_1138095": {
+      "company": "Ping Identity",
+      "eliminated": true,
+      "elimination_reason": "freelance",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-24T10:52:58+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "devops"
+      ],
+      "title": "Principal Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095"
+    },
     "remoteok_1138096": {
       "company": "Dropbox",
       "elim_reason": "seniority: \"\\b5\\s*\\+\\s*years\" in text",
@@ -21111,6 +21355,611 @@
       "site_name": "RemoteOK",
       "title": "Security Engineer, Offensive Security",
       "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096"
+    },
+    "remoteok_1138097": {
+      "company": "Doximity",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Regional Vice President, Biddable",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-vice-president-biddable-doximity-1138097"
+    },
+    "remoteok_1138099": {
+      "company": "Salesloft",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Corporate Accountant - Tax",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-corporate-accountant-tax-salesloft-1138099"
+    },
+    "remoteok_1138102": {
+      "company": "GitLab",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Junior Talent Operations Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102"
+    },
+    "remoteok_1138103": {
+      "company": "GitLab",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-office-of-the-cro-est-cst-gitlab-1138103"
+    },
+    "remoteok_1138104": {
+      "company": "GitLab",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-25T00:20:28+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "devops"
+      ],
+      "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+      "url": "https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104"
+    },
+    "remoteok_1138105": {
+      "company": "Jobgether",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Knowledge Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-knowledge-engineer-jobgether-1138105"
+    },
+    "remoteok_1138107": {
+      "company": "Veeva Systems",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Solution Consultant - Site Solutions",
+      "url": "https://remoteOK.com/remote-jobs/remote-solution-consultant-site-solutions-veeva-systems-1138107"
+    },
+    "remoteok_1138112": {
+      "company": "Ethena",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Customer Success Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-ethena-1138112"
+    },
+    "remoteok_1138113": {
+      "company": "Everbridge",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Technical Customer Success Manager - xMatters",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-success-manager-xmatters-everbridge-1138113"
+    },
+    "remoteok_1138115": {
+      "company": "Veeva Systems",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Implementation Consultant - Pharmacovigilance Reporting (Remote)",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-implementation-consultant-pharmacovigilance-reporting-remote-veeva-systems-1138115"
+    },
+    "remoteok_1138116": {
+      "company": "Dun & Bradstreet",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Client Success Director, West (R-20150)",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-success-director-west-r-20150-dun-bradstreet-1138116"
+    },
+    "remoteok_1138117": {
+      "company": "Jobgether",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Account Director (Network Testing & Planning)",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-director-network-testing-planning-jobgether-1138117"
+    },
+    "remoteok_1138118": {
+      "company": "Jobgether",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Sales Enablement Director",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-enablement-director-jobgether-1138118"
+    },
+    "remoteok_1138119": {
+      "company": "Saviynt",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Sales Engineer - Chicago",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-chicago-saviynt-1138119"
+    },
+    "remoteok_1138120": {
+      "company": "Saviynt",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Sales Engineer - Atlanta",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-atlanta-saviynt-1138120"
+    },
+    "remoteok_1138127": {
+      "company": "Apryse",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Commercial Account Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-executive-apryse-1138127"
+    },
+    "remoteok_1138128": {
+      "company": "Silverback Strategies",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Paid Media Manager (Remote)",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-paid-media-manager-remote-silverback-strategies-1138128"
+    },
+    "remoteok_1138131": {
+      "company": "Sonatype",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Enterprise  Account Executive - (Illinois, Wisconsin, Indiana and Michigan)",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-illinois-wisconsin-indiana-and-michigan-sonatype-1138131"
+    },
+    "remoteok_1138137": {
+      "company": "Secure Code Warrior",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Channel Manager, North America Midwest (with LATAM Partner Coverage)",
+      "url": "https://remoteOK.com/remote-jobs/remote-channel-manager-north-america-midwest-with-latam-partner-coverage-secure-code-warrior-1138137"
+    },
+    "remoteok_1138138": {
+      "company": "Secure Code Warrior",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Sr. Manager, Revenue Enablement",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-manager-revenue-enablement-secure-code-warrior-1138138"
+    },
+    "remoteok_1138141": {
+      "company": "Loadsmart",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Enterprise Sales Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-executive-loadsmart-1138141"
+    },
+    "remoteok_1138143": {
+      "company": "Insider One",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Director of Sales, North America",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-sales-north-america-insider-one-1138143"
+    },
+    "remoteok_1138147": {
+      "company": "agiloft",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Manager, Account Managment",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-account-managment-agiloft-1138147"
+    },
+    "remoteok_1138148": {
+      "company": "Bounteous",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "SEO - Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-manager-bounteous-1138148"
+    },
+    "remoteok_1138155": {
+      "company": "Jobgether",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Director of Strategic Accounts, South/Central (TOLA)",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-strategic-accounts-south-central-tola-jobgether-1138155"
+    },
+    "remoteok_1138157": {
+      "company": "Saviynt",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Strategic Account Executive - NYC",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-nyc-saviynt-1138157"
+    },
+    "remoteok_1138158": {
+      "company": "Veeva Systems",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Consultant - People Science",
+      "url": "https://remoteOK.com/remote-jobs/remote-consultant-people-science-veeva-systems-1138158"
+    },
+    "remoteok_1138159": {
+      "company": "Coupa",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Manager, Technical Support",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-technical-support-coupa-1138159"
+    },
+    "remoteok_1138160": {
+      "company": "Secure Code Warrior",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Sales Engineer, US East",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-engineer-us-east-secure-code-warrior-1138160"
+    },
+    "remoteok_1138165": {
+      "company": "Silverback Strategies",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Paid Media Manager (Remote)",
+      "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-remote-silverback-strategies-1138165"
+    },
+    "remoteok_1138166": {
+      "company": "zimperium",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Enterprise Account Executive - New York",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-new-york-zimperium-1138166"
+    },
+    "remoteok_1138167": {
+      "company": "Netomi",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Partner Director, Federal",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-director-federal-netomi-1138167"
+    },
+    "remoteok_1138168": {
+      "company": "Veeva Systems",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Sales Director - Quality",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-director-quality-veeva-systems-1138168"
+    },
+    "remoteok_1138170": {
+      "company": "aduna",
+      "eliminated": true,
+      "elimination_reason": "freelance",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-26T06:40:33+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "marketing"
+      ],
+      "title": "Developer Advocate - Network APIs",
+      "url": "https://remoteOK.com/remote-jobs/remote-developer-advocate-network-apis-aduna-1138170"
+    },
+    "remoteok_1138171": {
+      "company": "TTEC Digital",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Head of Professional Services, NICE",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-professional-services-nice-ttec-digital-1138171"
+    },
+    "remoteok_1138172": {
+      "company": "agiloft",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Partner Solution Architect, Partner Center of Excellence",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-solution-architect-partner-center-of-excellence-agiloft-1138172"
+    },
+    "remoteok_1138173": {
+      "company": "Warner Music Group",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Director of Software Engineering",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-software-engineering-warner-music-group-1138173"
+    },
+    "remoteok_1138174": {
+      "company": "Spotify",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Engineering Manager - Agentic Products",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-agentic-products-spotify-1138174"
+    },
+    "remoteok_1138176": {
+      "company": "Airalo",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "UK Only",
+      "pub_date": "2026-11-26T08:40:14+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "programming"
+      ],
+      "title": "Android Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-android-developer-airalo-1138176"
+    },
+    "remoteok_1138177": {
+      "company": "Bounteous",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Director, Client Service (FIT)",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-director-client-service-fit-bounteous-1138177"
+    },
+    "remoteok_1138178": {
+      "company": "Ethena",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Sales Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-engineer-ethena-1138178"
+    },
+    "remoteok_1138180": {
+      "company": "Raya",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-26T10:00:26+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "programming"
+      ],
+      "title": "Senior iOS Engineer, Foundations",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-ios-engineer-foundations-raya-1138180"
+    },
+    "remoteok_1138181": {
+      "company": "Voltus",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Energy Markets Analyst, PJM",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-energy-markets-analyst-pjm-voltus-1138181"
+    },
+    "remoteok_1138182": {
+      "company": "Protective Life",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-26T10:40:21+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "programming"
+      ],
+      "title": "Sr Dynamics 365 App Developer (remote)",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-dynamics-365-app-developer-remote-protective-life-1138182"
+    },
+    "remoteok_1138183": {
+      "company": "LiveKit",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Staff Compliance Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-compliance-engineer-livekit-1138183"
+    },
+    "remoteok_1138184": {
+      "company": "Datadog",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Enterprise Sales Engineer - Germany",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184"
+    },
+    "remoteok_1138185": {
+      "company": "LiveKit",
+      "eliminated": true,
+      "elimination_reason": "freelance",
+      "employment_type": "",
+      "location": "US Only",
+      "pub_date": "2026-11-26T11:40:12+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "customer support"
+      ],
+      "title": "Content Engineer, Developer Documentation",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-engineer-developer-documentation-livekit-1138185"
+    },
+    "remoteok_1138187": {
+      "company": "LastPass",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "Europe",
+      "pub_date": "2026-11-26T12:20:12+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "programming"
+      ],
+      "title": "Senior Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-lastpass-1138187"
+    },
+    "remoteok_1138188": {
+      "company": "Zip",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Support Operations Lead",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-operations-lead-zip-1138188"
+    },
+    "remoteok_1138190": {
+      "company": "Vultr",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Service Delivery Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-service-delivery-manager-vultr-1138190"
+    },
+    "remoteok_1138191": {
+      "company": "Vultr",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Senior Service Delivery Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-service-delivery-manager-vultr-1138191"
+    },
+    "remoteok_1138192": {
+      "company": "ClickUp",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Director, Demand Generation",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-demand-generation-clickup-1138192"
+    },
+    "remoteok_1138193": {
+      "company": "Socket",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Account Executive, Japan",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-japan-socket-1138193"
+    },
+    "remoteok_1138194": {
+      "company": "ElevenLabs",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Account Manager - UK/I",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-manager-uk-i-elevenlabs-1138194"
+    },
+    "remoteok_1138195": {
+      "company": "Rubrik Job Board",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "MSP Account Executive - DACH",
+      "url": "https://remoteOK.com/remote-jobs/remote-msp-account-executive-dach-rubrik-job-board-1138195"
+    },
+    "remoteok_1138196": {
+      "company": "Snowflake",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "District Manager, Majors Financial Services",
+      "url": "https://remoteOK.com/remote-jobs/remote-district-manager-majors-financial-services-snowflake-1138196"
+    },
+    "remoteok_1138198": {
+      "company": "Snowflake",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "title": "Partner Sales Manager - EMEA Central (Eastern Europe)",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-emea-central-eastern-europe-snowflake-1138198"
+    },
+    "remoteok_1138202": {
+      "company": "Loopio Inc.",
+      "eliminated": true,
+      "elimination_reason": "seniority",
+      "employment_type": "",
+      "location": "Toronto",
+      "pub_date": "2026-11-27T00:00:03+00:00",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "amazon",
+        "react",
+        "hr",
+        "python",
+        "education",
+        "docker",
+        "technical",
+        "customer support",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "exec",
+        "virtual assistant",
+        "javascript",
+        "elasticsearch",
+        "java",
+        "serverless",
+        "cloud",
+        "php",
+        "sql",
+        "typescript",
+        "node",
+        "ads",
+        "api",
+        "content writing",
+        "senior",
+        "ops",
+        "legal",
+        "medical",
+        "engineer",
+        "recruiter",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior Software Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202"
     },
     "remotive_1185979": {
       "company": "IAPWE",
@@ -21125,6 +21974,15 @@
       "site_name": "Remotive",
       "title": "Freelance Writer",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979"
+    },
+    "remotive_1680495": {
+      "company": "Coalition Technologies ",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remotive",
+      "title": "Remote Office Assistant",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495"
     },
     "remotive_1749306": {
       "company": "Coalition Technologies ",
@@ -21294,6 +22152,15 @@
       "title": "WordPress Theme & Plugin Developer",
       "url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179"
     },
+    "remotive_2091212": {
+      "company": "Creative Force ",
+      "eliminated": true,
+      "elimination_reason": "non_tech_role",
+      "seen_at": "2026-11-28T00:12:49.015193+00:00",
+      "site_id": "remotive",
+      "title": "Produktspezialist:in (German-speaking)",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212"
+    },
     "welcometothejungle_221e7bd03873cc2e0947fccebc686ab3": {
       "eliminated": true,
       "elimination_reason": "junk:self_promo",
@@ -21305,85 +22172,85 @@
       "url": "https://www.welcometothejungle.com/en/companies/wttj"
     }
   },
-  "last_updated": "2026-11-27T00:19:15.392540+00:00",
+  "last_updated": "2026-11-28T00:12:49.015193+00:00",
   "site_errors": {
     "arcdev": {
       "consecutive_failures": 0,
       "last_error": "",
-      "last_success": "2026-11-27T00:19:15.392540+00:00"
+      "last_success": "2026-11-28T00:12:49.015193+00:00"
     },
     "glassdoor": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-11-26T00:20:19.869325+00:00"
     },
     "himalayas": {
       "consecutive_failures": 0,
       "last_error": "",
-      "last_success": "2026-11-27T00:19:15.392540+00:00"
+      "last_success": "2026-11-28T00:12:49.015193+00:00"
     },
     "indeed_de": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_es": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_fr": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_it": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "indeed_uk": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "last_error": "HTTP 403 Forbidden via proxy",
       "last_success": "2026-11-01T00:24:44.118088+00:00"
     },
     "infojobs_es": {
       "consecutive_failures": 0,
       "last_error": "",
-      "last_success": "2026-11-27T00:19:15.392540+00:00"
+      "last_success": "2026-11-28T00:12:49.015193+00:00"
     },
     "jobicy": {
-      "consecutive_failures": 9,
+      "consecutive_failures": 10,
       "last_error": "HTML returned instead of RSS",
       "last_success": "2026-11-18T00:13:28.158858+00:00"
     },
     "justremote": {
       "consecutive_failures": 0,
       "last_error": "",
-      "last_success": "2026-11-27T00:19:15.392540+00:00"
+      "last_success": "2026-11-28T00:12:49.015193+00:00"
     },
     "landingjobs": {
       "consecutive_failures": 0,
       "last_error": "",
-      "last_success": "2026-11-27T00:19:15.392540+00:00"
+      "last_success": "2026-11-28T00:12:49.015193+00:00"
     },
     "remoteok": {
       "consecutive_failures": 0,
       "last_error": "",
-      "last_success": "2026-11-27T00:19:15.392540+00:00"
+      "last_success": "2026-11-28T00:12:49.015193+00:00"
     },
     "remotive": {
       "consecutive_failures": 0,
       "last_error": "",
-      "last_success": "2026-11-27T00:19:15.392540+00:00"
+      "last_success": "2026-11-28T00:12:49.015193+00:00"
     },
     "stepstone": {
       "consecutive_failures": 0,
       "last_success": "2026-04-18T15:49:51.335223Z"
     },
     "welcometothejungle": {
-      "consecutive_failures": 0,
-      "last_error": "",
+      "consecutive_failures": 1,
+      "last_error": "HTTP 202 Accepted (no content) via proxy",
       "last_success": "2026-11-27T00:19:15.392540+00:00"
     },
     "weworkremotely": {
